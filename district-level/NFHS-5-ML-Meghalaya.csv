@@ -1,0 +1,352 @@
+State,State-Code,District,Indicator,NFHS-5,NFHS-4
+Meghalaya,ML,East Khasi Hills,1. Female population age 6 years and above who ever attended school (%),88.7,90.3
+Meghalaya,ML,East Khasi Hills,2. Population below age 15 years (%),34.3,34.0
+Meghalaya,ML,East Khasi Hills,"3. Sex ratio of the total population (females per 1,000 males)",1049.0,1027.0
+Meghalaya,ML,East Khasi Hills,"4. Sex ratio at birth for children born in the last five years (females per 1,000 males)",851.0,923.0
+Meghalaya,ML,East Khasi Hills,5. Children under age 5 years whose birth was registered with the civil authority (%),77.4,84.9
+Meghalaya,ML,East Khasi Hills,6. Deaths in the last 3 years registered with the civil authority (%),55.3,
+Meghalaya,ML,East Khasi Hills,7. Population living in households with electricity (%),96.6,96.0
+Meghalaya,ML,East Khasi Hills,8. Population living in households with an improved drinking-water source1 (%),90.0,90.4
+Meghalaya,ML,East Khasi Hills,9. Population living in households that use an improved sanitation facility2 (%),80.9,67.8
+Meghalaya,ML,East Khasi Hills,10. Households using clean fuel for cooking3 (%),47.4,43.1
+Meghalaya,ML,East Khasi Hills,11. Households using iodized salt (%),93.3,99.3
+Meghalaya,ML,East Khasi Hills,12. Households with any usual member covered under a health insurance/financing scheme (%),47.1,24.4
+Meghalaya,ML,East Khasi Hills,13. Children age 5 years who attended pre-primary school during the school year 2019-20 (%),41.3,
+Meghalaya,ML,East Khasi Hills,14. Women who are literate4 (%),93.7,
+Meghalaya,ML,East Khasi Hills,15. Women with 10 or more years of schooling (%),43.5,44.0
+Meghalaya,ML,East Khasi Hills,16. Women age 20-24 years married before age 18 years (%),14.6,8.8
+Meghalaya,ML,East Khasi Hills,17. Births in the 5 years preceding the survey that are third or higher order (%),4.2,4.0
+Meghalaya,ML,East Khasi Hills,18. Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),8.2,6.0
+Meghalaya,ML,East Khasi Hills,19. Women age 15-24 years who use hygienic methods of protection during their menstrual period5 (%),70.7,66.3
+Meghalaya,ML,East Khasi Hills,20. Any method6 (%),12.1,24.9
+Meghalaya,ML,East Khasi Hills,21. Any modern method6 (%),10.6,20.4
+Meghalaya,ML,East Khasi Hills,22. Female sterilization (%),4.3,11.8
+Meghalaya,ML,East Khasi Hills,23. Male sterilization (%),0.0,0.0
+Meghalaya,ML,East Khasi Hills,24. IUD/PPIUD (%),2.4,2.8
+Meghalaya,ML,East Khasi Hills,25. Pill (%),1.8,3.1
+Meghalaya,ML,East Khasi Hills,26. Condom (%),1.6,2.2
+Meghalaya,ML,East Khasi Hills,27. Injectables (%),0.2,0.5
+Meghalaya,ML,East Khasi Hills,28. Total unmet need7 (%),33.0,23.5
+Meghalaya,ML,East Khasi Hills,29. Unmet need for spacing7 (%),25.2,17.2
+Meghalaya,ML,East Khasi Hills,30. Health worker ever talked to female non-users about family planning (%),22.7,22.6
+Meghalaya,ML,East Khasi Hills,31. Current users ever told about side effects of current method8 (%),,69.3
+Meghalaya,ML,East Khasi Hills,32. Mothers who had an antenatal check-up in the first trimester (%),56.7,72.5
+Meghalaya,ML,East Khasi Hills,33. Mothers who had at least 4 antenatal care visits (%),57.5,72.7
+Meghalaya,ML,East Khasi Hills,34. Mothers whose last birth was protected against neonatal tetanus9 (%),80.2,84.2
+Meghalaya,ML,East Khasi Hills,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),40.1,56.4
+Meghalaya,ML,East Khasi Hills,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),27.1,24.3
+Meghalaya,ML,East Khasi Hills,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),87.8,88.6
+Meghalaya,ML,East Khasi Hills,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Meghalaya,ML,East Khasi Hills,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),3258.0,2519.0
+Meghalaya,ML,East Khasi Hills,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),3.7,4.3
+Meghalaya,ML,East Khasi Hills,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Meghalaya,ML,East Khasi Hills,42. Institutional births (%),63.4,66.8
+Meghalaya,ML,East Khasi Hills,43. Institutional births in public facility (%),48.4,41.3
+Meghalaya,ML,East Khasi Hills,44. Home births that were conducted by skilled health personnel10 (%),6.2,2.6
+Meghalaya,ML,East Khasi Hills,45. Births attended by skilled health personnel10 (%),68.7,69.5
+Meghalaya,ML,East Khasi Hills,46. Births delivered by caesarean section (%),13.9,14.2
+Meghalaya,ML,East Khasi Hills,47. Births in a private health facility that were delivered by caesarean section (%),48.3,30.0
+Meghalaya,ML,East Khasi Hills,48. Births in a public health facility that were delivered by caesarean section (%),13.7,16.0
+Meghalaya,ML,East Khasi Hills,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Meghalaya,ML,East Khasi Hills,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),69.4,87.4
+Meghalaya,ML,East Khasi Hills,51. Children age 12-23 months who have received BCG (%),84.2,92.2
+Meghalaya,ML,East Khasi Hills,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),53.2,75.3
+Meghalaya,ML,East Khasi Hills,53. Children age 12-23 months who have received 3 doses of penta or DPT vaccine (%),59.2,76.4
+Meghalaya,ML,East Khasi Hills,54. Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),56.6,78.8
+Meghalaya,ML,East Khasi Hills,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),10.9,
+Meghalaya,ML,East Khasi Hills,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),5.2,
+Meghalaya,ML,East Khasi Hills,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),46.8,67.3
+Meghalaya,ML,East Khasi Hills,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),54.4,62.2
+Meghalaya,ML,East Khasi Hills,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),87.5,83.3
+Meghalaya,ML,East Khasi Hills,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),9.9,12.3
+Meghalaya,ML,East Khasi Hills,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),11.5,8.7
+Meghalaya,ML,East Khasi Hills,62. Children with diarrhoea in the 2 weeks preceding the survey who received oral rehydration salts (ORS) (%),74.3,82.0
+Meghalaya,ML,East Khasi Hills,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),31.2,52.9
+Meghalaya,ML,East Khasi Hills,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),71.3,81.8
+Meghalaya,ML,East Khasi Hills,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),5.1,3.1
+Meghalaya,ML,East Khasi Hills,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Meghalaya,ML,East Khasi Hills,67. Children under age 3 years breastfed within one hour of birth15 (%),86.3,52.0
+Meghalaya,ML,East Khasi Hills,68. Children under age 6 months exclusively breastfed16 (%),25.1,34.5
+Meghalaya,ML,East Khasi Hills,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,60.1
+Meghalaya,ML,East Khasi Hills,"70. Breastfeeding children age 6-23 months receiving an adequate diet16, 17  (%)",32.5,28.8
+Meghalaya,ML,East Khasi Hills,"71. Non-breastfeeding children age 6-23 months receiving an adequate diet16, 17 (%)",41.3,26.2
+Meghalaya,ML,East Khasi Hills,"72. Total children age 6-23 months receiving an adequate diet16, 17  (%)",34.8,28.2
+Meghalaya,ML,East Khasi Hills,73. Children under 5 years who are stunted (height-for-age)18 (%),44.6,48.6
+Meghalaya,ML,East Khasi Hills,74. Children under 5 years who are wasted (weight-for-height)18 (%),11.2,11.1
+Meghalaya,ML,East Khasi Hills,75. Children under 5 years who are severely wasted (weight-for-height)19 (%),4.9,3.7
+Meghalaya,ML,East Khasi Hills,76. Children under 5 years who are underweight (weight-for-age)18 (%),23.8,30.4
+Meghalaya,ML,East Khasi Hills,77. Children under 5 years who are overweight (weight-for-height)20 (%),4.5,2.9
+Meghalaya,ML,East Khasi Hills,78. Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)21 (%),11.6,12.8
+Meghalaya,ML,East Khasi Hills,79. Women who are overweight or obese (BMI ≥25.0 kg/m2)21 (%),15.6,16.7
+Meghalaya,ML,East Khasi Hills,80. Women who have high risk waist-to-hip ratio (≥0.85) (%),49.3,
+Meghalaya,ML,East Khasi Hills,81. Children age 6-59 months who are anaemic (<11.0 g/dl)22 (%),39.0,46.5
+Meghalaya,ML,East Khasi Hills,82. Non-pregnant women age 15-49 years who are anaemic (<12.0 g/dl)22 (%),48.5,46.7
+Meghalaya,ML,East Khasi Hills,83. Pregnant women age 15-49 years who are anaemic (<11.0 g/dl)22 (%),43.7,47.7
+Meghalaya,ML,East Khasi Hills,84. All women age 15-49 years who are anaemic22 (%),48.2,46.8
+Meghalaya,ML,East Khasi Hills,85. All women age 15-19 years who are anaemic22 (%),40.0,42.5
+Meghalaya,ML,East Khasi Hills,86. Blood sugar level - high (141-160 mg/dl)23 (%),2.7,
+Meghalaya,ML,East Khasi Hills,87. Blood sugar level - very high (>160 mg/dl)23 (%),3.5,
+Meghalaya,ML,East Khasi Hills,88. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),9.1,
+Meghalaya,ML,East Khasi Hills,89. Blood sugar level - high (141-160 mg/dl)23 (%),3.6,
+Meghalaya,ML,East Khasi Hills,90. Blood sugar level - very high (>160 mg/dl)23 (%),3.4,
+Meghalaya,ML,East Khasi Hills,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),9.4,
+Meghalaya,ML,East Khasi Hills,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),11.2,
+Meghalaya,ML,East Khasi Hills,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),5.6,
+Meghalaya,ML,East Khasi Hills,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Meghalaya,ML,East Khasi Hills,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),14.5,
+Meghalaya,ML,East Khasi Hills,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),4.3,
+Meghalaya,ML,East Khasi Hills,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Meghalaya,ML,East Khasi Hills,98. Ever undergone a screening test for cervical cancer (%),1.3,
+Meghalaya,ML,East Khasi Hills,99. Ever undergone a breast examination for breast cancer (%),1.3,
+Meghalaya,ML,East Khasi Hills,100. Ever undergone an oral cavity examination for oral cancer (%),0.8,
+Meghalaya,ML,East Khasi Hills,101. Women age 15 years and above who use any kind of tobacco (%),29.8,
+Meghalaya,ML,East Khasi Hills,102. Men age 15 years and above who use any kind of tobacco (%),51.9,
+Meghalaya,ML,East Khasi Hills,103. Women age 15 years and above who consume alcohol (%),1.2,
+Meghalaya,ML,East Khasi Hills,104. Men age 15 years and above who consume alcohol (%),24.0,
+Meghalaya,ML,Ribhoi,1. Female population age 6 years and above who ever attended school (%),85.3,79.3
+Meghalaya,ML,Ribhoi,2. Population below age 15 years (%),40.4,40.0
+Meghalaya,ML,Ribhoi,"3. Sex ratio of the total population (females per 1,000 males)",998.0,1007.0
+Meghalaya,ML,Ribhoi,"4. Sex ratio at birth for children born in the last five years (females per 1,000 males)",871.0,1113.0
+Meghalaya,ML,Ribhoi,5. Children under age 5 years whose birth was registered with the civil authority (%),85.9,83.0
+Meghalaya,ML,Ribhoi,6. Deaths in the last 3 years registered with the civil authority (%),51.1,
+Meghalaya,ML,Ribhoi,7. Population living in households with electricity (%),92.1,86.7
+Meghalaya,ML,Ribhoi,8. Population living in households with an improved drinking-water source1 (%),86.2,70.5
+Meghalaya,ML,Ribhoi,9. Population living in households that use an improved sanitation facility2 (%),85.3,58.1
+Meghalaya,ML,Ribhoi,10. Households using clean fuel for cooking3 (%),21.0,9.6
+Meghalaya,ML,Ribhoi,11. Households using iodized salt (%),96.6,97.8
+Meghalaya,ML,Ribhoi,12. Households with any usual member covered under a health insurance/financing scheme (%),66.8,36.3
+Meghalaya,ML,Ribhoi,13. Children age 5 years who attended pre-primary school during the school year 2019-20 (%),28.7,
+Meghalaya,ML,Ribhoi,14. Women who are literate4 (%),89.5,
+Meghalaya,ML,Ribhoi,15. Women with 10 or more years of schooling (%),23.1,14.9
+Meghalaya,ML,Ribhoi,16. Women age 20-24 years married before age 18 years (%),20.3,20.6
+Meghalaya,ML,Ribhoi,17. Births in the 5 years preceding the survey that are third or higher order (%),5.5,5.8
+Meghalaya,ML,Ribhoi,18. Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),6.8,10.9
+Meghalaya,ML,Ribhoi,19. Women age 15-24 years who use hygienic methods of protection during their menstrual period5 (%),67.8,56.3
+Meghalaya,ML,Ribhoi,20. Any method6 (%),33.1,23.7
+Meghalaya,ML,Ribhoi,21. Any modern method6 (%),19.7,22.8
+Meghalaya,ML,Ribhoi,22. Female sterilization (%),6.3,6.6
+Meghalaya,ML,Ribhoi,23. Male sterilization (%),0.0,0.0
+Meghalaya,ML,Ribhoi,24. IUD/PPIUD (%),4.9,2.0
+Meghalaya,ML,Ribhoi,25. Pill (%),3.7,11.1
+Meghalaya,ML,Ribhoi,26. Condom (%),4.4,2.5
+Meghalaya,ML,Ribhoi,27. Injectables (%),0.2,0.4
+Meghalaya,ML,Ribhoi,28. Total unmet need7 (%),27.0,23.9
+Meghalaya,ML,Ribhoi,29. Unmet need for spacing7 (%),18.4,18.2
+Meghalaya,ML,Ribhoi,30. Health worker ever talked to female non-users about family planning (%),34.2,20.3
+Meghalaya,ML,Ribhoi,31. Current users ever told about side effects of current method8 (%),71.1,43.3
+Meghalaya,ML,Ribhoi,32. Mothers who had an antenatal check-up in the first trimester (%),56.1,43.8
+Meghalaya,ML,Ribhoi,33. Mothers who had at least 4 antenatal care visits (%),61.0,40.5
+Meghalaya,ML,Ribhoi,34. Mothers whose last birth was protected against neonatal tetanus9 (%),86.2,75.8
+Meghalaya,ML,Ribhoi,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),48.8,33.5
+Meghalaya,ML,Ribhoi,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),22.4,11.8
+Meghalaya,ML,Ribhoi,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),97.5,97.2
+Meghalaya,ML,Ribhoi,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Meghalaya,ML,Ribhoi,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),3648.0,2206.0
+Meghalaya,ML,Ribhoi,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),3.0,1.2
+Meghalaya,ML,Ribhoi,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Meghalaya,ML,Ribhoi,42. Institutional births (%),56.9,44.9
+Meghalaya,ML,Ribhoi,43. Institutional births in public facility (%),45.6,38.3
+Meghalaya,ML,Ribhoi,44. Home births that were conducted by skilled health personnel10 (%),8.4,2.2
+Meghalaya,ML,Ribhoi,45. Births attended by skilled health personnel10 (%),65.8,46.4
+Meghalaya,ML,Ribhoi,46. Births delivered by caesarean section (%),8.7,5.8
+Meghalaya,ML,Ribhoi,47. Births in a private health facility that were delivered by caesarean section (%),36.6,43.5
+Meghalaya,ML,Ribhoi,48. Births in a public health facility that were delivered by caesarean section (%),10.0,7.7
+Meghalaya,ML,Ribhoi,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Meghalaya,ML,Ribhoi,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),86.7,80.5
+Meghalaya,ML,Ribhoi,51. Children age 12-23 months who have received BCG (%),94.0,84.4
+Meghalaya,ML,Ribhoi,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),77.1,63.8
+Meghalaya,ML,Ribhoi,53. Children age 12-23 months who have received 3 doses of penta or DPT vaccine (%),82.8,71.5
+Meghalaya,ML,Ribhoi,54. Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),80.9,73.2
+Meghalaya,ML,Ribhoi,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),11.8,
+Meghalaya,ML,Ribhoi,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),4.4,
+Meghalaya,ML,Ribhoi,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),71.5,55.6
+Meghalaya,ML,Ribhoi,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),66.3,61.1
+Meghalaya,ML,Ribhoi,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),92.6,100.0
+Meghalaya,ML,Ribhoi,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),4.1,0.0
+Meghalaya,ML,Ribhoi,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),11.3,14.7
+Meghalaya,ML,Ribhoi,62. Children with diarrhoea in the 2 weeks preceding the survey who received oral rehydration salts (ORS) (%),69.6,82.4
+Meghalaya,ML,Ribhoi,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),42.1,53.1
+Meghalaya,ML,Ribhoi,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),53.5,79.3
+Meghalaya,ML,Ribhoi,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),3.6,5.0
+Meghalaya,ML,Ribhoi,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Meghalaya,ML,Ribhoi,67. Children under age 3 years breastfed within one hour of birth15 (%),85.9,76.1
+Meghalaya,ML,Ribhoi,68. Children under age 6 months exclusively breastfed16 (%),36.8,34.1
+Meghalaya,ML,Ribhoi,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),63.5,61.4
+Meghalaya,ML,Ribhoi,"70. Breastfeeding children age 6-23 months receiving an adequate diet16, 17  (%)",38.2,33.4
+Meghalaya,ML,Ribhoi,"71. Non-breastfeeding children age 6-23 months receiving an adequate diet16, 17 (%)",34.7,8.8
+Meghalaya,ML,Ribhoi,"72. Total children age 6-23 months receiving an adequate diet16, 17  (%)",37.3,28.9
+Meghalaya,ML,Ribhoi,73. Children under 5 years who are stunted (height-for-age)18 (%),42.5,51.6
+Meghalaya,ML,Ribhoi,74. Children under 5 years who are wasted (weight-for-height)18 (%),17.9,9.4
+Meghalaya,ML,Ribhoi,75. Children under 5 years who are severely wasted (weight-for-height)19 (%),7.5,5.1
+Meghalaya,ML,Ribhoi,76. Children under 5 years who are underweight (weight-for-age)18 (%),29.6,30.8
+Meghalaya,ML,Ribhoi,77. Children under 5 years who are overweight (weight-for-height)20 (%),4.8,4.9
+Meghalaya,ML,Ribhoi,78. Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)21 (%),15.5,16.7
+Meghalaya,ML,Ribhoi,79. Women who are overweight or obese (BMI ≥25.0 kg/m2)21 (%),12.2,10.5
+Meghalaya,ML,Ribhoi,80. Women who have high risk waist-to-hip ratio (≥0.85) (%),59.4,
+Meghalaya,ML,Ribhoi,81. Children age 6-59 months who are anaemic (<11.0 g/dl)22 (%),45.7,44.4
+Meghalaya,ML,Ribhoi,82. Non-pregnant women age 15-49 years who are anaemic (<12.0 g/dl)22 (%),62.2,68.0
+Meghalaya,ML,Ribhoi,83. Pregnant women age 15-49 years who are anaemic (<11.0 g/dl)22 (%),65.0,66.7
+Meghalaya,ML,Ribhoi,84. All women age 15-49 years who are anaemic22 (%),62.4,68.0
+Meghalaya,ML,Ribhoi,85. All women age 15-19 years who are anaemic22 (%),57.1,61.0
+Meghalaya,ML,Ribhoi,86. Blood sugar level - high (141-160 mg/dl)23 (%),4.6,
+Meghalaya,ML,Ribhoi,87. Blood sugar level - very high (>160 mg/dl)23 (%),2.8,
+Meghalaya,ML,Ribhoi,88. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),8.0,
+Meghalaya,ML,Ribhoi,89. Blood sugar level - high (141-160 mg/dl)23 (%),4.9,
+Meghalaya,ML,Ribhoi,90. Blood sugar level - very high (>160 mg/dl)23 (%),2.7,
+Meghalaya,ML,Ribhoi,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),8.1,
+Meghalaya,ML,Ribhoi,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),7.4,
+Meghalaya,ML,Ribhoi,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),2.0,
+Meghalaya,ML,Ribhoi,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Meghalaya,ML,Ribhoi,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),12.3,
+Meghalaya,ML,Ribhoi,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),2.9,
+Meghalaya,ML,Ribhoi,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Meghalaya,ML,Ribhoi,98. Ever undergone a screening test for cervical cancer (%),0.6,
+Meghalaya,ML,Ribhoi,99. Ever undergone a breast examination for breast cancer (%),0.4,
+Meghalaya,ML,Ribhoi,100. Ever undergone an oral cavity examination for oral cancer (%),0.4,
+Meghalaya,ML,Ribhoi,101. Women age 15 years and above who use any kind of tobacco (%),34.1,
+Meghalaya,ML,Ribhoi,102. Men age 15 years and above who use any kind of tobacco (%),60.4,
+Meghalaya,ML,Ribhoi,103. Women age 15 years and above who consume alcohol (%),0.7,
+Meghalaya,ML,Ribhoi,104. Men age 15 years and above who consume alcohol (%),30.9,
+Meghalaya,ML,South Garo Hills,1. Female population age 6 years and above who ever attended school (%),89.2,86.2
+Meghalaya,ML,South Garo Hills,2. Population below age 15 years (%),31.4,31.4
+Meghalaya,ML,South Garo Hills,"3. Sex ratio of the total population (females per 1,000 males)",984.0,1021.0
+Meghalaya,ML,South Garo Hills,"4. Sex ratio at birth for children born in the last five years (females per 1,000 males)",1011.0,1155.0
+Meghalaya,ML,South Garo Hills,5. Children under age 5 years whose birth was registered with the civil authority (%),92.0,94.5
+Meghalaya,ML,South Garo Hills,6. Deaths in the last 3 years registered with the civil authority (%),53.8,
+Meghalaya,ML,South Garo Hills,7. Population living in households with electricity (%),98.6,99.0
+Meghalaya,ML,South Garo Hills,8. Population living in households with an improved drinking-water source1 (%),60.4,72.7
+Meghalaya,ML,South Garo Hills,9. Population living in households that use an improved sanitation facility2 (%),88.4,86.5
+Meghalaya,ML,South Garo Hills,10. Households using clean fuel for cooking3 (%),22.3,9.8
+Meghalaya,ML,South Garo Hills,11. Households using iodized salt (%),83.6,98.9
+Meghalaya,ML,South Garo Hills,12. Households with any usual member covered under a health insurance/financing scheme (%),79.5,56.2
+Meghalaya,ML,South Garo Hills,13. Children age 5 years who attended pre-primary school during the school year 2019-20 (%),20.1,
+Meghalaya,ML,South Garo Hills,14. Women who are literate4 (%),88.6,
+Meghalaya,ML,South Garo Hills,15. Women with 10 or more years of schooling (%),38.4,51.5
+Meghalaya,ML,South Garo Hills,16. Women age 20-24 years married before age 18 years (%),10.2,10.2
+Meghalaya,ML,South Garo Hills,17. Births in the 5 years preceding the survey that are third or higher order (%),1.3,0.9
+Meghalaya,ML,South Garo Hills,18. Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),1.1,5.1
+Meghalaya,ML,South Garo Hills,19. Women age 15-24 years who use hygienic methods of protection during their menstrual period5 (%),66.6,74.2
+Meghalaya,ML,South Garo Hills,20. Any method6 (%),37.6,21.8
+Meghalaya,ML,South Garo Hills,21. Any modern method6 (%),33.3,21.6
+Meghalaya,ML,South Garo Hills,22. Female sterilization (%),3.8,8.0
+Meghalaya,ML,South Garo Hills,23. Male sterilization (%),0.0,0.0
+Meghalaya,ML,South Garo Hills,24. IUD/PPIUD (%),9.0,3.0
+Meghalaya,ML,South Garo Hills,25. Pill (%),15.8,9.7
+Meghalaya,ML,South Garo Hills,26. Condom (%),2.8,0.5
+Meghalaya,ML,South Garo Hills,27. Injectables (%),1.6,0.4
+Meghalaya,ML,South Garo Hills,28. Total unmet need7 (%),25.3,16.2
+Meghalaya,ML,South Garo Hills,29. Unmet need for spacing7 (%),14.4,11.7
+Meghalaya,ML,South Garo Hills,30. Health worker ever talked to female non-users about family planning (%),20.3,42.4
+Meghalaya,ML,South Garo Hills,31. Current users ever told about side effects of current method8 (%),63.7,43.7
+Meghalaya,ML,South Garo Hills,32. Mothers who had an antenatal check-up in the first trimester (%),68.7,56.6
+Meghalaya,ML,South Garo Hills,33. Mothers who had at least 4 antenatal care visits (%),33.3,51.7
+Meghalaya,ML,South Garo Hills,34. Mothers whose last birth was protected against neonatal tetanus9 (%),86.0,93.6
+Meghalaya,ML,South Garo Hills,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),51.8,48.8
+Meghalaya,ML,South Garo Hills,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),14.6,21.7
+Meghalaya,ML,South Garo Hills,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),98.9,100.0
+Meghalaya,ML,South Garo Hills,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Meghalaya,ML,South Garo Hills,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),2370.0,4290.0
+Meghalaya,ML,South Garo Hills,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),0.0,0.0
+Meghalaya,ML,South Garo Hills,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Meghalaya,ML,South Garo Hills,42. Institutional births (%),88.3,88.4
+Meghalaya,ML,South Garo Hills,43. Institutional births in public facility (%),88.3,82.3
+Meghalaya,ML,South Garo Hills,44. Home births that were conducted by skilled health personnel10 (%),3.9,0.5
+Meghalaya,ML,South Garo Hills,45. Births attended by skilled health personnel10 (%),91.2,89.0
+Meghalaya,ML,South Garo Hills,46. Births delivered by caesarean section (%),4.7,8.1
+Meghalaya,ML,South Garo Hills,47. Births in a private health facility that were delivered by caesarean section (%),,
+Meghalaya,ML,South Garo Hills,48. Births in a public health facility that were delivered by caesarean section (%),5.3,8.0
+Meghalaya,ML,South Garo Hills,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Meghalaya,ML,South Garo Hills,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),89.1,88.4
+Meghalaya,ML,South Garo Hills,51. Children age 12-23 months who have received BCG (%),100.0,91.0
+Meghalaya,ML,South Garo Hills,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),94.7,93.9
+Meghalaya,ML,South Garo Hills,53. Children age 12-23 months who have received 3 doses of penta or DPT vaccine (%),86.8,93.9
+Meghalaya,ML,South Garo Hills,54. Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),89.6,85.1
+Meghalaya,ML,South Garo Hills,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),15.0,
+Meghalaya,ML,South Garo Hills,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),2.4,
+Meghalaya,ML,South Garo Hills,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),86.8,93.9
+Meghalaya,ML,South Garo Hills,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),57.2,76.6
+Meghalaya,ML,South Garo Hills,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),90.2,100.0
+Meghalaya,ML,South Garo Hills,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,0.0
+Meghalaya,ML,South Garo Hills,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),5.4,28.6
+Meghalaya,ML,South Garo Hills,62. Children with diarrhoea in the 2 weeks preceding the survey who received oral rehydration salts (ORS) (%),,97.7
+Meghalaya,ML,South Garo Hills,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,76.0
+Meghalaya,ML,South Garo Hills,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,64.7
+Meghalaya,ML,South Garo Hills,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),3.1,14.1
+Meghalaya,ML,South Garo Hills,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Meghalaya,ML,South Garo Hills,67. Children under age 3 years breastfed within one hour of birth15 (%),59.8,38.3
+Meghalaya,ML,South Garo Hills,68. Children under age 6 months exclusively breastfed16 (%),,10.4
+Meghalaya,ML,South Garo Hills,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
+Meghalaya,ML,South Garo Hills,"70. Breastfeeding children age 6-23 months receiving an adequate diet16, 17  (%)",23.0,36.5
+Meghalaya,ML,South Garo Hills,"71. Non-breastfeeding children age 6-23 months receiving an adequate diet16, 17 (%)",,
+Meghalaya,ML,South Garo Hills,"72. Total children age 6-23 months receiving an adequate diet16, 17  (%)",23.0,37.4
+Meghalaya,ML,South Garo Hills,73. Children under 5 years who are stunted (height-for-age)18 (%),29.8,16.8
+Meghalaya,ML,South Garo Hills,74. Children under 5 years who are wasted (weight-for-height)18 (%),18.3,36.0
+Meghalaya,ML,South Garo Hills,75. Children under 5 years who are severely wasted (weight-for-height)19 (%),8.8,23.7
+Meghalaya,ML,South Garo Hills,76. Children under 5 years who are underweight (weight-for-age)18 (%),20.8,32.6
+Meghalaya,ML,South Garo Hills,77. Children under 5 years who are overweight (weight-for-height)20 (%),2.7,1.7
+Meghalaya,ML,South Garo Hills,78. Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)21 (%),6.6,3.4
+Meghalaya,ML,South Garo Hills,79. Women who are overweight or obese (BMI ≥25.0 kg/m2)21 (%),6.9,14.2
+Meghalaya,ML,South Garo Hills,80. Women who have high risk waist-to-hip ratio (≥0.85) (%),67.7,
+Meghalaya,ML,South Garo Hills,81. Children age 6-59 months who are anaemic (<11.0 g/dl)22 (%),33.6,74.9
+Meghalaya,ML,South Garo Hills,82. Non-pregnant women age 15-49 years who are anaemic (<12.0 g/dl)22 (%),57.7,49.5
+Meghalaya,ML,South Garo Hills,83. Pregnant women age 15-49 years who are anaemic (<11.0 g/dl)22 (%),33.7,27.9
+Meghalaya,ML,South Garo Hills,84. All women age 15-49 years who are anaemic22 (%),56.2,46.6
+Meghalaya,ML,South Garo Hills,85. All women age 15-19 years who are anaemic22 (%),65.0,35.2
+Meghalaya,ML,South Garo Hills,86. Blood sugar level - high (141-160 mg/dl)23 (%),10.0,
+Meghalaya,ML,South Garo Hills,87. Blood sugar level - very high (>160 mg/dl)23 (%),2.1,
+Meghalaya,ML,South Garo Hills,88. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),12.8,
+Meghalaya,ML,South Garo Hills,89. Blood sugar level - high (141-160 mg/dl)23 (%),18.3,
+Meghalaya,ML,South Garo Hills,90. Blood sugar level - very high (>160 mg/dl)23 (%),5.1,
+Meghalaya,ML,South Garo Hills,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),23.7,
+Meghalaya,ML,South Garo Hills,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),10.1,
+Meghalaya,ML,South Garo Hills,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),1.1,
+Meghalaya,ML,South Garo Hills,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Meghalaya,ML,South Garo Hills,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),16.6,
+Meghalaya,ML,South Garo Hills,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.3,
+Meghalaya,ML,South Garo Hills,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Meghalaya,ML,South Garo Hills,98. Ever undergone a screening test for cervical cancer (%),0.2,
+Meghalaya,ML,South Garo Hills,99. Ever undergone a breast examination for breast cancer (%),0.0,
+Meghalaya,ML,South Garo Hills,100. Ever undergone an oral cavity examination for oral cancer (%),0.0,
+Meghalaya,ML,South Garo Hills,101. Women age 15 years and above who use any kind of tobacco (%),9.7,
+Meghalaya,ML,South Garo Hills,102. Men age 15 years and above who use any kind of tobacco (%),50.7,
+Meghalaya,ML,South Garo Hills,103. Women age 15 years and above who consume alcohol (%),1.4,
+Meghalaya,ML,South Garo Hills,104. Men age 15 years and above who consume alcohol (%),33.1,
+Meghalaya,ML,West Garo Hills,1. Female population age 6 years and above who ever attended school (%),88.7,
+Meghalaya,ML,West Garo Hills,2. Population below age 15 years (%),30.8,
+Meghalaya,ML,West Garo Hills,"3. Sex ratio of the total population (females per 1,000 males)",1025.0,
+Meghalaya,ML,West Garo Hills,"4. Sex ratio at birth for children born in the last five years (females per 1,000 males)",1396.0,
+Meghalaya,ML,West Garo Hills,5. Children under age 5 years whose birth was registered with the civil authority (%),92.9,
+Meghalaya,ML,West Garo Hills,6. Deaths in the last 3 years registered with the civil authority (%),65.8,
+Meghalaya,ML,West Garo Hills,7. Population living in households with electricity (%),94.7,
+Meghalaya,ML,West Garo Hills,8. Population living in households with an improved drinking-water source1 (%),83.7,
+Meghalaya,ML,West Garo Hills,9. Population living in households that use an improved sanitation facility2 (%),86.3,
+Meghalaya,ML,West Garo Hills,10. Households using clean fuel for cooking3 (%),47.6,
+Meghalaya,ML,West Garo Hills,11. Households using iodized salt (%),88.5,
+Meghalaya,ML,West Garo Hills,12. Households with any usual member covered under a health insurance/financing scheme (%),77.9,
+Meghalaya,ML,West Garo Hills,13. Children age 5 years who attended pre-primary school during the school year 2019-20 (%),20.2,
+Meghalaya,ML,West Garo Hills,14. Women who are literate4 (%),89.0,
+Meghalaya,ML,West Garo Hills,15. Women with 10 or more years of schooling (%),45.1,
+Meghalaya,ML,West Garo Hills,16. Women age 20-24 years married before age 18 years (%),10.4,
+Meghalaya,ML,West Garo Hills,17. Births in the 5 years preceding the survey that are third or higher order (%),0.3,
+Meghalaya,ML,West Garo Hills,18. Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),1.0,
+Meghalaya,ML,West Garo Hills,19. Women age 15-24 years who use hygienic methods of protection during their menstrual period5 (%),79.6,
+Meghalaya,ML,West Garo Hills,20. Any method6 (%),44.1,
+Meghalaya,ML,West Garo Hills,21. Any modern method6 (%),39.9,
+Meghalaya,ML,West Garo Hills,22. Female sterilization (%),6.7,
+Meghalaya,ML,West Garo Hills,23. Male sterilization (%),0.0,
+Meghalaya,ML,West Garo Hills,24. IUD/PPIUD (%),9.5,
+Meghalaya,ML,West Garo Hills,25. Pill (%),17.4,
+Meghalaya,ML,West Garo Hills,26. Condom (%),4.1,
+Meghalaya,ML,West Garo Hills,27. Injectables (%),1.6,
+Meghalaya,ML,West Garo Hills,28. Total unmet need7 (%),19.7,
+Meghalaya,ML,West Garo Hills,29. Unmet need for spacing7 (%),9.2,
+Meghalaya,ML,West Garo Hills,30. Health worker ever talked to female non-users about family planning (%),32.0,
+Meghalaya,ML,West Garo Hills,31. Current users ever told about side effects of current method8 (%),58.1,
+Meghalaya,ML,West Garo Hills,32. Mothers who had an antenatal check-up in the first trimester (%),65.1,
+Meghalaya,ML,West Garo Hills,33. Mothers who had at least 4 antenatal care visits (%),48.0,
+Meghalaya,ML,West Garo Hills,34. Mothers whose last birth was protected against neonatal tetanus9 (%),91.3,
+Meghalaya,ML,West Garo Hills,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),48.2,
+Meghalaya,ML,West Garo Hills,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),14.9,
+Meghalaya,ML,West Garo Hills,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),97.6,
+Meghalaya,ML,West Garo Hills,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Meghalaya,ML,West Garo Hills,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),3235.0,

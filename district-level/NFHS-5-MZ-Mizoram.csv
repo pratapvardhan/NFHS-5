@@ -1,0 +1,833 @@
+State,State-Code,District,Indicator,NFHS-5,NFHS-4
+Mizoram,MZ,Aizawl,1. Female population age 6 years and above who ever attended school (%),97.8,95.9
+Mizoram,MZ,Aizawl,2. Population below age 15 years (%),25.1,27.6
+Mizoram,MZ,Aizawl,"3. Sex ratio of the total population (females per 1,000 males)",1052.0,1064.0
+Mizoram,MZ,Aizawl,"4. Sex ratio at birth for children born in the last five years (females per 1,000 males)",1042.0,902.0
+Mizoram,MZ,Aizawl,5. Children under age 5 years whose birth was registered with the civil authority (%),99.3,96.9
+Mizoram,MZ,Aizawl,6. Deaths in the last 3 years registered with the civil authority (%),86.2,
+Mizoram,MZ,Aizawl,7. Population living in households with electricity (%),99.7,99.8
+Mizoram,MZ,Aizawl,8. Population living in households with an improved drinking-water source1 (%),98.3,97.1
+Mizoram,MZ,Aizawl,9. Population living in households that use an improved sanitation facility2 (%),96.1,92.3
+Mizoram,MZ,Aizawl,10. Households using clean fuel for cooking3 (%),95.4,87.5
+Mizoram,MZ,Aizawl,11. Households using iodized salt (%),99.2,98.8
+Mizoram,MZ,Aizawl,12. Households with any usual member covered under a health insurance/financing scheme (%),37.5,38.1
+Mizoram,MZ,Aizawl,13. Children age 5 years who attended pre-primary school during the school year 2019-20 (%),8.7,
+Mizoram,MZ,Aizawl,14. Women who are literate4 (%),98.9,
+Mizoram,MZ,Aizawl,15. Women with 10 or more years of schooling (%),60.7,50.7
+Mizoram,MZ,Aizawl,16. Women age 20-24 years married before age 18 years (%),3.2,5.7
+Mizoram,MZ,Aizawl,17. Births in the 5 years preceding the survey that are third or higher order (%),0.9,1.1
+Mizoram,MZ,Aizawl,18. Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),2.0,6.9
+Mizoram,MZ,Aizawl,19. Women age 15-24 years who use hygienic methods of protection during their menstrual period5 (%),92.7,97.0
+Mizoram,MZ,Aizawl,20. Any method6 (%),21.6,40.9
+Mizoram,MZ,Aizawl,21. Any modern method6 (%),21.0,40.9
+Mizoram,MZ,Aizawl,22. Female sterilization (%),6.9,20.4
+Mizoram,MZ,Aizawl,23. Male sterilization (%),0.0,0.0
+Mizoram,MZ,Aizawl,24. IUD/PPIUD (%),2.8,3.6
+Mizoram,MZ,Aizawl,25. Pill (%),9.7,15.0
+Mizoram,MZ,Aizawl,26. Condom (%),1.6,1.9
+Mizoram,MZ,Aizawl,27. Injectables (%),0.0,0.0
+Mizoram,MZ,Aizawl,28. Total unmet need7 (%),24.0,18.5
+Mizoram,MZ,Aizawl,29. Unmet need for spacing7 (%),14.0,10.1
+Mizoram,MZ,Aizawl,30. Health worker ever talked to female non-users about family planning (%),12.0,11.7
+Mizoram,MZ,Aizawl,31. Current users ever told about side effects of current method8 (%),44.4,49.2
+Mizoram,MZ,Aizawl,32. Mothers who had an antenatal check-up in the first trimester (%),82.8,74.8
+Mizoram,MZ,Aizawl,33. Mothers who had at least 4 antenatal care visits (%),68.5,76.6
+Mizoram,MZ,Aizawl,34. Mothers whose last birth was protected against neonatal tetanus9 (%),82.3,89.1
+Mizoram,MZ,Aizawl,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),58.5,59.8
+Mizoram,MZ,Aizawl,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),12.1,3.4
+Mizoram,MZ,Aizawl,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),93.1,97.0
+Mizoram,MZ,Aizawl,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Mizoram,MZ,Aizawl,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),9812.0,5087.0
+Mizoram,MZ,Aizawl,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,
+Mizoram,MZ,Aizawl,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Mizoram,MZ,Aizawl,42. Institutional births (%),97.4,96.2
+Mizoram,MZ,Aizawl,43. Institutional births in public facility (%),76.3,67.5
+Mizoram,MZ,Aizawl,44. Home births that were conducted by skilled health personnel10 (%),0.3,1.4
+Mizoram,MZ,Aizawl,45. Births attended by skilled health personnel10 (%),97.8,97.7
+Mizoram,MZ,Aizawl,46. Births delivered by caesarean section (%),18.2,20.7
+Mizoram,MZ,Aizawl,47. Births in a private health facility that were delivered by caesarean section (%),34.6,30.5
+Mizoram,MZ,Aizawl,48. Births in a public health facility that were delivered by caesarean section (%),14.2,17.7
+Mizoram,MZ,Aizawl,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Mizoram,MZ,Aizawl,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),76.3,74.1
+Mizoram,MZ,Aizawl,51. Children age 12-23 months who have received BCG (%),81.6,82.8
+Mizoram,MZ,Aizawl,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),68.7,66.3
+Mizoram,MZ,Aizawl,53. Children age 12-23 months who have received 3 doses of penta or DPT vaccine (%),79.4,65.0
+Mizoram,MZ,Aizawl,54. Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),77.9,60.4
+Mizoram,MZ,Aizawl,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),28.6,
+Mizoram,MZ,Aizawl,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),16.6,
+Mizoram,MZ,Aizawl,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),71.4,60.2
+Mizoram,MZ,Aizawl,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),71.1,75.5
+Mizoram,MZ,Aizawl,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),93.7,85.2
+Mizoram,MZ,Aizawl,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),6.3,14.9
+Mizoram,MZ,Aizawl,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),7.1,10.2
+Mizoram,MZ,Aizawl,62. Children with diarrhoea in the 2 weeks preceding the survey who received oral rehydration salts (ORS) (%),,76.5
+Mizoram,MZ,Aizawl,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,31.6
+Mizoram,MZ,Aizawl,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,49.1
+Mizoram,MZ,Aizawl,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.8,4.0
+Mizoram,MZ,Aizawl,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Mizoram,MZ,Aizawl,67. Children under age 3 years breastfed within one hour of birth15 (%),58.5,68.0
+Mizoram,MZ,Aizawl,68. Children under age 6 months exclusively breastfed16 (%),,59.7
+Mizoram,MZ,Aizawl,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
+Mizoram,MZ,Aizawl,"70. Breastfeeding children age 6-23 months receiving an adequate diet16, 17  (%)",17.0,16.6
+Mizoram,MZ,Aizawl,"71. Non-breastfeeding children age 6-23 months receiving an adequate diet16, 17 (%)",,
+Mizoram,MZ,Aizawl,"72. Total children age 6-23 months receiving an adequate diet16, 17  (%)",17.9,17.2
+Mizoram,MZ,Aizawl,73. Children under 5 years who are stunted (height-for-age)18 (%),25.3,23.7
+Mizoram,MZ,Aizawl,74. Children under 5 years who are wasted (weight-for-height)18 (%),7.3,2.3
+Mizoram,MZ,Aizawl,75. Children under 5 years who are severely wasted (weight-for-height)19 (%),2.4,0.8
+Mizoram,MZ,Aizawl,76. Children under 5 years who are underweight (weight-for-age)18 (%),9.6,6.7
+Mizoram,MZ,Aizawl,77. Children under 5 years who are overweight (weight-for-height)20 (%),12.3,5.6
+Mizoram,MZ,Aizawl,78. Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)21 (%),3.8,7.0
+Mizoram,MZ,Aizawl,79. Women who are overweight or obese (BMI ≥25.0 kg/m2)21 (%),29.7,26.8
+Mizoram,MZ,Aizawl,80. Women who have high risk waist-to-hip ratio (≥0.85) (%),46.0,
+Mizoram,MZ,Aizawl,81. Children age 6-59 months who are anaemic (<11.0 g/dl)22 (%),44.0,10.5
+Mizoram,MZ,Aizawl,82. Non-pregnant women age 15-49 years who are anaemic (<12.0 g/dl)22 (%),31.6,18.3
+Mizoram,MZ,Aizawl,83. Pregnant women age 15-49 years who are anaemic (<11.0 g/dl)22 (%),33.4,20.8
+Mizoram,MZ,Aizawl,84. All women age 15-49 years who are anaemic22 (%),31.7,18.4
+Mizoram,MZ,Aizawl,85. All women age 15-19 years who are anaemic22 (%),31.5,17.0
+Mizoram,MZ,Aizawl,86. Blood sugar level - high (141-160 mg/dl)23 (%),6.8,
+Mizoram,MZ,Aizawl,87. Blood sugar level - very high (>160 mg/dl)23 (%),6.8,
+Mizoram,MZ,Aizawl,88. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),15.2,
+Mizoram,MZ,Aizawl,89. Blood sugar level - high (141-160 mg/dl)23 (%),7.2,
+Mizoram,MZ,Aizawl,90. Blood sugar level - very high (>160 mg/dl)23 (%),6.8,
+Mizoram,MZ,Aizawl,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),17.3,
+Mizoram,MZ,Aizawl,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),14.1,
+Mizoram,MZ,Aizawl,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),2.7,
+Mizoram,MZ,Aizawl,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Mizoram,MZ,Aizawl,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),19.8,
+Mizoram,MZ,Aizawl,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),6.8,
+Mizoram,MZ,Aizawl,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Mizoram,MZ,Aizawl,98. Ever undergone a screening test for cervical cancer (%),10.8,
+Mizoram,MZ,Aizawl,99. Ever undergone a breast examination for breast cancer (%),4.7,
+Mizoram,MZ,Aizawl,100. Ever undergone an oral cavity examination for oral cancer (%),1.6,
+Mizoram,MZ,Aizawl,101. Women age 15 years and above who use any kind of tobacco (%),54.7,
+Mizoram,MZ,Aizawl,102. Men age 15 years and above who use any kind of tobacco (%),68.7,
+Mizoram,MZ,Aizawl,103. Women age 15 years and above who consume alcohol (%),1.0,
+Mizoram,MZ,Aizawl,104. Men age 15 years and above who consume alcohol (%),25.8,
+Mizoram,MZ,Champhai,1. Female population age 6 years and above who ever attended school (%),93.3,94.6
+Mizoram,MZ,Champhai,2. Population below age 15 years (%),27.2,32.6
+Mizoram,MZ,Champhai,"3. Sex ratio of the total population (females per 1,000 males)",944.0,1009.0
+Mizoram,MZ,Champhai,"4. Sex ratio at birth for children born in the last five years (females per 1,000 males)",726.0,1014.0
+Mizoram,MZ,Champhai,5. Children under age 5 years whose birth was registered with the civil authority (%),100.0,98.1
+Mizoram,MZ,Champhai,6. Deaths in the last 3 years registered with the civil authority (%),98.3,
+Mizoram,MZ,Champhai,7. Population living in households with electricity (%),100.0,99.9
+Mizoram,MZ,Champhai,8. Population living in households with an improved drinking-water source1 (%),98.6,97.4
+Mizoram,MZ,Champhai,9. Population living in households that use an improved sanitation facility2 (%),98.3,87.4
+Mizoram,MZ,Champhai,10. Households using clean fuel for cooking3 (%),79.4,52.2
+Mizoram,MZ,Champhai,11. Households using iodized salt (%),99.8,99.0
+Mizoram,MZ,Champhai,12. Households with any usual member covered under a health insurance/financing scheme (%),64.9,58.1
+Mizoram,MZ,Champhai,13. Children age 5 years who attended pre-primary school during the school year 2019-20 (%),4.9,
+Mizoram,MZ,Champhai,14. Women who are literate4 (%),97.7,
+Mizoram,MZ,Champhai,15. Women with 10 or more years of schooling (%),47.8,30.3
+Mizoram,MZ,Champhai,16. Women age 20-24 years married before age 18 years (%),11.0,17.9
+Mizoram,MZ,Champhai,17. Births in the 5 years preceding the survey that are third or higher order (%),1.4,2.7
+Mizoram,MZ,Champhai,18. Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),4.6,7.7
+Mizoram,MZ,Champhai,19. Women age 15-24 years who use hygienic methods of protection during their menstrual period5 (%),95.0,91.4
+Mizoram,MZ,Champhai,20. Any method6 (%),50.0,32.4
+Mizoram,MZ,Champhai,21. Any modern method6 (%),49.6,32.3
+Mizoram,MZ,Champhai,22. Female sterilization (%),22.5,12.7
+Mizoram,MZ,Champhai,23. Male sterilization (%),0.0,0.0
+Mizoram,MZ,Champhai,24. IUD/PPIUD (%),4.2,4.1
+Mizoram,MZ,Champhai,25. Pill (%),19.6,14.5
+Mizoram,MZ,Champhai,26. Condom (%),2.5,1.1
+Mizoram,MZ,Champhai,27. Injectables (%),0.2,0.0
+Mizoram,MZ,Champhai,28. Total unmet need7 (%),11.2,24.3
+Mizoram,MZ,Champhai,29. Unmet need for spacing7 (%),8.3,15.8
+Mizoram,MZ,Champhai,30. Health worker ever talked to female non-users about family planning (%),24.9,18.8
+Mizoram,MZ,Champhai,31. Current users ever told about side effects of current method8 (%),70.0,51.2
+Mizoram,MZ,Champhai,32. Mothers who had an antenatal check-up in the first trimester (%),80.0,60.1
+Mizoram,MZ,Champhai,33. Mothers who had at least 4 antenatal care visits (%),63.4,55.9
+Mizoram,MZ,Champhai,34. Mothers whose last birth was protected against neonatal tetanus9 (%),85.9,85.8
+Mizoram,MZ,Champhai,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),74.3,52.7
+Mizoram,MZ,Champhai,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),12.5,2.8
+Mizoram,MZ,Champhai,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),100.0,98.1
+Mizoram,MZ,Champhai,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Mizoram,MZ,Champhai,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),4336.0,3615.0
+Mizoram,MZ,Champhai,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,1.2
+Mizoram,MZ,Champhai,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Mizoram,MZ,Champhai,42. Institutional births (%),96.7,81.1
+Mizoram,MZ,Champhai,43. Institutional births in public facility (%),91.5,74.9
+Mizoram,MZ,Champhai,44. Home births that were conducted by skilled health personnel10 (%),1.6,5.5
+Mizoram,MZ,Champhai,45. Births attended by skilled health personnel10 (%),97.5,86.8
+Mizoram,MZ,Champhai,46. Births delivered by caesarean section (%),6.6,8.7
+Mizoram,MZ,Champhai,47. Births in a private health facility that were delivered by caesarean section (%),,41.6
+Mizoram,MZ,Champhai,48. Births in a public health facility that were delivered by caesarean section (%),5.8,8.2
+Mizoram,MZ,Champhai,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Mizoram,MZ,Champhai,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),87.0,64.2
+Mizoram,MZ,Champhai,51. Children age 12-23 months who have received BCG (%),97.6,72.6
+Mizoram,MZ,Champhai,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),87.7,56.9
+Mizoram,MZ,Champhai,53. Children age 12-23 months who have received 3 doses of penta or DPT vaccine (%),90.5,59.6
+Mizoram,MZ,Champhai,54. Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),92.7,64.6
+Mizoram,MZ,Champhai,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),30.4,
+Mizoram,MZ,Champhai,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),2.4,
+Mizoram,MZ,Champhai,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),90.5,57.5
+Mizoram,MZ,Champhai,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),63.1,76.1
+Mizoram,MZ,Champhai,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),100.0,99.2
+Mizoram,MZ,Champhai,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,0.8
+Mizoram,MZ,Champhai,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),0.8,6.9
+Mizoram,MZ,Champhai,62. Children with diarrhoea in the 2 weeks preceding the survey who received oral rehydration salts (ORS) (%),,67.2
+Mizoram,MZ,Champhai,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,43.2
+Mizoram,MZ,Champhai,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,31.7
+Mizoram,MZ,Champhai,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.0,1.0
+Mizoram,MZ,Champhai,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Mizoram,MZ,Champhai,67. Children under age 3 years breastfed within one hour of birth15 (%),70.7,59.9
+Mizoram,MZ,Champhai,68. Children under age 6 months exclusively breastfed16 (%),,56.3
+Mizoram,MZ,Champhai,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,72.5
+Mizoram,MZ,Champhai,"70. Breastfeeding children age 6-23 months receiving an adequate diet16, 17  (%)",3.5,20.6
+Mizoram,MZ,Champhai,"71. Non-breastfeeding children age 6-23 months receiving an adequate diet16, 17 (%)",,13.7
+Mizoram,MZ,Champhai,"72. Total children age 6-23 months receiving an adequate diet16, 17  (%)",5.6,19.7
+Mizoram,MZ,Champhai,73. Children under 5 years who are stunted (height-for-age)18 (%),27.2,32.9
+Mizoram,MZ,Champhai,74. Children under 5 years who are wasted (weight-for-height)18 (%),12.1,6.0
+Mizoram,MZ,Champhai,75. Children under 5 years who are severely wasted (weight-for-height)19 (%),7.6,2.6
+Mizoram,MZ,Champhai,76. Children under 5 years who are underweight (weight-for-age)18 (%),13.1,12.7
+Mizoram,MZ,Champhai,77. Children under 5 years who are overweight (weight-for-height)20 (%),10.6,3.8
+Mizoram,MZ,Champhai,78. Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)21 (%),5.8,6.9
+Mizoram,MZ,Champhai,79. Women who are overweight or obese (BMI ≥25.0 kg/m2)21 (%),22.9,17.5
+Mizoram,MZ,Champhai,80. Women who have high risk waist-to-hip ratio (≥0.85) (%),52.1,
+Mizoram,MZ,Champhai,81. Children age 6-59 months who are anaemic (<11.0 g/dl)22 (%),38.3,7.8
+Mizoram,MZ,Champhai,82. Non-pregnant women age 15-49 years who are anaemic (<12.0 g/dl)22 (%),26.1,12.8
+Mizoram,MZ,Champhai,83. Pregnant women age 15-49 years who are anaemic (<11.0 g/dl)22 (%),15.7,21.9
+Mizoram,MZ,Champhai,84. All women age 15-49 years who are anaemic22 (%),25.7,13.1
+Mizoram,MZ,Champhai,85. All women age 15-19 years who are anaemic22 (%),31.6,10.7
+Mizoram,MZ,Champhai,86. Blood sugar level - high (141-160 mg/dl)23 (%),6.9,
+Mizoram,MZ,Champhai,87. Blood sugar level - very high (>160 mg/dl)23 (%),5.8,
+Mizoram,MZ,Champhai,88. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),13.4,
+Mizoram,MZ,Champhai,89. Blood sugar level - high (141-160 mg/dl)23 (%),7.4,
+Mizoram,MZ,Champhai,90. Blood sugar level - very high (>160 mg/dl)23 (%),6.1,
+Mizoram,MZ,Champhai,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),13.9,
+Mizoram,MZ,Champhai,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),9.1,
+Mizoram,MZ,Champhai,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),4.5,
+Mizoram,MZ,Champhai,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Mizoram,MZ,Champhai,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),13.9,
+Mizoram,MZ,Champhai,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.9,
+Mizoram,MZ,Champhai,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Mizoram,MZ,Champhai,98. Ever undergone a screening test for cervical cancer (%),3.7,
+Mizoram,MZ,Champhai,99. Ever undergone a breast examination for breast cancer (%),0.6,
+Mizoram,MZ,Champhai,100. Ever undergone an oral cavity examination for oral cancer (%),0.2,
+Mizoram,MZ,Champhai,101. Women age 15 years and above who use any kind of tobacco (%),66.7,
+Mizoram,MZ,Champhai,102. Men age 15 years and above who use any kind of tobacco (%),74.5,
+Mizoram,MZ,Champhai,103. Women age 15 years and above who consume alcohol (%),1.6,
+Mizoram,MZ,Champhai,104. Men age 15 years and above who consume alcohol (%),21.3,
+Mizoram,MZ,Kolasib,1. Female population age 6 years and above who ever attended school (%),93.9,92.8
+Mizoram,MZ,Kolasib,2. Population below age 15 years (%),28.6,30.7
+Mizoram,MZ,Kolasib,"3. Sex ratio of the total population (females per 1,000 males)",1002.0,992.0
+Mizoram,MZ,Kolasib,"4. Sex ratio at birth for children born in the last five years (females per 1,000 males)",860.0,992.0
+Mizoram,MZ,Kolasib,5. Children under age 5 years whose birth was registered with the civil authority (%),99.8,98.3
+Mizoram,MZ,Kolasib,6. Deaths in the last 3 years registered with the civil authority (%),96.3,
+Mizoram,MZ,Kolasib,7. Population living in households with electricity (%),99.1,99.1
+Mizoram,MZ,Kolasib,8. Population living in households with an improved drinking-water source1 (%),95.3,96.9
+Mizoram,MZ,Kolasib,9. Population living in households that use an improved sanitation facility2 (%),96.8,87.7
+Mizoram,MZ,Kolasib,10. Households using clean fuel for cooking3 (%),87.5,69.2
+Mizoram,MZ,Kolasib,11. Households using iodized salt (%),99.7,99.2
+Mizoram,MZ,Kolasib,12. Households with any usual member covered under a health insurance/financing scheme (%),61.1,62.0
+Mizoram,MZ,Kolasib,13. Children age 5 years who attended pre-primary school during the school year 2019-20 (%),1.4,
+Mizoram,MZ,Kolasib,14. Women who are literate4 (%),96.9,
+Mizoram,MZ,Kolasib,15. Women with 10 or more years of schooling (%),41.7,31.1
+Mizoram,MZ,Kolasib,16. Women age 20-24 years married before age 18 years (%),13.7,15.5
+Mizoram,MZ,Kolasib,17. Births in the 5 years preceding the survey that are third or higher order (%),1.6,1.7
+Mizoram,MZ,Kolasib,18. Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),2.2,7.8
+Mizoram,MZ,Kolasib,19. Women age 15-24 years who use hygienic methods of protection during their menstrual period5 (%),94.3,91.2
+Mizoram,MZ,Kolasib,20. Any method6 (%),38.1,33.5
+Mizoram,MZ,Kolasib,21. Any modern method6 (%),37.9,33.3
+Mizoram,MZ,Kolasib,22. Female sterilization (%),16.7,15.3
+Mizoram,MZ,Kolasib,23. Male sterilization (%),0.0,0.1
+Mizoram,MZ,Kolasib,24. IUD/PPIUD (%),2.2,2.8
+Mizoram,MZ,Kolasib,25. Pill (%),17.4,13.8
+Mizoram,MZ,Kolasib,26. Condom (%),1.6,1.3
+Mizoram,MZ,Kolasib,27. Injectables (%),0.0,0.0
+Mizoram,MZ,Kolasib,28. Total unmet need7 (%),15.6,18.7
+Mizoram,MZ,Kolasib,29. Unmet need for spacing7 (%),11.7,12.7
+Mizoram,MZ,Kolasib,30. Health worker ever talked to female non-users about family planning (%),18.7,17.7
+Mizoram,MZ,Kolasib,31. Current users ever told about side effects of current method8 (%),73.9,49.9
+Mizoram,MZ,Kolasib,32. Mothers who had an antenatal check-up in the first trimester (%),72.7,66.1
+Mizoram,MZ,Kolasib,33. Mothers who had at least 4 antenatal care visits (%),66.0,66.8
+Mizoram,MZ,Kolasib,34. Mothers whose last birth was protected against neonatal tetanus9 (%),76.4,84.9
+Mizoram,MZ,Kolasib,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),67.7,58.8
+Mizoram,MZ,Kolasib,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),13.3,2.2
+Mizoram,MZ,Kolasib,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),97.8,97.8
+Mizoram,MZ,Kolasib,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Mizoram,MZ,Kolasib,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),4834.0,3024.0
+Mizoram,MZ,Kolasib,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),15.3,0.0
+Mizoram,MZ,Kolasib,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Mizoram,MZ,Kolasib,42. Institutional births (%),91.4,86.3
+Mizoram,MZ,Kolasib,43. Institutional births in public facility (%),82.9,78.3
+Mizoram,MZ,Kolasib,44. Home births that were conducted by skilled health personnel10 (%),2.7,2.0
+Mizoram,MZ,Kolasib,45. Births attended by skilled health personnel10 (%),93.2,88.4
+Mizoram,MZ,Kolasib,46. Births delivered by caesarean section (%),8.4,9.6
+Mizoram,MZ,Kolasib,47. Births in a private health facility that were delivered by caesarean section (%),26.2,19.6
+Mizoram,MZ,Kolasib,48. Births in a public health facility that were delivered by caesarean section (%),7.5,10.2
+Mizoram,MZ,Kolasib,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Mizoram,MZ,Kolasib,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),91.4,76.2
+Mizoram,MZ,Kolasib,51. Children age 12-23 months who have received BCG (%),88.1,64.1
+Mizoram,MZ,Kolasib,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),90.9,61.0
+Mizoram,MZ,Kolasib,53. Children age 12-23 months who have received 3 doses of penta or DPT vaccine (%),85.2,60.5
+Mizoram,MZ,Kolasib,54. Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),83.1,56.4
+Mizoram,MZ,Kolasib,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),32.6,
+Mizoram,MZ,Kolasib,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),0.0,
+Mizoram,MZ,Kolasib,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),79.9,57.3
+Mizoram,MZ,Kolasib,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),65.1,71.4
+Mizoram,MZ,Kolasib,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),97.4,97.8
+Mizoram,MZ,Kolasib,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,2.2
+Mizoram,MZ,Kolasib,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),1.2,3.9
+Mizoram,MZ,Kolasib,62. Children with diarrhoea in the 2 weeks preceding the survey who received oral rehydration salts (ORS) (%),,83.3
+Mizoram,MZ,Kolasib,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,10.5
+Mizoram,MZ,Kolasib,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,55.9
+Mizoram,MZ,Kolasib,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.9,1.3
+Mizoram,MZ,Kolasib,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Mizoram,MZ,Kolasib,67. Children under age 3 years breastfed within one hour of birth15 (%),63.0,79.7
+Mizoram,MZ,Kolasib,68. Children under age 6 months exclusively breastfed16 (%),73.4,70.6
+Mizoram,MZ,Kolasib,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,79.6
+Mizoram,MZ,Kolasib,"70. Breastfeeding children age 6-23 months receiving an adequate diet16, 17  (%)",24.5,18.8
+Mizoram,MZ,Kolasib,"71. Non-breastfeeding children age 6-23 months receiving an adequate diet16, 17 (%)",,11.5
+Mizoram,MZ,Kolasib,"72. Total children age 6-23 months receiving an adequate diet16, 17  (%)",23.2,17.8
+Mizoram,MZ,Kolasib,73. Children under 5 years who are stunted (height-for-age)18 (%),30.4,26.3
+Mizoram,MZ,Kolasib,74. Children under 5 years who are wasted (weight-for-height)18 (%),11.3,6.6
+Mizoram,MZ,Kolasib,75. Children under 5 years who are severely wasted (weight-for-height)19 (%),5.3,2.4
+Mizoram,MZ,Kolasib,76. Children under 5 years who are underweight (weight-for-age)18 (%),12.6,11.4
+Mizoram,MZ,Kolasib,77. Children under 5 years who are overweight (weight-for-height)20 (%),7.6,3.7
+Mizoram,MZ,Kolasib,78. Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)21 (%),5.9,9.0
+Mizoram,MZ,Kolasib,79. Women who are overweight or obese (BMI ≥25.0 kg/m2)21 (%),26.0,24.4
+Mizoram,MZ,Kolasib,80. Women who have high risk waist-to-hip ratio (≥0.85) (%),48.8,
+Mizoram,MZ,Kolasib,81. Children age 6-59 months who are anaemic (<11.0 g/dl)22 (%),53.8,41.0
+Mizoram,MZ,Kolasib,82. Non-pregnant women age 15-49 years who are anaemic (<12.0 g/dl)22 (%),37.3,38.7
+Mizoram,MZ,Kolasib,83. Pregnant women age 15-49 years who are anaemic (<11.0 g/dl)22 (%),43.8,46.9
+Mizoram,MZ,Kolasib,84. All women age 15-49 years who are anaemic22 (%),37.7,39.1
+Mizoram,MZ,Kolasib,85. All women age 15-19 years who are anaemic22 (%),30.1,35.0
+Mizoram,MZ,Kolasib,86. Blood sugar level - high (141-160 mg/dl)23 (%),9.0,
+Mizoram,MZ,Kolasib,87. Blood sugar level - very high (>160 mg/dl)23 (%),5.8,
+Mizoram,MZ,Kolasib,88. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),15.7,
+Mizoram,MZ,Kolasib,89. Blood sugar level - high (141-160 mg/dl)23 (%),6.6,
+Mizoram,MZ,Kolasib,90. Blood sugar level - very high (>160 mg/dl)23 (%),6.6,
+Mizoram,MZ,Kolasib,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),13.8,
+Mizoram,MZ,Kolasib,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),10.3,
+Mizoram,MZ,Kolasib,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),4.0,
+Mizoram,MZ,Kolasib,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Mizoram,MZ,Kolasib,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),16.9,
+Mizoram,MZ,Kolasib,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),5.7,
+Mizoram,MZ,Kolasib,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Mizoram,MZ,Kolasib,98. Ever undergone a screening test for cervical cancer (%),6.3,
+Mizoram,MZ,Kolasib,99. Ever undergone a breast examination for breast cancer (%),1.9,
+Mizoram,MZ,Kolasib,100. Ever undergone an oral cavity examination for oral cancer (%),0.7,
+Mizoram,MZ,Kolasib,101. Women age 15 years and above who use any kind of tobacco (%),70.6,
+Mizoram,MZ,Kolasib,102. Men age 15 years and above who use any kind of tobacco (%),75.3,
+Mizoram,MZ,Kolasib,103. Women age 15 years and above who consume alcohol (%),0.9,
+Mizoram,MZ,Kolasib,104. Men age 15 years and above who consume alcohol (%),21.7,
+Mizoram,MZ,Lawngtlai,1. Female population age 6 years and above who ever attended school (%),79.9,71.0
+Mizoram,MZ,Lawngtlai,2. Population below age 15 years (%),32.8,34.2
+Mizoram,MZ,Lawngtlai,"3. Sex ratio of the total population (females per 1,000 males)",1051.0,996.0
+Mizoram,MZ,Lawngtlai,"4. Sex ratio at birth for children born in the last five years (females per 1,000 males)",1131.0,1079.0
+Mizoram,MZ,Lawngtlai,5. Children under age 5 years whose birth was registered with the civil authority (%),99.3,99.2
+Mizoram,MZ,Lawngtlai,6. Deaths in the last 3 years registered with the civil authority (%),85.4,
+Mizoram,MZ,Lawngtlai,7. Population living in households with electricity (%),89.0,75.3
+Mizoram,MZ,Lawngtlai,8. Population living in households with an improved drinking-water source1 (%),82.2,82.2
+Mizoram,MZ,Lawngtlai,9. Population living in households that use an improved sanitation facility2 (%),90.3,66.8
+Mizoram,MZ,Lawngtlai,10. Households using clean fuel for cooking3 (%),56.3,38.7
+Mizoram,MZ,Lawngtlai,11. Households using iodized salt (%),97.0,99.1
+Mizoram,MZ,Lawngtlai,12. Households with any usual member covered under a health insurance/financing scheme (%),31.3,26.9
+Mizoram,MZ,Lawngtlai,13. Children age 5 years who attended pre-primary school during the school year 2019-20 (%),3.6,
+Mizoram,MZ,Lawngtlai,14. Women who are literate4 (%),76.0,
+Mizoram,MZ,Lawngtlai,15. Women with 10 or more years of schooling (%),32.2,26.3
+Mizoram,MZ,Lawngtlai,16. Women age 20-24 years married before age 18 years (%),16.0,15.0
+Mizoram,MZ,Lawngtlai,17. Births in the 5 years preceding the survey that are third or higher order (%),2.6,3.3
+Mizoram,MZ,Lawngtlai,18. Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),9.2,6.6
+Mizoram,MZ,Lawngtlai,19. Women age 15-24 years who use hygienic methods of protection during their menstrual period5 (%),71.0,86.4
+Mizoram,MZ,Lawngtlai,20. Any method6 (%),29.7,27.1
+Mizoram,MZ,Lawngtlai,21. Any modern method6 (%),29.1,27.1
+Mizoram,MZ,Lawngtlai,22. Female sterilization (%),12.2,16.0
+Mizoram,MZ,Lawngtlai,23. Male sterilization (%),0.0,0.0
+Mizoram,MZ,Lawngtlai,24. IUD/PPIUD (%),1.6,1.5
+Mizoram,MZ,Lawngtlai,25. Pill (%),12.1,8.4
+Mizoram,MZ,Lawngtlai,26. Condom (%),2.8,1.0
+Mizoram,MZ,Lawngtlai,27. Injectables (%),0.3,0.2
+Mizoram,MZ,Lawngtlai,28. Total unmet need7 (%),17.3,18.1
+Mizoram,MZ,Lawngtlai,29. Unmet need for spacing7 (%),13.0,13.3
+Mizoram,MZ,Lawngtlai,30. Health worker ever talked to female non-users about family planning (%),11.3,6.1
+Mizoram,MZ,Lawngtlai,31. Current users ever told about side effects of current method8 (%),59.1,75.0
+Mizoram,MZ,Lawngtlai,32. Mothers who had an antenatal check-up in the first trimester (%),51.5,50.5
+Mizoram,MZ,Lawngtlai,33. Mothers who had at least 4 antenatal care visits (%),33.0,38.3
+Mizoram,MZ,Lawngtlai,34. Mothers whose last birth was protected against neonatal tetanus9 (%),72.3,57.4
+Mizoram,MZ,Lawngtlai,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),50.7,42.8
+Mizoram,MZ,Lawngtlai,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),7.4,1.1
+Mizoram,MZ,Lawngtlai,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),93.8,92.2
+Mizoram,MZ,Lawngtlai,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Mizoram,MZ,Lawngtlai,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),7318.0,3648.0
+Mizoram,MZ,Lawngtlai,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),0.7,0.0
+Mizoram,MZ,Lawngtlai,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Mizoram,MZ,Lawngtlai,42. Institutional births (%),53.7,45.9
+Mizoram,MZ,Lawngtlai,43. Institutional births in public facility (%),48.4,37.4
+Mizoram,MZ,Lawngtlai,44. Home births that were conducted by skilled health personnel10 (%),9.3,4.1
+Mizoram,MZ,Lawngtlai,45. Births attended by skilled health personnel10 (%),59.9,49.7
+Mizoram,MZ,Lawngtlai,46. Births delivered by caesarean section (%),3.9,3.2
+Mizoram,MZ,Lawngtlai,47. Births in a private health facility that were delivered by caesarean section (%),,17.9
+Mizoram,MZ,Lawngtlai,48. Births in a public health facility that were delivered by caesarean section (%),5.4,4.4
+Mizoram,MZ,Lawngtlai,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Mizoram,MZ,Lawngtlai,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),91.7,71.8
+Mizoram,MZ,Lawngtlai,51. Children age 12-23 months who have received BCG (%),75.6,70.7
+Mizoram,MZ,Lawngtlai,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),75.3,53.4
+Mizoram,MZ,Lawngtlai,53. Children age 12-23 months who have received 3 doses of penta or DPT vaccine (%),74.1,53.4
+Mizoram,MZ,Lawngtlai,54. Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),76.8,48.9
+Mizoram,MZ,Lawngtlai,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),23.2,
+Mizoram,MZ,Lawngtlai,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),0.0,
+Mizoram,MZ,Lawngtlai,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),72.6,49.3
+Mizoram,MZ,Lawngtlai,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),53.9,44.7
+Mizoram,MZ,Lawngtlai,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),96.9,92.5
+Mizoram,MZ,Lawngtlai,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,3.8
+Mizoram,MZ,Lawngtlai,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),2.7,5.9
+Mizoram,MZ,Lawngtlai,62. Children with diarrhoea in the 2 weeks preceding the survey who received oral rehydration salts (ORS) (%),,
+Mizoram,MZ,Lawngtlai,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,
+Mizoram,MZ,Lawngtlai,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Mizoram,MZ,Lawngtlai,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.5,0.5
+Mizoram,MZ,Lawngtlai,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Mizoram,MZ,Lawngtlai,67. Children under age 3 years breastfed within one hour of birth15 (%),60.9,76.4
+Mizoram,MZ,Lawngtlai,68. Children under age 6 months exclusively breastfed16 (%),64.4,42.6
+Mizoram,MZ,Lawngtlai,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
+Mizoram,MZ,Lawngtlai,"70. Breastfeeding children age 6-23 months receiving an adequate diet16, 17  (%)",7.4,7.3
+Mizoram,MZ,Lawngtlai,"71. Non-breastfeeding children age 6-23 months receiving an adequate diet16, 17 (%)",,
+Mizoram,MZ,Lawngtlai,"72. Total children age 6-23 months receiving an adequate diet16, 17  (%)",9.2,7.5
+Mizoram,MZ,Lawngtlai,73. Children under 5 years who are stunted (height-for-age)18 (%),32.7,35.3
+Mizoram,MZ,Lawngtlai,74. Children under 5 years who are wasted (weight-for-height)18 (%),16.2,12.0
+Mizoram,MZ,Lawngtlai,75. Children under 5 years who are severely wasted (weight-for-height)19 (%),11.4,5.9
+Mizoram,MZ,Lawngtlai,76. Children under 5 years who are underweight (weight-for-age)18 (%),16.9,21.3
+Mizoram,MZ,Lawngtlai,77. Children under 5 years who are overweight (weight-for-height)20 (%),9.1,2.5
+Mizoram,MZ,Lawngtlai,78. Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)21 (%),7.1,10.4
+Mizoram,MZ,Lawngtlai,79. Women who are overweight or obese (BMI ≥25.0 kg/m2)21 (%),14.1,10.2
+Mizoram,MZ,Lawngtlai,80. Women who have high risk waist-to-hip ratio (≥0.85) (%),44.4,
+Mizoram,MZ,Lawngtlai,81. Children age 6-59 months who are anaemic (<11.0 g/dl)22 (%),55.3,33.8
+Mizoram,MZ,Lawngtlai,82. Non-pregnant women age 15-49 years who are anaemic (<12.0 g/dl)22 (%),48.6,35.8
+Mizoram,MZ,Lawngtlai,83. Pregnant women age 15-49 years who are anaemic (<11.0 g/dl)22 (%),46.5,35.6
+Mizoram,MZ,Lawngtlai,84. All women age 15-49 years who are anaemic22 (%),48.5,35.8
+Mizoram,MZ,Lawngtlai,85. All women age 15-19 years who are anaemic22 (%),45.5,31.1
+Mizoram,MZ,Lawngtlai,86. Blood sugar level - high (141-160 mg/dl)23 (%),6.6,
+Mizoram,MZ,Lawngtlai,87. Blood sugar level - very high (>160 mg/dl)23 (%),4.3,
+Mizoram,MZ,Lawngtlai,88. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),11.4,
+Mizoram,MZ,Lawngtlai,89. Blood sugar level - high (141-160 mg/dl)23 (%),9.0,
+Mizoram,MZ,Lawngtlai,90. Blood sugar level - very high (>160 mg/dl)23 (%),5.5,
+Mizoram,MZ,Lawngtlai,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),15.4,
+Mizoram,MZ,Lawngtlai,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),8.2,
+Mizoram,MZ,Lawngtlai,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.2,
+Mizoram,MZ,Lawngtlai,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Mizoram,MZ,Lawngtlai,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),12.9,
+Mizoram,MZ,Lawngtlai,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),5.4,
+Mizoram,MZ,Lawngtlai,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Mizoram,MZ,Lawngtlai,98. Ever undergone a screening test for cervical cancer (%),2.7,
+Mizoram,MZ,Lawngtlai,99. Ever undergone a breast examination for breast cancer (%),1.5,
+Mizoram,MZ,Lawngtlai,100. Ever undergone an oral cavity examination for oral cancer (%),0.5,
+Mizoram,MZ,Lawngtlai,101. Women age 15 years and above who use any kind of tobacco (%),65.4,
+Mizoram,MZ,Lawngtlai,102. Men age 15 years and above who use any kind of tobacco (%),77.2,
+Mizoram,MZ,Lawngtlai,103. Women age 15 years and above who consume alcohol (%),0.9,
+Mizoram,MZ,Lawngtlai,104. Men age 15 years and above who consume alcohol (%),27.2,
+Mizoram,MZ,Lunglei,1. Female population age 6 years and above who ever attended school (%),89.8,91.7
+Mizoram,MZ,Lunglei,2. Population below age 15 years (%),24.6,28.2
+Mizoram,MZ,Lunglei,"3. Sex ratio of the total population (females per 1,000 males)",1004.0,944.0
+Mizoram,MZ,Lunglei,"4. Sex ratio at birth for children born in the last five years (females per 1,000 males)",876.0,836.0
+Mizoram,MZ,Lunglei,5. Children under age 5 years whose birth was registered with the civil authority (%),100.0,99.6
+Mizoram,MZ,Lunglei,6. Deaths in the last 3 years registered with the civil authority (%),86.6,
+Mizoram,MZ,Lunglei,7. Population living in households with electricity (%),98.0,99.2
+Mizoram,MZ,Lunglei,8. Population living in households with an improved drinking-water source1 (%),96.0,94.1
+Mizoram,MZ,Lunglei,9. Population living in households that use an improved sanitation facility2 (%),95.6,78.7
+Mizoram,MZ,Lunglei,10. Households using clean fuel for cooking3 (%),79.9,52.2
+Mizoram,MZ,Lunglei,11. Households using iodized salt (%),99.0,99.6
+Mizoram,MZ,Lunglei,12. Households with any usual member covered under a health insurance/financing scheme (%),46.5,52.2
+Mizoram,MZ,Lunglei,13. Children age 5 years who attended pre-primary school during the school year 2019-20 (%),2.0,
+Mizoram,MZ,Lunglei,14. Women who are literate4 (%),91.6,
+Mizoram,MZ,Lunglei,15. Women with 10 or more years of schooling (%),46.3,34.9
+Mizoram,MZ,Lunglei,16. Women age 20-24 years married before age 18 years (%),4.8,17.2
+Mizoram,MZ,Lunglei,17. Births in the 5 years preceding the survey that are third or higher order (%),0.8,2.7
+Mizoram,MZ,Lunglei,18. Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),3.8,10.1
+Mizoram,MZ,Lunglei,19. Women age 15-24 years who use hygienic methods of protection during their menstrual period5 (%),91.4,90.1
+Mizoram,MZ,Lunglei,20. Any method6 (%),33.0,29.0
+Mizoram,MZ,Lunglei,21. Any modern method6 (%),33.0,29.0
+Mizoram,MZ,Lunglei,22. Female sterilization (%),18.8,13.0
+Mizoram,MZ,Lunglei,23. Male sterilization (%),0.0,0.0
+Mizoram,MZ,Lunglei,24. IUD/PPIUD (%),1.7,3.6
+Mizoram,MZ,Lunglei,25. Pill (%),10.2,11.8
+Mizoram,MZ,Lunglei,26. Condom (%),2.3,0.5
+Mizoram,MZ,Lunglei,27. Injectables (%),0.0,0.1
+Mizoram,MZ,Lunglei,28. Total unmet need7 (%),15.4,19.3
+Mizoram,MZ,Lunglei,29. Unmet need for spacing7 (%),12.5,11.8
+Mizoram,MZ,Lunglei,30. Health worker ever talked to female non-users about family planning (%),13.0,19.8
+Mizoram,MZ,Lunglei,31. Current users ever told about side effects of current method8 (%),62.8,57.4
+Mizoram,MZ,Lunglei,32. Mothers who had an antenatal check-up in the first trimester (%),68.8,57.6
+Mizoram,MZ,Lunglei,33. Mothers who had at least 4 antenatal care visits (%),56.7,49.5
+Mizoram,MZ,Lunglei,34. Mothers whose last birth was protected against neonatal tetanus9 (%),79.9,79.3
+Mizoram,MZ,Lunglei,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),64.7,40.4
+Mizoram,MZ,Lunglei,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),9.7,2.4
+Mizoram,MZ,Lunglei,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),99.2,95.9
+Mizoram,MZ,Lunglei,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Mizoram,MZ,Lunglei,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),5717.0,5159.0
+Mizoram,MZ,Lunglei,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),0.0,5.6
+Mizoram,MZ,Lunglei,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Mizoram,MZ,Lunglei,42. Institutional births (%),82.7,74.4
+Mizoram,MZ,Lunglei,43. Institutional births in public facility (%),69.4,62.6
+Mizoram,MZ,Lunglei,44. Home births that were conducted by skilled health personnel10 (%),3.9,3.1
+Mizoram,MZ,Lunglei,45. Births attended by skilled health personnel10 (%),80.2,77.8
+Mizoram,MZ,Lunglei,46. Births delivered by caesarean section (%),5.4,12.1
+Mizoram,MZ,Lunglei,47. Births in a private health facility that were delivered by caesarean section (%),9.2,31.4
+Mizoram,MZ,Lunglei,48. Births in a public health facility that were delivered by caesarean section (%),6.0,13.4
+Mizoram,MZ,Lunglei,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Mizoram,MZ,Lunglei,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),84.1,62.1
+Mizoram,MZ,Lunglei,51. Children age 12-23 months who have received BCG (%),79.3,69.2
+Mizoram,MZ,Lunglei,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),82.2,61.1
+Mizoram,MZ,Lunglei,53. Children age 12-23 months who have received 3 doses of penta or DPT vaccine (%),85.0,60.9
+Mizoram,MZ,Lunglei,54. Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),85.0,66.4
+Mizoram,MZ,Lunglei,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),14.0,
+Mizoram,MZ,Lunglei,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),0.0,
+Mizoram,MZ,Lunglei,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),85.0,56.4
+Mizoram,MZ,Lunglei,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),61.3,65.2
+Mizoram,MZ,Lunglei,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),100.0,98.1
+Mizoram,MZ,Lunglei,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,1.9
+Mizoram,MZ,Lunglei,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),4.0,5.6
+Mizoram,MZ,Lunglei,62. Children with diarrhoea in the 2 weeks preceding the survey who received oral rehydration salts (ORS) (%),,72.1
+Mizoram,MZ,Lunglei,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,27.6
+Mizoram,MZ,Lunglei,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,30.6
+Mizoram,MZ,Lunglei,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.8,1.1
+Mizoram,MZ,Lunglei,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Mizoram,MZ,Lunglei,67. Children under age 3 years breastfed within one hour of birth15 (%),63.8,60.3
+Mizoram,MZ,Lunglei,68. Children under age 6 months exclusively breastfed16 (%),,66.0
+Mizoram,MZ,Lunglei,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,66.5
+Mizoram,MZ,Lunglei,"70. Breastfeeding children age 6-23 months receiving an adequate diet16, 17  (%)",7.4,11.6
+Mizoram,MZ,Lunglei,"71. Non-breastfeeding children age 6-23 months receiving an adequate diet16, 17 (%)",,
+Mizoram,MZ,Lunglei,"72. Total children age 6-23 months receiving an adequate diet16, 17  (%)",9.4,11.7
+Mizoram,MZ,Lunglei,73. Children under 5 years who are stunted (height-for-age)18 (%),26.5,25.3
+Mizoram,MZ,Lunglei,74. Children under 5 years who are wasted (weight-for-height)18 (%),9.5,6.1
+Mizoram,MZ,Lunglei,75. Children under 5 years who are severely wasted (weight-for-height)19 (%),3.3,1.7
+Mizoram,MZ,Lunglei,76. Children under 5 years who are underweight (weight-for-age)18 (%),11.1,13.1
+Mizoram,MZ,Lunglei,77. Children under 5 years who are overweight (weight-for-height)20 (%),10.1,3.2
+Mizoram,MZ,Lunglei,78. Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)21 (%),6.2,9.8
+Mizoram,MZ,Lunglei,79. Women who are overweight or obese (BMI ≥25.0 kg/m2)21 (%),20.6,20.3
+Mizoram,MZ,Lunglei,80. Women who have high risk waist-to-hip ratio (≥0.85) (%),48.9,
+Mizoram,MZ,Lunglei,81. Children age 6-59 months who are anaemic (<11.0 g/dl)22 (%),45.7,26.9
+Mizoram,MZ,Lunglei,82. Non-pregnant women age 15-49 years who are anaemic (<12.0 g/dl)22 (%),35.1,37.0
+Mizoram,MZ,Lunglei,83. Pregnant women age 15-49 years who are anaemic (<11.0 g/dl)22 (%),27.5,37.6
+Mizoram,MZ,Lunglei,84. All women age 15-49 years who are anaemic22 (%),34.9,37.1
+Mizoram,MZ,Lunglei,85. All women age 15-19 years who are anaemic22 (%),34.2,33.1
+Mizoram,MZ,Lunglei,86. Blood sugar level - high (141-160 mg/dl)23 (%),7.4,
+Mizoram,MZ,Lunglei,87. Blood sugar level - very high (>160 mg/dl)23 (%),4.9,
+Mizoram,MZ,Lunglei,88. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),13.5,
+Mizoram,MZ,Lunglei,89. Blood sugar level - high (141-160 mg/dl)23 (%),9.9,
+Mizoram,MZ,Lunglei,90. Blood sugar level - very high (>160 mg/dl)23 (%),6.0,
+Mizoram,MZ,Lunglei,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),17.1,
+Mizoram,MZ,Lunglei,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),7.7,
+Mizoram,MZ,Lunglei,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.6,
+Mizoram,MZ,Lunglei,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Mizoram,MZ,Lunglei,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),12.7,
+Mizoram,MZ,Lunglei,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),5.2,
+Mizoram,MZ,Lunglei,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Mizoram,MZ,Lunglei,98. Ever undergone a screening test for cervical cancer (%),2.2,
+Mizoram,MZ,Lunglei,99. Ever undergone a breast examination for breast cancer (%),0.4,
+Mizoram,MZ,Lunglei,100. Ever undergone an oral cavity examination for oral cancer (%),0.2,
+Mizoram,MZ,Lunglei,101. Women age 15 years and above who use any kind of tobacco (%),62.8,
+Mizoram,MZ,Lunglei,102. Men age 15 years and above who use any kind of tobacco (%),75.0,
+Mizoram,MZ,Lunglei,103. Women age 15 years and above who consume alcohol (%),0.9,
+Mizoram,MZ,Lunglei,104. Men age 15 years and above who consume alcohol (%),19.2,
+Mizoram,MZ,Mamit,1. Female population age 6 years and above who ever attended school (%),90.7,82.0
+Mizoram,MZ,Mamit,2. Population below age 15 years (%),30.7,33.0
+Mizoram,MZ,Mamit,"3. Sex ratio of the total population (females per 1,000 males)",991.0,960.0
+Mizoram,MZ,Mamit,"4. Sex ratio at birth for children born in the last five years (females per 1,000 males)",794.0,1051.0
+Mizoram,MZ,Mamit,5. Children under age 5 years whose birth was registered with the civil authority (%),99.1,97.6
+Mizoram,MZ,Mamit,6. Deaths in the last 3 years registered with the civil authority (%),88.4,
+Mizoram,MZ,Mamit,7. Population living in households with electricity (%),97.9,85.6
+Mizoram,MZ,Mamit,8. Population living in households with an improved drinking-water source1 (%),97.3,82.3
+Mizoram,MZ,Mamit,9. Population living in households that use an improved sanitation facility2 (%),92.7,66.2
+Mizoram,MZ,Mamit,10. Households using clean fuel for cooking3 (%),73.3,38.0
+Mizoram,MZ,Mamit,11. Households using iodized salt (%),99.4,97.6
+Mizoram,MZ,Mamit,12. Households with any usual member covered under a health insurance/financing scheme (%),61.7,50.7
+Mizoram,MZ,Mamit,13. Children age 5 years who attended pre-primary school during the school year 2019-20 (%),1.3,
+Mizoram,MZ,Mamit,14. Women who are literate4 (%),89.6,
+Mizoram,MZ,Mamit,15. Women with 10 or more years of schooling (%),40.0,21.7
+Mizoram,MZ,Mamit,16. Women age 20-24 years married before age 18 years (%),16.8,17.8
+Mizoram,MZ,Mamit,17. Births in the 5 years preceding the survey that are third or higher order (%),1.2,2.7
+Mizoram,MZ,Mamit,18. Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),10.3,5.7
+Mizoram,MZ,Mamit,19. Women age 15-24 years who use hygienic methods of protection during their menstrual period5 (%),89.0,87.6
+Mizoram,MZ,Mamit,20. Any method6 (%),41.6,34.3
+Mizoram,MZ,Mamit,21. Any modern method6 (%),41.3,34.3
+Mizoram,MZ,Mamit,22. Female sterilization (%),17.7,16.0
+Mizoram,MZ,Mamit,23. Male sterilization (%),0.0,0.0
+Mizoram,MZ,Mamit,24. IUD/PPIUD (%),4.0,2.4
+Mizoram,MZ,Mamit,25. Pill (%),19.2,14.9
+Mizoram,MZ,Mamit,26. Condom (%),0.2,1.0
+Mizoram,MZ,Mamit,27. Injectables (%),0.2,0.0
+Mizoram,MZ,Mamit,28. Total unmet need7 (%),17.0,23.5
+Mizoram,MZ,Mamit,29. Unmet need for spacing7 (%),14.0,15.3
+Mizoram,MZ,Mamit,30. Health worker ever talked to female non-users about family planning (%),15.8,16.4
+Mizoram,MZ,Mamit,31. Current users ever told about side effects of current method8 (%),62.6,47.5
+Mizoram,MZ,Mamit,32. Mothers who had an antenatal check-up in the first trimester (%),64.5,60.7
+Mizoram,MZ,Mamit,33. Mothers who had at least 4 antenatal care visits (%),52.5,44.8
+Mizoram,MZ,Mamit,34. Mothers whose last birth was protected against neonatal tetanus9 (%),80.7,77.5
+Mizoram,MZ,Mamit,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),68.8,50.4
+Mizoram,MZ,Mamit,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),4.5,1.8
+Mizoram,MZ,Mamit,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),98.9,94.7
+Mizoram,MZ,Mamit,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Mizoram,MZ,Mamit,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),4150.0,2986.0
+Mizoram,MZ,Mamit,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),0.0,0.0
+Mizoram,MZ,Mamit,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Mizoram,MZ,Mamit,42. Institutional births (%),75.0,58.0
+Mizoram,MZ,Mamit,43. Institutional births in public facility (%),71.8,52.9
+Mizoram,MZ,Mamit,44. Home births that were conducted by skilled health personnel10 (%),7.1,10.1
+Mizoram,MZ,Mamit,45. Births attended by skilled health personnel10 (%),81.1,67.6
+Mizoram,MZ,Mamit,46. Births delivered by caesarean section (%),3.5,3.3
+Mizoram,MZ,Mamit,47. Births in a private health facility that were delivered by caesarean section (%),,
+Mizoram,MZ,Mamit,48. Births in a public health facility that were delivered by caesarean section (%),3.5,4.0
+Mizoram,MZ,Mamit,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Mizoram,MZ,Mamit,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),85.7,71.3
+Mizoram,MZ,Mamit,51. Children age 12-23 months who have received BCG (%),98.5,64.2
+Mizoram,MZ,Mamit,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),87.4,55.4
+Mizoram,MZ,Mamit,53. Children age 12-23 months who have received 3 doses of penta or DPT vaccine (%),95.2,54.9
+Mizoram,MZ,Mamit,54. Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),95.2,56.8
+Mizoram,MZ,Mamit,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),19.2,
+Mizoram,MZ,Mamit,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),2.5,
+Mizoram,MZ,Mamit,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),91.1,48.2
+Mizoram,MZ,Mamit,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),60.8,59.3
+Mizoram,MZ,Mamit,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),100.0,96.5
+Mizoram,MZ,Mamit,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,1.8
+Mizoram,MZ,Mamit,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),0.6,9.4
+Mizoram,MZ,Mamit,62. Children with diarrhoea in the 2 weeks preceding the survey who received oral rehydration salts (ORS) (%),,66.1
+Mizoram,MZ,Mamit,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,18.2
+Mizoram,MZ,Mamit,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,31.1
+Mizoram,MZ,Mamit,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.0,0.8
+Mizoram,MZ,Mamit,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Mizoram,MZ,Mamit,67. Children under age 3 years breastfed within one hour of birth15 (%),56.8,85.5
+Mizoram,MZ,Mamit,68. Children under age 6 months exclusively breastfed16 (%),,
+Mizoram,MZ,Mamit,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
+Mizoram,MZ,Mamit,"70. Breastfeeding children age 6-23 months receiving an adequate diet16, 17  (%)",4.0,6.1
+Mizoram,MZ,Mamit,"71. Non-breastfeeding children age 6-23 months receiving an adequate diet16, 17 (%)",,
+Mizoram,MZ,Mamit,"72. Total children age 6-23 months receiving an adequate diet16, 17  (%)",6.8,5.2
+Mizoram,MZ,Mamit,73. Children under 5 years who are stunted (height-for-age)18 (%),26.4,30.8
+Mizoram,MZ,Mamit,74. Children under 5 years who are wasted (weight-for-height)18 (%),7.4,9.3
+Mizoram,MZ,Mamit,75. Children under 5 years who are severely wasted (weight-for-height)19 (%),3.8,2.7
+Mizoram,MZ,Mamit,76. Children under 5 years who are underweight (weight-for-age)18 (%),13.9,17.5
+Mizoram,MZ,Mamit,77. Children under 5 years who are overweight (weight-for-height)20 (%),5.9,3.1
+Mizoram,MZ,Mamit,78. Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)21 (%),4.1,10.2
+Mizoram,MZ,Mamit,79. Women who are overweight or obese (BMI ≥25.0 kg/m2)21 (%),21.8,13.2
+Mizoram,MZ,Mamit,80. Women who have high risk waist-to-hip ratio (≥0.85) (%),53.1,
+Mizoram,MZ,Mamit,81. Children age 6-59 months who are anaemic (<11.0 g/dl)22 (%),45.5,19.4
+Mizoram,MZ,Mamit,82. Non-pregnant women age 15-49 years who are anaemic (<12.0 g/dl)22 (%),35.1,27.8
+Mizoram,MZ,Mamit,83. Pregnant women age 15-49 years who are anaemic (<11.0 g/dl)22 (%),29.9,23.7
+Mizoram,MZ,Mamit,84. All women age 15-49 years who are anaemic22 (%),34.9,27.6
+Mizoram,MZ,Mamit,85. All women age 15-19 years who are anaemic22 (%),42.4,17.6
+Mizoram,MZ,Mamit,86. Blood sugar level - high (141-160 mg/dl)23 (%),5.7,
+Mizoram,MZ,Mamit,87. Blood sugar level - very high (>160 mg/dl)23 (%),5.0,
+Mizoram,MZ,Mamit,88. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),11.4,
+Mizoram,MZ,Mamit,89. Blood sugar level - high (141-160 mg/dl)23 (%),8.0,
+Mizoram,MZ,Mamit,90. Blood sugar level - very high (>160 mg/dl)23 (%),4.6,
+Mizoram,MZ,Mamit,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),13.4,
+Mizoram,MZ,Mamit,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),10.1,
+Mizoram,MZ,Mamit,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),2.4,
+Mizoram,MZ,Mamit,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Mizoram,MZ,Mamit,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),16.5,
+Mizoram,MZ,Mamit,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.1,
+Mizoram,MZ,Mamit,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Mizoram,MZ,Mamit,98. Ever undergone a screening test for cervical cancer (%),4.9,
+Mizoram,MZ,Mamit,99. Ever undergone a breast examination for breast cancer (%),2.4,
+Mizoram,MZ,Mamit,100. Ever undergone an oral cavity examination for oral cancer (%),0.8,
+Mizoram,MZ,Mamit,101. Women age 15 years and above who use any kind of tobacco (%),70.2,
+Mizoram,MZ,Mamit,102. Men age 15 years and above who use any kind of tobacco (%),80.6,
+Mizoram,MZ,Mamit,103. Women age 15 years and above who consume alcohol (%),0.4,
+Mizoram,MZ,Mamit,104. Men age 15 years and above who consume alcohol (%),26.2,
+Mizoram,MZ,Saiha,1. Female population age 6 years and above who ever attended school (%),92.2,90.0
+Mizoram,MZ,Saiha,2. Population below age 15 years (%),31.7,34.0
+Mizoram,MZ,Saiha,"3. Sex ratio of the total population (females per 1,000 males)",994.0,995.0
+Mizoram,MZ,Saiha,"4. Sex ratio at birth for children born in the last five years (females per 1,000 males)",1171.0,986.0
+Mizoram,MZ,Saiha,5. Children under age 5 years whose birth was registered with the civil authority (%),97.5,96.9
+Mizoram,MZ,Saiha,6. Deaths in the last 3 years registered with the civil authority (%),75.3,
+Mizoram,MZ,Saiha,7. Population living in households with electricity (%),99.7,99.4
+Mizoram,MZ,Saiha,8. Population living in households with an improved drinking-water source1 (%),95.2,93.2
+Mizoram,MZ,Saiha,9. Population living in households that use an improved sanitation facility2 (%),91.5,80.5
+Mizoram,MZ,Saiha,10. Households using clean fuel for cooking3 (%),83.7,56.6
+Mizoram,MZ,Saiha,11. Households using iodized salt (%),98.7,99.8
+Mizoram,MZ,Saiha,12. Households with any usual member covered under a health insurance/financing scheme (%),44.2,54.0
+Mizoram,MZ,Saiha,13. Children age 5 years who attended pre-primary school during the school year 2019-20 (%),4.0,
+Mizoram,MZ,Saiha,14. Women who are literate4 (%),95.1,
+Mizoram,MZ,Saiha,15. Women with 10 or more years of schooling (%),50.2,41.6
+Mizoram,MZ,Saiha,16. Women age 20-24 years married before age 18 years (%),11.8,12.1
+Mizoram,MZ,Saiha,17. Births in the 5 years preceding the survey that are third or higher order (%),2.7,4.9
+Mizoram,MZ,Saiha,18. Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),4.7,4.1
+Mizoram,MZ,Saiha,19. Women age 15-24 years who use hygienic methods of protection during their menstrual period5 (%),83.0,92.9
+Mizoram,MZ,Saiha,20. Any method6 (%),22.6,33.4
+Mizoram,MZ,Saiha,21. Any modern method6 (%),21.7,33.4
+Mizoram,MZ,Saiha,22. Female sterilization (%),7.9,25.5
+Mizoram,MZ,Saiha,23. Male sterilization (%),0.0,0.0
+Mizoram,MZ,Saiha,24. IUD/PPIUD (%),4.3,3.7
+Mizoram,MZ,Saiha,25. Pill (%),6.9,3.9
+Mizoram,MZ,Saiha,26. Condom (%),2.5,0.2
+Mizoram,MZ,Saiha,27. Injectables (%),0.2,0.1
+Mizoram,MZ,Saiha,28. Total unmet need7 (%),22.5,25.3
+Mizoram,MZ,Saiha,29. Unmet need for spacing7 (%),15.2,18.0
+Mizoram,MZ,Saiha,30. Health worker ever talked to female non-users about family planning (%),22.2,15.7
+Mizoram,MZ,Saiha,31. Current users ever told about side effects of current method8 (%),43.9,68.5
+Mizoram,MZ,Saiha,32. Mothers who had an antenatal check-up in the first trimester (%),60.7,63.8
+Mizoram,MZ,Saiha,33. Mothers who had at least 4 antenatal care visits (%),35.5,48.2
+Mizoram,MZ,Saiha,34. Mothers whose last birth was protected against neonatal tetanus9 (%),72.6,86.9
+Mizoram,MZ,Saiha,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),51.4,53.9
+Mizoram,MZ,Saiha,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),10.0,3.7
+Mizoram,MZ,Saiha,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),96.9,96.8
+Mizoram,MZ,Saiha,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Mizoram,MZ,Saiha,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),7521.0,3179.0
+Mizoram,MZ,Saiha,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),8.5,0.9
+Mizoram,MZ,Saiha,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Mizoram,MZ,Saiha,42. Institutional births (%),73.8,58.9
+Mizoram,MZ,Saiha,43. Institutional births in public facility (%),70.3,55.4
+Mizoram,MZ,Saiha,44. Home births that were conducted by skilled health personnel10 (%),10.0,11.4
+Mizoram,MZ,Saiha,45. Births attended by skilled health personnel10 (%),80.5,70.2
+Mizoram,MZ,Saiha,46. Births delivered by caesarean section (%),9.5,3.4
+Mizoram,MZ,Saiha,47. Births in a private health facility that were delivered by caesarean section (%),,39.9
+Mizoram,MZ,Saiha,48. Births in a public health facility that were delivered by caesarean section (%),10.6,3.7
+Mizoram,MZ,Saiha,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Mizoram,MZ,Saiha,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),84.8,76.4
+Mizoram,MZ,Saiha,51. Children age 12-23 months who have received BCG (%),69.9,79.1
+Mizoram,MZ,Saiha,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),61.5,66.0
+Mizoram,MZ,Saiha,53. Children age 12-23 months who have received 3 doses of penta or DPT vaccine (%),60.3,69.1
+Mizoram,MZ,Saiha,54. Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),65.5,75.2
+Mizoram,MZ,Saiha,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),20.4,
+Mizoram,MZ,Saiha,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),1.9,
+Mizoram,MZ,Saiha,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),58.2,58.7
+Mizoram,MZ,Saiha,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),67.4,69.0
+Mizoram,MZ,Saiha,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),98.5,99.2
+Mizoram,MZ,Saiha,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,0.0
+Mizoram,MZ,Saiha,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),7.6,2.8
+Mizoram,MZ,Saiha,62. Children with diarrhoea in the 2 weeks preceding the survey who received oral rehydration salts (ORS) (%),74.7,61.8
+Mizoram,MZ,Saiha,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),48.2,35.6
+Mizoram,MZ,Saiha,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),30.9,54.9
+Mizoram,MZ,Saiha,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.6,0.9
+Mizoram,MZ,Saiha,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Mizoram,MZ,Saiha,67. Children under age 3 years breastfed within one hour of birth15 (%),46.4,87.4
+Mizoram,MZ,Saiha,68. Children under age 6 months exclusively breastfed16 (%),72.1,75.5
+Mizoram,MZ,Saiha,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,77.1
+Mizoram,MZ,Saiha,"70. Breastfeeding children age 6-23 months receiving an adequate diet16, 17  (%)",7.8,7.3
+Mizoram,MZ,Saiha,"71. Non-breastfeeding children age 6-23 months receiving an adequate diet16, 17 (%)",,4.3
+Mizoram,MZ,Saiha,"72. Total children age 6-23 months receiving an adequate diet16, 17  (%)",7.9,6.7
+Mizoram,MZ,Saiha,73. Children under 5 years who are stunted (height-for-age)18 (%),43.8,37.5
+Mizoram,MZ,Saiha,74. Children under 5 years who are wasted (weight-for-height)18 (%),7.7,11.6
+Mizoram,MZ,Saiha,75. Children under 5 years who are severely wasted (weight-for-height)19 (%),3.4,4.0
+Mizoram,MZ,Saiha,76. Children under 5 years who are underweight (weight-for-age)18 (%),17.6,16.7
+Mizoram,MZ,Saiha,77. Children under 5 years who are overweight (weight-for-height)20 (%),11.1,4.2
+Mizoram,MZ,Saiha,78. Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)21 (%),9.3,11.1
+Mizoram,MZ,Saiha,79. Women who are overweight or obese (BMI ≥25.0 kg/m2)21 (%),18.9,9.3
+Mizoram,MZ,Saiha,80. Women who have high risk waist-to-hip ratio (≥0.85) (%),42.5,
+Mizoram,MZ,Saiha,81. Children age 6-59 months who are anaemic (<11.0 g/dl)22 (%),46.4,21.1
+Mizoram,MZ,Saiha,82. Non-pregnant women age 15-49 years who are anaemic (<12.0 g/dl)22 (%),45.1,27.9
+Mizoram,MZ,Saiha,83. Pregnant women age 15-49 years who are anaemic (<11.0 g/dl)22 (%),30.0,29.7
+Mizoram,MZ,Saiha,84. All women age 15-49 years who are anaemic22 (%),44.2,27.9
+Mizoram,MZ,Saiha,85. All women age 15-19 years who are anaemic22 (%),46.0,19.0
+Mizoram,MZ,Saiha,86. Blood sugar level - high (141-160 mg/dl)23 (%),4.7,
+Mizoram,MZ,Saiha,87. Blood sugar level - very high (>160 mg/dl)23 (%),4.1,
+Mizoram,MZ,Saiha,88. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),9.5,
+Mizoram,MZ,Saiha,89. Blood sugar level - high (141-160 mg/dl)23 (%),6.0,
+Mizoram,MZ,Saiha,90. Blood sugar level - very high (>160 mg/dl)23 (%),3.2,
+Mizoram,MZ,Saiha,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),9.3,
+Mizoram,MZ,Saiha,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),8.4,
+Mizoram,MZ,Saiha,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.1,
+Mizoram,MZ,Saiha,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Mizoram,MZ,Saiha,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),16.2,
+Mizoram,MZ,Saiha,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),5.2,
+Mizoram,MZ,Saiha,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Mizoram,MZ,Saiha,98. Ever undergone a screening test for cervical cancer (%),4.9,
+Mizoram,MZ,Saiha,99. Ever undergone a breast examination for breast cancer (%),1.8,
+Mizoram,MZ,Saiha,100. Ever undergone an oral cavity examination for oral cancer (%),0.7,
+Mizoram,MZ,Saiha,101. Women age 15 years and above who use any kind of tobacco (%),70.0,
+Mizoram,MZ,Saiha,102. Men age 15 years and above who use any kind of tobacco (%),73.7,
+Mizoram,MZ,Saiha,103. Women age 15 years and above who consume alcohol (%),0.6,
+Mizoram,MZ,Saiha,104. Men age 15 years and above who consume alcohol (%),21.0,
+Mizoram,MZ,Serchhip,1. Female population age 6 years and above who ever attended school (%),96.8,95.9
+Mizoram,MZ,Serchhip,2. Population below age 15 years (%),29.0,31.0
+Mizoram,MZ,Serchhip,"3. Sex ratio of the total population (females per 1,000 males)",981.0,945.0
+Mizoram,MZ,Serchhip,"4. Sex ratio at birth for children born in the last five years (females per 1,000 males)",1084.0,935.0
+Mizoram,MZ,Serchhip,5. Children under age 5 years whose birth was registered with the civil authority (%),100.0,99.7
+Mizoram,MZ,Serchhip,6. Deaths in the last 3 years registered with the civil authority (%),93.4,
+Mizoram,MZ,Serchhip,7. Population living in households with electricity (%),99.3,99.8
+Mizoram,MZ,Serchhip,8. Population living in households with an improved drinking-water source1 (%),97.7,96.0
+Mizoram,MZ,Serchhip,9. Population living in households that use an improved sanitation facility2 (%),98.2,92.1
+Mizoram,MZ,Serchhip,10. Households using clean fuel for cooking3 (%),81.8,64.8
+Mizoram,MZ,Serchhip,11. Households using iodized salt (%),98.7,99.5
+Mizoram,MZ,Serchhip,12. Households with any usual member covered under a health insurance/financing scheme (%),58.8,70.3
+Mizoram,MZ,Serchhip,13. Children age 5 years who attended pre-primary school during the school year 2019-20 (%),1.5,
+Mizoram,MZ,Serchhip,14. Women who are literate4 (%),99.7,
+Mizoram,MZ,Serchhip,15. Women with 10 or more years of schooling (%),43.1,34.2
+Mizoram,MZ,Serchhip,16. Women age 20-24 years married before age 18 years (%),7.2,7.3
+Mizoram,MZ,Serchhip,17. Births in the 5 years preceding the survey that are third or higher order (%),1.3,1.1
+Mizoram,MZ,Serchhip,18. Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),3.0,6.6
+Mizoram,MZ,Serchhip,19. Women age 15-24 years who use hygienic methods of protection during their menstrual period5 (%),93.2,97.1
+Mizoram,MZ,Serchhip,20. Any method6 (%),40.0,41.2
+Mizoram,MZ,Serchhip,21. Any modern method6 (%),39.4,41.1
+Mizoram,MZ,Serchhip,22. Female sterilization (%),15.6,17.3
+Mizoram,MZ,Serchhip,23. Male sterilization (%),0.0,0.0
+Mizoram,MZ,Serchhip,24. IUD/PPIUD (%),2.6,5.6
+Mizoram,MZ,Serchhip,25. Pill (%),19.5,17.3
+Mizoram,MZ,Serchhip,26. Condom (%),1.8,0.9
+Mizoram,MZ,Serchhip,27. Injectables (%),0.0,0.1
+Mizoram,MZ,Serchhip,28. Total unmet need7 (%),15.9,19.6
+Mizoram,MZ,Serchhip,29. Unmet need for spacing7 (%),11.8,12.7
+Mizoram,MZ,Serchhip,30. Health worker ever talked to female non-users about family planning (%),17.3,20.7
+Mizoram,MZ,Serchhip,31. Current users ever told about side effects of current method8 (%),59.8,48.8
+Mizoram,MZ,Serchhip,32. Mothers who had an antenatal check-up in the first trimester (%),77.6,66.3
+Mizoram,MZ,Serchhip,33. Mothers who had at least 4 antenatal care visits (%),60.3,68.2
+Mizoram,MZ,Serchhip,34. Mothers whose last birth was protected against neonatal tetanus9 (%),85.1,87.4
+Mizoram,MZ,Serchhip,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),73.0,62.6
+Mizoram,MZ,Serchhip,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),12.0,3.0
+Mizoram,MZ,Serchhip,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),99.3,98.5
+Mizoram,MZ,Serchhip,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Mizoram,MZ,Serchhip,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),6449.0,3025.0
+Mizoram,MZ,Serchhip,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,5.6
+Mizoram,MZ,Serchhip,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Mizoram,MZ,Serchhip,42. Institutional births (%),96.2,88.4
+Mizoram,MZ,Serchhip,43. Institutional births in public facility (%),90.7,79.9
+Mizoram,MZ,Serchhip,44. Home births that were conducted by skilled health personnel10 (%),0.6,5.8
+Mizoram,MZ,Serchhip,45. Births attended by skilled health personnel10 (%),96.8,93.8
+Mizoram,MZ,Serchhip,46. Births delivered by caesarean section (%),13.9,12.2
+Mizoram,MZ,Serchhip,47. Births in a private health facility that were delivered by caesarean section (%),,38.9
+Mizoram,MZ,Serchhip,48. Births in a public health facility that were delivered by caesarean section (%),13.0,11.1
+Mizoram,MZ,Serchhip,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Mizoram,MZ,Serchhip,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),93.0,78.9
+Mizoram,MZ,Serchhip,51. Children age 12-23 months who have received BCG (%),89.8,82.0
+Mizoram,MZ,Serchhip,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),85.8,69.9
+Mizoram,MZ,Serchhip,53. Children age 12-23 months who have received 3 doses of penta or DPT vaccine (%),84.7,72.4
+Mizoram,MZ,Serchhip,54. Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),85.8,74.3
+Mizoram,MZ,Serchhip,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),28.6,
+Mizoram,MZ,Serchhip,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),0.0,
+Mizoram,MZ,Serchhip,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),84.2,62.7
+Mizoram,MZ,Serchhip,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),65.9,72.1
+Mizoram,MZ,Serchhip,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),100.0,97.0
+Mizoram,MZ,Serchhip,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,3.0
+Mizoram,MZ,Serchhip,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),3.2,3.7
+Mizoram,MZ,Serchhip,62. Children with diarrhoea in the 2 weeks preceding the survey who received oral rehydration salts (ORS) (%),,42.2
+Mizoram,MZ,Serchhip,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,15.3
+Mizoram,MZ,Serchhip,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,30.3
+Mizoram,MZ,Serchhip,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.3,1.9
+Mizoram,MZ,Serchhip,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Mizoram,MZ,Serchhip,67. Children under age 3 years breastfed within one hour of birth15 (%),58.8,72.4
+Mizoram,MZ,Serchhip,68. Children under age 6 months exclusively breastfed16 (%),63.9,66.4
+Mizoram,MZ,Serchhip,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,78.3
+Mizoram,MZ,Serchhip,"70. Breastfeeding children age 6-23 months receiving an adequate diet16, 17  (%)",12.7,21.1
+Mizoram,MZ,Serchhip,"71. Non-breastfeeding children age 6-23 months receiving an adequate diet16, 17 (%)",,
+Mizoram,MZ,Serchhip,"72. Total children age 6-23 months receiving an adequate diet16, 17  (%)",12.1,19.0
+Mizoram,MZ,Serchhip,73. Children under 5 years who are stunted (height-for-age)18 (%),31.8,25.4
+Mizoram,MZ,Serchhip,74. Children under 5 years who are wasted (weight-for-height)18 (%),8.4,9.4
+Mizoram,MZ,Serchhip,75. Children under 5 years who are severely wasted (weight-for-height)19 (%),4.4,3.1
+Mizoram,MZ,Serchhip,76. Children under 5 years who are underweight (weight-for-age)18 (%),14.4,12.2
+Mizoram,MZ,Serchhip,77. Children under 5 years who are overweight (weight-for-height)20 (%),8.7,3.4
+Mizoram,MZ,Serchhip,78. Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)21 (%),5.9,9.7
+Mizoram,MZ,Serchhip,79. Women who are overweight or obese (BMI ≥25.0 kg/m2)21 (%),24.0,18.9
+Mizoram,MZ,Serchhip,80. Women who have high risk waist-to-hip ratio (≥0.85) (%),47.4,
+Mizoram,MZ,Serchhip,81. Children age 6-59 months who are anaemic (<11.0 g/dl)22 (%),43.2,29.0
+Mizoram,MZ,Serchhip,82. Non-pregnant women age 15-49 years who are anaemic (<12.0 g/dl)22 (%),31.7,25.8
+Mizoram,MZ,Serchhip,83. Pregnant women age 15-49 years who are anaemic (<11.0 g/dl)22 (%),43.4,18.6
+Mizoram,MZ,Serchhip,84. All women age 15-49 years who are anaemic22 (%),32.1,25.5
+Mizoram,MZ,Serchhip,85. All women age 15-19 years who are anaemic22 (%),30.0,24.0
+Mizoram,MZ,Serchhip,86. Blood sugar level - high (141-160 mg/dl)23 (%),7.0,
+Mizoram,MZ,Serchhip,87. Blood sugar level - very high (>160 mg/dl)23 (%),5.8,
+Mizoram,MZ,Serchhip,88. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),14.2,
+Mizoram,MZ,Serchhip,89. Blood sugar level - high (141-160 mg/dl)23 (%),7.2,
+Mizoram,MZ,Serchhip,90. Blood sugar level - very high (>160 mg/dl)23 (%),5.6,
+Mizoram,MZ,Serchhip,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),13.8,
+Mizoram,MZ,Serchhip,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),7.7,
+Mizoram,MZ,Serchhip,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),2.5,
+Mizoram,MZ,Serchhip,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Mizoram,MZ,Serchhip,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),12.5,
+Mizoram,MZ,Serchhip,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.1,
+Mizoram,MZ,Serchhip,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Mizoram,MZ,Serchhip,98. Ever undergone a screening test for cervical cancer (%),8.0,
+Mizoram,MZ,Serchhip,99. Ever undergone a breast examination for breast cancer (%),1.5,
+Mizoram,MZ,Serchhip,100. Ever undergone an oral cavity examination for oral cancer (%),0.8,
+Mizoram,MZ,Serchhip,101. Women age 15 years and above who use any kind of tobacco (%),62.7,
+Mizoram,MZ,Serchhip,102. Men age 15 years and above who use any kind of tobacco (%),74.2,
+Mizoram,MZ,Serchhip,103. Women age 15 years and above who consume alcohol (%),0.4,
+Mizoram,MZ,Serchhip,104. Men age 15 years and above who consume alcohol (%),22.4,
