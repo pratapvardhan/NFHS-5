@@ -1,8 +1,12 @@
 # NFHS-5: National Family Health Survey (2019-20)
 
-Fact sheets for key indicators from http://rchiips.org/nfhs/
+[![CC BY 4.0][cc-by-shield]][cc-by]
 
-## Download
+CSV Fact sheets for key indicators from http://rchiips.org/nfhs/.
+PDF files are automatically converted and manually edited for few.
+Quality checks have been minimally done. Please recheck with source before doing any analysis.
+
+### Download
 
 - [NFHS-5-States.csv](NFHS-5-States.csv): 22 states level data for 131 indicators
 - [NFHS-5-Districts.csv](NFHS-5-Districts.csv): 341 districts from 21 states
@@ -28,6 +32,22 @@ Fact sheets for key indicators from http://rchiips.org/nfhs/
   - [NFHS-5-TG-Telangana.csv](./district-level/NFHS-5-TG-Telangana.csv)
   - [NFHS-5-TR-Tripura.csv](./district-level/NFHS-5-TR-Tripura.csv)
   - [NFHS-5-WB-West-Bengal.csv](./district-level/NFHS-5-WB-West-Bengal.csv)
+
+### Citation
+
+```
+@misc{pratapvardhan_2020_nfhs5,
+  author = {Pratap Vardhan, Bhanu K},
+  title = {{Dataset for NFHS-5: National Family Health Survey (2019-20)}},
+  howpublished = {\url{https://github.com/pratapvardhan/NFHS-5}},
+  note = {Accessed: yyyy-mm-dd}
+  year = 2020
+}
+```
+
+Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+---
 
 ### Issues
 - NFHS-5-states.csv
@@ -79,3 +99,6 @@ You can manually convert one of the 29 pdf files and submit as PR/Issue.
     - [HP/Sirmaur.pdf](http://rchiips.org/NFHS/NFHS-5_FCTS/HP/Sirmaur.pdf)
     - [HP/Solan.pdf](http://rchiips.org/NFHS/NFHS-5_FCTS/HP/Solan.pdf)
 </details>
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
