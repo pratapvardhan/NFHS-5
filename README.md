@@ -4,7 +4,7 @@ Fact sheets for key indicators from http://rchiips.org/nfhs/
 
 ## Download
 
-- [NFHS-5-states.csv](NFHS-5-states.csv): 22 states level data for 131 indicators
+- [NFHS-5-States.csv](NFHS-5-States.csv): 22 states level data for 131 indicators
 - District level files (state-wise)
   - [NFHS-5-AN-Andaman-and-Nicobar-Island.csv](./district-level/NFHS-5-AN-Andaman-and-Nicobar-Island.csv)
   - [NFHS-5-AP-Andhra-Pradesh.csv](./district-level/NFHS-5-AP-Andhra-Pradesh.csv)
