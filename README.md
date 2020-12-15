@@ -35,9 +35,10 @@ Fact sheets for key indicators from http://rchiips.org/nfhs/
 
 ### TODO (Need help)
 
-You can manually convert one of the 29 pdf files and submit as PR/Issue. **[Bhanu K](https://github.com/bkamapantula)** has setup data cleaning process at: https://docs.google.com/spreadsheets/d/1U6dR6x-_8mVmhsub11h3kSZuY6Cm8aBlmjybKcE3rqk/edit?usp=sharing -- request **edit access** to contribute.
+You can manually convert one of the 29 pdf files and submit as PR/Issue. 
 
-- [KL/Kasaragod.pdf](http://rchiips.org/NFHS/NFHS-5_FCTS/KL/Kasaragod.pdf) file is missing
+**[Bhanu K](https://github.com/bkamapantula)** has setup data cleaning process at: https://docs.google.com/spreadsheets/d/1U6dR6x-_8mVmhsub11h3kSZuY6Cm8aBlmjybKcE3rqk/edit?usp=sharing -- request **edit access** to contribute.
+- Manually crowd check districts data with PDFs. Sample QA check.
 - Manually fix 29 files. See [status.csv](status.csv).
     - [HP/Bilaspur.pdf](http://rchiips.org/NFHS/NFHS-5_FCTS/HP/Bilaspur.pdf)
     - [HP/Chamba.pdf](http://rchiips.org/NFHS/NFHS-5_FCTS/HP/Chamba.pdf)

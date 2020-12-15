@@ -36,10 +36,10 @@ Nagaland,NL,Dimapur,34. Mothers whose last birth was protected against neonatal 
 Nagaland,NL,Dimapur,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),14.9,7.6
 Nagaland,NL,Dimapur,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),9.3,4.3
 Nagaland,NL,Dimapur,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),82.3,64.3
-Nagaland,NL,Dimapur,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Nagaland,NL,Dimapur,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),68.7,35.6
 Nagaland,NL,Dimapur,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),7330.0,7468.0
 Nagaland,NL,Dimapur,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),0.0,0.0
-Nagaland,NL,Dimapur,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Nagaland,NL,Dimapur,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),64.7,
 Nagaland,NL,Dimapur,42. Institutional births (%),73.7,56.3
 Nagaland,NL,Dimapur,43. Institutional births in public facility (%),43.2,32.5
 Nagaland,NL,Dimapur,44. Home births that were conducted by skilled health personnel10 (%),9.4,5.5
@@ -47,7 +47,7 @@ Nagaland,NL,Dimapur,45. Births attended by skilled health personnel10 (%),80.7,6
 Nagaland,NL,Dimapur,46. Births delivered by caesarean section (%),14.6,12.5
 Nagaland,NL,Dimapur,47. Births in a private health facility that were delivered by caesarean section (%),28.1,31.0
 Nagaland,NL,Dimapur,48. Births in a public health facility that were delivered by caesarean section (%),14.1,15.6
-Nagaland,NL,Dimapur,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Nagaland,NL,Dimapur,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),55.9,33.7
 Nagaland,NL,Dimapur,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),63.8,66.0
 Nagaland,NL,Dimapur,51. Children age 12-23 months who have received BCG (%),85.1,63.3
 Nagaland,NL,Dimapur,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),61.3,59.2
@@ -64,7 +64,7 @@ Nagaland,NL,Dimapur,62. Children with diarrhoea in the 2 weeks preceding the sur
 Nagaland,NL,Dimapur,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,14.0
 Nagaland,NL,Dimapur,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,29.9
 Nagaland,NL,Dimapur,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.6,3.6
-Nagaland,NL,Dimapur,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Nagaland,NL,Dimapur,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),36.7,40.2
 Nagaland,NL,Dimapur,67. Children under age 3 years breastfed within one hour of birth15 (%),53.1,45.1
 Nagaland,NL,Dimapur,68. Children under age 6 months exclusively breastfed16 (%),,35.8
 Nagaland,NL,Dimapur,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,75.7
@@ -92,10 +92,10 @@ Nagaland,NL,Dimapur,90. Blood sugar level - very high (>160 mg/dl)23 (%),7.4,
 Nagaland,NL,Dimapur,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),14.1,
 Nagaland,NL,Dimapur,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),11.0,
 Nagaland,NL,Dimapur,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),5.2,
-Nagaland,NL,Dimapur,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Nagaland,NL,Dimapur,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),18.6,
 Nagaland,NL,Dimapur,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),12.0,
 Nagaland,NL,Dimapur,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),6.9,
-Nagaland,NL,Dimapur,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Nagaland,NL,Dimapur,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),20.8,
 Nagaland,NL,Dimapur,98. Ever undergone a screening test for cervical cancer (%),0.2,
 Nagaland,NL,Dimapur,99. Ever undergone a breast examination for breast cancer (%),0.0,
 Nagaland,NL,Dimapur,100. Ever undergone an oral cavity examination for oral cancer (%),0.7,
@@ -140,10 +140,10 @@ Nagaland,NL,Kiphire,34. Mothers whose last birth was protected against neonatal 
 Nagaland,NL,Kiphire,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),1.6,1.4
 Nagaland,NL,Kiphire,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),0.8,0.7
 Nagaland,NL,Kiphire,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),92.4,72.6
-Nagaland,NL,Kiphire,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Nagaland,NL,Kiphire,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),31.9,13.9
 Nagaland,NL,Kiphire,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),6288.0,3606.0
 Nagaland,NL,Kiphire,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),2.1,0.0
-Nagaland,NL,Kiphire,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Nagaland,NL,Kiphire,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),33.5,
 Nagaland,NL,Kiphire,42. Institutional births (%),34.8,24.7
 Nagaland,NL,Kiphire,43. Institutional births in public facility (%),33.8,23.6
 Nagaland,NL,Kiphire,44. Home births that were conducted by skilled health personnel10 (%),11.9,5.5
@@ -151,7 +151,7 @@ Nagaland,NL,Kiphire,45. Births attended by skilled health personnel10 (%),46.7,3
 Nagaland,NL,Kiphire,46. Births delivered by caesarean section (%),2.1,1.6
 Nagaland,NL,Kiphire,47. Births in a private health facility that were delivered by caesarean section (%),,
 Nagaland,NL,Kiphire,48. Births in a public health facility that were delivered by caesarean section (%),5.1,4.8
-Nagaland,NL,Kiphire,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Nagaland,NL,Kiphire,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),42.8,36.0
 Nagaland,NL,Kiphire,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),73.5,83.5
 Nagaland,NL,Kiphire,51. Children age 12-23 months who have received BCG (%),82.1,65.7
 Nagaland,NL,Kiphire,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),53.1,56.3
@@ -196,10 +196,10 @@ Nagaland,NL,Kiphire,90. Blood sugar level - very high (>160 mg/dl)23 (%),3.7,
 Nagaland,NL,Kiphire,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),11.7,
 Nagaland,NL,Kiphire,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),10.2,
 Nagaland,NL,Kiphire,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),4.1,
-Nagaland,NL,Kiphire,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Nagaland,NL,Kiphire,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),15.3,
 Nagaland,NL,Kiphire,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),15.3,
 Nagaland,NL,Kiphire,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),5.2,
-Nagaland,NL,Kiphire,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Nagaland,NL,Kiphire,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),22.0,
 Nagaland,NL,Kiphire,98. Ever undergone a screening test for cervical cancer (%),1.2,
 Nagaland,NL,Kiphire,99. Ever undergone a breast examination for breast cancer (%),1.1,
 Nagaland,NL,Kiphire,100. Ever undergone an oral cavity examination for oral cancer (%),0.9,
@@ -244,10 +244,10 @@ Nagaland,NL,Kohima,34. Mothers whose last birth was protected against neonatal t
 Nagaland,NL,Kohima,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),17.2,8.6
 Nagaland,NL,Kohima,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),1.0,4.6
 Nagaland,NL,Kohima,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),95.2,87.1
-Nagaland,NL,Kohima,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Nagaland,NL,Kohima,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),58.9,34.9
 Nagaland,NL,Kohima,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),4970.0,5123.0
 Nagaland,NL,Kohima,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),0.0,0.8
-Nagaland,NL,Kohima,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Nagaland,NL,Kohima,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),55.6,
 Nagaland,NL,Kohima,42. Institutional births (%),66.9,54.9
 Nagaland,NL,Kohima,43. Institutional births in public facility (%),44.7,44.8
 Nagaland,NL,Kohima,44. Home births that were conducted by skilled health personnel10 (%),12.2,9.0
@@ -255,7 +255,7 @@ Nagaland,NL,Kohima,45. Births attended by skilled health personnel10 (%),78.9,63
 Nagaland,NL,Kohima,46. Births delivered by caesarean section (%),4.3,9.3
 Nagaland,NL,Kohima,47. Births in a private health facility that were delivered by caesarean section (%),8.9,34.0
 Nagaland,NL,Kohima,48. Births in a public health facility that were delivered by caesarean section (%),5.2,13.1
-Nagaland,NL,Kohima,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Nagaland,NL,Kohima,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),82.8,60.5
 Nagaland,NL,Kohima,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),90.2,76.7
 Nagaland,NL,Kohima,51. Children age 12-23 months who have received BCG (%),100.0,93.9
 Nagaland,NL,Kohima,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),86.1,67.5
@@ -272,7 +272,7 @@ Nagaland,NL,Kohima,62. Children with diarrhoea in the 2 weeks preceding the surv
 Nagaland,NL,Kohima,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,20.3
 Nagaland,NL,Kohima,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,21.6
 Nagaland,NL,Kohima,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.9,0.7
-Nagaland,NL,Kohima,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Nagaland,NL,Kohima,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,32.6
 Nagaland,NL,Kohima,67. Children under age 3 years breastfed within one hour of birth15 (%),60.3,50.0
 Nagaland,NL,Kohima,68. Children under age 6 months exclusively breastfed16 (%),,33.2
 Nagaland,NL,Kohima,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,59.2
@@ -300,10 +300,10 @@ Nagaland,NL,Kohima,90. Blood sugar level - very high (>160 mg/dl)23 (%),3.8,
 Nagaland,NL,Kohima,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),9.9,
 Nagaland,NL,Kohima,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),15.2,
 Nagaland,NL,Kohima,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),9.8,
-Nagaland,NL,Kohima,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Nagaland,NL,Kohima,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),25.7,
 Nagaland,NL,Kohima,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),19.8,
 Nagaland,NL,Kohima,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),11.2,
-Nagaland,NL,Kohima,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Nagaland,NL,Kohima,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),31.1,
 Nagaland,NL,Kohima,98. Ever undergone a screening test for cervical cancer (%),0.1,
 Nagaland,NL,Kohima,99. Ever undergone a breast examination for breast cancer (%),0.4,
 Nagaland,NL,Kohima,100. Ever undergone an oral cavity examination for oral cancer (%),0.4,
@@ -348,10 +348,10 @@ Nagaland,NL,Longleng,34. Mothers whose last birth was protected against neonatal
 Nagaland,NL,Longleng,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),2.6,0.4
 Nagaland,NL,Longleng,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),1.6,0.0
 Nagaland,NL,Longleng,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),91.6,75.5
-Nagaland,NL,Longleng,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Nagaland,NL,Longleng,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),28.5,6.0
 Nagaland,NL,Longleng,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),7152.0,
 Nagaland,NL,Longleng,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),0.0,0.0
-Nagaland,NL,Longleng,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Nagaland,NL,Longleng,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),28.5,
 Nagaland,NL,Longleng,42. Institutional births (%),38.7,10.2
 Nagaland,NL,Longleng,43. Institutional births in public facility (%),37.8,10.2
 Nagaland,NL,Longleng,44. Home births that were conducted by skilled health personnel10 (%),5.9,7.7
@@ -359,7 +359,7 @@ Nagaland,NL,Longleng,45. Births attended by skilled health personnel10 (%),44.6,
 Nagaland,NL,Longleng,46. Births delivered by caesarean section (%),3.6,0.3
 Nagaland,NL,Longleng,47. Births in a private health facility that were delivered by caesarean section (%),,
 Nagaland,NL,Longleng,48. Births in a public health facility that were delivered by caesarean section (%),9.4,3.3
-Nagaland,NL,Longleng,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Nagaland,NL,Longleng,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),53.0,10.8
 Nagaland,NL,Longleng,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),64.8,
 Nagaland,NL,Longleng,51. Children age 12-23 months who have received BCG (%),88.3,55.4
 Nagaland,NL,Longleng,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),57.5,42.7
@@ -376,7 +376,7 @@ Nagaland,NL,Longleng,62. Children with diarrhoea in the 2 weeks preceding the su
 Nagaland,NL,Longleng,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,
 Nagaland,NL,Longleng,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
 Nagaland,NL,Longleng,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),1.2,0.0
-Nagaland,NL,Longleng,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Nagaland,NL,Longleng,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),27.8,
 Nagaland,NL,Longleng,67. Children under age 3 years breastfed within one hour of birth15 (%),62.3,64.3
 Nagaland,NL,Longleng,68. Children under age 6 months exclusively breastfed16 (%),,50.2
 Nagaland,NL,Longleng,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -404,10 +404,10 @@ Nagaland,NL,Longleng,90. Blood sugar level - very high (>160 mg/dl)23 (%),4.7,
 Nagaland,NL,Longleng,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),14.5,
 Nagaland,NL,Longleng,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),14.1,
 Nagaland,NL,Longleng,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),7.2,
-Nagaland,NL,Longleng,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Nagaland,NL,Longleng,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),22.6,
 Nagaland,NL,Longleng,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),20.5,
 Nagaland,NL,Longleng,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),8.7,
-Nagaland,NL,Longleng,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Nagaland,NL,Longleng,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),30.0,
 Nagaland,NL,Longleng,98. Ever undergone a screening test for cervical cancer (%),0.8,
 Nagaland,NL,Longleng,99. Ever undergone a breast examination for breast cancer (%),0.6,
 Nagaland,NL,Longleng,100. Ever undergone an oral cavity examination for oral cancer (%),0.7,
@@ -452,10 +452,10 @@ Nagaland,NL,Mokokchung,34. Mothers whose last birth was protected against neonat
 Nagaland,NL,Mokokchung,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),12.5,7.5
 Nagaland,NL,Mokokchung,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),4.1,2.7
 Nagaland,NL,Mokokchung,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),96.6,78.4
-Nagaland,NL,Mokokchung,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Nagaland,NL,Mokokchung,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),47.4,36.9
 Nagaland,NL,Mokokchung,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),6242.0,6897.0
 Nagaland,NL,Mokokchung,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),1.7,0.0
-Nagaland,NL,Mokokchung,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Nagaland,NL,Mokokchung,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),47.3,
 Nagaland,NL,Mokokchung,42. Institutional births (%),51.5,45.3
 Nagaland,NL,Mokokchung,43. Institutional births in public facility (%),47.3,37.7
 Nagaland,NL,Mokokchung,44. Home births that were conducted by skilled health personnel10 (%),12.2,33.4
@@ -463,7 +463,7 @@ Nagaland,NL,Mokokchung,45. Births attended by skilled health personnel10 (%),61.
 Nagaland,NL,Mokokchung,46. Births delivered by caesarean section (%),3.8,9.1
 Nagaland,NL,Mokokchung,47. Births in a private health facility that were delivered by caesarean section (%),,
 Nagaland,NL,Mokokchung,48. Births in a public health facility that were delivered by caesarean section (%),8.0,18.7
-Nagaland,NL,Mokokchung,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Nagaland,NL,Mokokchung,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),92.0,51.9
 Nagaland,NL,Mokokchung,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),95.6,64.9
 Nagaland,NL,Mokokchung,51. Children age 12-23 months who have received BCG (%),96.8,77.1
 Nagaland,NL,Mokokchung,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),96.3,64.1
@@ -508,10 +508,10 @@ Nagaland,NL,Mokokchung,90. Blood sugar level - very high (>160 mg/dl)23 (%),5.5,
 Nagaland,NL,Mokokchung,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),10.1,
 Nagaland,NL,Mokokchung,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),14.7,
 Nagaland,NL,Mokokchung,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),7.9,
-Nagaland,NL,Mokokchung,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Nagaland,NL,Mokokchung,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),23.2,
 Nagaland,NL,Mokokchung,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),21.6,
 Nagaland,NL,Mokokchung,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),6.9,
-Nagaland,NL,Mokokchung,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Nagaland,NL,Mokokchung,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),28.9,
 Nagaland,NL,Mokokchung,98. Ever undergone a screening test for cervical cancer (%),0.0,
 Nagaland,NL,Mokokchung,99. Ever undergone a breast examination for breast cancer (%),0.4,
 Nagaland,NL,Mokokchung,100. Ever undergone an oral cavity examination for oral cancer (%),0.0,
@@ -556,10 +556,10 @@ Nagaland,NL,Mon,34. Mothers whose last birth was protected against neonatal teta
 Nagaland,NL,Mon,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),10.6,0.8
 Nagaland,NL,Mon,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),6.4,0.0
 Nagaland,NL,Mon,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),95.8,65.0
-Nagaland,NL,Mon,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Nagaland,NL,Mon,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),25.6,5.0
 Nagaland,NL,Mon,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),2965.0,3807.0
 Nagaland,NL,Mon,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),0.5,0.0
-Nagaland,NL,Mon,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Nagaland,NL,Mon,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),22.4,
 Nagaland,NL,Mon,42. Institutional births (%),21.4,9.7
 Nagaland,NL,Mon,43. Institutional births in public facility (%),20.2,8.8
 Nagaland,NL,Mon,44. Home births that were conducted by skilled health personnel10 (%),9.5,4.7
@@ -567,7 +567,7 @@ Nagaland,NL,Mon,45. Births attended by skilled health personnel10 (%),30.9,14.4
 Nagaland,NL,Mon,46. Births delivered by caesarean section (%),1.4,1.3
 Nagaland,NL,Mon,47. Births in a private health facility that were delivered by caesarean section (%),,
 Nagaland,NL,Mon,48. Births in a public health facility that were delivered by caesarean section (%),2.3,12.1
-Nagaland,NL,Mon,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Nagaland,NL,Mon,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),62.4,19.5
 Nagaland,NL,Mon,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),69.4,47.4
 Nagaland,NL,Mon,51. Children age 12-23 months who have received BCG (%),87.1,48.2
 Nagaland,NL,Mon,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),72.2,28.4
@@ -612,10 +612,10 @@ Nagaland,NL,Mon,90. Blood sugar level - very high (>160 mg/dl)23 (%),5.5,
 Nagaland,NL,Mon,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),13.0,
 Nagaland,NL,Mon,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),13.1,
 Nagaland,NL,Mon,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),7.1,
-Nagaland,NL,Mon,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Nagaland,NL,Mon,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),20.4,
 Nagaland,NL,Mon,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),25.3,
 Nagaland,NL,Mon,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),10.0,
-Nagaland,NL,Mon,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Nagaland,NL,Mon,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),35.7,
 Nagaland,NL,Mon,98. Ever undergone a screening test for cervical cancer (%),0.3,
 Nagaland,NL,Mon,99. Ever undergone a breast examination for breast cancer (%),0.3,
 Nagaland,NL,Mon,100. Ever undergone an oral cavity examination for oral cancer (%),0.0,
@@ -660,10 +660,10 @@ Nagaland,NL,Peren,34. Mothers whose last birth was protected against neonatal te
 Nagaland,NL,Peren,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),6.1,7.5
 Nagaland,NL,Peren,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),2.1,5.3
 Nagaland,NL,Peren,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),97.3,87.9
-Nagaland,NL,Peren,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Nagaland,NL,Peren,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),46.9,30.5
 Nagaland,NL,Peren,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),4945.0,3701.0
 Nagaland,NL,Peren,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),0.0,0.0
-Nagaland,NL,Peren,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Nagaland,NL,Peren,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),45.1,
 Nagaland,NL,Peren,42. Institutional births (%),43.5,41.3
 Nagaland,NL,Peren,43. Institutional births in public facility (%),38.7,37.3
 Nagaland,NL,Peren,44. Home births that were conducted by skilled health personnel10 (%),9.6,15.7
@@ -671,7 +671,7 @@ Nagaland,NL,Peren,45. Births attended by skilled health personnel10 (%),52.5,56.
 Nagaland,NL,Peren,46. Births delivered by caesarean section (%),2.4,6.1
 Nagaland,NL,Peren,47. Births in a private health facility that were delivered by caesarean section (%),,
 Nagaland,NL,Peren,48. Births in a public health facility that were delivered by caesarean section (%),4.3,9.7
-Nagaland,NL,Peren,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Nagaland,NL,Peren,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),63.3,49.1
 Nagaland,NL,Peren,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),76.4,69.7
 Nagaland,NL,Peren,51. Children age 12-23 months who have received BCG (%),86.8,81.1
 Nagaland,NL,Peren,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),71.9,56.6
@@ -688,7 +688,7 @@ Nagaland,NL,Peren,62. Children with diarrhoea in the 2 weeks preceding the surve
 Nagaland,NL,Peren,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,19.6
 Nagaland,NL,Peren,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,22.9
 Nagaland,NL,Peren,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.5,4.7
-Nagaland,NL,Peren,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Nagaland,NL,Peren,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),32.4,20.6
 Nagaland,NL,Peren,67. Children under age 3 years breastfed within one hour of birth15 (%),58.5,46.2
 Nagaland,NL,Peren,68. Children under age 6 months exclusively breastfed16 (%),38.3,35.4
 Nagaland,NL,Peren,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,75.9
@@ -716,10 +716,10 @@ Nagaland,NL,Peren,90. Blood sugar level - very high (>160 mg/dl)23 (%),7.0,
 Nagaland,NL,Peren,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),14.6,
 Nagaland,NL,Peren,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),13.2,
 Nagaland,NL,Peren,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),5.1,
-Nagaland,NL,Peren,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Nagaland,NL,Peren,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),19.8,
 Nagaland,NL,Peren,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),19.7,
 Nagaland,NL,Peren,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),7.2,
-Nagaland,NL,Peren,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Nagaland,NL,Peren,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),27.7,
 Nagaland,NL,Peren,98. Ever undergone a screening test for cervical cancer (%),0.3,
 Nagaland,NL,Peren,99. Ever undergone a breast examination for breast cancer (%),0.2,
 Nagaland,NL,Peren,100. Ever undergone an oral cavity examination for oral cancer (%),0.2,
@@ -764,10 +764,10 @@ Nagaland,NL,Phek,34. Mothers whose last birth was protected against neonatal tet
 Nagaland,NL,Phek,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),13.5,0.9
 Nagaland,NL,Phek,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),5.6,0.9
 Nagaland,NL,Phek,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),97.6,60.9
-Nagaland,NL,Phek,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Nagaland,NL,Phek,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),39.6,11.5
 Nagaland,NL,Phek,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),5886.0,6003.0
 Nagaland,NL,Phek,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),0.8,0.0
-Nagaland,NL,Phek,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Nagaland,NL,Phek,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),34.9,
 Nagaland,NL,Phek,42. Institutional births (%),32.2,18.7
 Nagaland,NL,Phek,43. Institutional births in public facility (%),29.2,17.1
 Nagaland,NL,Phek,44. Home births that were conducted by skilled health personnel10 (%),18.5,6.6
@@ -775,7 +775,7 @@ Nagaland,NL,Phek,45. Births attended by skilled health personnel10 (%),50.7,25.1
 Nagaland,NL,Phek,46. Births delivered by caesarean section (%),1.7,4.0
 Nagaland,NL,Phek,47. Births in a private health facility that were delivered by caesarean section (%),,
 Nagaland,NL,Phek,48. Births in a public health facility that were delivered by caesarean section (%),3.7,20.1
-Nagaland,NL,Phek,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Nagaland,NL,Phek,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),54.6,34.7
 Nagaland,NL,Phek,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),71.2,71.0
 Nagaland,NL,Phek,51. Children age 12-23 months who have received BCG (%),87.6,74.5
 Nagaland,NL,Phek,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),68.4,65.8
@@ -820,10 +820,10 @@ Nagaland,NL,Phek,90. Blood sugar level - very high (>160 mg/dl)23 (%),5.8,
 Nagaland,NL,Phek,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),13.4,
 Nagaland,NL,Phek,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),14.8,
 Nagaland,NL,Phek,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),10.3,
-Nagaland,NL,Phek,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Nagaland,NL,Phek,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),25.9,
 Nagaland,NL,Phek,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),21.1,
 Nagaland,NL,Phek,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),12.2,
-Nagaland,NL,Phek,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Nagaland,NL,Phek,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),33.8,
 Nagaland,NL,Phek,98. Ever undergone a screening test for cervical cancer (%),0.0,
 Nagaland,NL,Phek,99. Ever undergone a breast examination for breast cancer (%),0.0,
 Nagaland,NL,Phek,100. Ever undergone an oral cavity examination for oral cancer (%),0.0,
@@ -868,10 +868,10 @@ Nagaland,NL,Tuensang,34. Mothers whose last birth was protected against neonatal
 Nagaland,NL,Tuensang,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),3.3,2.4
 Nagaland,NL,Tuensang,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),0.9,0.3
 Nagaland,NL,Tuensang,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),90.9,85.2
-Nagaland,NL,Tuensang,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Nagaland,NL,Tuensang,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),29.5,19.7
 Nagaland,NL,Tuensang,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),3394.0,4166.0
 Nagaland,NL,Tuensang,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),0.3,0.0
-Nagaland,NL,Tuensang,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Nagaland,NL,Tuensang,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),30.2,
 Nagaland,NL,Tuensang,42. Institutional births (%),34.8,25.1
 Nagaland,NL,Tuensang,43. Institutional births in public facility (%),34.1,23.5
 Nagaland,NL,Tuensang,44. Home births that were conducted by skilled health personnel10 (%),4.8,9.5
@@ -879,7 +879,7 @@ Nagaland,NL,Tuensang,45. Births attended by skilled health personnel10 (%),39.2,
 Nagaland,NL,Tuensang,46. Births delivered by caesarean section (%),1.5,1.7
 Nagaland,NL,Tuensang,47. Births in a private health facility that were delivered by caesarean section (%),,
 Nagaland,NL,Tuensang,48. Births in a public health facility that were delivered by caesarean section (%),4.3,5.8
-Nagaland,NL,Tuensang,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Nagaland,NL,Tuensang,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),39.9,43.2
 Nagaland,NL,Tuensang,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),58.8,58.3
 Nagaland,NL,Tuensang,51. Children age 12-23 months who have received BCG (%),75.6,77.7
 Nagaland,NL,Tuensang,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),47.6,53.4
@@ -896,7 +896,7 @@ Nagaland,NL,Tuensang,62. Children with diarrhoea in the 2 weeks preceding the su
 Nagaland,NL,Tuensang,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,19.2
 Nagaland,NL,Tuensang,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,12.6
 Nagaland,NL,Tuensang,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),1.8,1.1
-Nagaland,NL,Tuensang,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Nagaland,NL,Tuensang,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),13.8,
 Nagaland,NL,Tuensang,67. Children under age 3 years breastfed within one hour of birth15 (%),69.4,53.0
 Nagaland,NL,Tuensang,68. Children under age 6 months exclusively breastfed16 (%),27.1,73.2
 Nagaland,NL,Tuensang,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),71.4,47.6
@@ -924,10 +924,10 @@ Nagaland,NL,Tuensang,90. Blood sugar level - very high (>160 mg/dl)23 (%),3.4,
 Nagaland,NL,Tuensang,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),10.5,
 Nagaland,NL,Tuensang,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),12.3,
 Nagaland,NL,Tuensang,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),7.8,
-Nagaland,NL,Tuensang,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Nagaland,NL,Tuensang,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),20.4,
 Nagaland,NL,Tuensang,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),17.1,
 Nagaland,NL,Tuensang,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),6.8,
-Nagaland,NL,Tuensang,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Nagaland,NL,Tuensang,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),24.3,
 Nagaland,NL,Tuensang,98. Ever undergone a screening test for cervical cancer (%),0.9,
 Nagaland,NL,Tuensang,99. Ever undergone a breast examination for breast cancer (%),0.7,
 Nagaland,NL,Tuensang,100. Ever undergone an oral cavity examination for oral cancer (%),0.5,
@@ -972,10 +972,10 @@ Nagaland,NL,Wokha,34. Mothers whose last birth was protected against neonatal te
 Nagaland,NL,Wokha,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),12.9,9.5
 Nagaland,NL,Wokha,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),4.4,4.7
 Nagaland,NL,Wokha,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),96.8,65.8
-Nagaland,NL,Wokha,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Nagaland,NL,Wokha,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),50.7,24.9
 Nagaland,NL,Wokha,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),7125.0,6540.0
 Nagaland,NL,Wokha,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),0.7,0.0
-Nagaland,NL,Wokha,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Nagaland,NL,Wokha,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),45.4,
 Nagaland,NL,Wokha,42. Institutional births (%),43.6,33.1
 Nagaland,NL,Wokha,43. Institutional births in public facility (%),24.2,29.2
 Nagaland,NL,Wokha,44. Home births that were conducted by skilled health personnel10 (%),19.9,26.6
@@ -983,7 +983,7 @@ Nagaland,NL,Wokha,45. Births attended by skilled health personnel10 (%),63.5,59.
 Nagaland,NL,Wokha,46. Births delivered by caesarean section (%),10.1,5.6
 Nagaland,NL,Wokha,47. Births in a private health facility that were delivered by caesarean section (%),38.4,
 Nagaland,NL,Wokha,48. Births in a public health facility that were delivered by caesarean section (%),11.0,17.0
-Nagaland,NL,Wokha,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Nagaland,NL,Wokha,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),42.8,22.6
 Nagaland,NL,Wokha,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),57.1,
 Nagaland,NL,Wokha,51. Children age 12-23 months who have received BCG (%),73.3,50.9
 Nagaland,NL,Wokha,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),52.3,48.4
@@ -1000,7 +1000,7 @@ Nagaland,NL,Wokha,62. Children with diarrhoea in the 2 weeks preceding the surve
 Nagaland,NL,Wokha,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,
 Nagaland,NL,Wokha,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
 Nagaland,NL,Wokha,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),1.6,0.9
-Nagaland,NL,Wokha,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Nagaland,NL,Wokha,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,47.6
 Nagaland,NL,Wokha,67. Children under age 3 years breastfed within one hour of birth15 (%),48.5,66.5
 Nagaland,NL,Wokha,68. Children under age 6 months exclusively breastfed16 (%),,
 Nagaland,NL,Wokha,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -1028,10 +1028,10 @@ Nagaland,NL,Wokha,90. Blood sugar level - very high (>160 mg/dl)23 (%),8.2,
 Nagaland,NL,Wokha,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),18.8,
 Nagaland,NL,Wokha,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),16.0,
 Nagaland,NL,Wokha,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),7.6,
-Nagaland,NL,Wokha,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Nagaland,NL,Wokha,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),24.3,
 Nagaland,NL,Wokha,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),23.2,
 Nagaland,NL,Wokha,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),12.0,
-Nagaland,NL,Wokha,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Nagaland,NL,Wokha,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),35.7,
 Nagaland,NL,Wokha,98. Ever undergone a screening test for cervical cancer (%),0.0,
 Nagaland,NL,Wokha,99. Ever undergone a breast examination for breast cancer (%),0.0,
 Nagaland,NL,Wokha,100. Ever undergone an oral cavity examination for oral cancer (%),0.0,
@@ -1076,10 +1076,10 @@ Nagaland,NL,Zunheboto,34. Mothers whose last birth was protected against neonata
 Nagaland,NL,Zunheboto,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),5.5,0.0
 Nagaland,NL,Zunheboto,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),2.3,0.0
 Nagaland,NL,Zunheboto,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),90.7,82.8
-Nagaland,NL,Zunheboto,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Nagaland,NL,Zunheboto,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),24.9,14.5
 Nagaland,NL,Zunheboto,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),7554.0,10499.0
 Nagaland,NL,Zunheboto,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),0.0,0.0
-Nagaland,NL,Zunheboto,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Nagaland,NL,Zunheboto,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),24.7,
 Nagaland,NL,Zunheboto,42. Institutional births (%),35.0,23.3
 Nagaland,NL,Zunheboto,43. Institutional births in public facility (%),32.2,19.8
 Nagaland,NL,Zunheboto,44. Home births that were conducted by skilled health personnel10 (%),6.3,3.2
@@ -1087,7 +1087,7 @@ Nagaland,NL,Zunheboto,45. Births attended by skilled health personnel10 (%),40.5
 Nagaland,NL,Zunheboto,46. Births delivered by caesarean section (%),7.6,5.4
 Nagaland,NL,Zunheboto,47. Births in a private health facility that were delivered by caesarean section (%),,
 Nagaland,NL,Zunheboto,48. Births in a public health facility that were delivered by caesarean section (%),19.4,20.3
-Nagaland,NL,Zunheboto,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Nagaland,NL,Zunheboto,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),60.7,24.7
 Nagaland,NL,Zunheboto,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),75.1,43.6
 Nagaland,NL,Zunheboto,51. Children age 12-23 months who have received BCG (%),82.2,71.4
 Nagaland,NL,Zunheboto,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),67.1,36.2
@@ -1132,10 +1132,10 @@ Nagaland,NL,Zunheboto,90. Blood sugar level - very high (>160 mg/dl)23 (%),4.6,
 Nagaland,NL,Zunheboto,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),9.9,
 Nagaland,NL,Zunheboto,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),22.5,
 Nagaland,NL,Zunheboto,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),10.5,
-Nagaland,NL,Zunheboto,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Nagaland,NL,Zunheboto,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),33.2,
 Nagaland,NL,Zunheboto,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),29.2,
 Nagaland,NL,Zunheboto,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),11.8,
-Nagaland,NL,Zunheboto,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Nagaland,NL,Zunheboto,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),41.2,
 Nagaland,NL,Zunheboto,98. Ever undergone a screening test for cervical cancer (%),0.2,
 Nagaland,NL,Zunheboto,99. Ever undergone a breast examination for breast cancer (%),0.4,
 Nagaland,NL,Zunheboto,100. Ever undergone an oral cavity examination for oral cancer (%),0.7,

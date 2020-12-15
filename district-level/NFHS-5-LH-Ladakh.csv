@@ -36,10 +36,10 @@ Ladakh,LH,Kargil,34. Mothers whose last birth was protected against neonatal tet
 Ladakh,LH,Kargil,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),19.6,28.6
 Ladakh,LH,Kargil,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),12.5,6.3
 Ladakh,LH,Kargil,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),99.1,89.0
-Ladakh,LH,Kargil,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Ladakh,LH,Kargil,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),78.3,78.3
 Ladakh,LH,Kargil,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),3569.0,2323.0
 Ladakh,LH,Kargil,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,0.0
-Ladakh,LH,Kargil,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Ladakh,LH,Kargil,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),74.7,
 Ladakh,LH,Kargil,42. Institutional births (%),93.7,85.7
 Ladakh,LH,Kargil,43. Institutional births in public facility (%),93.7,84.2
 Ladakh,LH,Kargil,44. Home births that were conducted by skilled health personnel10 (%),2.6,3.3
@@ -47,7 +47,7 @@ Ladakh,LH,Kargil,45. Births attended by skilled health personnel10 (%),95.6,86.6
 Ladakh,LH,Kargil,46. Births delivered by caesarean section (%),32.0,11.1
 Ladakh,LH,Kargil,47. Births in a private health facility that were delivered by caesarean section (%),,
 Ladakh,LH,Kargil,48. Births in a public health facility that were delivered by caesarean section (%),34.2,12.0
-Ladakh,LH,Kargil,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Ladakh,LH,Kargil,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),87.5,81.9
 Ladakh,LH,Kargil,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),100.0,92.5
 Ladakh,LH,Kargil,51. Children age 12-23 months who have received BCG (%),100.0,98.9
 Ladakh,LH,Kargil,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),87.5,86.5
@@ -64,7 +64,7 @@ Ladakh,LH,Kargil,62. Children with diarrhoea in the 2 weeks preceding the survey
 Ladakh,LH,Kargil,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,
 Ladakh,LH,Kargil,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
 Ladakh,LH,Kargil,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),2.8,1.5
-Ladakh,LH,Kargil,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Ladakh,LH,Kargil,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),53.9,58.8
 Ladakh,LH,Kargil,67. Children under age 3 years breastfed within one hour of birth15 (%),71.0,54.0
 Ladakh,LH,Kargil,68. Children under age 6 months exclusively breastfed16 (%),80.4,54.5
 Ladakh,LH,Kargil,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -92,10 +92,10 @@ Ladakh,LH,Kargil,90. Blood sugar level - very high (>160 mg/dl)23 (%),3.4,
 Ladakh,LH,Kargil,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),10.2,
 Ladakh,LH,Kargil,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),12.0,
 Ladakh,LH,Kargil,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),2.7,
-Ladakh,LH,Kargil,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Ladakh,LH,Kargil,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),18.7,
 Ladakh,LH,Kargil,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),13.2,
 Ladakh,LH,Kargil,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.8,
-Ladakh,LH,Kargil,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Ladakh,LH,Kargil,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),20.1,
 Ladakh,LH,Kargil,98. Ever undergone a screening test for cervical cancer (%),0.4,
 Ladakh,LH,Kargil,99. Ever undergone a breast examination for breast cancer (%),0.4,
 Ladakh,LH,Kargil,100. Ever undergone an oral cavity examination for oral cancer (%),0.2,
@@ -140,10 +140,10 @@ Ladakh,LH,Leh (Ladakh),34. Mothers whose last birth was protected against neonat
 Ladakh,LH,Leh (Ladakh),35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),9.5,30.4
 Ladakh,LH,Leh (Ladakh),36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),2.6,13.7
 Ladakh,LH,Leh (Ladakh),37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),96.5,98.6
-Ladakh,LH,Leh (Ladakh),38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Ladakh,LH,Leh (Ladakh),38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),80.8,88.7
 Ladakh,LH,Leh (Ladakh),39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),4043.0,2942.0
 Ladakh,LH,Leh (Ladakh),40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,
-Ladakh,LH,Leh (Ladakh),41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Ladakh,LH,Leh (Ladakh),41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),78.6,
 Ladakh,LH,Leh (Ladakh),42. Institutional births (%),96.4,96.9
 Ladakh,LH,Leh (Ladakh),43. Institutional births in public facility (%),95.7,95.7
 Ladakh,LH,Leh (Ladakh),44. Home births that were conducted by skilled health personnel10 (%),2.0,0.4
@@ -151,7 +151,7 @@ Ladakh,LH,Leh (Ladakh),45. Births attended by skilled health personnel10 (%),98.
 Ladakh,LH,Leh (Ladakh),46. Births delivered by caesarean section (%),43.1,22.1
 Ladakh,LH,Leh (Ladakh),47. Births in a private health facility that were delivered by caesarean section (%),,
 Ladakh,LH,Leh (Ladakh),48. Births in a public health facility that were delivered by caesarean section (%),44.3,22.4
-Ladakh,LH,Leh (Ladakh),49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Ladakh,LH,Leh (Ladakh),49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),88.9,82.0
 Ladakh,LH,Leh (Ladakh),50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),100.0,92.6
 Ladakh,LH,Leh (Ladakh),51. Children age 12-23 months who have received BCG (%),98.2,97.9
 Ladakh,LH,Leh (Ladakh),52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),88.9,87.4
@@ -168,7 +168,7 @@ Ladakh,LH,Leh (Ladakh),62. Children with diarrhoea in the 2 weeks preceding the 
 Ladakh,LH,Leh (Ladakh),63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),57.2,
 Ladakh,LH,Leh (Ladakh),64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),74.9,
 Ladakh,LH,Leh (Ladakh),65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),7.8,0.4
-Ladakh,LH,Leh (Ladakh),66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Ladakh,LH,Leh (Ladakh),66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),60.0,
 Ladakh,LH,Leh (Ladakh),67. Children under age 3 years breastfed within one hour of birth15 (%),45.9,66.3
 Ladakh,LH,Leh (Ladakh),68. Children under age 6 months exclusively breastfed16 (%),63.2,
 Ladakh,LH,Leh (Ladakh),69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -196,10 +196,10 @@ Ladakh,LH,Leh (Ladakh),90. Blood sugar level - very high (>160 mg/dl)23 (%),1.6,
 Ladakh,LH,Leh (Ladakh),91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),6.4,
 Ladakh,LH,Leh (Ladakh),92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),8.7,
 Ladakh,LH,Leh (Ladakh),93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),0.7,
-Ladakh,LH,Leh (Ladakh),94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Ladakh,LH,Leh (Ladakh),94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),12.8,
 Ladakh,LH,Leh (Ladakh),95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),9.2,
 Ladakh,LH,Leh (Ladakh),96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),0.8,
-Ladakh,LH,Leh (Ladakh),97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Ladakh,LH,Leh (Ladakh),97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),14.7,
 Ladakh,LH,Leh (Ladakh),98. Ever undergone a screening test for cervical cancer (%),0.2,
 Ladakh,LH,Leh (Ladakh),99. Ever undergone a breast examination for breast cancer (%),0.0,
 Ladakh,LH,Leh (Ladakh),100. Ever undergone an oral cavity examination for oral cancer (%),0.2,

@@ -36,10 +36,10 @@ Dadra & Nagar Haveli and Daman & Diu,DD,Dadra & Nagar Haveli,34. Mothers whose l
 Dadra & Nagar Haveli and Daman & Diu,DD,Dadra & Nagar Haveli,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),65.1,43.9
 Dadra & Nagar Haveli and Daman & Diu,DD,Dadra & Nagar Haveli,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),40.0,26.8
 Dadra & Nagar Haveli and Daman & Diu,DD,Dadra & Nagar Haveli,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),99.7,91.2
-Dadra & Nagar Haveli and Daman & Diu,DD,Dadra & Nagar Haveli,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Dadra & Nagar Haveli and Daman & Diu,DD,Dadra & Nagar Haveli,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),92.2,66.7
 Dadra & Nagar Haveli and Daman & Diu,DD,Dadra & Nagar Haveli,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),502.0,471.0
 Dadra & Nagar Haveli and Daman & Diu,DD,Dadra & Nagar Haveli,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,7.7
-Dadra & Nagar Haveli and Daman & Diu,DD,Dadra & Nagar Haveli,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Dadra & Nagar Haveli and Daman & Diu,DD,Dadra & Nagar Haveli,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),91.9,
 Dadra & Nagar Haveli and Daman & Diu,DD,Dadra & Nagar Haveli,42. Institutional births (%),96.3,88.0
 Dadra & Nagar Haveli and Daman & Diu,DD,Dadra & Nagar Haveli,43. Institutional births in public facility (%),75.8,66.4
 Dadra & Nagar Haveli and Daman & Diu,DD,Dadra & Nagar Haveli,44. Home births that were conducted by skilled health personnel10 (%),1.8,1.9
@@ -47,7 +47,7 @@ Dadra & Nagar Haveli and Daman & Diu,DD,Dadra & Nagar Haveli,45. Births attended
 Dadra & Nagar Haveli and Daman & Diu,DD,Dadra & Nagar Haveli,46. Births delivered by caesarean section (%),21.9,16.2
 Dadra & Nagar Haveli and Daman & Diu,DD,Dadra & Nagar Haveli,47. Births in a private health facility that were delivered by caesarean section (%),45.0,38.4
 Dadra & Nagar Haveli and Daman & Diu,DD,Dadra & Nagar Haveli,48. Births in a public health facility that were delivered by caesarean section (%),16.7,12.0
-Dadra & Nagar Haveli and Daman & Diu,DD,Dadra & Nagar Haveli,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Dadra & Nagar Haveli and Daman & Diu,DD,Dadra & Nagar Haveli,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),100.0,43.2
 Dadra & Nagar Haveli and Daman & Diu,DD,Dadra & Nagar Haveli,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),98.5,57.1
 Dadra & Nagar Haveli and Daman & Diu,DD,Dadra & Nagar Haveli,51. Children age 12-23 months who have received BCG (%),100.0,88.9
 Dadra & Nagar Haveli and Daman & Diu,DD,Dadra & Nagar Haveli,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),100.0,58.1
@@ -64,7 +64,7 @@ Dadra & Nagar Haveli and Daman & Diu,DD,Dadra & Nagar Haveli,62. Children with d
 Dadra & Nagar Haveli and Daman & Diu,DD,Dadra & Nagar Haveli,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,
 Dadra & Nagar Haveli and Daman & Diu,DD,Dadra & Nagar Haveli,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
 Dadra & Nagar Haveli and Daman & Diu,DD,Dadra & Nagar Haveli,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.3,1.9
-Dadra & Nagar Haveli and Daman & Diu,DD,Dadra & Nagar Haveli,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Dadra & Nagar Haveli and Daman & Diu,DD,Dadra & Nagar Haveli,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),87.2,
 Dadra & Nagar Haveli and Daman & Diu,DD,Dadra & Nagar Haveli,67. Children under age 3 years breastfed within one hour of birth15 (%),26.6,47.8
 Dadra & Nagar Haveli and Daman & Diu,DD,Dadra & Nagar Haveli,68. Children under age 6 months exclusively breastfed16 (%),88.8,72.7
 Dadra & Nagar Haveli and Daman & Diu,DD,Dadra & Nagar Haveli,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -92,10 +92,10 @@ Dadra & Nagar Haveli and Daman & Diu,DD,Dadra & Nagar Haveli,90. Blood sugar lev
 Dadra & Nagar Haveli and Daman & Diu,DD,Dadra & Nagar Haveli,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),16.4,
 Dadra & Nagar Haveli and Daman & Diu,DD,Dadra & Nagar Haveli,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),6.8,
 Dadra & Nagar Haveli and Daman & Diu,DD,Dadra & Nagar Haveli,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.9,
-Dadra & Nagar Haveli and Daman & Diu,DD,Dadra & Nagar Haveli,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Dadra & Nagar Haveli and Daman & Diu,DD,Dadra & Nagar Haveli,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),13.3,
 Dadra & Nagar Haveli and Daman & Diu,DD,Dadra & Nagar Haveli,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),8.4,
 Dadra & Nagar Haveli and Daman & Diu,DD,Dadra & Nagar Haveli,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.3,
-Dadra & Nagar Haveli and Daman & Diu,DD,Dadra & Nagar Haveli,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Dadra & Nagar Haveli and Daman & Diu,DD,Dadra & Nagar Haveli,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),13.5,
 Dadra & Nagar Haveli and Daman & Diu,DD,Dadra & Nagar Haveli,98. Ever undergone a screening test for cervical cancer (%),0.3,
 Dadra & Nagar Haveli and Daman & Diu,DD,Dadra & Nagar Haveli,99. Ever undergone a breast examination for breast cancer (%),0.2,
 Dadra & Nagar Haveli and Daman & Diu,DD,Dadra & Nagar Haveli,100. Ever undergone an oral cavity examination for oral cancer (%),0.2,
@@ -140,10 +140,10 @@ Dadra & Nagar Haveli and Daman & Diu,DD,Daman,34. Mothers whose last birth was p
 Dadra & Nagar Haveli and Daman & Diu,DD,Daman,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),38.4,35.7
 Dadra & Nagar Haveli and Daman & Diu,DD,Daman,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),20.8,25.4
 Dadra & Nagar Haveli and Daman & Diu,DD,Daman,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),96.6,82.7
-Dadra & Nagar Haveli and Daman & Diu,DD,Daman,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Dadra & Nagar Haveli and Daman & Diu,DD,Daman,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),89.5,59.7
 Dadra & Nagar Haveli and Daman & Diu,DD,Daman,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),1200.0,1591.0
 Dadra & Nagar Haveli and Daman & Diu,DD,Daman,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,
-Dadra & Nagar Haveli and Daman & Diu,DD,Daman,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Dadra & Nagar Haveli and Daman & Diu,DD,Daman,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),87.6,
 Dadra & Nagar Haveli and Daman & Diu,DD,Daman,42. Institutional births (%),97.4,92.1
 Dadra & Nagar Haveli and Daman & Diu,DD,Daman,43. Institutional births in public facility (%),60.5,47.1
 Dadra & Nagar Haveli and Daman & Diu,DD,Daman,44. Home births that were conducted by skilled health personnel10 (%),0.0,0.5
@@ -151,7 +151,7 @@ Dadra & Nagar Haveli and Daman & Diu,DD,Daman,45. Births attended by skilled hea
 Dadra & Nagar Haveli and Daman & Diu,DD,Daman,46. Births delivered by caesarean section (%),23.6,12.9
 Dadra & Nagar Haveli and Daman & Diu,DD,Daman,47. Births in a private health facility that were delivered by caesarean section (%),35.4,21.4
 Dadra & Nagar Haveli and Daman & Diu,DD,Daman,48. Births in a public health facility that were delivered by caesarean section (%),17.4,6.9
-Dadra & Nagar Haveli and Daman & Diu,DD,Daman,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Dadra & Nagar Haveli and Daman & Diu,DD,Daman,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),78.3,62.8
 Dadra & Nagar Haveli and Daman & Diu,DD,Daman,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),73.6,82.6
 Dadra & Nagar Haveli and Daman & Diu,DD,Daman,51. Children age 12-23 months who have received BCG (%),91.2,81.7
 Dadra & Nagar Haveli and Daman & Diu,DD,Daman,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),83.9,71.7
@@ -168,7 +168,7 @@ Dadra & Nagar Haveli and Daman & Diu,DD,Daman,62. Children with diarrhoea in the
 Dadra & Nagar Haveli and Daman & Diu,DD,Daman,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,
 Dadra & Nagar Haveli and Daman & Diu,DD,Daman,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
 Dadra & Nagar Haveli and Daman & Diu,DD,Daman,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.5,0.0
-Dadra & Nagar Haveli and Daman & Diu,DD,Daman,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Dadra & Nagar Haveli and Daman & Diu,DD,Daman,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),94.8,
 Dadra & Nagar Haveli and Daman & Diu,DD,Daman,67. Children under age 3 years breastfed within one hour of birth15 (%),23.7,55.0
 Dadra & Nagar Haveli and Daman & Diu,DD,Daman,68. Children under age 6 months exclusively breastfed16 (%),,
 Dadra & Nagar Haveli and Daman & Diu,DD,Daman,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -196,10 +196,10 @@ Dadra & Nagar Haveli and Daman & Diu,DD,Daman,90. Blood sugar level - very high 
 Dadra & Nagar Haveli and Daman & Diu,DD,Daman,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),15.6,
 Dadra & Nagar Haveli and Daman & Diu,DD,Daman,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),9.4,
 Dadra & Nagar Haveli and Daman & Diu,DD,Daman,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),4.6,
-Dadra & Nagar Haveli and Daman & Diu,DD,Daman,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Dadra & Nagar Haveli and Daman & Diu,DD,Daman,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),18.4,
 Dadra & Nagar Haveli and Daman & Diu,DD,Daman,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),13.2,
 Dadra & Nagar Haveli and Daman & Diu,DD,Daman,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),4.7,
-Dadra & Nagar Haveli and Daman & Diu,DD,Daman,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Dadra & Nagar Haveli and Daman & Diu,DD,Daman,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),19.9,
 Dadra & Nagar Haveli and Daman & Diu,DD,Daman,98. Ever undergone a screening test for cervical cancer (%),0.7,
 Dadra & Nagar Haveli and Daman & Diu,DD,Daman,99. Ever undergone a breast examination for breast cancer (%),0.3,
 Dadra & Nagar Haveli and Daman & Diu,DD,Daman,100. Ever undergone an oral cavity examination for oral cancer (%),0.3,
@@ -244,10 +244,10 @@ Dadra & Nagar Haveli and Daman & Diu,DD,Diu,34. Mothers whose last birth was pro
 Dadra & Nagar Haveli and Daman & Diu,DD,Diu,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),79.9,47.8
 Dadra & Nagar Haveli and Daman & Diu,DD,Diu,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),51.2,22.4
 Dadra & Nagar Haveli and Daman & Diu,DD,Diu,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),97.0,98.0
-Dadra & Nagar Haveli and Daman & Diu,DD,Diu,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Dadra & Nagar Haveli and Daman & Diu,DD,Diu,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),93.0,61.8
 Dadra & Nagar Haveli and Daman & Diu,DD,Diu,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),1310.0,1520.0
 Dadra & Nagar Haveli and Daman & Diu,DD,Diu,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,
-Dadra & Nagar Haveli and Daman & Diu,DD,Diu,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Dadra & Nagar Haveli and Daman & Diu,DD,Diu,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),93.1,
 Dadra & Nagar Haveli and Daman & Diu,DD,Diu,42. Institutional births (%),95.7,83.1
 Dadra & Nagar Haveli and Daman & Diu,DD,Diu,43. Institutional births in public facility (%),63.9,28.5
 Dadra & Nagar Haveli and Daman & Diu,DD,Diu,44. Home births that were conducted by skilled health personnel10 (%),1.5,5.0
@@ -255,7 +255,7 @@ Dadra & Nagar Haveli and Daman & Diu,DD,Diu,45. Births attended by skilled healt
 Dadra & Nagar Haveli and Daman & Diu,DD,Diu,46. Births delivered by caesarean section (%),33.5,25.9
 Dadra & Nagar Haveli and Daman & Diu,DD,Diu,47. Births in a private health facility that were delivered by caesarean section (%),54.0,42.4
 Dadra & Nagar Haveli and Daman & Diu,DD,Diu,48. Births in a public health facility that were delivered by caesarean section (%),25.6,9.4
-Dadra & Nagar Haveli and Daman & Diu,DD,Diu,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Dadra & Nagar Haveli and Daman & Diu,DD,Diu,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),92.9,81.4
 Dadra & Nagar Haveli and Daman & Diu,DD,Diu,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),100.0,94.5
 Dadra & Nagar Haveli and Daman & Diu,DD,Diu,51. Children age 12-23 months who have received BCG (%),100.0,95.1
 Dadra & Nagar Haveli and Daman & Diu,DD,Diu,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),92.9,86.1
@@ -272,7 +272,7 @@ Dadra & Nagar Haveli and Daman & Diu,DD,Diu,62. Children with diarrhoea in the 2
 Dadra & Nagar Haveli and Daman & Diu,DD,Diu,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,
 Dadra & Nagar Haveli and Daman & Diu,DD,Diu,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
 Dadra & Nagar Haveli and Daman & Diu,DD,Diu,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.5,2.5
-Dadra & Nagar Haveli and Daman & Diu,DD,Diu,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Dadra & Nagar Haveli and Daman & Diu,DD,Diu,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,88.1
 Dadra & Nagar Haveli and Daman & Diu,DD,Diu,67. Children under age 3 years breastfed within one hour of birth15 (%),26.6,58.5
 Dadra & Nagar Haveli and Daman & Diu,DD,Diu,68. Children under age 6 months exclusively breastfed16 (%),,
 Dadra & Nagar Haveli and Daman & Diu,DD,Diu,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -300,10 +300,10 @@ Dadra & Nagar Haveli and Daman & Diu,DD,Diu,90. Blood sugar level - very high (>
 Dadra & Nagar Haveli and Daman & Diu,DD,Diu,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),19.4,
 Dadra & Nagar Haveli and Daman & Diu,DD,Diu,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),9.9,
 Dadra & Nagar Haveli and Daman & Diu,DD,Diu,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.1,
-Dadra & Nagar Haveli and Daman & Diu,DD,Diu,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Dadra & Nagar Haveli and Daman & Diu,DD,Diu,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),18.1,
 Dadra & Nagar Haveli and Daman & Diu,DD,Diu,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),9.9,
 Dadra & Nagar Haveli and Daman & Diu,DD,Diu,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),4.9,
-Dadra & Nagar Haveli and Daman & Diu,DD,Diu,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Dadra & Nagar Haveli and Daman & Diu,DD,Diu,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),17.7,
 Dadra & Nagar Haveli and Daman & Diu,DD,Diu,98. Ever undergone a screening test for cervical cancer (%),0.3,
 Dadra & Nagar Haveli and Daman & Diu,DD,Diu,99. Ever undergone a breast examination for breast cancer (%),0.0,
 Dadra & Nagar Haveli and Daman & Diu,DD,Diu,100. Ever undergone an oral cavity examination for oral cancer (%),0.3,

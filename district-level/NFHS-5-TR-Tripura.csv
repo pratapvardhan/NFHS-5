@@ -36,10 +36,10 @@ Tripura,TR,Dhalai,34. Mothers whose last birth was protected against neonatal te
 Tripura,TR,Dhalai,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),26.0,13.2
 Tripura,TR,Dhalai,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),8.8,2.6
 Tripura,TR,Dhalai,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),90.7,85.8
-Tripura,TR,Dhalai,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Tripura,TR,Dhalai,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),72.4,62.1
 Tripura,TR,Dhalai,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),4010.0,3980.0
 Tripura,TR,Dhalai,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),0.0,0.0
-Tripura,TR,Dhalai,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Tripura,TR,Dhalai,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),73.1,
 Tripura,TR,Dhalai,42. Institutional births (%),87.3,76.2
 Tripura,TR,Dhalai,43. Institutional births in public facility (%),84.5,72.0
 Tripura,TR,Dhalai,44. Home births that were conducted by skilled health personnel10 (%),0.5,1.0
@@ -47,7 +47,7 @@ Tripura,TR,Dhalai,45. Births attended by skilled health personnel10 (%),87.7,77.
 Tripura,TR,Dhalai,46. Births delivered by caesarean section (%),10.1,8.3
 Tripura,TR,Dhalai,47. Births in a private health facility that were delivered by caesarean section (%),,
 Tripura,TR,Dhalai,48. Births in a public health facility that were delivered by caesarean section (%),10.1,6.6
-Tripura,TR,Dhalai,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Tripura,TR,Dhalai,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),73.7,44.3
 Tripura,TR,Dhalai,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),76.7,64.6
 Tripura,TR,Dhalai,51. Children age 12-23 months who have received BCG (%),97.6,62.1
 Tripura,TR,Dhalai,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),73.7,59.3
@@ -64,7 +64,7 @@ Tripura,TR,Dhalai,62. Children with diarrhoea in the 2 weeks preceding the surve
 Tripura,TR,Dhalai,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,
 Tripura,TR,Dhalai,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
 Tripura,TR,Dhalai,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),1.5,0.7
-Tripura,TR,Dhalai,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Tripura,TR,Dhalai,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),68.8,
 Tripura,TR,Dhalai,67. Children under age 3 years breastfed within one hour of birth15 (%),44.0,51.0
 Tripura,TR,Dhalai,68. Children under age 6 months exclusively breastfed16 (%),61.1,71.0
 Tripura,TR,Dhalai,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -92,10 +92,10 @@ Tripura,TR,Dhalai,90. Blood sugar level - very high (>160 mg/dl)23 (%),8.4,
 Tripura,TR,Dhalai,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),17.0,
 Tripura,TR,Dhalai,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),9.0,
 Tripura,TR,Dhalai,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.5,
-Tripura,TR,Dhalai,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Tripura,TR,Dhalai,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),14.5,
 Tripura,TR,Dhalai,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),11.5,
 Tripura,TR,Dhalai,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),4.0,
-Tripura,TR,Dhalai,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Tripura,TR,Dhalai,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),17.4,
 Tripura,TR,Dhalai,98. Ever undergone a screening test for cervical cancer (%),0.6,
 Tripura,TR,Dhalai,99. Ever undergone a breast examination for breast cancer (%),0.4,
 Tripura,TR,Dhalai,100. Ever undergone an oral cavity examination for oral cancer (%),0.5,

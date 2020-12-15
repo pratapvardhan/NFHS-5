@@ -36,10 +36,10 @@ Maharashtra,MH,Ahmednagar,34. Mothers whose last birth was protected against neo
 Maharashtra,MH,Ahmednagar,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),53.3,22.4
 Maharashtra,MH,Ahmednagar,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),32.0,5.8
 Maharashtra,MH,Ahmednagar,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),94.4,90.9
-Maharashtra,MH,Ahmednagar,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Ahmednagar,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),90.9,80.9
 Maharashtra,MH,Ahmednagar,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),5575.0,4851.0
 Maharashtra,MH,Ahmednagar,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,
-Maharashtra,MH,Ahmednagar,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Ahmednagar,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),92.9,
 Maharashtra,MH,Ahmednagar,42. Institutional births (%),97.9,93.9
 Maharashtra,MH,Ahmednagar,43. Institutional births in public facility (%),45.5,43.6
 Maharashtra,MH,Ahmednagar,44. Home births that were conducted by skilled health personnel10 (%),1.0,2.7
@@ -47,7 +47,7 @@ Maharashtra,MH,Ahmednagar,45. Births attended by skilled health personnel10 (%),
 Maharashtra,MH,Ahmednagar,46. Births delivered by caesarean section (%),28.1,16.7
 Maharashtra,MH,Ahmednagar,47. Births in a private health facility that were delivered by caesarean section (%),33.7,18.9
 Maharashtra,MH,Ahmednagar,48. Births in a public health facility that were delivered by caesarean section (%),23.0,16.5
-Maharashtra,MH,Ahmednagar,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Maharashtra,MH,Ahmednagar,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),83.5,42.0
 Maharashtra,MH,Ahmednagar,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),88.3,69.7
 Maharashtra,MH,Ahmednagar,51. Children age 12-23 months who have received BCG (%),96.6,94.0
 Maharashtra,MH,Ahmednagar,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),87.6,58.8
@@ -64,7 +64,7 @@ Maharashtra,MH,Ahmednagar,62. Children with diarrhoea in the 2 weeks preceding t
 Maharashtra,MH,Ahmednagar,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),28.3,11.4
 Maharashtra,MH,Ahmednagar,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),71.0,81.2
 Maharashtra,MH,Ahmednagar,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),2.7,2.4
-Maharashtra,MH,Ahmednagar,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Maharashtra,MH,Ahmednagar,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),84.2,81.2
 Maharashtra,MH,Ahmednagar,67. Children under age 3 years breastfed within one hour of birth15 (%),50.5,42.5
 Maharashtra,MH,Ahmednagar,68. Children under age 6 months exclusively breastfed16 (%),,
 Maharashtra,MH,Ahmednagar,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -92,10 +92,10 @@ Maharashtra,MH,Ahmednagar,90. Blood sugar level - very high (>160 mg/dl)23 (%),5
 Maharashtra,MH,Ahmednagar,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),12.5,
 Maharashtra,MH,Ahmednagar,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),13.4,
 Maharashtra,MH,Ahmednagar,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),5.1,
-Maharashtra,MH,Ahmednagar,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Ahmednagar,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),23.6,
 Maharashtra,MH,Ahmednagar,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),16.0,
 Maharashtra,MH,Ahmednagar,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),6.3,
-Maharashtra,MH,Ahmednagar,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Ahmednagar,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),25.3,
 Maharashtra,MH,Ahmednagar,98.Ever undergone a screening test for cervical cancer (%),1.3,
 Maharashtra,MH,Ahmednagar,99.Ever undergone a breast examination for breast cancer (%),0.2,
 Maharashtra,MH,Ahmednagar,100. Ever undergone an oral cavity examination for oral cancer (%),0.2,
@@ -140,10 +140,10 @@ Maharashtra,MH,Akola,34. Mothers whose last birth was protected against neonatal
 Maharashtra,MH,Akola,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),60.6,33.8
 Maharashtra,MH,Akola,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),40.4,26.0
 Maharashtra,MH,Akola,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),98.3,91.0
-Maharashtra,MH,Akola,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Akola,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),82.3,80.1
 Maharashtra,MH,Akola,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),1753.0,1759.0
 Maharashtra,MH,Akola,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,
-Maharashtra,MH,Akola,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Akola,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),92.2,
 Maharashtra,MH,Akola,42. Institutional births (%),97.7,92.0
 Maharashtra,MH,Akola,43. Institutional births in public facility (%),65.9,56.2
 Maharashtra,MH,Akola,44. Home births that were conducted by skilled health personnel10 (%),0.9,2.4
@@ -151,7 +151,7 @@ Maharashtra,MH,Akola,45. Births attended by skilled health personnel10 (%),86.4,
 Maharashtra,MH,Akola,46. Births delivered by caesarean section (%),29.1,23.7
 Maharashtra,MH,Akola,47. Births in a private health facility that were delivered by caesarean section (%),42.0,37.1
 Maharashtra,MH,Akola,48. Births in a public health facility that were delivered by caesarean section (%),23.9,18.7
-Maharashtra,MH,Akola,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Maharashtra,MH,Akola,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),69.5,50.8
 Maharashtra,MH,Akola,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),66.1,52.1
 Maharashtra,MH,Akola,51. Children age 12-23 months who have received BCG (%),97.8,90.4
 Maharashtra,MH,Akola,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),77.0,76.6
@@ -168,7 +168,7 @@ Maharashtra,MH,Akola,62. Children with diarrhoea in the 2 weeks preceding the su
 Maharashtra,MH,Akola,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),41.1,26.1
 Maharashtra,MH,Akola,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),77.3,89.3
 Maharashtra,MH,Akola,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),6.5,2.4
-Maharashtra,MH,Akola,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Maharashtra,MH,Akola,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),75.8,88.8
 Maharashtra,MH,Akola,67. Children under age 3 years breastfed within one hour of birth15 (%),63.1,62.9
 Maharashtra,MH,Akola,68. Children under age 6 months exclusively breastfed16 (%),59.6,
 Maharashtra,MH,Akola,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),46.7,
@@ -196,10 +196,10 @@ Maharashtra,MH,Akola,90. Blood sugar level - very high (>160 mg/dl)23 (%),3.2,
 Maharashtra,MH,Akola,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),9.8,
 Maharashtra,MH,Akola,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),11.7,
 Maharashtra,MH,Akola,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),4.2,
-Maharashtra,MH,Akola,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Akola,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),19.4,
 Maharashtra,MH,Akola,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),12.6,
 Maharashtra,MH,Akola,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),4.2,
-Maharashtra,MH,Akola,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Akola,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),19.1,
 Maharashtra,MH,Akola,98.Ever undergone a screening test for cervical cancer (%),1.6,
 Maharashtra,MH,Akola,99.Ever undergone a breast examination for breast cancer (%),0.4,
 Maharashtra,MH,Akola,100. Ever undergone an oral cavity examination for oral cancer (%),0.5,
@@ -244,10 +244,10 @@ Maharashtra,MH,Amravati,34. Mothers whose last birth was protected against neona
 Maharashtra,MH,Amravati,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),38.1,50.2
 Maharashtra,MH,Amravati,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),23.7,35.7
 Maharashtra,MH,Amravati,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),99.1,94.0
-Maharashtra,MH,Amravati,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Amravati,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),80.2,69.8
 Maharashtra,MH,Amravati,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),3557.0,6546.0
 Maharashtra,MH,Amravati,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,
-Maharashtra,MH,Amravati,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Amravati,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),79.4,
 Maharashtra,MH,Amravati,42. Institutional births (%),91.3,93.0
 Maharashtra,MH,Amravati,43. Institutional births in public facility (%),65.4,60.9
 Maharashtra,MH,Amravati,44. Home births that were conducted by skilled health personnel10 (%),1.8,2.2
@@ -255,7 +255,7 @@ Maharashtra,MH,Amravati,45. Births attended by skilled health personnel10 (%),89
 Maharashtra,MH,Amravati,46. Births delivered by caesarean section (%),30.2,18.4
 Maharashtra,MH,Amravati,47. Births in a private health facility that were delivered by caesarean section (%),58.9,32.9
 Maharashtra,MH,Amravati,48. Births in a public health facility that were delivered by caesarean section (%),22.7,12.9
-Maharashtra,MH,Amravati,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Maharashtra,MH,Amravati,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),92.5,64.7
 Maharashtra,MH,Amravati,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),92.5,77.5
 Maharashtra,MH,Amravati,51. Children age 12-23 months who have received BCG (%),100.0,91.0
 Maharashtra,MH,Amravati,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),92.5,73.0
@@ -272,7 +272,7 @@ Maharashtra,MH,Amravati,62. Children with diarrhoea in the 2 weeks preceding the
 Maharashtra,MH,Amravati,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),20.5,
 Maharashtra,MH,Amravati,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),68.1,
 Maharashtra,MH,Amravati,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),5.2,2.0
-Maharashtra,MH,Amravati,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Maharashtra,MH,Amravati,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),78.5,83.3
 Maharashtra,MH,Amravati,67. Children under age 3 years breastfed within one hour of birth15 (%),54.7,57.7
 Maharashtra,MH,Amravati,68. Children under age 6 months exclusively breastfed16 (%),80.5,60.8
 Maharashtra,MH,Amravati,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -300,10 +300,10 @@ Maharashtra,MH,Amravati,90. Blood sugar level - very high (>160 mg/dl)23 (%),4.9
 Maharashtra,MH,Amravati,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),13.1,
 Maharashtra,MH,Amravati,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),10.9,
 Maharashtra,MH,Amravati,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),4.8,
-Maharashtra,MH,Amravati,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Amravati,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),19.8,
 Maharashtra,MH,Amravati,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),12.0,
 Maharashtra,MH,Amravati,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),4.1,
-Maharashtra,MH,Amravati,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Amravati,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),18.7,
 Maharashtra,MH,Amravati,98.Ever undergone a screening test for cervical cancer (%),0.5,
 Maharashtra,MH,Amravati,99.Ever undergone a breast examination for breast cancer (%),0.0,
 Maharashtra,MH,Amravati,100. Ever undergone an oral cavity examination for oral cancer (%),0.0,
@@ -348,10 +348,10 @@ Maharashtra,MH,Aurangabad,34. Mothers whose last birth was protected against neo
 Maharashtra,MH,Aurangabad,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),14.5,19.8
 Maharashtra,MH,Aurangabad,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),6.9,4.9
 Maharashtra,MH,Aurangabad,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),95.0,93.1
-Maharashtra,MH,Aurangabad,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Aurangabad,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),76.4,87.0
 Maharashtra,MH,Aurangabad,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),4039.0,2924.0
 Maharashtra,MH,Aurangabad,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,
-Maharashtra,MH,Aurangabad,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Aurangabad,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),82.6,
 Maharashtra,MH,Aurangabad,42. Institutional births (%),94.8,93.5
 Maharashtra,MH,Aurangabad,43. Institutional births in public facility (%),61.1,41.3
 Maharashtra,MH,Aurangabad,44. Home births that were conducted by skilled health personnel10 (%),3.1,2.9
@@ -359,7 +359,7 @@ Maharashtra,MH,Aurangabad,45. Births attended by skilled health personnel10 (%),
 Maharashtra,MH,Aurangabad,46. Births delivered by caesarean section (%),17.5,14.4
 Maharashtra,MH,Aurangabad,47. Births in a private health facility that were delivered by caesarean section (%),19.5,20.8
 Maharashtra,MH,Aurangabad,48. Births in a public health facility that were delivered by caesarean section (%),17.9,8.6
-Maharashtra,MH,Aurangabad,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Maharashtra,MH,Aurangabad,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),56.7,59.3
 Maharashtra,MH,Aurangabad,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),81.7,84.8
 Maharashtra,MH,Aurangabad,51. Children age 12-23 months who have received BCG (%),94.2,94.8
 Maharashtra,MH,Aurangabad,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),62.4,69.5
@@ -376,7 +376,7 @@ Maharashtra,MH,Aurangabad,62. Children with diarrhoea in the 2 weeks preceding t
 Maharashtra,MH,Aurangabad,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),30.8,18.1
 Maharashtra,MH,Aurangabad,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),55.7,80.1
 Maharashtra,MH,Aurangabad,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),4.1,4.0
-Maharashtra,MH,Aurangabad,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Maharashtra,MH,Aurangabad,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),64.2,84.2
 Maharashtra,MH,Aurangabad,67. Children under age 3 years breastfed within one hour of birth15 (%),39.9,41.6
 Maharashtra,MH,Aurangabad,68. Children under age 6 months exclusively breastfed16 (%),75.7,60.9
 Maharashtra,MH,Aurangabad,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -404,10 +404,10 @@ Maharashtra,MH,Aurangabad,90. Blood sugar level - very high (>160 mg/dl)23 (%),5
 Maharashtra,MH,Aurangabad,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),14.1,
 Maharashtra,MH,Aurangabad,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),11.5,
 Maharashtra,MH,Aurangabad,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),5.2,
-Maharashtra,MH,Aurangabad,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Aurangabad,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),20.8,
 Maharashtra,MH,Aurangabad,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),14.3,
 Maharashtra,MH,Aurangabad,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),4.0,
-Maharashtra,MH,Aurangabad,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Aurangabad,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),20.9,
 Maharashtra,MH,Aurangabad,98.Ever undergone a screening test for cervical cancer (%),2.5,
 Maharashtra,MH,Aurangabad,99.Ever undergone a breast examination for breast cancer (%),0.2,
 Maharashtra,MH,Aurangabad,100. Ever undergone an oral cavity examination for oral cancer (%),0.4,
@@ -452,10 +452,10 @@ Maharashtra,MH,Bhandara,34. Mothers whose last birth was protected against neona
 Maharashtra,MH,Bhandara,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),64.4,40.5
 Maharashtra,MH,Bhandara,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),29.0,22.8
 Maharashtra,MH,Bhandara,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),99.4,99.4
-Maharashtra,MH,Bhandara,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Bhandara,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),87.5,86.2
 Maharashtra,MH,Bhandara,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),2584.0,2163.0
 Maharashtra,MH,Bhandara,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,
-Maharashtra,MH,Bhandara,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Bhandara,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),90.1,
 Maharashtra,MH,Bhandara,42. Institutional births (%),100.0,98.7
 Maharashtra,MH,Bhandara,43. Institutional births in public facility (%),94.1,79.0
 Maharashtra,MH,Bhandara,44. Home births that were conducted by skilled health personnel10 (%),0.0,1.3
@@ -463,7 +463,7 @@ Maharashtra,MH,Bhandara,45. Births attended by skilled health personnel10 (%),98
 Maharashtra,MH,Bhandara,46. Births delivered by caesarean section (%),31.3,25.9
 Maharashtra,MH,Bhandara,47. Births in a private health facility that were delivered by caesarean section (%),,64.5
 Maharashtra,MH,Bhandara,48. Births in a public health facility that were delivered by caesarean section (%),30.0,16.7
-Maharashtra,MH,Bhandara,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Maharashtra,MH,Bhandara,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),87.0,81.1
 Maharashtra,MH,Bhandara,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),91.9,86.4
 Maharashtra,MH,Bhandara,51. Children age 12-23 months who have received BCG (%),97.5,100.0
 Maharashtra,MH,Bhandara,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),89.5,90.3
@@ -480,7 +480,7 @@ Maharashtra,MH,Bhandara,62. Children with diarrhoea in the 2 weeks preceding the
 Maharashtra,MH,Bhandara,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,
 Maharashtra,MH,Bhandara,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
 Maharashtra,MH,Bhandara,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),2.7,0.9
-Maharashtra,MH,Bhandara,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Maharashtra,MH,Bhandara,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),55.3,
 Maharashtra,MH,Bhandara,67. Children under age 3 years breastfed within one hour of birth15 (%),60.5,32.1
 Maharashtra,MH,Bhandara,68. Children under age 6 months exclusively breastfed16 (%),,
 Maharashtra,MH,Bhandara,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -508,10 +508,10 @@ Maharashtra,MH,Bhandara,90. Blood sugar level - very high (>160 mg/dl)23 (%),3.9
 Maharashtra,MH,Bhandara,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),10.1,
 Maharashtra,MH,Bhandara,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),12.2,
 Maharashtra,MH,Bhandara,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),4.7,
-Maharashtra,MH,Bhandara,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Bhandara,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),21.8,
 Maharashtra,MH,Bhandara,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),11.4,
 Maharashtra,MH,Bhandara,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),4.1,
-Maharashtra,MH,Bhandara,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Bhandara,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),19.3,
 Maharashtra,MH,Bhandara,98.Ever undergone a screening test for cervical cancer (%),0.7,
 Maharashtra,MH,Bhandara,99.Ever undergone a breast examination for breast cancer (%),0.2,
 Maharashtra,MH,Bhandara,100. Ever undergone an oral cavity examination for oral cancer (%),0.5,
@@ -556,10 +556,10 @@ Maharashtra,MH,Bid,34. Mothers whose last birth was protected against neonatal t
 Maharashtra,MH,Bid,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),28.4,22.3
 Maharashtra,MH,Bid,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),21.8,12.1
 Maharashtra,MH,Bid,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),97.6,88.6
-Maharashtra,MH,Bid,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Bid,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),79.8,78.4
 Maharashtra,MH,Bid,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),3988.0,1631.0
 Maharashtra,MH,Bid,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,
-Maharashtra,MH,Bid,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Bid,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),80.6,
 Maharashtra,MH,Bid,42. Institutional births (%),94.0,93.7
 Maharashtra,MH,Bid,43. Institutional births in public facility (%),63.7,61.2
 Maharashtra,MH,Bid,44. Home births that were conducted by skilled health personnel10 (%),2.5,5.0
@@ -567,7 +567,7 @@ Maharashtra,MH,Bid,45. Births attended by skilled health personnel10 (%),90.8,94
 Maharashtra,MH,Bid,46. Births delivered by caesarean section (%),17.5,11.1
 Maharashtra,MH,Bid,47. Births in a private health facility that were delivered by caesarean section (%),21.6,18.3
 Maharashtra,MH,Bid,48. Births in a public health facility that were delivered by caesarean section (%),17.3,8.4
-Maharashtra,MH,Bid,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Maharashtra,MH,Bid,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),75.9,53.9
 Maharashtra,MH,Bid,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),79.1,86.2
 Maharashtra,MH,Bid,51. Children age 12-23 months who have received BCG (%),96.5,88.5
 Maharashtra,MH,Bid,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),78.0,62.2
@@ -584,7 +584,7 @@ Maharashtra,MH,Bid,62. Children with diarrhoea in the 2 weeks preceding the surv
 Maharashtra,MH,Bid,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),17.7,12.6
 Maharashtra,MH,Bid,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),73.2,80.3
 Maharashtra,MH,Bid,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),3.0,0.6
-Maharashtra,MH,Bid,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Maharashtra,MH,Bid,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),62.9,82.3
 Maharashtra,MH,Bid,67. Children under age 3 years breastfed within one hour of birth15 (%),45.8,56.4
 Maharashtra,MH,Bid,68. Children under age 6 months exclusively breastfed16 (%),,42.8
 Maharashtra,MH,Bid,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -612,10 +612,10 @@ Maharashtra,MH,Bid,90. Blood sugar level - very high (>160 mg/dl)23 (%),5.5,
 Maharashtra,MH,Bid,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),12.9,
 Maharashtra,MH,Bid,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),15.0,
 Maharashtra,MH,Bid,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),8.0,
-Maharashtra,MH,Bid,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Bid,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),26.4,
 Maharashtra,MH,Bid,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),16.9,
 Maharashtra,MH,Bid,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),5.9,
-Maharashtra,MH,Bid,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Bid,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),24.1,
 Maharashtra,MH,Bid,98.Ever undergone a screening test for cervical cancer (%),4.9,
 Maharashtra,MH,Bid,99.Ever undergone a breast examination for breast cancer (%),0.8,
 Maharashtra,MH,Bid,100. Ever undergone an oral cavity examination for oral cancer (%),0.7,
@@ -660,10 +660,10 @@ Maharashtra,MH,Buldana,34. Mothers whose last birth was protected against neonat
 Maharashtra,MH,Buldana,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),61.2,21.6
 Maharashtra,MH,Buldana,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),45.1,7.0
 Maharashtra,MH,Buldana,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),100.0,98.6
-Maharashtra,MH,Buldana,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Buldana,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),86.7,78.9
 Maharashtra,MH,Buldana,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),2641.0,1739.0
 Maharashtra,MH,Buldana,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,16.2
-Maharashtra,MH,Buldana,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Buldana,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),84.8,
 Maharashtra,MH,Buldana,42. Institutional births (%),93.9,82.6
 Maharashtra,MH,Buldana,43. Institutional births in public facility (%),70.9,51.3
 Maharashtra,MH,Buldana,44. Home births that were conducted by skilled health personnel10 (%),2.8,5.7
@@ -671,7 +671,7 @@ Maharashtra,MH,Buldana,45. Births attended by skilled health personnel10 (%),92.
 Maharashtra,MH,Buldana,46. Births delivered by caesarean section (%),17.6,13.9
 Maharashtra,MH,Buldana,47. Births in a private health facility that were delivered by caesarean section (%),28.4,29.9
 Maharashtra,MH,Buldana,48. Births in a public health facility that were delivered by caesarean section (%),15.6,8.9
-Maharashtra,MH,Buldana,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Maharashtra,MH,Buldana,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),85.9,64.2
 Maharashtra,MH,Buldana,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),78.5,80.5
 Maharashtra,MH,Buldana,51. Children age 12-23 months who have received BCG (%),100.0,91.1
 Maharashtra,MH,Buldana,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),91.8,70.0
@@ -688,7 +688,7 @@ Maharashtra,MH,Buldana,62. Children with diarrhoea in the 2 weeks preceding the 
 Maharashtra,MH,Buldana,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),32.5,16.6
 Maharashtra,MH,Buldana,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),71.8,86.7
 Maharashtra,MH,Buldana,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),6.3,2.2
-Maharashtra,MH,Buldana,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Maharashtra,MH,Buldana,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),67.4,88.2
 Maharashtra,MH,Buldana,67. Children under age 3 years breastfed within one hour of birth15 (%),64.4,30.1
 Maharashtra,MH,Buldana,68. Children under age 6 months exclusively breastfed16 (%),,
 Maharashtra,MH,Buldana,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -716,10 +716,10 @@ Maharashtra,MH,Buldana,90. Blood sugar level - very high (>160 mg/dl)23 (%),2.9,
 Maharashtra,MH,Buldana,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),9.0,
 Maharashtra,MH,Buldana,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),12.6,
 Maharashtra,MH,Buldana,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),4.7,
-Maharashtra,MH,Buldana,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Buldana,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),20.1,
 Maharashtra,MH,Buldana,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),14.2,
 Maharashtra,MH,Buldana,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.5,
-Maharashtra,MH,Buldana,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Buldana,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),20.5,
 Maharashtra,MH,Buldana,98.Ever undergone a screening test for cervical cancer (%),1.0,
 Maharashtra,MH,Buldana,99.Ever undergone a breast examination for breast cancer (%),0.0,
 Maharashtra,MH,Buldana,100. Ever undergone an oral cavity examination for oral cancer (%),0.4,
@@ -764,10 +764,10 @@ Maharashtra,MH,Chandrapur,34. Mothers whose last birth was protected against neo
 Maharashtra,MH,Chandrapur,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),69.2,47.0
 Maharashtra,MH,Chandrapur,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),53.3,24.6
 Maharashtra,MH,Chandrapur,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),100.0,97.3
-Maharashtra,MH,Chandrapur,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Chandrapur,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),92.3,80.8
 Maharashtra,MH,Chandrapur,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),2109.0,1803.0
 Maharashtra,MH,Chandrapur,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,
-Maharashtra,MH,Chandrapur,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Chandrapur,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),97.0,
 Maharashtra,MH,Chandrapur,42. Institutional births (%),99.6,91.7
 Maharashtra,MH,Chandrapur,43. Institutional births in public facility (%),85.2,66.5
 Maharashtra,MH,Chandrapur,44. Home births that were conducted by skilled health personnel10 (%),0.4,2.2
@@ -775,7 +775,7 @@ Maharashtra,MH,Chandrapur,45. Births attended by skilled health personnel10 (%),
 Maharashtra,MH,Chandrapur,46. Births delivered by caesarean section (%),20.8,14.5
 Maharashtra,MH,Chandrapur,47. Births in a private health facility that were delivered by caesarean section (%),41.7,36.1
 Maharashtra,MH,Chandrapur,48. Births in a public health facility that were delivered by caesarean section (%),17.3,8.1
-Maharashtra,MH,Chandrapur,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Maharashtra,MH,Chandrapur,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),95.0,60.5
 Maharashtra,MH,Chandrapur,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),87.6,82.8
 Maharashtra,MH,Chandrapur,51. Children age 12-23 months who have received BCG (%),100.0,96.8
 Maharashtra,MH,Chandrapur,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),97.5,72.6
@@ -792,7 +792,7 @@ Maharashtra,MH,Chandrapur,62. Children with diarrhoea in the 2 weeks preceding t
 Maharashtra,MH,Chandrapur,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,
 Maharashtra,MH,Chandrapur,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
 Maharashtra,MH,Chandrapur,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),7.3,1.2
-Maharashtra,MH,Chandrapur,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Maharashtra,MH,Chandrapur,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),72.7,
 Maharashtra,MH,Chandrapur,67. Children under age 3 years breastfed within one hour of birth15 (%),65.5,67.2
 Maharashtra,MH,Chandrapur,68. Children under age 6 months exclusively breastfed16 (%),,
 Maharashtra,MH,Chandrapur,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -820,10 +820,10 @@ Maharashtra,MH,Chandrapur,90. Blood sugar level - very high (>160 mg/dl)23 (%),3
 Maharashtra,MH,Chandrapur,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),11.3,
 Maharashtra,MH,Chandrapur,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),12.4,
 Maharashtra,MH,Chandrapur,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),4.8,
-Maharashtra,MH,Chandrapur,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Chandrapur,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),20.7,
 Maharashtra,MH,Chandrapur,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),14.0,
 Maharashtra,MH,Chandrapur,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),4.1,
-Maharashtra,MH,Chandrapur,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Chandrapur,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),20.6,
 Maharashtra,MH,Chandrapur,98.Ever undergone a screening test for cervical cancer (%),1.0,
 Maharashtra,MH,Chandrapur,99.Ever undergone a breast examination for breast cancer (%),0.2,
 Maharashtra,MH,Chandrapur,100. Ever undergone an oral cavity examination for oral cancer (%),0.6,
@@ -868,10 +868,10 @@ Maharashtra,MH,Dhule,34. Mothers whose last birth was protected against neonatal
 Maharashtra,MH,Dhule,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),30.7,15.7
 Maharashtra,MH,Dhule,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),16.5,6.3
 Maharashtra,MH,Dhule,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),93.7,92.9
-Maharashtra,MH,Dhule,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Dhule,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),77.2,70.1
 Maharashtra,MH,Dhule,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),2269.0,2491.0
 Maharashtra,MH,Dhule,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),9.0,5.1
-Maharashtra,MH,Dhule,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Dhule,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),74.9,
 Maharashtra,MH,Dhule,42. Institutional births (%),77.2,72.6
 Maharashtra,MH,Dhule,43. Institutional births in public facility (%),48.8,42.4
 Maharashtra,MH,Dhule,44. Home births that were conducted by skilled health personnel10 (%),8.1,12.1
@@ -879,7 +879,7 @@ Maharashtra,MH,Dhule,45. Births attended by skilled health personnel10 (%),84.2,
 Maharashtra,MH,Dhule,46. Births delivered by caesarean section (%),17.0,13.9
 Maharashtra,MH,Dhule,47. Births in a private health facility that were delivered by caesarean section (%),40.8,28.9
 Maharashtra,MH,Dhule,48. Births in a public health facility that were delivered by caesarean section (%),11.1,12.2
-Maharashtra,MH,Dhule,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Maharashtra,MH,Dhule,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),56.6,40.0
 Maharashtra,MH,Dhule,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),69.1,71.0
 Maharashtra,MH,Dhule,51. Children age 12-23 months who have received BCG (%),87.1,95.3
 Maharashtra,MH,Dhule,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),62.3,54.2
@@ -896,7 +896,7 @@ Maharashtra,MH,Dhule,62. Children with diarrhoea in the 2 weeks preceding the su
 Maharashtra,MH,Dhule,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),23.2,15.9
 Maharashtra,MH,Dhule,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),75.2,80.0
 Maharashtra,MH,Dhule,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),2.1,2.1
-Maharashtra,MH,Dhule,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Maharashtra,MH,Dhule,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),75.2,94.7
 Maharashtra,MH,Dhule,67. Children under age 3 years breastfed within one hour of birth15 (%),46.3,55.1
 Maharashtra,MH,Dhule,68. Children under age 6 months exclusively breastfed16 (%),63.4,
 Maharashtra,MH,Dhule,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -924,10 +924,10 @@ Maharashtra,MH,Dhule,90. Blood sugar level - very high (>160 mg/dl)23 (%),6.1,
 Maharashtra,MH,Dhule,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),15.3,
 Maharashtra,MH,Dhule,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),10.4,
 Maharashtra,MH,Dhule,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),5.8,
-Maharashtra,MH,Dhule,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Dhule,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),21.4,
 Maharashtra,MH,Dhule,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),15.8,
 Maharashtra,MH,Dhule,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),5.3,
-Maharashtra,MH,Dhule,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Dhule,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),25.1,
 Maharashtra,MH,Dhule,98.Ever undergone a screening test for cervical cancer (%),0.4,
 Maharashtra,MH,Dhule,99.Ever undergone a breast examination for breast cancer (%),0.3,
 Maharashtra,MH,Dhule,100. Ever undergone an oral cavity examination for oral cancer (%),0.2,
@@ -972,10 +972,10 @@ Maharashtra,MH,Gadchiroli,34. Mothers whose last birth was protected against neo
 Maharashtra,MH,Gadchiroli,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),70.8,48.1
 Maharashtra,MH,Gadchiroli,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),34.8,36.8
 Maharashtra,MH,Gadchiroli,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),98.0,94.8
-Maharashtra,MH,Gadchiroli,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Gadchiroli,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),91.5,71.4
 Maharashtra,MH,Gadchiroli,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),1847.0,910.0
 Maharashtra,MH,Gadchiroli,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,
-Maharashtra,MH,Gadchiroli,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Gadchiroli,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),93.7,
 Maharashtra,MH,Gadchiroli,42. Institutional births (%),97.3,87.7
 Maharashtra,MH,Gadchiroli,43. Institutional births in public facility (%),90.5,70.0
 Maharashtra,MH,Gadchiroli,44. Home births that were conducted by skilled health personnel10 (%),1.8,6.5
@@ -983,7 +983,7 @@ Maharashtra,MH,Gadchiroli,45. Births attended by skilled health personnel10 (%),
 Maharashtra,MH,Gadchiroli,46. Births delivered by caesarean section (%),17.3,11.0
 Maharashtra,MH,Gadchiroli,47. Births in a private health facility that were delivered by caesarean section (%),,33.7
 Maharashtra,MH,Gadchiroli,48. Births in a public health facility that were delivered by caesarean section (%),12.5,7.2
-Maharashtra,MH,Gadchiroli,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Maharashtra,MH,Gadchiroli,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),97.9,82.0
 Maharashtra,MH,Gadchiroli,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),95.6,97.7
 Maharashtra,MH,Gadchiroli,51. Children age 12-23 months who have received BCG (%),100.0,96.9
 Maharashtra,MH,Gadchiroli,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),100.0,87.0
@@ -1028,10 +1028,10 @@ Maharashtra,MH,Gadchiroli,90. Blood sugar level - very high (>160 mg/dl)23 (%),4
 Maharashtra,MH,Gadchiroli,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),10.3,
 Maharashtra,MH,Gadchiroli,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),10.4,
 Maharashtra,MH,Gadchiroli,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.1,
-Maharashtra,MH,Gadchiroli,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Gadchiroli,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),17.0,
 Maharashtra,MH,Gadchiroli,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),11.1,
 Maharashtra,MH,Gadchiroli,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.7,
-Maharashtra,MH,Gadchiroli,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Gadchiroli,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),17.2,
 Maharashtra,MH,Gadchiroli,98.Ever undergone a screening test for cervical cancer (%),1.1,
 Maharashtra,MH,Gadchiroli,99.Ever undergone a breast examination for breast cancer (%),0.9,
 Maharashtra,MH,Gadchiroli,100. Ever undergone an oral cavity examination for oral cancer (%),0.9,
@@ -1076,10 +1076,10 @@ Maharashtra,MH,Gondiya,34. Mothers whose last birth was protected against neonat
 Maharashtra,MH,Gondiya,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),46.0,70.0
 Maharashtra,MH,Gondiya,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),19.0,48.3
 Maharashtra,MH,Gondiya,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),98.7,96.2
-Maharashtra,MH,Gondiya,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Gondiya,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),90.0,68.8
 Maharashtra,MH,Gondiya,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),1684.0,1447.0
 Maharashtra,MH,Gondiya,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,
-Maharashtra,MH,Gondiya,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Gondiya,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),89.2,
 Maharashtra,MH,Gondiya,42. Institutional births (%),99.1,93.3
 Maharashtra,MH,Gondiya,43. Institutional births in public facility (%),88.6,79.1
 Maharashtra,MH,Gondiya,44. Home births that were conducted by skilled health personnel10 (%),0.9,3.6
@@ -1087,7 +1087,7 @@ Maharashtra,MH,Gondiya,45. Births attended by skilled health personnel10 (%),98.
 Maharashtra,MH,Gondiya,46. Births delivered by caesarean section (%),27.0,16.3
 Maharashtra,MH,Gondiya,47. Births in a private health facility that were delivered by caesarean section (%),,60.1
 Maharashtra,MH,Gondiya,48. Births in a public health facility that were delivered by caesarean section (%),22.1,9.8
-Maharashtra,MH,Gondiya,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Maharashtra,MH,Gondiya,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),88.2,74.4
 Maharashtra,MH,Gondiya,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),90.4,79.9
 Maharashtra,MH,Gondiya,51. Children age 12-23 months who have received BCG (%),95.8,91.3
 Maharashtra,MH,Gondiya,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),91.1,82.3
@@ -1104,7 +1104,7 @@ Maharashtra,MH,Gondiya,62. Children with diarrhoea in the 2 weeks preceding the 
 Maharashtra,MH,Gondiya,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,
 Maharashtra,MH,Gondiya,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
 Maharashtra,MH,Gondiya,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),2.6,1.2
-Maharashtra,MH,Gondiya,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Maharashtra,MH,Gondiya,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),73.6,
 Maharashtra,MH,Gondiya,67. Children under age 3 years breastfed within one hour of birth15 (%),58.9,69.8
 Maharashtra,MH,Gondiya,68. Children under age 6 months exclusively breastfed16 (%),,
 Maharashtra,MH,Gondiya,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -1132,10 +1132,10 @@ Maharashtra,MH,Gondiya,90. Blood sugar level - very high (>160 mg/dl)23 (%),3.9,
 Maharashtra,MH,Gondiya,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),10.2,
 Maharashtra,MH,Gondiya,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),11.6,
 Maharashtra,MH,Gondiya,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),5.5,
-Maharashtra,MH,Gondiya,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Gondiya,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),21.8,
 Maharashtra,MH,Gondiya,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),10.9,
 Maharashtra,MH,Gondiya,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),5.0,
-Maharashtra,MH,Gondiya,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Gondiya,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),18.9,
 Maharashtra,MH,Gondiya,98.Ever undergone a screening test for cervical cancer (%),0.9,
 Maharashtra,MH,Gondiya,99.Ever undergone a breast examination for breast cancer (%),0.6,
 Maharashtra,MH,Gondiya,100. Ever undergone an oral cavity examination for oral cancer (%),0.7,
@@ -1180,10 +1180,10 @@ Maharashtra,MH,Hingoli,34. Mothers whose last birth was protected against neonat
 Maharashtra,MH,Hingoli,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),23.2,42.8
 Maharashtra,MH,Hingoli,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),10.9,27.0
 Maharashtra,MH,Hingoli,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),98.8,93.9
-Maharashtra,MH,Hingoli,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Hingoli,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),82.4,64.7
 Maharashtra,MH,Hingoli,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),3114.0,16010.0
 Maharashtra,MH,Hingoli,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,3.3
-Maharashtra,MH,Hingoli,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Hingoli,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),85.1,
 Maharashtra,MH,Hingoli,42. Institutional births (%),94.0,84.6
 Maharashtra,MH,Hingoli,43. Institutional births in public facility (%),68.6,45.2
 Maharashtra,MH,Hingoli,44. Home births that were conducted by skilled health personnel10 (%),1.6,6.8
@@ -1191,7 +1191,7 @@ Maharashtra,MH,Hingoli,45. Births attended by skilled health personnel10 (%),95.
 Maharashtra,MH,Hingoli,46. Births delivered by caesarean section (%),16.4,11.5
 Maharashtra,MH,Hingoli,47. Births in a private health facility that were delivered by caesarean section (%),29.3,18.5
 Maharashtra,MH,Hingoli,48. Births in a public health facility that were delivered by caesarean section (%),13.0,9.4
-Maharashtra,MH,Hingoli,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Maharashtra,MH,Hingoli,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),76.9,65.9
 Maharashtra,MH,Hingoli,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),79.4,71.4
 Maharashtra,MH,Hingoli,51. Children age 12-23 months who have received BCG (%),98.3,96.0
 Maharashtra,MH,Hingoli,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),78.6,80.0
@@ -1208,7 +1208,7 @@ Maharashtra,MH,Hingoli,62. Children with diarrhoea in the 2 weeks preceding the 
 Maharashtra,MH,Hingoli,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),22.1,6.5
 Maharashtra,MH,Hingoli,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),71.1,74.6
 Maharashtra,MH,Hingoli,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),3.2,2.7
-Maharashtra,MH,Hingoli,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Maharashtra,MH,Hingoli,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),69.5,82.9
 Maharashtra,MH,Hingoli,67. Children under age 3 years breastfed within one hour of birth15 (%),55.4,58.3
 Maharashtra,MH,Hingoli,68. Children under age 6 months exclusively breastfed16 (%),55.8,81.8
 Maharashtra,MH,Hingoli,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -1236,10 +1236,10 @@ Maharashtra,MH,Hingoli,90. Blood sugar level - very high (>160 mg/dl)23 (%),4.6,
 Maharashtra,MH,Hingoli,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),10.7,
 Maharashtra,MH,Hingoli,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),10.7,
 Maharashtra,MH,Hingoli,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.5,
-Maharashtra,MH,Hingoli,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Hingoli,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),17.4,
 Maharashtra,MH,Hingoli,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),11.4,
 Maharashtra,MH,Hingoli,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.8,
-Maharashtra,MH,Hingoli,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Hingoli,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),17.4,
 Maharashtra,MH,Hingoli,98.Ever undergone a screening test for cervical cancer (%),0.7,
 Maharashtra,MH,Hingoli,99.Ever undergone a breast examination for breast cancer (%),0.0,
 Maharashtra,MH,Hingoli,100. Ever undergone an oral cavity examination for oral cancer (%),0.0,
@@ -1284,10 +1284,10 @@ Maharashtra,MH,Jalgaon,34. Mothers whose last birth was protected against neonat
 Maharashtra,MH,Jalgaon,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),28.9,39.7
 Maharashtra,MH,Jalgaon,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),20.4,31.0
 Maharashtra,MH,Jalgaon,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),91.0,87.8
-Maharashtra,MH,Jalgaon,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Jalgaon,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),74.5,78.5
 Maharashtra,MH,Jalgaon,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),3366.0,2655.0
 Maharashtra,MH,Jalgaon,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,
-Maharashtra,MH,Jalgaon,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Jalgaon,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),78.5,
 Maharashtra,MH,Jalgaon,42. Institutional births (%),86.5,84.2
 Maharashtra,MH,Jalgaon,43. Institutional births in public facility (%),40.2,37.9
 Maharashtra,MH,Jalgaon,44. Home births that were conducted by skilled health personnel10 (%),3.8,4.9
@@ -1295,7 +1295,7 @@ Maharashtra,MH,Jalgaon,45. Births attended by skilled health personnel10 (%),81.
 Maharashtra,MH,Jalgaon,46. Births delivered by caesarean section (%),27.5,20.2
 Maharashtra,MH,Jalgaon,47. Births in a private health facility that were delivered by caesarean section (%),40.1,35.4
 Maharashtra,MH,Jalgaon,48. Births in a public health facility that were delivered by caesarean section (%),22.2,10.1
-Maharashtra,MH,Jalgaon,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Maharashtra,MH,Jalgaon,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),61.3,43.2
 Maharashtra,MH,Jalgaon,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),79.9,
 Maharashtra,MH,Jalgaon,51. Children age 12-23 months who have received BCG (%),96.2,85.0
 Maharashtra,MH,Jalgaon,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),75.8,50.7
@@ -1312,7 +1312,7 @@ Maharashtra,MH,Jalgaon,62. Children with diarrhoea in the 2 weeks preceding the 
 Maharashtra,MH,Jalgaon,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,10.0
 Maharashtra,MH,Jalgaon,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,83.8
 Maharashtra,MH,Jalgaon,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),4.1,1.7
-Maharashtra,MH,Jalgaon,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Maharashtra,MH,Jalgaon,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),61.8,94.9
 Maharashtra,MH,Jalgaon,67. Children under age 3 years breastfed within one hour of birth15 (%),46.2,61.9
 Maharashtra,MH,Jalgaon,68. Children under age 6 months exclusively breastfed16 (%),59.8,41.8
 Maharashtra,MH,Jalgaon,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -1340,10 +1340,10 @@ Maharashtra,MH,Jalgaon,90. Blood sugar level - very high (>160 mg/dl)23 (%),7.1,
 Maharashtra,MH,Jalgaon,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),15.2,
 Maharashtra,MH,Jalgaon,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),10.9,
 Maharashtra,MH,Jalgaon,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),5.4,
-Maharashtra,MH,Jalgaon,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Jalgaon,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),20.7,
 Maharashtra,MH,Jalgaon,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),15.6,
 Maharashtra,MH,Jalgaon,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),6.2,
-Maharashtra,MH,Jalgaon,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Jalgaon,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),24.4,
 Maharashtra,MH,Jalgaon,98.Ever undergone a screening test for cervical cancer (%),0.4,
 Maharashtra,MH,Jalgaon,99.Ever undergone a breast examination for breast cancer (%),0.3,
 Maharashtra,MH,Jalgaon,100. Ever undergone an oral cavity examination for oral cancer (%),0.2,
@@ -1388,10 +1388,10 @@ Maharashtra,MH,Jalna,34. Mothers whose last birth was protected against neonatal
 Maharashtra,MH,Jalna,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),27.2,45.6
 Maharashtra,MH,Jalna,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),20.8,29.6
 Maharashtra,MH,Jalna,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),96.1,95.6
-Maharashtra,MH,Jalna,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Jalna,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),74.0,66.1
 Maharashtra,MH,Jalna,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),4178.0,24453.0
 Maharashtra,MH,Jalna,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,
-Maharashtra,MH,Jalna,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Jalna,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),78.9,
 Maharashtra,MH,Jalna,42. Institutional births (%),92.8,92.0
 Maharashtra,MH,Jalna,43. Institutional births in public facility (%),57.3,61.5
 Maharashtra,MH,Jalna,44. Home births that were conducted by skilled health personnel10 (%),3.4,4.0
@@ -1399,7 +1399,7 @@ Maharashtra,MH,Jalna,45. Births attended by skilled health personnel10 (%),86.5,
 Maharashtra,MH,Jalna,46. Births delivered by caesarean section (%),15.2,10.6
 Maharashtra,MH,Jalna,47. Births in a private health facility that were delivered by caesarean section (%),30.4,20.0
 Maharashtra,MH,Jalna,48. Births in a public health facility that were delivered by caesarean section (%),7.7,7.4
-Maharashtra,MH,Jalna,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Maharashtra,MH,Jalna,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),54.3,70.0
 Maharashtra,MH,Jalna,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),68.9,72.6
 Maharashtra,MH,Jalna,51. Children age 12-23 months who have received BCG (%),92.6,95.1
 Maharashtra,MH,Jalna,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),66.4,80.0
@@ -1416,7 +1416,7 @@ Maharashtra,MH,Jalna,62. Children with diarrhoea in the 2 weeks preceding the su
 Maharashtra,MH,Jalna,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),14.8,7.8
 Maharashtra,MH,Jalna,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),76.4,61.8
 Maharashtra,MH,Jalna,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),7.0,3.5
-Maharashtra,MH,Jalna,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Maharashtra,MH,Jalna,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),68.7,65.2
 Maharashtra,MH,Jalna,67. Children under age 3 years breastfed within one hour of birth15 (%),66.1,61.5
 Maharashtra,MH,Jalna,68. Children under age 6 months exclusively breastfed16 (%),,69.8
 Maharashtra,MH,Jalna,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -1444,10 +1444,10 @@ Maharashtra,MH,Jalna,90. Blood sugar level - very high (>160 mg/dl)23 (%),4.8,
 Maharashtra,MH,Jalna,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),13.0,
 Maharashtra,MH,Jalna,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),12.5,
 Maharashtra,MH,Jalna,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),4.2,
-Maharashtra,MH,Jalna,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Jalna,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),21.8,
 Maharashtra,MH,Jalna,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),17.9,
 Maharashtra,MH,Jalna,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.3,
-Maharashtra,MH,Jalna,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Jalna,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),24.8,
 Maharashtra,MH,Jalna,98.Ever undergone a screening test for cervical cancer (%),2.4,
 Maharashtra,MH,Jalna,99.Ever undergone a breast examination for breast cancer (%),1.4,
 Maharashtra,MH,Jalna,100. Ever undergone an oral cavity examination for oral cancer (%),1.9,
@@ -1492,10 +1492,10 @@ Maharashtra,MH,Kolhapur,34. Mothers whose last birth was protected against neona
 Maharashtra,MH,Kolhapur,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),58.8,46.5
 Maharashtra,MH,Kolhapur,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),39.4,39.2
 Maharashtra,MH,Kolhapur,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),95.3,86.4
-Maharashtra,MH,Kolhapur,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Kolhapur,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),95.2,78.4
 Maharashtra,MH,Kolhapur,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),2958.0,2452.0
 Maharashtra,MH,Kolhapur,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,
-Maharashtra,MH,Kolhapur,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Kolhapur,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),91.5,
 Maharashtra,MH,Kolhapur,42. Institutional births (%),99.2,95.4
 Maharashtra,MH,Kolhapur,43. Institutional births in public facility (%),45.6,42.9
 Maharashtra,MH,Kolhapur,44. Home births that were conducted by skilled health personnel10 (%),0.0,0.4
@@ -1503,7 +1503,7 @@ Maharashtra,MH,Kolhapur,45. Births attended by skilled health personnel10 (%),93
 Maharashtra,MH,Kolhapur,46. Births delivered by caesarean section (%),38.1,30.7
 Maharashtra,MH,Kolhapur,47. Births in a private health facility that were delivered by caesarean section (%),55.8,48.0
 Maharashtra,MH,Kolhapur,48. Births in a public health facility that were delivered by caesarean section (%),18.1,12.9
-Maharashtra,MH,Kolhapur,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Maharashtra,MH,Kolhapur,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),67.2,46.9
 Maharashtra,MH,Kolhapur,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),78.0,
 Maharashtra,MH,Kolhapur,51. Children age 12-23 months who have received BCG (%),88.6,84.9
 Maharashtra,MH,Kolhapur,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),74.5,69.2
@@ -1520,7 +1520,7 @@ Maharashtra,MH,Kolhapur,62. Children with diarrhoea in the 2 weeks preceding the
 Maharashtra,MH,Kolhapur,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,
 Maharashtra,MH,Kolhapur,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
 Maharashtra,MH,Kolhapur,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),3.2,3.9
-Maharashtra,MH,Kolhapur,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Maharashtra,MH,Kolhapur,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),79.8,77.4
 Maharashtra,MH,Kolhapur,67. Children under age 3 years breastfed within one hour of birth15 (%),45.2,53.9
 Maharashtra,MH,Kolhapur,68. Children under age 6 months exclusively breastfed16 (%),,
 Maharashtra,MH,Kolhapur,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -1548,10 +1548,10 @@ Maharashtra,MH,Kolhapur,90. Blood sugar level - very high (>160 mg/dl)23 (%),7.1
 Maharashtra,MH,Kolhapur,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),16.5,
 Maharashtra,MH,Kolhapur,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),17.0,
 Maharashtra,MH,Kolhapur,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),6.6,
-Maharashtra,MH,Kolhapur,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Kolhapur,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),31.0,
 Maharashtra,MH,Kolhapur,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),19.1,
 Maharashtra,MH,Kolhapur,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),7.1,
-Maharashtra,MH,Kolhapur,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Kolhapur,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),33.2,
 Maharashtra,MH,Kolhapur,98.Ever undergone a screening test for cervical cancer (%),9.4,
 Maharashtra,MH,Kolhapur,99.Ever undergone a breast examination for breast cancer (%),8.5,
 Maharashtra,MH,Kolhapur,100. Ever undergone an oral cavity examination for oral cancer (%),8.3,
@@ -1596,10 +1596,10 @@ Maharashtra,MH,Latur,34. Mothers whose last birth was protected against neonatal
 Maharashtra,MH,Latur,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),53.6,40.5
 Maharashtra,MH,Latur,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),38.0,31.7
 Maharashtra,MH,Latur,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),100.0,94.1
-Maharashtra,MH,Latur,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Latur,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),93.3,82.3
 Maharashtra,MH,Latur,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),2483.0,1515.0
 Maharashtra,MH,Latur,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,11.6
-Maharashtra,MH,Latur,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Latur,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),92.5,
 Maharashtra,MH,Latur,42. Institutional births (%),94.7,89.9
 Maharashtra,MH,Latur,43. Institutional births in public facility (%),66.8,49.7
 Maharashtra,MH,Latur,44. Home births that were conducted by skilled health personnel10 (%),2.4,3.9
@@ -1607,7 +1607,7 @@ Maharashtra,MH,Latur,45. Births attended by skilled health personnel10 (%),93.4,
 Maharashtra,MH,Latur,46. Births delivered by caesarean section (%),19.0,15.9
 Maharashtra,MH,Latur,47. Births in a private health facility that were delivered by caesarean section (%),36.5,27.8
 Maharashtra,MH,Latur,48. Births in a public health facility that were delivered by caesarean section (%),13.2,9.6
-Maharashtra,MH,Latur,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Maharashtra,MH,Latur,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),79.2,59.4
 Maharashtra,MH,Latur,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),77.9,77.4
 Maharashtra,MH,Latur,51. Children age 12-23 months who have received BCG (%),96.2,92.8
 Maharashtra,MH,Latur,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),83.0,72.1
@@ -1624,7 +1624,7 @@ Maharashtra,MH,Latur,62. Children with diarrhoea in the 2 weeks preceding the su
 Maharashtra,MH,Latur,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),32.3,3.6
 Maharashtra,MH,Latur,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),59.6,65.0
 Maharashtra,MH,Latur,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),3.3,1.9
-Maharashtra,MH,Latur,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Maharashtra,MH,Latur,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),64.5,71.2
 Maharashtra,MH,Latur,67. Children under age 3 years breastfed within one hour of birth15 (%),45.3,49.5
 Maharashtra,MH,Latur,68. Children under age 6 months exclusively breastfed16 (%),,47.3
 Maharashtra,MH,Latur,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -1652,10 +1652,10 @@ Maharashtra,MH,Latur,90. Blood sugar level - very high (>160 mg/dl)23 (%),4.3,
 Maharashtra,MH,Latur,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),11.1,
 Maharashtra,MH,Latur,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),11.1,
 Maharashtra,MH,Latur,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),4.9,
-Maharashtra,MH,Latur,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Latur,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),18.6,
 Maharashtra,MH,Latur,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),13.7,
 Maharashtra,MH,Latur,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),4.2,
-Maharashtra,MH,Latur,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Latur,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),19.6,
 Maharashtra,MH,Latur,98.Ever undergone a screening test for cervical cancer (%),0.9,
 Maharashtra,MH,Latur,99.Ever undergone a breast examination for breast cancer (%),0.5,
 Maharashtra,MH,Latur,100. Ever undergone an oral cavity examination for oral cancer (%),0.4,
@@ -1700,10 +1700,10 @@ Maharashtra,MH,Mumbai Suburban,34. Mothers whose last birth was protected agains
 Maharashtra,MH,Mumbai Suburban,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),54.8,36.7
 Maharashtra,MH,Mumbai Suburban,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),30.2,20.0
 Maharashtra,MH,Mumbai Suburban,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),92.6,89.4
-Maharashtra,MH,Mumbai Suburban,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Mumbai Suburban,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),91.5,81.8
 Maharashtra,MH,Mumbai Suburban,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),3943.0,3079.0
 Maharashtra,MH,Mumbai Suburban,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,
-Maharashtra,MH,Mumbai Suburban,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Mumbai Suburban,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),97.2,
 Maharashtra,MH,Mumbai Suburban,42. Institutional births (%),98.1,93.9
 Maharashtra,MH,Mumbai Suburban,43. Institutional births in public facility (%),56.0,51.9
 Maharashtra,MH,Mumbai Suburban,44. Home births that were conducted by skilled health personnel10 (%),0.5,4.4
@@ -1711,7 +1711,7 @@ Maharashtra,MH,Mumbai Suburban,45. Births attended by skilled health personnel10
 Maharashtra,MH,Mumbai Suburban,46. Births delivered by caesarean section (%),31.7,18.9
 Maharashtra,MH,Mumbai Suburban,47. Births in a private health facility that were delivered by caesarean section (%),41.9,30.3
 Maharashtra,MH,Mumbai Suburban,48. Births in a public health facility that were delivered by caesarean section (%),25.1,11.9
-Maharashtra,MH,Mumbai Suburban,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Maharashtra,MH,Mumbai Suburban,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,50.1
 Maharashtra,MH,Mumbai Suburban,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),,
 Maharashtra,MH,Mumbai Suburban,51. Children age 12-23 months who have received BCG (%),,75.0
 Maharashtra,MH,Mumbai Suburban,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),,56.3
@@ -1756,10 +1756,10 @@ Maharashtra,MH,Mumbai Suburban,90. Blood sugar level - very high (>160 mg/dl)23 
 Maharashtra,MH,Mumbai Suburban,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),21.0,
 Maharashtra,MH,Mumbai Suburban,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),15.7,
 Maharashtra,MH,Mumbai Suburban,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),4.4,
-Maharashtra,MH,Mumbai Suburban,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Mumbai Suburban,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),26.6,
 Maharashtra,MH,Mumbai Suburban,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),18.0,
 Maharashtra,MH,Mumbai Suburban,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),4.6,
-Maharashtra,MH,Mumbai Suburban,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Mumbai Suburban,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),28.0,
 Maharashtra,MH,Mumbai Suburban,98.Ever undergone a screening test for cervical cancer (%),3.2,
 Maharashtra,MH,Mumbai Suburban,99.Ever undergone a breast examination for breast cancer (%),2.1,
 Maharashtra,MH,Mumbai Suburban,100. Ever undergone an oral cavity examination for oral cancer (%),2.1,
@@ -1804,10 +1804,10 @@ Maharashtra,MH,Mumbai,34. Mothers whose last birth was protected against neonata
 Maharashtra,MH,Mumbai,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),72.4,52.7
 Maharashtra,MH,Mumbai,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),49.5,34.4
 Maharashtra,MH,Mumbai,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),93.1,91.4
-Maharashtra,MH,Mumbai,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Mumbai,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),90.6,84.8
 Maharashtra,MH,Mumbai,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),6233.0,8300.0
 Maharashtra,MH,Mumbai,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,
-Maharashtra,MH,Mumbai,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Mumbai,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),95.9,
 Maharashtra,MH,Mumbai,42. Institutional births (%),99.5,97.4
 Maharashtra,MH,Mumbai,43. Institutional births in public facility (%),55.5,56.3
 Maharashtra,MH,Mumbai,44. Home births that were conducted by skilled health personnel10 (%),0.0,0.0
@@ -1815,7 +1815,7 @@ Maharashtra,MH,Mumbai,45. Births attended by skilled health personnel10 (%),98.3
 Maharashtra,MH,Mumbai,46. Births delivered by caesarean section (%),30.4,28.5
 Maharashtra,MH,Mumbai,47. Births in a private health facility that were delivered by caesarean section (%),39.1,37.6
 Maharashtra,MH,Mumbai,48. Births in a public health facility that were delivered by caesarean section (%),23.8,23.2
-Maharashtra,MH,Mumbai,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Maharashtra,MH,Mumbai,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,45.6
 Maharashtra,MH,Mumbai,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),,
 Maharashtra,MH,Mumbai,51. Children age 12-23 months who have received BCG (%),,87.6
 Maharashtra,MH,Mumbai,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),,55.6
@@ -1860,10 +1860,10 @@ Maharashtra,MH,Mumbai,90. Blood sugar level - very high (>160 mg/dl)23 (%),6.1,
 Maharashtra,MH,Mumbai,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),18.2,
 Maharashtra,MH,Mumbai,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),14.1,
 Maharashtra,MH,Mumbai,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),2.1,
-Maharashtra,MH,Mumbai,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Mumbai,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),21.0,
 Maharashtra,MH,Mumbai,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),16.9,
 Maharashtra,MH,Mumbai,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.3,
-Maharashtra,MH,Mumbai,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Mumbai,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),23.3,
 Maharashtra,MH,Mumbai,98.Ever undergone a screening test for cervical cancer (%),1.0,
 Maharashtra,MH,Mumbai,99.Ever undergone a breast examination for breast cancer (%),0.0,
 Maharashtra,MH,Mumbai,100. Ever undergone an oral cavity examination for oral cancer (%),0.2,
@@ -1908,10 +1908,10 @@ Maharashtra,MH,Nagpur,34. Mothers whose last birth was protected against neonata
 Maharashtra,MH,Nagpur,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),57.1,52.5
 Maharashtra,MH,Nagpur,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),42.0,36.1
 Maharashtra,MH,Nagpur,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),96.6,96.1
-Maharashtra,MH,Nagpur,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Nagpur,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),91.4,84.1
 Maharashtra,MH,Nagpur,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),3249.0,1911.0
 Maharashtra,MH,Nagpur,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,
-Maharashtra,MH,Nagpur,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Nagpur,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),90.8,
 Maharashtra,MH,Nagpur,42. Institutional births (%),100.0,97.2
 Maharashtra,MH,Nagpur,43. Institutional births in public facility (%),61.9,70.6
 Maharashtra,MH,Nagpur,44. Home births that were conducted by skilled health personnel10 (%),0.0,0.9
@@ -1919,7 +1919,7 @@ Maharashtra,MH,Nagpur,45. Births attended by skilled health personnel10 (%),96.6
 Maharashtra,MH,Nagpur,46. Births delivered by caesarean section (%),33.7,39.3
 Maharashtra,MH,Nagpur,47. Births in a private health facility that were delivered by caesarean section (%),41.4,59.4
 Maharashtra,MH,Nagpur,48. Births in a public health facility that were delivered by caesarean section (%),28.9,33.2
-Maharashtra,MH,Nagpur,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Maharashtra,MH,Nagpur,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),89.4,76.5
 Maharashtra,MH,Nagpur,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),87.4,87.3
 Maharashtra,MH,Nagpur,51. Children age 12-23 months who have received BCG (%),100.0,96.1
 Maharashtra,MH,Nagpur,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),94.7,84.3
@@ -1936,7 +1936,7 @@ Maharashtra,MH,Nagpur,62. Children with diarrhoea in the 2 weeks preceding the s
 Maharashtra,MH,Nagpur,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,
 Maharashtra,MH,Nagpur,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
 Maharashtra,MH,Nagpur,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),3.9,1.2
-Maharashtra,MH,Nagpur,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Maharashtra,MH,Nagpur,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),65.0,83.7
 Maharashtra,MH,Nagpur,67. Children under age 3 years breastfed within one hour of birth15 (%),68.4,59.6
 Maharashtra,MH,Nagpur,68. Children under age 6 months exclusively breastfed16 (%),,88.0
 Maharashtra,MH,Nagpur,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -1964,10 +1964,10 @@ Maharashtra,MH,Nagpur,90. Blood sugar level - very high (>160 mg/dl)23 (%),4.3,
 Maharashtra,MH,Nagpur,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),12.8,
 Maharashtra,MH,Nagpur,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),13.2,
 Maharashtra,MH,Nagpur,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.6,
-Maharashtra,MH,Nagpur,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Nagpur,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),21.3,
 Maharashtra,MH,Nagpur,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),13.2,
 Maharashtra,MH,Nagpur,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),2.4,
-Maharashtra,MH,Nagpur,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Nagpur,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),18.3,
 Maharashtra,MH,Nagpur,98.Ever undergone a screening test for cervical cancer (%),0.8,
 Maharashtra,MH,Nagpur,99.Ever undergone a breast examination for breast cancer (%),0.3,
 Maharashtra,MH,Nagpur,100. Ever undergone an oral cavity examination for oral cancer (%),0.7,
@@ -2012,10 +2012,10 @@ Maharashtra,MH,Nanded,34. Mothers whose last birth was protected against neonata
 Maharashtra,MH,Nanded,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),21.7,39.3
 Maharashtra,MH,Nanded,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),8.8,26.8
 Maharashtra,MH,Nanded,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),96.7,91.3
-Maharashtra,MH,Nanded,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Nanded,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),76.1,65.8
 Maharashtra,MH,Nanded,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),2964.0,1982.0
 Maharashtra,MH,Nanded,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,4.9
-Maharashtra,MH,Nanded,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Nanded,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),79.3,
 Maharashtra,MH,Nanded,42. Institutional births (%),94.8,84.3
 Maharashtra,MH,Nanded,43. Institutional births in public facility (%),66.7,50.7
 Maharashtra,MH,Nanded,44. Home births that were conducted by skilled health personnel10 (%),0.9,5.3
@@ -2023,7 +2023,7 @@ Maharashtra,MH,Nanded,45. Births attended by skilled health personnel10 (%),92.6
 Maharashtra,MH,Nanded,46. Births delivered by caesarean section (%),14.0,13.6
 Maharashtra,MH,Nanded,47. Births in a private health facility that were delivered by caesarean section (%),28.8,24.8
 Maharashtra,MH,Nanded,48. Births in a public health facility that were delivered by caesarean section (%),8.9,10.3
-Maharashtra,MH,Nanded,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Maharashtra,MH,Nanded,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),75.7,51.1
 Maharashtra,MH,Nanded,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),84.9,67.9
 Maharashtra,MH,Nanded,51. Children age 12-23 months who have received BCG (%),93.8,88.2
 Maharashtra,MH,Nanded,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),82.3,66.1
@@ -2040,7 +2040,7 @@ Maharashtra,MH,Nanded,62. Children with diarrhoea in the 2 weeks preceding the s
 Maharashtra,MH,Nanded,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),19.9,8.5
 Maharashtra,MH,Nanded,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),79.1,82.1
 Maharashtra,MH,Nanded,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),1.0,1.7
-Maharashtra,MH,Nanded,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Maharashtra,MH,Nanded,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),81.6,86.2
 Maharashtra,MH,Nanded,67. Children under age 3 years breastfed within one hour of birth15 (%),52.7,64.5
 Maharashtra,MH,Nanded,68. Children under age 6 months exclusively breastfed16 (%),,74.7
 Maharashtra,MH,Nanded,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -2068,10 +2068,10 @@ Maharashtra,MH,Nanded,90. Blood sugar level - very high (>160 mg/dl)23 (%),5.8,
 Maharashtra,MH,Nanded,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),12.1,
 Maharashtra,MH,Nanded,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),8.9,
 Maharashtra,MH,Nanded,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),4.6,
-Maharashtra,MH,Nanded,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Nanded,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),16.7,
 Maharashtra,MH,Nanded,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),10.2,
 Maharashtra,MH,Nanded,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),4.2,
-Maharashtra,MH,Nanded,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Nanded,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),17.3,
 Maharashtra,MH,Nanded,98.Ever undergone a screening test for cervical cancer (%),1.6,
 Maharashtra,MH,Nanded,99.Ever undergone a breast examination for breast cancer (%),0.2,
 Maharashtra,MH,Nanded,100. Ever undergone an oral cavity examination for oral cancer (%),0.0,
@@ -2116,10 +2116,10 @@ Maharashtra,MH,Nandurbar,34. Mothers whose last birth was protected against neon
 Maharashtra,MH,Nandurbar,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),38.3,39.0
 Maharashtra,MH,Nandurbar,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),25.3,25.4
 Maharashtra,MH,Nandurbar,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),99.2,75.1
-Maharashtra,MH,Nandurbar,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Nandurbar,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),74.4,53.3
 Maharashtra,MH,Nandurbar,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),1313.0,15103.0
 Maharashtra,MH,Nandurbar,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),3.3,5.0
-Maharashtra,MH,Nandurbar,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Nandurbar,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),74.2,
 Maharashtra,MH,Nandurbar,42. Institutional births (%),76.3,55.5
 Maharashtra,MH,Nandurbar,43. Institutional births in public facility (%),60.7,40.8
 Maharashtra,MH,Nandurbar,44. Home births that were conducted by skilled health personnel10 (%),7.0,9.8
@@ -2127,7 +2127,7 @@ Maharashtra,MH,Nandurbar,45. Births attended by skilled health personnel10 (%),7
 Maharashtra,MH,Nandurbar,46. Births delivered by caesarean section (%),7.9,4.5
 Maharashtra,MH,Nandurbar,47. Births in a private health facility that were delivered by caesarean section (%),29.0,23.3
 Maharashtra,MH,Nandurbar,48. Births in a public health facility that were delivered by caesarean section (%),5.6,2.7
-Maharashtra,MH,Nandurbar,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Maharashtra,MH,Nandurbar,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),72.4,32.8
 Maharashtra,MH,Nandurbar,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),77.9,68.2
 Maharashtra,MH,Nandurbar,51. Children age 12-23 months who have received BCG (%),95.9,73.7
 Maharashtra,MH,Nandurbar,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),77.0,38.5
@@ -2144,7 +2144,7 @@ Maharashtra,MH,Nandurbar,62. Children with diarrhoea in the 2 weeks preceding th
 Maharashtra,MH,Nandurbar,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),29.1,
 Maharashtra,MH,Nandurbar,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),88.4,
 Maharashtra,MH,Nandurbar,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),4.7,2.4
-Maharashtra,MH,Nandurbar,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Maharashtra,MH,Nandurbar,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),77.2,73.0
 Maharashtra,MH,Nandurbar,67. Children under age 3 years breastfed within one hour of birth15 (%),51.9,64.9
 Maharashtra,MH,Nandurbar,68. Children under age 6 months exclusively breastfed16 (%),86.6,68.0
 Maharashtra,MH,Nandurbar,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -2172,10 +2172,10 @@ Maharashtra,MH,Nandurbar,90. Blood sugar level - very high (>160 mg/dl)23 (%),4.
 Maharashtra,MH,Nandurbar,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),10.5,
 Maharashtra,MH,Nandurbar,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),13.8,
 Maharashtra,MH,Nandurbar,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),6.4,
-Maharashtra,MH,Nandurbar,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Nandurbar,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),23.5,
 Maharashtra,MH,Nandurbar,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),17.8,
 Maharashtra,MH,Nandurbar,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),4.7,
-Maharashtra,MH,Nandurbar,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Nandurbar,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),24.6,
 Maharashtra,MH,Nandurbar,98.Ever undergone a screening test for cervical cancer (%),0.7,
 Maharashtra,MH,Nandurbar,99.Ever undergone a breast examination for breast cancer (%),1.2,
 Maharashtra,MH,Nandurbar,100. Ever undergone an oral cavity examination for oral cancer (%),0.4,
@@ -2220,10 +2220,10 @@ Maharashtra,MH,Nashik,34. Mothers whose last birth was protected against neonata
 Maharashtra,MH,Nashik,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),43.4,41.0
 Maharashtra,MH,Nashik,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),23.0,32.0
 Maharashtra,MH,Nashik,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),96.0,93.6
-Maharashtra,MH,Nashik,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Nashik,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),76.5,75.8
 Maharashtra,MH,Nashik,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),1698.0,1180.0
 Maharashtra,MH,Nashik,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,2.4
-Maharashtra,MH,Nashik,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Nashik,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),83.4,
 Maharashtra,MH,Nashik,42. Institutional births (%),90.5,85.3
 Maharashtra,MH,Nashik,43. Institutional births in public facility (%),52.0,50.7
 Maharashtra,MH,Nashik,44. Home births that were conducted by skilled health personnel10 (%),3.3,3.5
@@ -2231,7 +2231,7 @@ Maharashtra,MH,Nashik,45. Births attended by skilled health personnel10 (%),89.9
 Maharashtra,MH,Nashik,46. Births delivered by caesarean section (%),21.2,16.5
 Maharashtra,MH,Nashik,47. Births in a private health facility that were delivered by caesarean section (%),38.6,27.9
 Maharashtra,MH,Nashik,48. Births in a public health facility that were delivered by caesarean section (%),12.3,13.6
-Maharashtra,MH,Nashik,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Maharashtra,MH,Nashik,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),70.4,62.3
 Maharashtra,MH,Nashik,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),82.8,88.6
 Maharashtra,MH,Nashik,51. Children age 12-23 months who have received BCG (%),88.6,91.4
 Maharashtra,MH,Nashik,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),74.3,67.9
@@ -2248,7 +2248,7 @@ Maharashtra,MH,Nashik,62. Children with diarrhoea in the 2 weeks preceding the s
 Maharashtra,MH,Nashik,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),13.4,8.1
 Maharashtra,MH,Nashik,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),75.3,74.8
 Maharashtra,MH,Nashik,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),4.7,3.2
-Maharashtra,MH,Nashik,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Maharashtra,MH,Nashik,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),76.3,85.0
 Maharashtra,MH,Nashik,67. Children under age 3 years breastfed within one hour of birth15 (%),46.5,64.5
 Maharashtra,MH,Nashik,68. Children under age 6 months exclusively breastfed16 (%),68.0,
 Maharashtra,MH,Nashik,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -2276,10 +2276,10 @@ Maharashtra,MH,Nashik,90. Blood sugar level - very high (>160 mg/dl)23 (%),5.6,
 Maharashtra,MH,Nashik,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),12.0,
 Maharashtra,MH,Nashik,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),13.3,
 Maharashtra,MH,Nashik,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),5.4,
-Maharashtra,MH,Nashik,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Nashik,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),22.5,
 Maharashtra,MH,Nashik,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),16.6,
 Maharashtra,MH,Nashik,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),7.2,
-Maharashtra,MH,Nashik,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Nashik,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),26.1,
 Maharashtra,MH,Nashik,98.Ever undergone a screening test for cervical cancer (%),0.4,
 Maharashtra,MH,Nashik,99.Ever undergone a breast examination for breast cancer (%),0.2,
 Maharashtra,MH,Nashik,100. Ever undergone an oral cavity examination for oral cancer (%),0.0,
@@ -2324,10 +2324,10 @@ Maharashtra,MH,Osmanabad,34. Mothers whose last birth was protected against neon
 Maharashtra,MH,Osmanabad,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),66.1,37.4
 Maharashtra,MH,Osmanabad,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),44.4,30.1
 Maharashtra,MH,Osmanabad,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),95.8,96.6
-Maharashtra,MH,Osmanabad,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Osmanabad,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),94.4,77.2
 Maharashtra,MH,Osmanabad,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),2654.0,2172.0
 Maharashtra,MH,Osmanabad,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,
-Maharashtra,MH,Osmanabad,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Osmanabad,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),95.1,
 Maharashtra,MH,Osmanabad,42. Institutional births (%),98.1,88.2
 Maharashtra,MH,Osmanabad,43. Institutional births in public facility (%),68.4,52.8
 Maharashtra,MH,Osmanabad,44. Home births that were conducted by skilled health personnel10 (%),1.6,3.8
@@ -2335,7 +2335,7 @@ Maharashtra,MH,Osmanabad,45. Births attended by skilled health personnel10 (%),9
 Maharashtra,MH,Osmanabad,46. Births delivered by caesarean section (%),18.5,15.2
 Maharashtra,MH,Osmanabad,47. Births in a private health facility that were delivered by caesarean section (%),31.9,27.1
 Maharashtra,MH,Osmanabad,48. Births in a public health facility that were delivered by caesarean section (%),13.1,10.6
-Maharashtra,MH,Osmanabad,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Maharashtra,MH,Osmanabad,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),89.3,62.7
 Maharashtra,MH,Osmanabad,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),85.3,80.5
 Maharashtra,MH,Osmanabad,51. Children age 12-23 months who have received BCG (%),100.0,88.4
 Maharashtra,MH,Osmanabad,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),94.5,74.7
@@ -2352,7 +2352,7 @@ Maharashtra,MH,Osmanabad,62. Children with diarrhoea in the 2 weeks preceding th
 Maharashtra,MH,Osmanabad,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),15.1,10.1
 Maharashtra,MH,Osmanabad,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),71.1,66.4
 Maharashtra,MH,Osmanabad,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),4.1,0.8
-Maharashtra,MH,Osmanabad,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Maharashtra,MH,Osmanabad,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),71.2,70.9
 Maharashtra,MH,Osmanabad,67. Children under age 3 years breastfed within one hour of birth15 (%),61.3,62.9
 Maharashtra,MH,Osmanabad,68. Children under age 6 months exclusively breastfed16 (%),,
 Maharashtra,MH,Osmanabad,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -2380,10 +2380,10 @@ Maharashtra,MH,Osmanabad,90. Blood sugar level - very high (>160 mg/dl)23 (%),4.
 Maharashtra,MH,Osmanabad,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),11.2,
 Maharashtra,MH,Osmanabad,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),14.1,
 Maharashtra,MH,Osmanabad,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),6.3,
-Maharashtra,MH,Osmanabad,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Osmanabad,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),23.5,
 Maharashtra,MH,Osmanabad,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),18.1,
 Maharashtra,MH,Osmanabad,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),6.4,
-Maharashtra,MH,Osmanabad,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Osmanabad,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),26.2,
 Maharashtra,MH,Osmanabad,98.Ever undergone a screening test for cervical cancer (%),4.3,
 Maharashtra,MH,Osmanabad,99.Ever undergone a breast examination for breast cancer (%),0.0,
 Maharashtra,MH,Osmanabad,100. Ever undergone an oral cavity examination for oral cancer (%),0.0,
@@ -2428,10 +2428,10 @@ Maharashtra,MH,Parbhani,34. Mothers whose last birth was protected against neona
 Maharashtra,MH,Parbhani,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),17.9,31.1
 Maharashtra,MH,Parbhani,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),11.2,18.4
 Maharashtra,MH,Parbhani,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),89.0,95.3
-Maharashtra,MH,Parbhani,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Parbhani,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),64.4,83.9
 Maharashtra,MH,Parbhani,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),2779.0,3104.0
 Maharashtra,MH,Parbhani,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),11.9,0.0
-Maharashtra,MH,Parbhani,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Parbhani,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),66.8,
 Maharashtra,MH,Parbhani,42. Institutional births (%),85.6,85.8
 Maharashtra,MH,Parbhani,43. Institutional births in public facility (%),53.6,42.9
 Maharashtra,MH,Parbhani,44. Home births that were conducted by skilled health personnel10 (%),7.3,8.1
@@ -2439,7 +2439,7 @@ Maharashtra,MH,Parbhani,45. Births attended by skilled health personnel10 (%),90
 Maharashtra,MH,Parbhani,46. Births delivered by caesarean section (%),12.5,13.7
 Maharashtra,MH,Parbhani,47. Births in a private health facility that were delivered by caesarean section (%),17.4,19.9
 Maharashtra,MH,Parbhani,48. Births in a public health facility that were delivered by caesarean section (%),12.9,12.1
-Maharashtra,MH,Parbhani,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Maharashtra,MH,Parbhani,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),52.0,51.5
 Maharashtra,MH,Parbhani,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),75.4,74.3
 Maharashtra,MH,Parbhani,51. Children age 12-23 months who have received BCG (%),89.6,97.3
 Maharashtra,MH,Parbhani,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),55.9,60.1
@@ -2456,7 +2456,7 @@ Maharashtra,MH,Parbhani,62. Children with diarrhoea in the 2 weeks preceding the
 Maharashtra,MH,Parbhani,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),18.1,19.6
 Maharashtra,MH,Parbhani,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),76.7,69.2
 Maharashtra,MH,Parbhani,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),1.4,1.7
-Maharashtra,MH,Parbhani,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Maharashtra,MH,Parbhani,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),74.5,91.3
 Maharashtra,MH,Parbhani,67. Children under age 3 years breastfed within one hour of birth15 (%),47.2,49.1
 Maharashtra,MH,Parbhani,68. Children under age 6 months exclusively breastfed16 (%),68.0,
 Maharashtra,MH,Parbhani,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -2484,10 +2484,10 @@ Maharashtra,MH,Parbhani,90. Blood sugar level - very high (>160 mg/dl)23 (%),6.4
 Maharashtra,MH,Parbhani,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),13.4,
 Maharashtra,MH,Parbhani,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),11.2,
 Maharashtra,MH,Parbhani,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),4.7,
-Maharashtra,MH,Parbhani,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Parbhani,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),21.0,
 Maharashtra,MH,Parbhani,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),13.5,
 Maharashtra,MH,Parbhani,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.7,
-Maharashtra,MH,Parbhani,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Parbhani,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),21.6,
 Maharashtra,MH,Parbhani,98.Ever undergone a screening test for cervical cancer (%),3.8,
 Maharashtra,MH,Parbhani,99.Ever undergone a breast examination for breast cancer (%),0.9,
 Maharashtra,MH,Parbhani,100. Ever undergone an oral cavity examination for oral cancer (%),0.2,
@@ -2532,10 +2532,10 @@ Maharashtra,MH,Pune,34. Mothers whose last birth was protected against neonatal 
 Maharashtra,MH,Pune,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),50.2,55.9
 Maharashtra,MH,Pune,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),40.0,46.9
 Maharashtra,MH,Pune,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),93.1,92.3
-Maharashtra,MH,Pune,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Pune,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),84.2,86.1
 Maharashtra,MH,Pune,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),3677.0,2231.0
 Maharashtra,MH,Pune,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,
-Maharashtra,MH,Pune,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Pune,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),95.2,
 Maharashtra,MH,Pune,42. Institutional births (%),98.0,93.5
 Maharashtra,MH,Pune,43. Institutional births in public facility (%),43.4,37.9
 Maharashtra,MH,Pune,44. Home births that were conducted by skilled health personnel10 (%),1.5,2.0
@@ -2543,7 +2543,7 @@ Maharashtra,MH,Pune,45. Births attended by skilled health personnel10 (%),98.5,9
 Maharashtra,MH,Pune,46. Births delivered by caesarean section (%),34.6,31.9
 Maharashtra,MH,Pune,47. Births in a private health facility that were delivered by caesarean section (%),40.9,47.1
 Maharashtra,MH,Pune,48. Births in a public health facility that were delivered by caesarean section (%),28.3,15.1
-Maharashtra,MH,Pune,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Maharashtra,MH,Pune,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),58.1,81.0
 Maharashtra,MH,Pune,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),79.2,95.4
 Maharashtra,MH,Pune,51. Children age 12-23 months who have received BCG (%),81.7,98.1
 Maharashtra,MH,Pune,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),66.2,86.3
@@ -2560,7 +2560,7 @@ Maharashtra,MH,Pune,62. Children with diarrhoea in the 2 weeks preceding the sur
 Maharashtra,MH,Pune,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,
 Maharashtra,MH,Pune,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
 Maharashtra,MH,Pune,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),3.3,2.9
-Maharashtra,MH,Pune,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Maharashtra,MH,Pune,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),94.3,93.3
 Maharashtra,MH,Pune,67. Children under age 3 years breastfed within one hour of birth15 (%),54.8,62.0
 Maharashtra,MH,Pune,68. Children under age 6 months exclusively breastfed16 (%),,
 Maharashtra,MH,Pune,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -2588,10 +2588,10 @@ Maharashtra,MH,Pune,90. Blood sugar level - very high (>160 mg/dl)23 (%),6.5,
 Maharashtra,MH,Pune,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),15.1,
 Maharashtra,MH,Pune,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),14.3,
 Maharashtra,MH,Pune,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.7,
-Maharashtra,MH,Pune,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Pune,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),22.4,
 Maharashtra,MH,Pune,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),16.1,
 Maharashtra,MH,Pune,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),6.4,
-Maharashtra,MH,Pune,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Pune,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),25.8,
 Maharashtra,MH,Pune,98.Ever undergone a screening test for cervical cancer (%),3.8,
 Maharashtra,MH,Pune,99.Ever undergone a breast examination for breast cancer (%),2.3,
 Maharashtra,MH,Pune,100. Ever undergone an oral cavity examination for oral cancer (%),0.9,
@@ -2636,10 +2636,10 @@ Maharashtra,MH,Raigarh,34. Mothers whose last birth was protected against neonat
 Maharashtra,MH,Raigarh,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),61.6,47.2
 Maharashtra,MH,Raigarh,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),42.6,27.1
 Maharashtra,MH,Raigarh,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),98.4,87.1
-Maharashtra,MH,Raigarh,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Raigarh,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),93.0,64.4
 Maharashtra,MH,Raigarh,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),1676.0,3310.0
 Maharashtra,MH,Raigarh,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,
-Maharashtra,MH,Raigarh,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Raigarh,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),92.9,
 Maharashtra,MH,Raigarh,42. Institutional births (%),96.6,96.0
 Maharashtra,MH,Raigarh,43. Institutional births in public facility (%),54.8,46.5
 Maharashtra,MH,Raigarh,44. Home births that were conducted by skilled health personnel10 (%),1.1,0.7
@@ -2647,7 +2647,7 @@ Maharashtra,MH,Raigarh,45. Births attended by skilled health personnel10 (%),97.
 Maharashtra,MH,Raigarh,46. Births delivered by caesarean section (%),26.1,23.3
 Maharashtra,MH,Raigarh,47. Births in a private health facility that were delivered by caesarean section (%),38.9,22.7
 Maharashtra,MH,Raigarh,48. Births in a public health facility that were delivered by caesarean section (%),18.0,26.0
-Maharashtra,MH,Raigarh,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Maharashtra,MH,Raigarh,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),92.3,47.6
 Maharashtra,MH,Raigarh,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),88.3,72.0
 Maharashtra,MH,Raigarh,51. Children age 12-23 months who have received BCG (%),97.8,94.9
 Maharashtra,MH,Raigarh,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),92.3,50.9
@@ -2664,7 +2664,7 @@ Maharashtra,MH,Raigarh,62. Children with diarrhoea in the 2 weeks preceding the 
 Maharashtra,MH,Raigarh,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,
 Maharashtra,MH,Raigarh,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
 Maharashtra,MH,Raigarh,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),2.6,7.7
-Maharashtra,MH,Raigarh,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Maharashtra,MH,Raigarh,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),82.4,70.2
 Maharashtra,MH,Raigarh,67. Children under age 3 years breastfed within one hour of birth15 (%),52.4,63.6
 Maharashtra,MH,Raigarh,68. Children under age 6 months exclusively breastfed16 (%),,
 Maharashtra,MH,Raigarh,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -2692,7 +2692,7 @@ Maharashtra,MH,Raigarh,90. Blood sugar level - very high (>160 mg/dl)23 (%),6.1,
 Maharashtra,MH,Raigarh,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),13.5,
 Maharashtra,MH,Raigarh,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),14.8,
 Maharashtra,MH,Raigarh,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),6.1,
-Maharashtra,MH,Raigarh,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Raigarh,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),24.8,
 Maharashtra,MH,Raigarh,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),18.3,
 Maharashtra,MH,Raigarh,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),5.4,
 Maharashtra,MH,Raigarh,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
@@ -2740,10 +2740,10 @@ Maharashtra,MH,Ratnagiri,34. Mothers whose last birth was protected against neon
 Maharashtra,MH,Ratnagiri,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),54.6,52.4
 Maharashtra,MH,Ratnagiri,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),29.3,43.3
 Maharashtra,MH,Ratnagiri,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),97.0,97.9
-Maharashtra,MH,Ratnagiri,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Ratnagiri,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),89.7,79.8
 Maharashtra,MH,Ratnagiri,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),3096.0,4895.0
 Maharashtra,MH,Ratnagiri,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,
-Maharashtra,MH,Ratnagiri,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Ratnagiri,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),92.2,
 Maharashtra,MH,Ratnagiri,42. Institutional births (%),97.8,97.8
 Maharashtra,MH,Ratnagiri,43. Institutional births in public facility (%),53.5,41.2
 Maharashtra,MH,Ratnagiri,44. Home births that were conducted by skilled health personnel10 (%),0.7,1.3
@@ -2751,7 +2751,7 @@ Maharashtra,MH,Ratnagiri,45. Births attended by skilled health personnel10 (%),9
 Maharashtra,MH,Ratnagiri,46. Births delivered by caesarean section (%),30.8,22.3
 Maharashtra,MH,Ratnagiri,47. Births in a private health facility that were delivered by caesarean section (%),35.7,27.8
 Maharashtra,MH,Ratnagiri,48. Births in a public health facility that were delivered by caesarean section (%),28.0,15.8
-Maharashtra,MH,Ratnagiri,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Maharashtra,MH,Ratnagiri,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),77.2,73.1
 Maharashtra,MH,Ratnagiri,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),95.2,
 Maharashtra,MH,Ratnagiri,51. Children age 12-23 months who have received BCG (%),89.9,92.4
 Maharashtra,MH,Ratnagiri,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),85.6,85.2
@@ -2768,7 +2768,7 @@ Maharashtra,MH,Ratnagiri,62. Children with diarrhoea in the 2 weeks preceding th
 Maharashtra,MH,Ratnagiri,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,
 Maharashtra,MH,Ratnagiri,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
 Maharashtra,MH,Ratnagiri,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),2.4,4.2
-Maharashtra,MH,Ratnagiri,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Maharashtra,MH,Ratnagiri,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,88.7
 Maharashtra,MH,Ratnagiri,67. Children under age 3 years breastfed within one hour of birth15 (%),45.7,58.1
 Maharashtra,MH,Ratnagiri,68. Children under age 6 months exclusively breastfed16 (%),,
 Maharashtra,MH,Ratnagiri,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -2796,10 +2796,10 @@ Maharashtra,MH,Ratnagiri,90. Blood sugar level - very high (>160 mg/dl)23 (%),9.
 Maharashtra,MH,Ratnagiri,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),16.5,
 Maharashtra,MH,Ratnagiri,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),18.2,
 Maharashtra,MH,Ratnagiri,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),8.1,
-Maharashtra,MH,Ratnagiri,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Ratnagiri,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),32.4,
 Maharashtra,MH,Ratnagiri,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),21.1,
 Maharashtra,MH,Ratnagiri,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),8.7,
-Maharashtra,MH,Ratnagiri,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Ratnagiri,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),33.9,
 Maharashtra,MH,Ratnagiri,98.Ever undergone a screening test for cervical cancer (%),1.4,
 Maharashtra,MH,Ratnagiri,99.Ever undergone a breast examination for breast cancer (%),0.4,
 Maharashtra,MH,Ratnagiri,100. Ever undergone an oral cavity examination for oral cancer (%),0.2,
@@ -2844,10 +2844,10 @@ Maharashtra,MH,Sangli,34. Mothers whose last birth was protected against neonata
 Maharashtra,MH,Sangli,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),58.2,39.4
 Maharashtra,MH,Sangli,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),32.1,30.7
 Maharashtra,MH,Sangli,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),97.1,84.3
-Maharashtra,MH,Sangli,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Sangli,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),95.6,76.6
 Maharashtra,MH,Sangli,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),3548.0,3574.0
 Maharashtra,MH,Sangli,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,
-Maharashtra,MH,Sangli,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Sangli,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),95.0,
 Maharashtra,MH,Sangli,42. Institutional births (%),98.0,95.9
 Maharashtra,MH,Sangli,43. Institutional births in public facility (%),38.5,36.7
 Maharashtra,MH,Sangli,44. Home births that were conducted by skilled health personnel10 (%),1.7,2.6
@@ -2855,7 +2855,7 @@ Maharashtra,MH,Sangli,45. Births attended by skilled health personnel10 (%),97.6
 Maharashtra,MH,Sangli,46. Births delivered by caesarean section (%),34.3,31.3
 Maharashtra,MH,Sangli,47. Births in a private health facility that were delivered by caesarean section (%),43.2,41.9
 Maharashtra,MH,Sangli,48. Births in a public health facility that were delivered by caesarean section (%),22.2,17.5
-Maharashtra,MH,Sangli,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Maharashtra,MH,Sangli,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),75.0,43.4
 Maharashtra,MH,Sangli,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),83.3,
 Maharashtra,MH,Sangli,51. Children age 12-23 months who have received BCG (%),96.3,88.5
 Maharashtra,MH,Sangli,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),81.4,61.5
@@ -2872,7 +2872,7 @@ Maharashtra,MH,Sangli,62. Children with diarrhoea in the 2 weeks preceding the s
 Maharashtra,MH,Sangli,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,
 Maharashtra,MH,Sangli,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
 Maharashtra,MH,Sangli,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.3,4.3
-Maharashtra,MH,Sangli,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Maharashtra,MH,Sangli,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,89.9
 Maharashtra,MH,Sangli,67. Children under age 3 years breastfed within one hour of birth15 (%),46.5,52.4
 Maharashtra,MH,Sangli,68. Children under age 6 months exclusively breastfed16 (%),,
 Maharashtra,MH,Sangli,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -2900,10 +2900,10 @@ Maharashtra,MH,Sangli,90. Blood sugar level - very high (>160 mg/dl)23 (%),6.1,
 Maharashtra,MH,Sangli,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),18.0,
 Maharashtra,MH,Sangli,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),18.2,
 Maharashtra,MH,Sangli,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),6.7,
-Maharashtra,MH,Sangli,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Sangli,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),30.1,
 Maharashtra,MH,Sangli,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),21.6,
 Maharashtra,MH,Sangli,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),5.9,
-Maharashtra,MH,Sangli,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Sangli,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),32.0,
 Maharashtra,MH,Sangli,98.Ever undergone a screening test for cervical cancer (%),3.9,
 Maharashtra,MH,Sangli,99.Ever undergone a breast examination for breast cancer (%),4.1,
 Maharashtra,MH,Sangli,100. Ever undergone an oral cavity examination for oral cancer (%),4.1,
@@ -2948,10 +2948,10 @@ Maharashtra,MH,Satara,34. Mothers whose last birth was protected against neonata
 Maharashtra,MH,Satara,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),59.5,33.7
 Maharashtra,MH,Satara,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),39.7,28.4
 Maharashtra,MH,Satara,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),96.7,83.9
-Maharashtra,MH,Satara,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Satara,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),94.5,75.3
 Maharashtra,MH,Satara,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),2607.0,1867.0
 Maharashtra,MH,Satara,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,
-Maharashtra,MH,Satara,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Satara,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),95.1,
 Maharashtra,MH,Satara,42. Institutional births (%),97.1,96.3
 Maharashtra,MH,Satara,43. Institutional births in public facility (%),43.8,31.4
 Maharashtra,MH,Satara,44. Home births that were conducted by skilled health personnel10 (%),2.0,1.6
@@ -2959,7 +2959,7 @@ Maharashtra,MH,Satara,45. Births attended by skilled health personnel10 (%),97.9
 Maharashtra,MH,Satara,46. Births delivered by caesarean section (%),36.2,29.0
 Maharashtra,MH,Satara,47. Births in a private health facility that were delivered by caesarean section (%),53.0,40.2
 Maharashtra,MH,Satara,48. Births in a public health facility that were delivered by caesarean section (%),18.1,9.4
-Maharashtra,MH,Satara,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Maharashtra,MH,Satara,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),82.8,59.2
 Maharashtra,MH,Satara,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),76.3,66.1
 Maharashtra,MH,Satara,51. Children age 12-23 months who have received BCG (%),96.2,89.8
 Maharashtra,MH,Satara,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),87.5,89.0
@@ -2976,7 +2976,7 @@ Maharashtra,MH,Satara,62. Children with diarrhoea in the 2 weeks preceding the s
 Maharashtra,MH,Satara,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),24.5,11.9
 Maharashtra,MH,Satara,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),72.3,71.9
 Maharashtra,MH,Satara,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),5.9,2.1
-Maharashtra,MH,Satara,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Maharashtra,MH,Satara,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),77.7,84.7
 Maharashtra,MH,Satara,67. Children under age 3 years breastfed within one hour of birth15 (%),46.4,66.5
 Maharashtra,MH,Satara,68. Children under age 6 months exclusively breastfed16 (%),66.3,
 Maharashtra,MH,Satara,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -3004,10 +3004,10 @@ Maharashtra,MH,Satara,90. Blood sugar level - very high (>160 mg/dl)23 (%),6.9,
 Maharashtra,MH,Satara,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),12.9,
 Maharashtra,MH,Satara,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),16.4,
 Maharashtra,MH,Satara,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),6.2,
-Maharashtra,MH,Satara,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Satara,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),27.2,
 Maharashtra,MH,Satara,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),17.7,
 Maharashtra,MH,Satara,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),8.5,
-Maharashtra,MH,Satara,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Satara,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),29.8,
 Maharashtra,MH,Satara,98.Ever undergone a screening test for cervical cancer (%),1.2,
 Maharashtra,MH,Satara,99.Ever undergone a breast examination for breast cancer (%),0.5,
 Maharashtra,MH,Satara,100. Ever undergone an oral cavity examination for oral cancer (%),0.0,
@@ -3052,10 +3052,10 @@ Maharashtra,MH,Sindhudurg,34. Mothers whose last birth was protected against neo
 Maharashtra,MH,Sindhudurg,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),59.6,28.6
 Maharashtra,MH,Sindhudurg,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),38.2,16.0
 Maharashtra,MH,Sindhudurg,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),100.0,97.8
-Maharashtra,MH,Sindhudurg,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Sindhudurg,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),96.7,83.8
 Maharashtra,MH,Sindhudurg,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),3290.0,5633.0
 Maharashtra,MH,Sindhudurg,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,
-Maharashtra,MH,Sindhudurg,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Sindhudurg,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),98.2,
 Maharashtra,MH,Sindhudurg,42. Institutional births (%),100.0,99.3
 Maharashtra,MH,Sindhudurg,43. Institutional births in public facility (%),65.5,64.2
 Maharashtra,MH,Sindhudurg,44. Home births that were conducted by skilled health personnel10 (%),0.0,0.7
@@ -3063,7 +3063,7 @@ Maharashtra,MH,Sindhudurg,45. Births attended by skilled health personnel10 (%),
 Maharashtra,MH,Sindhudurg,46. Births delivered by caesarean section (%),31.8,22.8
 Maharashtra,MH,Sindhudurg,47. Births in a private health facility that were delivered by caesarean section (%),44.3,29.1
 Maharashtra,MH,Sindhudurg,48. Births in a public health facility that were delivered by caesarean section (%),25.2,19.6
-Maharashtra,MH,Sindhudurg,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Maharashtra,MH,Sindhudurg,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),76.3,80.3
 Maharashtra,MH,Sindhudurg,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),76.3,
 Maharashtra,MH,Sindhudurg,51. Children age 12-23 months who have received BCG (%),100.0,92.1
 Maharashtra,MH,Sindhudurg,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),89.7,88.6
@@ -3080,7 +3080,7 @@ Maharashtra,MH,Sindhudurg,62. Children with diarrhoea in the 2 weeks preceding t
 Maharashtra,MH,Sindhudurg,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,
 Maharashtra,MH,Sindhudurg,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
 Maharashtra,MH,Sindhudurg,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),1.4,3.6
-Maharashtra,MH,Sindhudurg,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Maharashtra,MH,Sindhudurg,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,89.6
 Maharashtra,MH,Sindhudurg,67. Children under age 3 years breastfed within one hour of birth15 (%),65.3,56.5
 Maharashtra,MH,Sindhudurg,68. Children under age 6 months exclusively breastfed16 (%),,
 Maharashtra,MH,Sindhudurg,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -3108,10 +3108,10 @@ Maharashtra,MH,Sindhudurg,90. Blood sugar level - very high (>160 mg/dl)23 (%),1
 Maharashtra,MH,Sindhudurg,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),23.4,
 Maharashtra,MH,Sindhudurg,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),21.4,
 Maharashtra,MH,Sindhudurg,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),6.9,
-Maharashtra,MH,Sindhudurg,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Sindhudurg,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),36.6,
 Maharashtra,MH,Sindhudurg,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),24.0,
 Maharashtra,MH,Sindhudurg,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),6.7,
-Maharashtra,MH,Sindhudurg,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Sindhudurg,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),37.9,
 Maharashtra,MH,Sindhudurg,98.Ever undergone a screening test for cervical cancer (%),1.9,
 Maharashtra,MH,Sindhudurg,99.Ever undergone a breast examination for breast cancer (%),0.6,
 Maharashtra,MH,Sindhudurg,100. Ever undergone an oral cavity examination for oral cancer (%),0.4,
@@ -3156,10 +3156,10 @@ Maharashtra,MH,Solapur,34. Mothers whose last birth was protected against neonat
 Maharashtra,MH,Solapur,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),60.3,50.9
 Maharashtra,MH,Solapur,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),36.0,44.0
 Maharashtra,MH,Solapur,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),96.0,86.8
-Maharashtra,MH,Solapur,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Solapur,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),89.6,75.4
 Maharashtra,MH,Solapur,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),1910.0,1453.0
 Maharashtra,MH,Solapur,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,
-Maharashtra,MH,Solapur,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Solapur,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),89.2,
 Maharashtra,MH,Solapur,42. Institutional births (%),96.2,86.4
 Maharashtra,MH,Solapur,43. Institutional births in public facility (%),51.5,28.9
 Maharashtra,MH,Solapur,44. Home births that were conducted by skilled health personnel10 (%),0.9,6.5
@@ -3167,7 +3167,7 @@ Maharashtra,MH,Solapur,45. Births attended by skilled health personnel10 (%),96.
 Maharashtra,MH,Solapur,46. Births delivered by caesarean section (%),21.2,16.5
 Maharashtra,MH,Solapur,47. Births in a private health facility that were delivered by caesarean section (%),34.9,24.9
 Maharashtra,MH,Solapur,48. Births in a public health facility that were delivered by caesarean section (%),10.8,7.3
-Maharashtra,MH,Solapur,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Maharashtra,MH,Solapur,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),83.6,64.9
 Maharashtra,MH,Solapur,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),86.3,69.9
 Maharashtra,MH,Solapur,51. Children age 12-23 months who have received BCG (%),93.5,96.2
 Maharashtra,MH,Solapur,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),85.1,70.4
@@ -3184,7 +3184,7 @@ Maharashtra,MH,Solapur,62. Children with diarrhoea in the 2 weeks preceding the 
 Maharashtra,MH,Solapur,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),34.7,
 Maharashtra,MH,Solapur,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),73.3,
 Maharashtra,MH,Solapur,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),2.4,0.7
-Maharashtra,MH,Solapur,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Maharashtra,MH,Solapur,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),80.7,84.0
 Maharashtra,MH,Solapur,67. Children under age 3 years breastfed within one hour of birth15 (%),51.1,59.6
 Maharashtra,MH,Solapur,68. Children under age 6 months exclusively breastfed16 (%),71.2,52.5
 Maharashtra,MH,Solapur,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -3212,10 +3212,10 @@ Maharashtra,MH,Solapur,90. Blood sugar level - very high (>160 mg/dl)23 (%),6.4,
 Maharashtra,MH,Solapur,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),12.2,
 Maharashtra,MH,Solapur,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),16.2,
 Maharashtra,MH,Solapur,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),6.5,
-Maharashtra,MH,Solapur,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Solapur,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),25.7,
 Maharashtra,MH,Solapur,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),18.9,
 Maharashtra,MH,Solapur,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),5.0,
-Maharashtra,MH,Solapur,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Solapur,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),26.2,
 Maharashtra,MH,Solapur,98.Ever undergone a screening test for cervical cancer (%),1.3,
 Maharashtra,MH,Solapur,99.Ever undergone a breast examination for breast cancer (%),0.3,
 Maharashtra,MH,Solapur,100. Ever undergone an oral cavity examination for oral cancer (%),0.5,
@@ -3260,10 +3260,10 @@ Maharashtra,MH,Wardha,34. Mothers whose last birth was protected against neonata
 Maharashtra,MH,Wardha,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),50.6,45.2
 Maharashtra,MH,Wardha,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),29.0,35.4
 Maharashtra,MH,Wardha,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),98.6,93.5
-Maharashtra,MH,Wardha,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Wardha,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),89.9,85.8
 Maharashtra,MH,Wardha,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),3482.0,2823.0
 Maharashtra,MH,Wardha,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,
-Maharashtra,MH,Wardha,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Wardha,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),90.5,
 Maharashtra,MH,Wardha,42. Institutional births (%),98.8,97.9
 Maharashtra,MH,Wardha,43. Institutional births in public facility (%),72.4,71.5
 Maharashtra,MH,Wardha,44. Home births that were conducted by skilled health personnel10 (%),0.0,1.3
@@ -3271,7 +3271,7 @@ Maharashtra,MH,Wardha,45. Births attended by skilled health personnel10 (%),99.0
 Maharashtra,MH,Wardha,46. Births delivered by caesarean section (%),24.1,25.9
 Maharashtra,MH,Wardha,47. Births in a private health facility that were delivered by caesarean section (%),39.3,47.5
 Maharashtra,MH,Wardha,48. Births in a public health facility that were delivered by caesarean section (%),19.0,18.6
-Maharashtra,MH,Wardha,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Maharashtra,MH,Wardha,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),92.4,76.5
 Maharashtra,MH,Wardha,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),87.4,80.1
 Maharashtra,MH,Wardha,51. Children age 12-23 months who have received BCG (%),100.0,95.5
 Maharashtra,MH,Wardha,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),95.0,93.5
@@ -3316,10 +3316,10 @@ Maharashtra,MH,Wardha,90. Blood sugar level - very high (>160 mg/dl)23 (%),4.4,
 Maharashtra,MH,Wardha,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),10.4,
 Maharashtra,MH,Wardha,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),9.8,
 Maharashtra,MH,Wardha,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),2.7,
-Maharashtra,MH,Wardha,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Wardha,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),17.1,
 Maharashtra,MH,Wardha,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),10.0,
 Maharashtra,MH,Wardha,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),1.8,
-Maharashtra,MH,Wardha,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Wardha,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),14.0,
 Maharashtra,MH,Wardha,98.Ever undergone a screening test for cervical cancer (%),0.4,
 Maharashtra,MH,Wardha,99.Ever undergone a breast examination for breast cancer (%),0.0,
 Maharashtra,MH,Wardha,100. Ever undergone an oral cavity examination for oral cancer (%),0.2,
@@ -3364,10 +3364,10 @@ Maharashtra,MH,Washim,34. Mothers whose last birth was protected against neonata
 Maharashtra,MH,Washim,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),44.5,37.0
 Maharashtra,MH,Washim,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),34.4,19.9
 Maharashtra,MH,Washim,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),99.2,92.7
-Maharashtra,MH,Washim,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Washim,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),83.4,75.8
 Maharashtra,MH,Washim,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),3071.0,2147.0
 Maharashtra,MH,Washim,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,5.6
-Maharashtra,MH,Washim,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Washim,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),83.4,
 Maharashtra,MH,Washim,42. Institutional births (%),92.9,84.0
 Maharashtra,MH,Washim,43. Institutional births in public facility (%),65.1,51.8
 Maharashtra,MH,Washim,44. Home births that were conducted by skilled health personnel10 (%),1.8,4.2
@@ -3375,7 +3375,7 @@ Maharashtra,MH,Washim,45. Births attended by skilled health personnel10 (%),83.1
 Maharashtra,MH,Washim,46. Births delivered by caesarean section (%),18.0,11.0
 Maharashtra,MH,Washim,47. Births in a private health facility that were delivered by caesarean section (%),31.3,23.6
 Maharashtra,MH,Washim,48. Births in a public health facility that were delivered by caesarean section (%),14.3,6.6
-Maharashtra,MH,Washim,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Maharashtra,MH,Washim,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),71.6,67.9
 Maharashtra,MH,Washim,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),75.5,80.1
 Maharashtra,MH,Washim,51. Children age 12-23 months who have received BCG (%),96.4,93.1
 Maharashtra,MH,Washim,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),79.0,85.9
@@ -3392,7 +3392,7 @@ Maharashtra,MH,Washim,62. Children with diarrhoea in the 2 weeks preceding the s
 Maharashtra,MH,Washim,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),18.6,
 Maharashtra,MH,Washim,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),79.5,
 Maharashtra,MH,Washim,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),5.1,1.4
-Maharashtra,MH,Washim,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Maharashtra,MH,Washim,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),79.4,96.9
 Maharashtra,MH,Washim,67. Children under age 3 years breastfed within one hour of birth15 (%),68.8,60.5
 Maharashtra,MH,Washim,68. Children under age 6 months exclusively breastfed16 (%),85.9,60.2
 Maharashtra,MH,Washim,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -3420,10 +3420,10 @@ Maharashtra,MH,Washim,90. Blood sugar level - very high (>160 mg/dl)23 (%),3.5,
 Maharashtra,MH,Washim,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),9.1,
 Maharashtra,MH,Washim,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),14.4,
 Maharashtra,MH,Washim,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),4.7,
-Maharashtra,MH,Washim,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Washim,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),21.9,
 Maharashtra,MH,Washim,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),16.2,
 Maharashtra,MH,Washim,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.2,
-Maharashtra,MH,Washim,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Washim,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),21.0,
 Maharashtra,MH,Washim,98.Ever undergone a screening test for cervical cancer (%),1.8,
 Maharashtra,MH,Washim,99.Ever undergone a breast examination for breast cancer (%),0.6,
 Maharashtra,MH,Washim,100. Ever undergone an oral cavity examination for oral cancer (%),0.9,
@@ -3468,10 +3468,10 @@ Maharashtra,MH,Yavatmal,34. Mothers whose last birth was protected against neona
 Maharashtra,MH,Yavatmal,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),41.7,34.8
 Maharashtra,MH,Yavatmal,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),19.0,23.1
 Maharashtra,MH,Yavatmal,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),98.8,88.6
-Maharashtra,MH,Yavatmal,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Yavatmal,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),85.6,75.6
 Maharashtra,MH,Yavatmal,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),1734.0,1954.0
 Maharashtra,MH,Yavatmal,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,8.0
-Maharashtra,MH,Yavatmal,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Maharashtra,MH,Yavatmal,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),91.7,
 Maharashtra,MH,Yavatmal,42. Institutional births (%),96.3,85.3
 Maharashtra,MH,Yavatmal,43. Institutional births in public facility (%),67.4,51.7
 Maharashtra,MH,Yavatmal,44. Home births that were conducted by skilled health personnel10 (%),1.8,4.8
@@ -3479,7 +3479,7 @@ Maharashtra,MH,Yavatmal,45. Births attended by skilled health personnel10 (%),96
 Maharashtra,MH,Yavatmal,46. Births delivered by caesarean section (%),16.0,9.6
 Maharashtra,MH,Yavatmal,47. Births in a private health facility that were delivered by caesarean section (%),32.1,23.7
 Maharashtra,MH,Yavatmal,48. Births in a public health facility that were delivered by caesarean section (%),9.9,3.2
-Maharashtra,MH,Yavatmal,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Maharashtra,MH,Yavatmal,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),74.7,61.6
 Maharashtra,MH,Yavatmal,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),77.6,84.3
 Maharashtra,MH,Yavatmal,51. Children age 12-23 months who have received BCG (%),98.0,96.3
 Maharashtra,MH,Yavatmal,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),84.2,69.5
@@ -3496,7 +3496,7 @@ Maharashtra,MH,Yavatmal,62. Children with diarrhoea in the 2 weeks preceding the
 Maharashtra,MH,Yavatmal,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,8.8
 Maharashtra,MH,Yavatmal,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,87.9
 Maharashtra,MH,Yavatmal,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.0,1.2
-Maharashtra,MH,Yavatmal,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Maharashtra,MH,Yavatmal,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),97.3,77.1
 Maharashtra,MH,Yavatmal,67. Children under age 3 years breastfed within one hour of birth15 (%),58.0,60.9
 Maharashtra,MH,Yavatmal,68. Children under age 6 months exclusively breastfed16 (%),,
 Maharashtra,MH,Yavatmal,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -3524,10 +3524,10 @@ Maharashtra,MH,Yavatmal,90. Blood sugar level - very high (>160 mg/dl)23 (%),4.1
 Maharashtra,MH,Yavatmal,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),10.7,
 Maharashtra,MH,Yavatmal,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),10.5,
 Maharashtra,MH,Yavatmal,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.5,
-Maharashtra,MH,Yavatmal,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Yavatmal,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),17.2,
 Maharashtra,MH,Yavatmal,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),12.3,
 Maharashtra,MH,Yavatmal,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),4.0,
-Maharashtra,MH,Yavatmal,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Maharashtra,MH,Yavatmal,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),18.2,
 Maharashtra,MH,Yavatmal,98.Ever undergone a screening test for cervical cancer (%),1.3,
 Maharashtra,MH,Yavatmal,99.Ever undergone a breast examination for breast cancer (%),0.4,
 Maharashtra,MH,Yavatmal,100. Ever undergone an oral cavity examination for oral cancer (%),0.0,

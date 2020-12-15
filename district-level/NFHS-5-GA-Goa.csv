@@ -36,10 +36,10 @@ Goa,GA,North Goa,34. Mothers whose last birth was protected against neonatal tet
 Goa,GA,North Goa,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),84.8,88.6
 Goa,GA,North Goa,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),68.4,78.3
 Goa,GA,North Goa,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),100.0,96.5
-Goa,GA,North Goa,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Goa,GA,North Goa,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),93.1,94.4
 Goa,GA,North Goa,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),3824.0,7017.0
 Goa,GA,North Goa,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,
-Goa,GA,North Goa,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Goa,GA,North Goa,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),95.9,
 Goa,GA,North Goa,42. Institutional births (%),99.6,98.6
 Goa,GA,North Goa,43. Institutional births in public facility (%),58.6,59.3
 Goa,GA,North Goa,44. Home births that were conducted by skilled health personnel10 (%),0.0,1.4
@@ -47,7 +47,7 @@ Goa,GA,North Goa,45. Births attended by skilled health personnel10 (%),98.6,99.0
 Goa,GA,North Goa,46. Births delivered by caesarean section (%),39.5,32.9
 Goa,GA,North Goa,47. Births in a private health facility that were delivered by caesarean section (%),46.7,49.0
 Goa,GA,North Goa,48. Births in a public health facility that were delivered by caesarean section (%),34.7,23.1
-Goa,GA,North Goa,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Goa,GA,North Goa,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),78.6,87.3
 Goa,GA,North Goa,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),87.5,96.8
 Goa,GA,North Goa,51. Children age 12-23 months who have received BCG (%),97.1,100.0
 Goa,GA,North Goa,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),85.5,90.7
@@ -64,7 +64,7 @@ Goa,GA,North Goa,62. Children with diarrhoea in the 2 weeks preceding the survey
 Goa,GA,North Goa,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,
 Goa,GA,North Goa,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
 Goa,GA,North Goa,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),1.5,1.4
-Goa,GA,North Goa,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Goa,GA,North Goa,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),83.6,88.6
 Goa,GA,North Goa,67. Children under age 3 years breastfed within one hour of birth15 (%),61.1,82.8
 Goa,GA,North Goa,68. Children under age 6 months exclusively breastfed16 (%),,
 Goa,GA,North Goa,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -92,10 +92,10 @@ Goa,GA,North Goa,90. Blood sugar level - very high (>160 mg/dl)23 (%),13.1,
 Goa,GA,North Goa,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),24.9,
 Goa,GA,North Goa,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),11.0,
 Goa,GA,North Goa,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),4.1,
-Goa,GA,North Goa,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Goa,GA,North Goa,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),27.3,
 Goa,GA,North Goa,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),15.8,
 Goa,GA,North Goa,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),5.6,
-Goa,GA,North Goa,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Goa,GA,North Goa,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),28.3,
 Goa,GA,North Goa,98. Ever undergone a screening test for cervical cancer (%),1.4,
 Goa,GA,North Goa,99. Ever undergone a breast examination for breast cancer (%),1.9,
 Goa,GA,North Goa,100. Ever undergone an oral cavity examination for oral cancer (%),0.9,
@@ -140,10 +140,10 @@ Goa,GA,South Goa,34. Mothers whose last birth was protected against neonatal tet
 Goa,GA,South Goa,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),92.2,35.3
 Goa,GA,South Goa,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),59.1,14.2
 Goa,GA,South Goa,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),99.5,95.9
-Goa,GA,South Goa,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Goa,GA,South Goa,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),99.5,88.5
 Goa,GA,South Goa,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),3768.0,1841.0
 Goa,GA,South Goa,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,
-Goa,GA,South Goa,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Goa,GA,South Goa,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),98.0,
 Goa,GA,South Goa,42. Institutional births (%),100.0,94.5
 Goa,GA,South Goa,43. Institutional births in public facility (%),52.0,56.7
 Goa,GA,South Goa,44. Home births that were conducted by skilled health personnel10 (%),0.0,2.3
@@ -151,7 +151,7 @@ Goa,GA,South Goa,45. Births attended by skilled health personnel10 (%),100.0,95.
 Goa,GA,South Goa,46. Births delivered by caesarean section (%),39.4,29.3
 Goa,GA,South Goa,47. Births in a private health facility that were delivered by caesarean section (%),54.9,54.7
 Goa,GA,South Goa,48. Births in a public health facility that were delivered by caesarean section (%),25.2,15.2
-Goa,GA,South Goa,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Goa,GA,South Goa,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,89.5
 Goa,GA,South Goa,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),,95.0
 Goa,GA,South Goa,51. Children age 12-23 months who have received BCG (%),,100.0
 Goa,GA,South Goa,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),,95.0
@@ -196,10 +196,10 @@ Goa,GA,South Goa,90. Blood sugar level - very high (>160 mg/dl)23 (%),9.8,
 Goa,GA,South Goa,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),23.2,
 Goa,GA,South Goa,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),13.6,
 Goa,GA,South Goa,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.0,
-Goa,GA,South Goa,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Goa,GA,South Goa,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),27.7,
 Goa,GA,South Goa,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),13.5,
 Goa,GA,South Goa,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.7,
-Goa,GA,South Goa,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Goa,GA,South Goa,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),25.0,
 Goa,GA,South Goa,98. Ever undergone a screening test for cervical cancer (%),0.8,
 Goa,GA,South Goa,99. Ever undergone a breast examination for breast cancer (%),0.4,
 Goa,GA,South Goa,100. Ever undergone an oral cavity examination for oral cancer (%),0.1,

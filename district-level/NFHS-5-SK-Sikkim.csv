@@ -36,10 +36,10 @@ Sikkim,SK,East District,34. Mothers whose last birth was protected against neona
 Sikkim,SK,East District,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),48.3,42.4
 Sikkim,SK,East District,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),27.6,14.3
 Sikkim,SK,East District,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),91.9,99.1
-Sikkim,SK,East District,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Sikkim,SK,East District,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),65.8,70.2
 Sikkim,SK,East District,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),8471.0,4947.0
 Sikkim,SK,East District,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,0.0
-Sikkim,SK,East District,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Sikkim,SK,East District,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),59.2,
 Sikkim,SK,East District,42. Institutional births (%),91.8,93.3
 Sikkim,SK,East District,43. Institutional births in public facility (%),70.4,74.7
 Sikkim,SK,East District,44. Home births that were conducted by skilled health personnel10 (%),3.9,3.2
@@ -47,7 +47,7 @@ Sikkim,SK,East District,45. Births attended by skilled health personnel10 (%),94
 Sikkim,SK,East District,46. Births delivered by caesarean section (%),36.9,27.0
 Sikkim,SK,East District,47. Births in a private health facility that were delivered by caesarean section (%),52.0,47.8
 Sikkim,SK,East District,48. Births in a public health facility that were delivered by caesarean section (%),36.6,24.2
-Sikkim,SK,East District,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Sikkim,SK,East District,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,79.2
 Sikkim,SK,East District,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),,93.6
 Sikkim,SK,East District,51. Children age 12-23 months who have received BCG (%),,98.9
 Sikkim,SK,East District,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),,87.0
@@ -64,7 +64,7 @@ Sikkim,SK,East District,62. Children with diarrhoea in the 2 weeks preceding the
 Sikkim,SK,East District,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,
 Sikkim,SK,East District,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
 Sikkim,SK,East District,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.5,0.3
-Sikkim,SK,East District,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Sikkim,SK,East District,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),63.4,63.4
 Sikkim,SK,East District,67. Children under age 3 years breastfed within one hour of birth15 (%),27.1,61.3
 Sikkim,SK,East District,68. Children under age 6 months exclusively breastfed16 (%),,60.2
 Sikkim,SK,East District,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,58.4
@@ -92,10 +92,10 @@ Sikkim,SK,East District,90. Blood sugar level - very high (>160 mg/dl)23 (%),8.1
 Sikkim,SK,East District,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),15.8,
 Sikkim,SK,East District,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),15.4,
 Sikkim,SK,East District,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),11.0,
-Sikkim,SK,East District,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Sikkim,SK,East District,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),31.6,
 Sikkim,SK,East District,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),19.1,
 Sikkim,SK,East District,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),12.0,
-Sikkim,SK,East District,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Sikkim,SK,East District,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),34.2,
 Sikkim,SK,East District,98. Ever undergone a screening test for cervical cancer (%),0.1,
 Sikkim,SK,East District,99. Ever undergone a breast examination for breast cancer (%),0.0,
 Sikkim,SK,East District,100. Ever undergone an oral cavity examination for oral cancer (%),1.2,
@@ -140,10 +140,10 @@ Sikkim,SK,North District,34. Mothers whose last birth was protected against neon
 Sikkim,SK,North District,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),74.0,70.4
 Sikkim,SK,North District,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),61.9,38.4
 Sikkim,SK,North District,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),95.5,100.0
-Sikkim,SK,North District,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Sikkim,SK,North District,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),71.3,84.7
 Sikkim,SK,North District,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),7390.0,3017.0
 Sikkim,SK,North District,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,
-Sikkim,SK,North District,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Sikkim,SK,North District,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),72.0,
 Sikkim,SK,North District,42. Institutional births (%),97.3,94.9
 Sikkim,SK,North District,43. Institutional births in public facility (%),91.1,91.8
 Sikkim,SK,North District,44. Home births that were conducted by skilled health personnel10 (%),1.5,2.4
@@ -151,7 +151,7 @@ Sikkim,SK,North District,45. Births attended by skilled health personnel10 (%),9
 Sikkim,SK,North District,46. Births delivered by caesarean section (%),27.3,17.1
 Sikkim,SK,North District,47. Births in a private health facility that were delivered by caesarean section (%),,
 Sikkim,SK,North District,48. Births in a public health facility that were delivered by caesarean section (%),26.0,16.9
-Sikkim,SK,North District,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Sikkim,SK,North District,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),90.8,89.9
 Sikkim,SK,North District,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),90.6,97.5
 Sikkim,SK,North District,51. Children age 12-23 months who have received BCG (%),100.0,100.0
 Sikkim,SK,North District,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),90.8,89.9
@@ -196,10 +196,10 @@ Sikkim,SK,North District,90. Blood sugar level - very high (>160 mg/dl)23 (%),6.
 Sikkim,SK,North District,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),16.0,
 Sikkim,SK,North District,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),22.3,
 Sikkim,SK,North District,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),13.1,
-Sikkim,SK,North District,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Sikkim,SK,North District,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),39.0,
 Sikkim,SK,North District,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),25.1,
 Sikkim,SK,North District,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),19.5,
-Sikkim,SK,North District,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Sikkim,SK,North District,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),47.7,
 Sikkim,SK,North District,98. Ever undergone a screening test for cervical cancer (%),1.2,
 Sikkim,SK,North District,99. Ever undergone a breast examination for breast cancer (%),0.4,
 Sikkim,SK,North District,100. Ever undergone an oral cavity examination for oral cancer (%),0.0,
@@ -244,10 +244,10 @@ Sikkim,SK,South District,34. Mothers whose last birth was protected against neon
 Sikkim,SK,South District,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),71.3,62.9
 Sikkim,SK,South District,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),46.2,48.9
 Sikkim,SK,South District,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),99.4,98.5
-Sikkim,SK,South District,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Sikkim,SK,South District,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),83.1,82.7
 Sikkim,SK,South District,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),11031.0,2943.0
 Sikkim,SK,South District,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,
-Sikkim,SK,South District,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Sikkim,SK,South District,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),81.1,
 Sikkim,SK,South District,42. Institutional births (%),97.4,98.5
 Sikkim,SK,South District,43. Institutional births in public facility (%),86.4,95.6
 Sikkim,SK,South District,44. Home births that were conducted by skilled health personnel10 (%),2.0,1.5
@@ -255,7 +255,7 @@ Sikkim,SK,South District,45. Births attended by skilled health personnel10 (%),9
 Sikkim,SK,South District,46. Births delivered by caesarean section (%),27.8,15.9
 Sikkim,SK,South District,47. Births in a private health facility that were delivered by caesarean section (%),,
 Sikkim,SK,South District,48. Births in a public health facility that were delivered by caesarean section (%),23.0,14.3
-Sikkim,SK,South District,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Sikkim,SK,South District,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),86.4,92.3
 Sikkim,SK,South District,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),,96.9
 Sikkim,SK,South District,51. Children age 12-23 months who have received BCG (%),89.5,100.0
 Sikkim,SK,South District,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),89.5,92.3
@@ -300,10 +300,10 @@ Sikkim,SK,South District,90. Blood sugar level - very high (>160 mg/dl)23 (%),6.
 Sikkim,SK,South District,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),17.6,
 Sikkim,SK,South District,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),19.6,
 Sikkim,SK,South District,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),15.8,
-Sikkim,SK,South District,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Sikkim,SK,South District,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),41.0,
 Sikkim,SK,South District,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),29.7,
 Sikkim,SK,South District,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),16.1,
-Sikkim,SK,South District,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Sikkim,SK,South District,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),49.6,
 Sikkim,SK,South District,98. Ever undergone a screening test for cervical cancer (%),1.6,
 Sikkim,SK,South District,99. Ever undergone a breast examination for breast cancer (%),0.0,
 Sikkim,SK,South District,100. Ever undergone an oral cavity examination for oral cancer (%),0.0,
@@ -348,10 +348,10 @@ Sikkim,SK,West District,34. Mothers whose last birth was protected against neona
 Sikkim,SK,West District,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),48.6,66.8
 Sikkim,SK,West District,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),17.3,36.0
 Sikkim,SK,West District,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),96.4,99.4
-Sikkim,SK,West District,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Sikkim,SK,West District,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),63.6,73.7
 Sikkim,SK,West District,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),5361.0,2625.0
 Sikkim,SK,West District,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,
-Sikkim,SK,West District,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Sikkim,SK,West District,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),67.8,
 Sikkim,SK,West District,42. Institutional births (%),99.3,94.6
 Sikkim,SK,West District,43. Institutional births in public facility (%),89.9,88.6
 Sikkim,SK,West District,44. Home births that were conducted by skilled health personnel10 (%),0.0,1.1
@@ -359,7 +359,7 @@ Sikkim,SK,West District,45. Births attended by skilled health personnel10 (%),99
 Sikkim,SK,West District,46. Births delivered by caesarean section (%),28.0,10.9
 Sikkim,SK,West District,47. Births in a private health facility that were delivered by caesarean section (%),,
 Sikkim,SK,West District,48. Births in a public health facility that were delivered by caesarean section (%),25.4,9.1
-Sikkim,SK,West District,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Sikkim,SK,West District,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),96.9,78.4
 Sikkim,SK,West District,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),93.2,90.2
 Sikkim,SK,West District,51. Children age 12-23 months who have received BCG (%),96.9,97.1
 Sikkim,SK,West District,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),98.5,82.6
@@ -404,10 +404,10 @@ Sikkim,SK,West District,90. Blood sugar level - very high (>160 mg/dl)23 (%),6.1
 Sikkim,SK,West District,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),13.6,
 Sikkim,SK,West District,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),23.0,
 Sikkim,SK,West District,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),8.9,
-Sikkim,SK,West District,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Sikkim,SK,West District,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),32.7,
 Sikkim,SK,West District,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),30.4,
 Sikkim,SK,West District,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),13.7,
-Sikkim,SK,West District,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Sikkim,SK,West District,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),45.1,
 Sikkim,SK,West District,98. Ever undergone a screening test for cervical cancer (%),0.5,
 Sikkim,SK,West District,99. Ever undergone a breast examination for breast cancer (%),0.5,
 Sikkim,SK,West District,100. Ever undergone an oral cavity examination for oral cancer (%),0.7,

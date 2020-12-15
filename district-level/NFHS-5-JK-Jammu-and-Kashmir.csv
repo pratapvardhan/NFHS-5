@@ -36,10 +36,10 @@ Jammu and Kashmir,JK,Anantnag,34. Mothers whose last birth was protected against
 Jammu and Kashmir,JK,Anantnag,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),32.5,11.7
 Jammu and Kashmir,JK,Anantnag,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),20.9,6.6
 Jammu and Kashmir,JK,Anantnag,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),97.8,83.1
-Jammu and Kashmir,JK,Anantnag,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Jammu and Kashmir,JK,Anantnag,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),85.1,82.1
 Jammu and Kashmir,JK,Anantnag,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),6058.0,3568.0
 Jammu and Kashmir,JK,Anantnag,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,
-Jammu and Kashmir,JK,Anantnag,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Jammu and Kashmir,JK,Anantnag,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),81.3,
 Jammu and Kashmir,JK,Anantnag,42. Institutional births (%),90.5,91.2
 Jammu and Kashmir,JK,Anantnag,43. Institutional births in public facility (%),86.7,86.6
 Jammu and Kashmir,JK,Anantnag,44. Home births that were conducted by skilled health personnel10 (%),8.1,2.4
@@ -47,7 +47,7 @@ Jammu and Kashmir,JK,Anantnag,45. Births attended by skilled health personnel10 
 Jammu and Kashmir,JK,Anantnag,46. Births delivered by caesarean section (%),51.3,32.1
 Jammu and Kashmir,JK,Anantnag,47. Births in a private health facility that were delivered by caesarean section (%),,
 Jammu and Kashmir,JK,Anantnag,48. Births in a public health facility that were delivered by caesarean section (%),55.2,32.6
-Jammu and Kashmir,JK,Anantnag,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Jammu and Kashmir,JK,Anantnag,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),83.3,72.7
 Jammu and Kashmir,JK,Anantnag,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),100.0,83.0
 Jammu and Kashmir,JK,Anantnag,51. Children age 12-23 months who have received BCG (%),88.4,98.7
 Jammu and Kashmir,JK,Anantnag,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),85.5,82.5
@@ -64,7 +64,7 @@ Jammu and Kashmir,JK,Anantnag,62. Children with diarrhoea in the 2 weeks precedi
 Jammu and Kashmir,JK,Anantnag,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,
 Jammu and Kashmir,JK,Anantnag,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
 Jammu and Kashmir,JK,Anantnag,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),7.7,4.1
-Jammu and Kashmir,JK,Anantnag,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Jammu and Kashmir,JK,Anantnag,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),82.3,80.9
 Jammu and Kashmir,JK,Anantnag,67. Children under age 3 years breastfed within one hour of birth15 (%),51.1,45.9
 Jammu and Kashmir,JK,Anantnag,68. Children under age 6 months exclusively breastfed16 (%),48.1,
 Jammu and Kashmir,JK,Anantnag,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -92,10 +92,10 @@ Jammu and Kashmir,JK,Anantnag,90. Blood sugar level - very high (>160 mg/dl)23 (
 Jammu and Kashmir,JK,Anantnag,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),9.9,
 Jammu and Kashmir,JK,Anantnag,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),11.5,
 Jammu and Kashmir,JK,Anantnag,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.8,
-Jammu and Kashmir,JK,Anantnag,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Jammu and Kashmir,JK,Anantnag,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),20.0,
 Jammu and Kashmir,JK,Anantnag,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),11.5,
 Jammu and Kashmir,JK,Anantnag,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.7,
-Jammu and Kashmir,JK,Anantnag,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Jammu and Kashmir,JK,Anantnag,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),19.4,
 Jammu and Kashmir,JK,Anantnag,98.Ever undergone a screening test for cervical cancer (%),0.2,
 Jammu and Kashmir,JK,Anantnag,99.Ever undergone a breast examination for breast cancer (%),0.0,
 Jammu and Kashmir,JK,Anantnag,100. Ever undergone an oral cavity examination for oral cancer (%),0.0,
@@ -140,10 +140,10 @@ Jammu and Kashmir,JK,Badgam,34. Mothers whose last birth was protected against n
 Jammu and Kashmir,JK,Badgam,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),25.4,19.7
 Jammu and Kashmir,JK,Badgam,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),12.4,13.8
 Jammu and Kashmir,JK,Badgam,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),93.4,97.2
-Jammu and Kashmir,JK,Badgam,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Jammu and Kashmir,JK,Badgam,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),88.7,89.6
 Jammu and Kashmir,JK,Badgam,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),5525.0,5465.0
 Jammu and Kashmir,JK,Badgam,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,
-Jammu and Kashmir,JK,Badgam,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Jammu and Kashmir,JK,Badgam,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),86.3,
 Jammu and Kashmir,JK,Badgam,42. Institutional births (%),96.5,97.1
 Jammu and Kashmir,JK,Badgam,43. Institutional births in public facility (%),94.3,90.7
 Jammu and Kashmir,JK,Badgam,44. Home births that were conducted by skilled health personnel10 (%),2.0,1.5
@@ -151,7 +151,7 @@ Jammu and Kashmir,JK,Badgam,45. Births attended by skilled health personnel10 (%
 Jammu and Kashmir,JK,Badgam,46. Births delivered by caesarean section (%),42.2,49.8
 Jammu and Kashmir,JK,Badgam,47. Births in a private health facility that were delivered by caesarean section (%),,
 Jammu and Kashmir,JK,Badgam,48. Births in a public health facility that were delivered by caesarean section (%),43.0,49.9
-Jammu and Kashmir,JK,Badgam,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Jammu and Kashmir,JK,Badgam,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),92.5,87.5
 Jammu and Kashmir,JK,Badgam,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),95.5,98.9
 Jammu and Kashmir,JK,Badgam,51. Children age 12-23 months who have received BCG (%),100.0,96.4
 Jammu and Kashmir,JK,Badgam,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),92.5,88.5
@@ -168,7 +168,7 @@ Jammu and Kashmir,JK,Badgam,62. Children with diarrhoea in the 2 weeks preceding
 Jammu and Kashmir,JK,Badgam,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,
 Jammu and Kashmir,JK,Badgam,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
 Jammu and Kashmir,JK,Badgam,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),5.1,8.9
-Jammu and Kashmir,JK,Badgam,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Jammu and Kashmir,JK,Badgam,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),62.1,93.9
 Jammu and Kashmir,JK,Badgam,67. Children under age 3 years breastfed within one hour of birth15 (%),67.4,67.0
 Jammu and Kashmir,JK,Badgam,68. Children under age 6 months exclusively breastfed16 (%),71.6,59.1
 Jammu and Kashmir,JK,Badgam,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -196,10 +196,10 @@ Jammu and Kashmir,JK,Badgam,90. Blood sugar level - very high (>160 mg/dl)23 (%)
 Jammu and Kashmir,JK,Badgam,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),6.9,
 Jammu and Kashmir,JK,Badgam,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),10.9,
 Jammu and Kashmir,JK,Badgam,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),4.5,
-Jammu and Kashmir,JK,Badgam,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Jammu and Kashmir,JK,Badgam,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),19.9,
 Jammu and Kashmir,JK,Badgam,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),11.0,
 Jammu and Kashmir,JK,Badgam,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.7,
-Jammu and Kashmir,JK,Badgam,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Jammu and Kashmir,JK,Badgam,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),18.6,
 Jammu and Kashmir,JK,Badgam,98.Ever undergone a screening test for cervical cancer (%),0.2,
 Jammu and Kashmir,JK,Badgam,99.Ever undergone a breast examination for breast cancer (%),0.2,
 Jammu and Kashmir,JK,Badgam,100. Ever undergone an oral cavity examination for oral cancer (%),0.0,
@@ -244,10 +244,10 @@ Jammu and Kashmir,JK,Bandipore,34. Mothers whose last birth was protected agains
 Jammu and Kashmir,JK,Bandipore,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),21.9,15.7
 Jammu and Kashmir,JK,Bandipore,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),8.8,9.6
 Jammu and Kashmir,JK,Bandipore,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),97.5,74.9
-Jammu and Kashmir,JK,Bandipore,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Jammu and Kashmir,JK,Bandipore,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),82.6,81.7
 Jammu and Kashmir,JK,Bandipore,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),6399.0,3984.0
 Jammu and Kashmir,JK,Bandipore,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,0.0
-Jammu and Kashmir,JK,Bandipore,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Jammu and Kashmir,JK,Bandipore,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),81.9,
 Jammu and Kashmir,JK,Bandipore,42. Institutional births (%),92.8,88.7
 Jammu and Kashmir,JK,Bandipore,43. Institutional births in public facility (%),82.2,74.5
 Jammu and Kashmir,JK,Bandipore,44. Home births that were conducted by skilled health personnel10 (%),1.7,1.7
@@ -255,7 +255,7 @@ Jammu and Kashmir,JK,Bandipore,45. Births attended by skilled health personnel10
 Jammu and Kashmir,JK,Bandipore,46. Births delivered by caesarean section (%),48.1,34.6
 Jammu and Kashmir,JK,Bandipore,47. Births in a private health facility that were delivered by caesarean section (%),49.2,43.1
 Jammu and Kashmir,JK,Bandipore,48. Births in a public health facility that were delivered by caesarean section (%),52.2,38.2
-Jammu and Kashmir,JK,Bandipore,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Jammu and Kashmir,JK,Bandipore,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),90.3,68.0
 Jammu and Kashmir,JK,Bandipore,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),92.1,84.3
 Jammu and Kashmir,JK,Bandipore,51. Children age 12-23 months who have received BCG (%),93.4,97.7
 Jammu and Kashmir,JK,Bandipore,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),91.6,80.5
@@ -272,7 +272,7 @@ Jammu and Kashmir,JK,Bandipore,62. Children with diarrhoea in the 2 weeks preced
 Jammu and Kashmir,JK,Bandipore,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,30.0
 Jammu and Kashmir,JK,Bandipore,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,76.0
 Jammu and Kashmir,JK,Bandipore,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),4.8,11.9
-Jammu and Kashmir,JK,Bandipore,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Jammu and Kashmir,JK,Bandipore,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),66.1,82.3
 Jammu and Kashmir,JK,Bandipore,67. Children under age 3 years breastfed within one hour of birth15 (%),37.9,35.6
 Jammu and Kashmir,JK,Bandipore,68. Children under age 6 months exclusively breastfed16 (%),,77.3
 Jammu and Kashmir,JK,Bandipore,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,74.3
@@ -300,10 +300,10 @@ Jammu and Kashmir,JK,Bandipore,90. Blood sugar level - very high (>160 mg/dl)23 
 Jammu and Kashmir,JK,Bandipore,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),8.0,
 Jammu and Kashmir,JK,Bandipore,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),8.8,
 Jammu and Kashmir,JK,Bandipore,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),5.0,
-Jammu and Kashmir,JK,Bandipore,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Jammu and Kashmir,JK,Bandipore,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),21.4,
 Jammu and Kashmir,JK,Bandipore,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),8.7,
 Jammu and Kashmir,JK,Bandipore,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.3,
-Jammu and Kashmir,JK,Bandipore,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Jammu and Kashmir,JK,Bandipore,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),17.4,
 Jammu and Kashmir,JK,Bandipore,98.Ever undergone a screening test for cervical cancer (%),1.0,
 Jammu and Kashmir,JK,Bandipore,99.Ever undergone a breast examination for breast cancer (%),0.4,
 Jammu and Kashmir,JK,Bandipore,100. Ever undergone an oral cavity examination for oral cancer (%),0.2,
@@ -348,10 +348,10 @@ Jammu and Kashmir,JK,Baramula,34. Mothers whose last birth was protected against
 Jammu and Kashmir,JK,Baramula,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),22.4,31.0
 Jammu and Kashmir,JK,Baramula,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),13.1,13.8
 Jammu and Kashmir,JK,Baramula,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),96.0,90.3
-Jammu and Kashmir,JK,Baramula,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Jammu and Kashmir,JK,Baramula,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),80.1,81.8
 Jammu and Kashmir,JK,Baramula,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),9853.0,3607.0
 Jammu and Kashmir,JK,Baramula,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,
-Jammu and Kashmir,JK,Baramula,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Jammu and Kashmir,JK,Baramula,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),76.0,
 Jammu and Kashmir,JK,Baramula,42. Institutional births (%),96.2,93.8
 Jammu and Kashmir,JK,Baramula,43. Institutional births in public facility (%),86.8,83.1
 Jammu and Kashmir,JK,Baramula,44. Home births that were conducted by skilled health personnel10 (%),1.8,0.7
@@ -359,7 +359,7 @@ Jammu and Kashmir,JK,Baramula,45. Births attended by skilled health personnel10 
 Jammu and Kashmir,JK,Baramula,46. Births delivered by caesarean section (%),51.1,41.5
 Jammu and Kashmir,JK,Baramula,47. Births in a private health facility that were delivered by caesarean section (%),85.1,86.8
 Jammu and Kashmir,JK,Baramula,48. Births in a public health facility that were delivered by caesarean section (%),49.6,38.8
-Jammu and Kashmir,JK,Baramula,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Jammu and Kashmir,JK,Baramula,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),73.7,78.6
 Jammu and Kashmir,JK,Baramula,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),98.2,92.8
 Jammu and Kashmir,JK,Baramula,51. Children age 12-23 months who have received BCG (%),91.5,97.4
 Jammu and Kashmir,JK,Baramula,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),76.6,84.0
@@ -376,7 +376,7 @@ Jammu and Kashmir,JK,Baramula,62. Children with diarrhoea in the 2 weeks precedi
 Jammu and Kashmir,JK,Baramula,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),42.2,
 Jammu and Kashmir,JK,Baramula,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),69.1,
 Jammu and Kashmir,JK,Baramula,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),3.8,3.3
-Jammu and Kashmir,JK,Baramula,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Jammu and Kashmir,JK,Baramula,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),70.3,84.1
 Jammu and Kashmir,JK,Baramula,67. Children under age 3 years breastfed within one hour of birth15 (%),54.4,53.4
 Jammu and Kashmir,JK,Baramula,68. Children under age 6 months exclusively breastfed16 (%),68.5,
 Jammu and Kashmir,JK,Baramula,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -404,10 +404,10 @@ Jammu and Kashmir,JK,Baramula,90. Blood sugar level - very high (>160 mg/dl)23 (
 Jammu and Kashmir,JK,Baramula,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),8.3,
 Jammu and Kashmir,JK,Baramula,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),13.6,
 Jammu and Kashmir,JK,Baramula,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.9,
-Jammu and Kashmir,JK,Baramula,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Jammu and Kashmir,JK,Baramula,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),23.7,
 Jammu and Kashmir,JK,Baramula,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),11.7,
 Jammu and Kashmir,JK,Baramula,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.2,
-Jammu and Kashmir,JK,Baramula,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Jammu and Kashmir,JK,Baramula,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),19.0,
 Jammu and Kashmir,JK,Baramula,98.Ever undergone a screening test for cervical cancer (%),1.8,
 Jammu and Kashmir,JK,Baramula,99.Ever undergone a breast examination for breast cancer (%),1.7,
 Jammu and Kashmir,JK,Baramula,100. Ever undergone an oral cavity examination for oral cancer (%),4.0,
@@ -452,10 +452,10 @@ Jammu and Kashmir,JK,Doda,34. Mothers whose last birth was protected against neo
 Jammu and Kashmir,JK,Doda,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),23.1,9.1
 Jammu and Kashmir,JK,Doda,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),13.3,4.1
 Jammu and Kashmir,JK,Doda,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),98.3,78.2
-Jammu and Kashmir,JK,Doda,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Jammu and Kashmir,JK,Doda,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),71.6,39.0
 Jammu and Kashmir,JK,Doda,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),4458.0,7512.0
 Jammu and Kashmir,JK,Doda,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),1.8,0.9
-Jammu and Kashmir,JK,Doda,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Jammu and Kashmir,JK,Doda,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),71.6,
 Jammu and Kashmir,JK,Doda,42. Institutional births (%),73.5,49.6
 Jammu and Kashmir,JK,Doda,43. Institutional births in public facility (%),68.9,48.0
 Jammu and Kashmir,JK,Doda,44. Home births that were conducted by skilled health personnel10 (%),1.7,8.9
@@ -463,7 +463,7 @@ Jammu and Kashmir,JK,Doda,45. Births attended by skilled health personnel10 (%),
 Jammu and Kashmir,JK,Doda,46. Births delivered by caesarean section (%),19.5,12.0
 Jammu and Kashmir,JK,Doda,47. Births in a private health facility that were delivered by caesarean section (%),,
 Jammu and Kashmir,JK,Doda,48. Births in a public health facility that were delivered by caesarean section (%),23.5,21.9
-Jammu and Kashmir,JK,Doda,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Jammu and Kashmir,JK,Doda,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),61.7,43.2
 Jammu and Kashmir,JK,Doda,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),75.3,43.6
 Jammu and Kashmir,JK,Doda,51. Children age 12-23 months who have received BCG (%),83.6,79.9
 Jammu and Kashmir,JK,Doda,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),63.6,55.7
@@ -480,7 +480,7 @@ Jammu and Kashmir,JK,Doda,62. Children with diarrhoea in the 2 weeks preceding t
 Jammu and Kashmir,JK,Doda,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,31.7
 Jammu and Kashmir,JK,Doda,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,56.3
 Jammu and Kashmir,JK,Doda,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.0,6.5
-Jammu and Kashmir,JK,Doda,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Jammu and Kashmir,JK,Doda,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,71.1
 Jammu and Kashmir,JK,Doda,67. Children under age 3 years breastfed within one hour of birth15 (%),68.1,34.6
 Jammu and Kashmir,JK,Doda,68. Children under age 6 months exclusively breastfed16 (%),64.8,54.5
 Jammu and Kashmir,JK,Doda,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -508,10 +508,10 @@ Jammu and Kashmir,JK,Doda,90. Blood sugar level - very high (>160 mg/dl)23 (%),5
 Jammu and Kashmir,JK,Doda,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),9.9,
 Jammu and Kashmir,JK,Doda,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),12.6,
 Jammu and Kashmir,JK,Doda,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.9,
-Jammu and Kashmir,JK,Doda,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Jammu and Kashmir,JK,Doda,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),23.1,
 Jammu and Kashmir,JK,Doda,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),14.6,
 Jammu and Kashmir,JK,Doda,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.3,
-Jammu and Kashmir,JK,Doda,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Jammu and Kashmir,JK,Doda,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),21.5,
 Jammu and Kashmir,JK,Doda,98.Ever undergone a screening test for cervical cancer (%),1.2,
 Jammu and Kashmir,JK,Doda,99.Ever undergone a breast examination for breast cancer (%),0.2,
 Jammu and Kashmir,JK,Doda,100. Ever undergone an oral cavity examination for oral cancer (%),5.1,
@@ -556,10 +556,10 @@ Jammu and Kashmir,JK,Ganderbal,34. Mothers whose last birth was protected agains
 Jammu and Kashmir,JK,Ganderbal,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),16.3,13.1
 Jammu and Kashmir,JK,Ganderbal,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),10.8,8.5
 Jammu and Kashmir,JK,Ganderbal,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),95.5,83.5
-Jammu and Kashmir,JK,Ganderbal,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Jammu and Kashmir,JK,Ganderbal,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),88.4,91.8
 Jammu and Kashmir,JK,Ganderbal,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),6961.0,5486.0
 Jammu and Kashmir,JK,Ganderbal,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,
-Jammu and Kashmir,JK,Ganderbal,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Jammu and Kashmir,JK,Ganderbal,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),87.0,
 Jammu and Kashmir,JK,Ganderbal,42. Institutional births (%),98.0,95.4
 Jammu and Kashmir,JK,Ganderbal,43. Institutional births in public facility (%),95.0,92.0
 Jammu and Kashmir,JK,Ganderbal,44. Home births that were conducted by skilled health personnel10 (%),0.9,0.7
@@ -567,7 +567,7 @@ Jammu and Kashmir,JK,Ganderbal,45. Births attended by skilled health personnel10
 Jammu and Kashmir,JK,Ganderbal,46. Births delivered by caesarean section (%),47.2,49.9
 Jammu and Kashmir,JK,Ganderbal,47. Births in a private health facility that were delivered by caesarean section (%),,
 Jammu and Kashmir,JK,Ganderbal,48. Births in a public health facility that were delivered by caesarean section (%),46.6,51.2
-Jammu and Kashmir,JK,Ganderbal,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Jammu and Kashmir,JK,Ganderbal,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),81.2,82.9
 Jammu and Kashmir,JK,Ganderbal,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),88.1,93.8
 Jammu and Kashmir,JK,Ganderbal,51. Children age 12-23 months who have received BCG (%),98.7,96.2
 Jammu and Kashmir,JK,Ganderbal,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),88.9,89.2
@@ -584,7 +584,7 @@ Jammu and Kashmir,JK,Ganderbal,62. Children with diarrhoea in the 2 weeks preced
 Jammu and Kashmir,JK,Ganderbal,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,28.7
 Jammu and Kashmir,JK,Ganderbal,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,94.7
 Jammu and Kashmir,JK,Ganderbal,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),2.3,10.2
-Jammu and Kashmir,JK,Ganderbal,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Jammu and Kashmir,JK,Ganderbal,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),62.3,94.3
 Jammu and Kashmir,JK,Ganderbal,67. Children under age 3 years breastfed within one hour of birth15 (%),61.2,44.4
 Jammu and Kashmir,JK,Ganderbal,68. Children under age 6 months exclusively breastfed16 (%),64.0,76.3
 Jammu and Kashmir,JK,Ganderbal,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -612,10 +612,10 @@ Jammu and Kashmir,JK,Ganderbal,90. Blood sugar level - very high (>160 mg/dl)23 
 Jammu and Kashmir,JK,Ganderbal,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),7.8,
 Jammu and Kashmir,JK,Ganderbal,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),10.7,
 Jammu and Kashmir,JK,Ganderbal,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.2,
-Jammu and Kashmir,JK,Ganderbal,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Jammu and Kashmir,JK,Ganderbal,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),21.5,
 Jammu and Kashmir,JK,Ganderbal,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),10.9,
 Jammu and Kashmir,JK,Ganderbal,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.0,
-Jammu and Kashmir,JK,Ganderbal,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Jammu and Kashmir,JK,Ganderbal,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),19.1,
 Jammu and Kashmir,JK,Ganderbal,98.Ever undergone a screening test for cervical cancer (%),0.4,
 Jammu and Kashmir,JK,Ganderbal,99.Ever undergone a breast examination for breast cancer (%),0.0,
 Jammu and Kashmir,JK,Ganderbal,100. Ever undergone an oral cavity examination for oral cancer (%),0.1,
@@ -660,10 +660,10 @@ Jammu and Kashmir,JK,Jammu,34. Mothers whose last birth was protected against ne
 Jammu and Kashmir,JK,Jammu,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),51.4,56.7
 Jammu and Kashmir,JK,Jammu,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),27.3,45.4
 Jammu and Kashmir,JK,Jammu,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),99.0,89.3
-Jammu and Kashmir,JK,Jammu,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Jammu and Kashmir,JK,Jammu,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),92.2,84.3
 Jammu and Kashmir,JK,Jammu,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),4714.0,4300.0
 Jammu and Kashmir,JK,Jammu,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,
-Jammu and Kashmir,JK,Jammu,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Jammu and Kashmir,JK,Jammu,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),86.0,
 Jammu and Kashmir,JK,Jammu,42. Institutional births (%),96.5,91.8
 Jammu and Kashmir,JK,Jammu,43. Institutional births in public facility (%),88.7,84.2
 Jammu and Kashmir,JK,Jammu,44. Home births that were conducted by skilled health personnel10 (%),0.5,1.0
@@ -671,7 +671,7 @@ Jammu and Kashmir,JK,Jammu,45. Births attended by skilled health personnel10 (%)
 Jammu and Kashmir,JK,Jammu,46. Births delivered by caesarean section (%),43.3,28.4
 Jammu and Kashmir,JK,Jammu,47. Births in a private health facility that were delivered by caesarean section (%),,
 Jammu and Kashmir,JK,Jammu,48. Births in a public health facility that were delivered by caesarean section (%),41.8,26.1
-Jammu and Kashmir,JK,Jammu,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Jammu and Kashmir,JK,Jammu,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),84.1,77.3
 Jammu and Kashmir,JK,Jammu,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),100.0,83.0
 Jammu and Kashmir,JK,Jammu,51. Children age 12-23 months who have received BCG (%),95.5,98.3
 Jammu and Kashmir,JK,Jammu,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),84.1,84.6
@@ -688,7 +688,7 @@ Jammu and Kashmir,JK,Jammu,62. Children with diarrhoea in the 2 weeks preceding 
 Jammu and Kashmir,JK,Jammu,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,
 Jammu and Kashmir,JK,Jammu,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
 Jammu and Kashmir,JK,Jammu,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),3.6,3.4
-Jammu and Kashmir,JK,Jammu,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Jammu and Kashmir,JK,Jammu,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,71.1
 Jammu and Kashmir,JK,Jammu,67. Children under age 3 years breastfed within one hour of birth15 (%),51.4,50.8
 Jammu and Kashmir,JK,Jammu,68. Children under age 6 months exclusively breastfed16 (%),,75.8
 Jammu and Kashmir,JK,Jammu,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -716,10 +716,10 @@ Jammu and Kashmir,JK,Jammu,90. Blood sugar level - very high (>160 mg/dl)23 (%),
 Jammu and Kashmir,JK,Jammu,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),8.6,
 Jammu and Kashmir,JK,Jammu,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),10.4,
 Jammu and Kashmir,JK,Jammu,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.6,
-Jammu and Kashmir,JK,Jammu,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Jammu and Kashmir,JK,Jammu,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),20.5,
 Jammu and Kashmir,JK,Jammu,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),13.3,
 Jammu and Kashmir,JK,Jammu,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.9,
-Jammu and Kashmir,JK,Jammu,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Jammu and Kashmir,JK,Jammu,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),22.6,
 Jammu and Kashmir,JK,Jammu,98.Ever undergone a screening test for cervical cancer (%),0.0,
 Jammu and Kashmir,JK,Jammu,99.Ever undergone a breast examination for breast cancer (%),0.0,
 Jammu and Kashmir,JK,Jammu,100. Ever undergone an oral cavity examination for oral cancer (%),0.0,
@@ -764,10 +764,10 @@ Jammu and Kashmir,JK,Kathua,34. Mothers whose last birth was protected against n
 Jammu and Kashmir,JK,Kathua,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),32.6,56.6
 Jammu and Kashmir,JK,Kathua,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),20.1,35.7
 Jammu and Kashmir,JK,Kathua,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),98.1,96.6
-Jammu and Kashmir,JK,Kathua,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Jammu and Kashmir,JK,Kathua,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),81.2,81.8
 Jammu and Kashmir,JK,Kathua,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),5661.0,3380.0
 Jammu and Kashmir,JK,Kathua,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,
-Jammu and Kashmir,JK,Kathua,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Jammu and Kashmir,JK,Kathua,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),77.1,
 Jammu and Kashmir,JK,Kathua,42. Institutional births (%),97.1,92.0
 Jammu and Kashmir,JK,Kathua,43. Institutional births in public facility (%),93.8,89.3
 Jammu and Kashmir,JK,Kathua,44. Home births that were conducted by skilled health personnel10 (%),1.9,3.1
@@ -775,7 +775,7 @@ Jammu and Kashmir,JK,Kathua,45. Births attended by skilled health personnel10 (%
 Jammu and Kashmir,JK,Kathua,46. Births delivered by caesarean section (%),29.9,21.8
 Jammu and Kashmir,JK,Kathua,47. Births in a private health facility that were delivered by caesarean section (%),,
 Jammu and Kashmir,JK,Kathua,48. Births in a public health facility that were delivered by caesarean section (%),28.9,22.3
-Jammu and Kashmir,JK,Kathua,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Jammu and Kashmir,JK,Kathua,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),100.0,82.5
 Jammu and Kashmir,JK,Kathua,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),100.0,84.7
 Jammu and Kashmir,JK,Kathua,51. Children age 12-23 months who have received BCG (%),100.0,95.6
 Jammu and Kashmir,JK,Kathua,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),100.0,94.2
@@ -820,10 +820,10 @@ Jammu and Kashmir,JK,Kathua,90. Blood sugar level - very high (>160 mg/dl)23 (%)
 Jammu and Kashmir,JK,Kathua,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),11.8,
 Jammu and Kashmir,JK,Kathua,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),15.3,
 Jammu and Kashmir,JK,Kathua,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),1.9,
-Jammu and Kashmir,JK,Kathua,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Jammu and Kashmir,JK,Kathua,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),18.9,
 Jammu and Kashmir,JK,Kathua,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),19.4,
 Jammu and Kashmir,JK,Kathua,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),2.2,
-Jammu and Kashmir,JK,Kathua,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Jammu and Kashmir,JK,Kathua,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),23.6,
 Jammu and Kashmir,JK,Kathua,98.Ever undergone a screening test for cervical cancer (%),0.8,
 Jammu and Kashmir,JK,Kathua,99.Ever undergone a breast examination for breast cancer (%),0.4,
 Jammu and Kashmir,JK,Kathua,100. Ever undergone an oral cavity examination for oral cancer (%),0.8,
@@ -868,10 +868,10 @@ Jammu and Kashmir,JK,Kishtwar,34. Mothers whose last birth was protected against
 Jammu and Kashmir,JK,Kishtwar,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),34.8,17.2
 Jammu and Kashmir,JK,Kishtwar,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),15.8,6.7
 Jammu and Kashmir,JK,Kishtwar,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),95.8,91.8
-Jammu and Kashmir,JK,Kishtwar,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Jammu and Kashmir,JK,Kishtwar,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),75.7,56.3
 Jammu and Kashmir,JK,Kishtwar,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),4410.0,5042.0
 Jammu and Kashmir,JK,Kishtwar,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,0.0
-Jammu and Kashmir,JK,Kishtwar,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Jammu and Kashmir,JK,Kishtwar,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),75.4,
 Jammu and Kashmir,JK,Kishtwar,42. Institutional births (%),91.6,64.7
 Jammu and Kashmir,JK,Kishtwar,43. Institutional births in public facility (%),90.8,64.5
 Jammu and Kashmir,JK,Kishtwar,44. Home births that were conducted by skilled health personnel10 (%),3.7,3.2
@@ -879,7 +879,7 @@ Jammu and Kashmir,JK,Kishtwar,45. Births attended by skilled health personnel10 
 Jammu and Kashmir,JK,Kishtwar,46. Births delivered by caesarean section (%),34.3,15.3
 Jammu and Kashmir,JK,Kishtwar,47. Births in a private health facility that were delivered by caesarean section (%),,
 Jammu and Kashmir,JK,Kishtwar,48. Births in a public health facility that were delivered by caesarean section (%),36.9,23.2
-Jammu and Kashmir,JK,Kishtwar,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Jammu and Kashmir,JK,Kishtwar,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),91.6,74.4
 Jammu and Kashmir,JK,Kishtwar,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),100.0,80.0
 Jammu and Kashmir,JK,Kishtwar,51. Children age 12-23 months who have received BCG (%),97.3,93.2
 Jammu and Kashmir,JK,Kishtwar,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),91.6,81.6
@@ -896,7 +896,7 @@ Jammu and Kashmir,JK,Kishtwar,62. Children with diarrhoea in the 2 weeks precedi
 Jammu and Kashmir,JK,Kishtwar,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,66.1
 Jammu and Kashmir,JK,Kishtwar,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,79.2
 Jammu and Kashmir,JK,Kishtwar,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),2.2,16.6
-Jammu and Kashmir,JK,Kishtwar,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Jammu and Kashmir,JK,Kishtwar,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),77.0,74.1
 Jammu and Kashmir,JK,Kishtwar,67. Children under age 3 years breastfed within one hour of birth15 (%),36.0,40.8
 Jammu and Kashmir,JK,Kishtwar,68. Children under age 6 months exclusively breastfed16 (%),77.8,70.6
 Jammu and Kashmir,JK,Kishtwar,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -924,10 +924,10 @@ Jammu and Kashmir,JK,Kishtwar,90. Blood sugar level - very high (>160 mg/dl)23 (
 Jammu and Kashmir,JK,Kishtwar,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),6.8,
 Jammu and Kashmir,JK,Kishtwar,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),4.3,
 Jammu and Kashmir,JK,Kishtwar,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),2.2,
-Jammu and Kashmir,JK,Kishtwar,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Jammu and Kashmir,JK,Kishtwar,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),13.2,
 Jammu and Kashmir,JK,Kishtwar,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),5.3,
 Jammu and Kashmir,JK,Kishtwar,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),1.7,
-Jammu and Kashmir,JK,Kishtwar,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Jammu and Kashmir,JK,Kishtwar,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),13.3,
 Jammu and Kashmir,JK,Kishtwar,98.Ever undergone a screening test for cervical cancer (%),0.2,
 Jammu and Kashmir,JK,Kishtwar,99.Ever undergone a breast examination for breast cancer (%),0.3,
 Jammu and Kashmir,JK,Kishtwar,100. Ever undergone an oral cavity examination for oral cancer (%),0.3,
@@ -972,10 +972,10 @@ Jammu and Kashmir,JK,Kulgam,34. Mothers whose last birth was protected against n
 Jammu and Kashmir,JK,Kulgam,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),15.8,20.5
 Jammu and Kashmir,JK,Kulgam,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),10.3,12.4
 Jammu and Kashmir,JK,Kulgam,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),97.7,95.4
-Jammu and Kashmir,JK,Kulgam,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Jammu and Kashmir,JK,Kulgam,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),91.5,77.8
 Jammu and Kashmir,JK,Kulgam,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),3852.0,3917.0
 Jammu and Kashmir,JK,Kulgam,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,0.0
-Jammu and Kashmir,JK,Kulgam,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Jammu and Kashmir,JK,Kulgam,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),92.6,
 Jammu and Kashmir,JK,Kulgam,42. Institutional births (%),98.9,89.5
 Jammu and Kashmir,JK,Kulgam,43. Institutional births in public facility (%),94.4,85.2
 Jammu and Kashmir,JK,Kulgam,44. Home births that were conducted by skilled health personnel10 (%),0.8,2.1
@@ -983,7 +983,7 @@ Jammu and Kashmir,JK,Kulgam,45. Births attended by skilled health personnel10 (%
 Jammu and Kashmir,JK,Kulgam,46. Births delivered by caesarean section (%),45.8,32.3
 Jammu and Kashmir,JK,Kulgam,47. Births in a private health facility that were delivered by caesarean section (%),,
 Jammu and Kashmir,JK,Kulgam,48. Births in a public health facility that were delivered by caesarean section (%),43.7,34.6
-Jammu and Kashmir,JK,Kulgam,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Jammu and Kashmir,JK,Kulgam,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),98.1,83.0
 Jammu and Kashmir,JK,Kulgam,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),98.0,90.0
 Jammu and Kashmir,JK,Kulgam,51. Children age 12-23 months who have received BCG (%),100.0,97.6
 Jammu and Kashmir,JK,Kulgam,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),100.0,89.4
@@ -1000,7 +1000,7 @@ Jammu and Kashmir,JK,Kulgam,62. Children with diarrhoea in the 2 weeks preceding
 Jammu and Kashmir,JK,Kulgam,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,24.8
 Jammu and Kashmir,JK,Kulgam,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,80.7
 Jammu and Kashmir,JK,Kulgam,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.0,7.8
-Jammu and Kashmir,JK,Kulgam,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Jammu and Kashmir,JK,Kulgam,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,71.5
 Jammu and Kashmir,JK,Kulgam,67. Children under age 3 years breastfed within one hour of birth15 (%),69.1,50.2
 Jammu and Kashmir,JK,Kulgam,68. Children under age 6 months exclusively breastfed16 (%),74.7,
 Jammu and Kashmir,JK,Kulgam,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -1028,10 +1028,10 @@ Jammu and Kashmir,JK,Kulgam,90. Blood sugar level - very high (>160 mg/dl)23 (%)
 Jammu and Kashmir,JK,Kulgam,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),6.1,
 Jammu and Kashmir,JK,Kulgam,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),19.4,
 Jammu and Kashmir,JK,Kulgam,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.1,
-Jammu and Kashmir,JK,Kulgam,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Jammu and Kashmir,JK,Kulgam,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),25.8,
 Jammu and Kashmir,JK,Kulgam,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),15.9,
 Jammu and Kashmir,JK,Kulgam,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),2.2,
-Jammu and Kashmir,JK,Kulgam,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Jammu and Kashmir,JK,Kulgam,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),19.9,
 Jammu and Kashmir,JK,Kulgam,98.Ever undergone a screening test for cervical cancer (%),0.5,
 Jammu and Kashmir,JK,Kulgam,99.Ever undergone a breast examination for breast cancer (%),0.3,
 Jammu and Kashmir,JK,Kulgam,100. Ever undergone an oral cavity examination for oral cancer (%),0.4,
@@ -1076,10 +1076,10 @@ Jammu and Kashmir,JK,Kupwara,34. Mothers whose last birth was protected against 
 Jammu and Kashmir,JK,Kupwara,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),29.2,19.5
 Jammu and Kashmir,JK,Kupwara,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),8.5,6.7
 Jammu and Kashmir,JK,Kupwara,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),99.3,76.7
-Jammu and Kashmir,JK,Kupwara,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Jammu and Kashmir,JK,Kupwara,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),90.5,79.5
 Jammu and Kashmir,JK,Kupwara,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),5108.0,3903.0
 Jammu and Kashmir,JK,Kupwara,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,
-Jammu and Kashmir,JK,Kupwara,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Jammu and Kashmir,JK,Kupwara,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),89.6,
 Jammu and Kashmir,JK,Kupwara,42. Institutional births (%),97.1,91.0
 Jammu and Kashmir,JK,Kupwara,43. Institutional births in public facility (%),88.7,74.3
 Jammu and Kashmir,JK,Kupwara,44. Home births that were conducted by skilled health personnel10 (%),2.0,1.1
@@ -1087,7 +1087,7 @@ Jammu and Kashmir,JK,Kupwara,45. Births attended by skilled health personnel10 (
 Jammu and Kashmir,JK,Kupwara,46. Births delivered by caesarean section (%),51.7,31.6
 Jammu and Kashmir,JK,Kupwara,47. Births in a private health facility that were delivered by caesarean section (%),80.7,47.2
 Jammu and Kashmir,JK,Kupwara,48. Births in a public health facility that were delivered by caesarean section (%),50.7,31.9
-Jammu and Kashmir,JK,Kupwara,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Jammu and Kashmir,JK,Kupwara,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),93.2,77.8
 Jammu and Kashmir,JK,Kupwara,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),100.0,84.0
 Jammu and Kashmir,JK,Kupwara,51. Children age 12-23 months who have received BCG (%),98.3,98.1
 Jammu and Kashmir,JK,Kupwara,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),93.2,86.2
@@ -1104,7 +1104,7 @@ Jammu and Kashmir,JK,Kupwara,62. Children with diarrhoea in the 2 weeks precedin
 Jammu and Kashmir,JK,Kupwara,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),61.0,28.0
 Jammu and Kashmir,JK,Kupwara,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),75.6,63.3
 Jammu and Kashmir,JK,Kupwara,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),8.9,8.0
-Jammu and Kashmir,JK,Kupwara,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Jammu and Kashmir,JK,Kupwara,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),62.3,77.0
 Jammu and Kashmir,JK,Kupwara,67. Children under age 3 years breastfed within one hour of birth15 (%),46.5,39.2
 Jammu and Kashmir,JK,Kupwara,68. Children under age 6 months exclusively breastfed16 (%),72.7,71.2
 Jammu and Kashmir,JK,Kupwara,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -1132,10 +1132,10 @@ Jammu and Kashmir,JK,Kupwara,90. Blood sugar level - very high (>160 mg/dl)23 (%
 Jammu and Kashmir,JK,Kupwara,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),7.9,
 Jammu and Kashmir,JK,Kupwara,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),10.5,
 Jammu and Kashmir,JK,Kupwara,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),2.1,
-Jammu and Kashmir,JK,Kupwara,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Jammu and Kashmir,JK,Kupwara,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),18.1,
 Jammu and Kashmir,JK,Kupwara,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),11.5,
 Jammu and Kashmir,JK,Kupwara,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),2.7,
-Jammu and Kashmir,JK,Kupwara,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Jammu and Kashmir,JK,Kupwara,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),18.9,
 Jammu and Kashmir,JK,Kupwara,98.Ever undergone a screening test for cervical cancer (%),0.8,
 Jammu and Kashmir,JK,Kupwara,99.Ever undergone a breast examination for breast cancer (%),0.4,
 Jammu and Kashmir,JK,Kupwara,100. Ever undergone an oral cavity examination for oral cancer (%),0.4,
@@ -1180,10 +1180,10 @@ Jammu and Kashmir,JK,Pulwama,34. Mothers whose last birth was protected against 
 Jammu and Kashmir,JK,Pulwama,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),33.1,30.0
 Jammu and Kashmir,JK,Pulwama,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),15.7,19.7
 Jammu and Kashmir,JK,Pulwama,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),98.9,98.0
-Jammu and Kashmir,JK,Pulwama,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Jammu and Kashmir,JK,Pulwama,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),95.0,81.1
 Jammu and Kashmir,JK,Pulwama,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),4299.0,3169.0
 Jammu and Kashmir,JK,Pulwama,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,
-Jammu and Kashmir,JK,Pulwama,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Jammu and Kashmir,JK,Pulwama,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),93.7,
 Jammu and Kashmir,JK,Pulwama,42. Institutional births (%),97.8,93.9
 Jammu and Kashmir,JK,Pulwama,43. Institutional births in public facility (%),92.0,82.3
 Jammu and Kashmir,JK,Pulwama,44. Home births that were conducted by skilled health personnel10 (%),1.3,0.8
@@ -1191,7 +1191,7 @@ Jammu and Kashmir,JK,Pulwama,45. Births attended by skilled health personnel10 (
 Jammu and Kashmir,JK,Pulwama,46. Births delivered by caesarean section (%),60.7,56.1
 Jammu and Kashmir,JK,Pulwama,47. Births in a private health facility that were delivered by caesarean section (%),,89.9
 Jammu and Kashmir,JK,Pulwama,48. Births in a public health facility that were delivered by caesarean section (%),59.7,55.5
-Jammu and Kashmir,JK,Pulwama,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Jammu and Kashmir,JK,Pulwama,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),88.8,89.9
 Jammu and Kashmir,JK,Pulwama,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),94.0,95.1
 Jammu and Kashmir,JK,Pulwama,51. Children age 12-23 months who have received BCG (%),97.0,100.0
 Jammu and Kashmir,JK,Pulwama,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),91.8,91.4
@@ -1208,7 +1208,7 @@ Jammu and Kashmir,JK,Pulwama,62. Children with diarrhoea in the 2 weeks precedin
 Jammu and Kashmir,JK,Pulwama,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,
 Jammu and Kashmir,JK,Pulwama,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
 Jammu and Kashmir,JK,Pulwama,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),2.6,5.1
-Jammu and Kashmir,JK,Pulwama,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Jammu and Kashmir,JK,Pulwama,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,71.0
 Jammu and Kashmir,JK,Pulwama,67. Children under age 3 years breastfed within one hour of birth15 (%),36.0,41.3
 Jammu and Kashmir,JK,Pulwama,68. Children under age 6 months exclusively breastfed16 (%),,
 Jammu and Kashmir,JK,Pulwama,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -1236,10 +1236,10 @@ Jammu and Kashmir,JK,Pulwama,90. Blood sugar level - very high (>160 mg/dl)23 (%
 Jammu and Kashmir,JK,Pulwama,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),4.8,
 Jammu and Kashmir,JK,Pulwama,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),14.2,
 Jammu and Kashmir,JK,Pulwama,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),4.0,
-Jammu and Kashmir,JK,Pulwama,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Jammu and Kashmir,JK,Pulwama,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),22.6,
 Jammu and Kashmir,JK,Pulwama,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),14.1,
 Jammu and Kashmir,JK,Pulwama,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),2.3,
-Jammu and Kashmir,JK,Pulwama,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Jammu and Kashmir,JK,Pulwama,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),19.1,
 Jammu and Kashmir,JK,Pulwama,98.Ever undergone a screening test for cervical cancer (%),0.0,
 Jammu and Kashmir,JK,Pulwama,99.Ever undergone a breast examination for breast cancer (%),0.0,
 Jammu and Kashmir,JK,Pulwama,100. Ever undergone an oral cavity examination for oral cancer (%),0.2,
@@ -1284,10 +1284,10 @@ Jammu and Kashmir,JK,Punch,34. Mothers whose last birth was protected against ne
 Jammu and Kashmir,JK,Punch,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),20.6,39.3
 Jammu and Kashmir,JK,Punch,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),11.3,8.0
 Jammu and Kashmir,JK,Punch,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),98.0,89.0
-Jammu and Kashmir,JK,Punch,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Jammu and Kashmir,JK,Punch,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),81.7,63.6
 Jammu and Kashmir,JK,Punch,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),3641.0,4146.0
 Jammu and Kashmir,JK,Punch,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),5.5,1.1
-Jammu and Kashmir,JK,Punch,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Jammu and Kashmir,JK,Punch,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),78.9,
 Jammu and Kashmir,JK,Punch,42. Institutional births (%),86.0,79.6
 Jammu and Kashmir,JK,Punch,43. Institutional births in public facility (%),84.2,77.4
 Jammu and Kashmir,JK,Punch,44. Home births that were conducted by skilled health personnel10 (%),8.8,2.8
@@ -1295,7 +1295,7 @@ Jammu and Kashmir,JK,Punch,45. Births attended by skilled health personnel10 (%)
 Jammu and Kashmir,JK,Punch,46. Births delivered by caesarean section (%),30.9,24.8
 Jammu and Kashmir,JK,Punch,47. Births in a private health facility that were delivered by caesarean section (%),,
 Jammu and Kashmir,JK,Punch,48. Births in a public health facility that were delivered by caesarean section (%),34.6,30.0
-Jammu and Kashmir,JK,Punch,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Jammu and Kashmir,JK,Punch,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),91.2,84.2
 Jammu and Kashmir,JK,Punch,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),92.1,88.7
 Jammu and Kashmir,JK,Punch,51. Children age 12-23 months who have received BCG (%),97.0,97.8
 Jammu and Kashmir,JK,Punch,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),95.6,90.8
@@ -1312,7 +1312,7 @@ Jammu and Kashmir,JK,Punch,62. Children with diarrhoea in the 2 weeks preceding 
 Jammu and Kashmir,JK,Punch,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,
 Jammu and Kashmir,JK,Punch,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
 Jammu and Kashmir,JK,Punch,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),3.8,3.5
-Jammu and Kashmir,JK,Punch,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Jammu and Kashmir,JK,Punch,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),79.5,94.3
 Jammu and Kashmir,JK,Punch,67. Children under age 3 years breastfed within one hour of birth15 (%),62.2,47.4
 Jammu and Kashmir,JK,Punch,68. Children under age 6 months exclusively breastfed16 (%),69.7,49.4
 Jammu and Kashmir,JK,Punch,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -1340,10 +1340,10 @@ Jammu and Kashmir,JK,Punch,90. Blood sugar level - very high (>160 mg/dl)23 (%),
 Jammu and Kashmir,JK,Punch,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),7.0,
 Jammu and Kashmir,JK,Punch,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),11.4,
 Jammu and Kashmir,JK,Punch,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),1.9,
-Jammu and Kashmir,JK,Punch,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Jammu and Kashmir,JK,Punch,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),17.9,
 Jammu and Kashmir,JK,Punch,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),11.7,
 Jammu and Kashmir,JK,Punch,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),1.6,
-Jammu and Kashmir,JK,Punch,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Jammu and Kashmir,JK,Punch,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),16.3,
 Jammu and Kashmir,JK,Punch,98.Ever undergone a screening test for cervical cancer (%),0.0,
 Jammu and Kashmir,JK,Punch,99.Ever undergone a breast examination for breast cancer (%),0.4,
 Jammu and Kashmir,JK,Punch,100. Ever undergone an oral cavity examination for oral cancer (%),0.6,
@@ -1388,10 +1388,10 @@ Jammu and Kashmir,JK,Rajouri,34. Mothers whose last birth was protected against 
 Jammu and Kashmir,JK,Rajouri,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),17.4,19.0
 Jammu and Kashmir,JK,Rajouri,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),3.8,9.4
 Jammu and Kashmir,JK,Rajouri,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),95.4,83.4
-Jammu and Kashmir,JK,Rajouri,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Jammu and Kashmir,JK,Rajouri,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),78.7,54.7
 Jammu and Kashmir,JK,Rajouri,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),4199.0,5523.0
 Jammu and Kashmir,JK,Rajouri,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),14.6,1.4
-Jammu and Kashmir,JK,Rajouri,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Jammu and Kashmir,JK,Rajouri,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),75.8,
 Jammu and Kashmir,JK,Rajouri,42. Institutional births (%),88.8,75.2
 Jammu and Kashmir,JK,Rajouri,43. Institutional births in public facility (%),84.9,72.7
 Jammu and Kashmir,JK,Rajouri,44. Home births that were conducted by skilled health personnel10 (%),5.6,3.6
@@ -1399,7 +1399,7 @@ Jammu and Kashmir,JK,Rajouri,45. Births attended by skilled health personnel10 (
 Jammu and Kashmir,JK,Rajouri,46. Births delivered by caesarean section (%),29.0,22.7
 Jammu and Kashmir,JK,Rajouri,47. Births in a private health facility that were delivered by caesarean section (%),,
 Jammu and Kashmir,JK,Rajouri,48. Births in a public health facility that were delivered by caesarean section (%),30.7,29.2
-Jammu and Kashmir,JK,Rajouri,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Jammu and Kashmir,JK,Rajouri,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),95.0,44.5
 Jammu and Kashmir,JK,Rajouri,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),98.1,62.5
 Jammu and Kashmir,JK,Rajouri,51. Children age 12-23 months who have received BCG (%),100.0,88.4
 Jammu and Kashmir,JK,Rajouri,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),95.0,64.7
@@ -1416,7 +1416,7 @@ Jammu and Kashmir,JK,Rajouri,62. Children with diarrhoea in the 2 weeks precedin
 Jammu and Kashmir,JK,Rajouri,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),47.4,35.4
 Jammu and Kashmir,JK,Rajouri,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),56.4,66.7
 Jammu and Kashmir,JK,Rajouri,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),6.1,5.7
-Jammu and Kashmir,JK,Rajouri,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Jammu and Kashmir,JK,Rajouri,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),38.0,63.9
 Jammu and Kashmir,JK,Rajouri,67. Children under age 3 years breastfed within one hour of birth15 (%),45.6,56.0
 Jammu and Kashmir,JK,Rajouri,68. Children under age 6 months exclusively breastfed16 (%),42.1,53.8
 Jammu and Kashmir,JK,Rajouri,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,40.0
@@ -1444,10 +1444,10 @@ Jammu and Kashmir,JK,Rajouri,90. Blood sugar level - very high (>160 mg/dl)23 (%
 Jammu and Kashmir,JK,Rajouri,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),8.4,
 Jammu and Kashmir,JK,Rajouri,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),11.3,
 Jammu and Kashmir,JK,Rajouri,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),2.7,
-Jammu and Kashmir,JK,Rajouri,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Jammu and Kashmir,JK,Rajouri,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),16.5,
 Jammu and Kashmir,JK,Rajouri,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),9.6,
 Jammu and Kashmir,JK,Rajouri,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),2.4,
-Jammu and Kashmir,JK,Rajouri,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Jammu and Kashmir,JK,Rajouri,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),13.8,
 Jammu and Kashmir,JK,Rajouri,98.Ever undergone a screening test for cervical cancer (%),0.2,
 Jammu and Kashmir,JK,Rajouri,99.Ever undergone a breast examination for breast cancer (%),0.2,
 Jammu and Kashmir,JK,Rajouri,100. Ever undergone an oral cavity examination for oral cancer (%),0.0,
@@ -1492,10 +1492,10 @@ Jammu and Kashmir,JK,Ramban,34. Mothers whose last birth was protected against n
 Jammu and Kashmir,JK,Ramban,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),12.9,18.0
 Jammu and Kashmir,JK,Ramban,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),9.0,4.6
 Jammu and Kashmir,JK,Ramban,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),95.9,86.9
-Jammu and Kashmir,JK,Ramban,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Jammu and Kashmir,JK,Ramban,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),71.3,55.9
 Jammu and Kashmir,JK,Ramban,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),2683.0,6127.0
 Jammu and Kashmir,JK,Ramban,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),3.4,1.7
-Jammu and Kashmir,JK,Ramban,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Jammu and Kashmir,JK,Ramban,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),70.1,
 Jammu and Kashmir,JK,Ramban,42. Institutional births (%),80.4,60.7
 Jammu and Kashmir,JK,Ramban,43. Institutional births in public facility (%),78.7,58.6
 Jammu and Kashmir,JK,Ramban,44. Home births that were conducted by skilled health personnel10 (%),11.8,3.9
@@ -1503,7 +1503,7 @@ Jammu and Kashmir,JK,Ramban,45. Births attended by skilled health personnel10 (%
 Jammu and Kashmir,JK,Ramban,46. Births delivered by caesarean section (%),17.0,11.5
 Jammu and Kashmir,JK,Ramban,47. Births in a private health facility that were delivered by caesarean section (%),,
 Jammu and Kashmir,JK,Ramban,48. Births in a public health facility that were delivered by caesarean section (%),20.0,17.7
-Jammu and Kashmir,JK,Ramban,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Jammu and Kashmir,JK,Ramban,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),78.9,57.5
 Jammu and Kashmir,JK,Ramban,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),93.7,69.5
 Jammu and Kashmir,JK,Ramban,51. Children age 12-23 months who have received BCG (%),92.2,88.6
 Jammu and Kashmir,JK,Ramban,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),80.5,68.8
@@ -1520,7 +1520,7 @@ Jammu and Kashmir,JK,Ramban,62. Children with diarrhoea in the 2 weeks preceding
 Jammu and Kashmir,JK,Ramban,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,56.5
 Jammu and Kashmir,JK,Ramban,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,84.1
 Jammu and Kashmir,JK,Ramban,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),3.4,19.5
-Jammu and Kashmir,JK,Ramban,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Jammu and Kashmir,JK,Ramban,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),47.0,84.0
 Jammu and Kashmir,JK,Ramban,67. Children under age 3 years breastfed within one hour of birth15 (%),60.9,42.6
 Jammu and Kashmir,JK,Ramban,68. Children under age 6 months exclusively breastfed16 (%),57.6,66.3
 Jammu and Kashmir,JK,Ramban,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -1548,10 +1548,10 @@ Jammu and Kashmir,JK,Ramban,90. Blood sugar level - very high (>160 mg/dl)23 (%)
 Jammu and Kashmir,JK,Ramban,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),5.5,
 Jammu and Kashmir,JK,Ramban,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),11.5,
 Jammu and Kashmir,JK,Ramban,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),2.0,
-Jammu and Kashmir,JK,Ramban,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Jammu and Kashmir,JK,Ramban,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),17.5,
 Jammu and Kashmir,JK,Ramban,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),11.1,
 Jammu and Kashmir,JK,Ramban,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),1.7,
-Jammu and Kashmir,JK,Ramban,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Jammu and Kashmir,JK,Ramban,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),15.7,
 Jammu and Kashmir,JK,Ramban,98.Ever undergone a screening test for cervical cancer (%),1.2,
 Jammu and Kashmir,JK,Ramban,99.Ever undergone a breast examination for breast cancer (%),0.7,
 Jammu and Kashmir,JK,Ramban,100. Ever undergone an oral cavity examination for oral cancer (%),0.5,
@@ -1596,10 +1596,10 @@ Jammu and Kashmir,JK,Reasi,34. Mothers whose last birth was protected against ne
 Jammu and Kashmir,JK,Reasi,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),32.6,35.9
 Jammu and Kashmir,JK,Reasi,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),21.8,11.3
 Jammu and Kashmir,JK,Reasi,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),92.9,90.3
-Jammu and Kashmir,JK,Reasi,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Jammu and Kashmir,JK,Reasi,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),64.7,47.7
 Jammu and Kashmir,JK,Reasi,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),4046.0,4137.0
 Jammu and Kashmir,JK,Reasi,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),0.0,0.0
-Jammu and Kashmir,JK,Reasi,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Jammu and Kashmir,JK,Reasi,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),63.6,
 Jammu and Kashmir,JK,Reasi,42. Institutional births (%),69.3,62.6
 Jammu and Kashmir,JK,Reasi,43. Institutional births in public facility (%),66.6,60.1
 Jammu and Kashmir,JK,Reasi,44. Home births that were conducted by skilled health personnel10 (%),4.8,3.3
@@ -1607,7 +1607,7 @@ Jammu and Kashmir,JK,Reasi,45. Births attended by skilled health personnel10 (%)
 Jammu and Kashmir,JK,Reasi,46. Births delivered by caesarean section (%),23.0,17.5
 Jammu and Kashmir,JK,Reasi,47. Births in a private health facility that were delivered by caesarean section (%),,
 Jammu and Kashmir,JK,Reasi,48. Births in a public health facility that were delivered by caesarean section (%),33.1,27.0
-Jammu and Kashmir,JK,Reasi,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Jammu and Kashmir,JK,Reasi,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),79.1,73.1
 Jammu and Kashmir,JK,Reasi,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),86.6,80.4
 Jammu and Kashmir,JK,Reasi,51. Children age 12-23 months who have received BCG (%),90.5,96.5
 Jammu and Kashmir,JK,Reasi,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),80.8,88.2
@@ -1624,7 +1624,7 @@ Jammu and Kashmir,JK,Reasi,62. Children with diarrhoea in the 2 weeks preceding 
 Jammu and Kashmir,JK,Reasi,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,
 Jammu and Kashmir,JK,Reasi,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
 Jammu and Kashmir,JK,Reasi,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.9,3.2
-Jammu and Kashmir,JK,Reasi,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Jammu and Kashmir,JK,Reasi,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,53.3
 Jammu and Kashmir,JK,Reasi,67. Children under age 3 years breastfed within one hour of birth15 (%),55.6,47.6
 Jammu and Kashmir,JK,Reasi,68. Children under age 6 months exclusively breastfed16 (%),58.9,47.1
 Jammu and Kashmir,JK,Reasi,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,52.0
@@ -1652,10 +1652,10 @@ Jammu and Kashmir,JK,Reasi,90. Blood sugar level - very high (>160 mg/dl)23 (%),
 Jammu and Kashmir,JK,Reasi,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),7.1,
 Jammu and Kashmir,JK,Reasi,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),11.0,
 Jammu and Kashmir,JK,Reasi,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),1.2,
-Jammu and Kashmir,JK,Reasi,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Jammu and Kashmir,JK,Reasi,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),15.4,
 Jammu and Kashmir,JK,Reasi,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),13.3,
 Jammu and Kashmir,JK,Reasi,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),1.1,
-Jammu and Kashmir,JK,Reasi,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Jammu and Kashmir,JK,Reasi,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),17.6,
 Jammu and Kashmir,JK,Reasi,98.Ever undergone a screening test for cervical cancer (%),0.0,
 Jammu and Kashmir,JK,Reasi,99.Ever undergone a breast examination for breast cancer (%),0.0,
 Jammu and Kashmir,JK,Reasi,100. Ever undergone an oral cavity examination for oral cancer (%),0.0,
@@ -1700,10 +1700,10 @@ Jammu and Kashmir,JK,Samba,34. Mothers whose last birth was protected against ne
 Jammu and Kashmir,JK,Samba,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),46.5,47.3
 Jammu and Kashmir,JK,Samba,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),24.4,34.7
 Jammu and Kashmir,JK,Samba,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),100.0,86.8
-Jammu and Kashmir,JK,Samba,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Jammu and Kashmir,JK,Samba,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),92.3,78.7
 Jammu and Kashmir,JK,Samba,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),4149.0,4551.0
 Jammu and Kashmir,JK,Samba,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,4.7
-Jammu and Kashmir,JK,Samba,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Jammu and Kashmir,JK,Samba,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),87.6,
 Jammu and Kashmir,JK,Samba,42. Institutional births (%),97.9,85.8
 Jammu and Kashmir,JK,Samba,43. Institutional births in public facility (%),91.3,77.5
 Jammu and Kashmir,JK,Samba,44. Home births that were conducted by skilled health personnel10 (%),1.2,1.4
@@ -1711,7 +1711,7 @@ Jammu and Kashmir,JK,Samba,45. Births attended by skilled health personnel10 (%)
 Jammu and Kashmir,JK,Samba,46. Births delivered by caesarean section (%),37.5,27.5
 Jammu and Kashmir,JK,Samba,47. Births in a private health facility that were delivered by caesarean section (%),,63.6
 Jammu and Kashmir,JK,Samba,48. Births in a public health facility that were delivered by caesarean section (%),35.9,28.7
-Jammu and Kashmir,JK,Samba,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Jammu and Kashmir,JK,Samba,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),90.9,68.7
 Jammu and Kashmir,JK,Samba,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),97.8,80.6
 Jammu and Kashmir,JK,Samba,51. Children age 12-23 months who have received BCG (%),98.0,84.1
 Jammu and Kashmir,JK,Samba,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),90.9,73.7
@@ -1728,7 +1728,7 @@ Jammu and Kashmir,JK,Samba,62. Children with diarrhoea in the 2 weeks preceding 
 Jammu and Kashmir,JK,Samba,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,
 Jammu and Kashmir,JK,Samba,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
 Jammu and Kashmir,JK,Samba,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),3.2,3.6
-Jammu and Kashmir,JK,Samba,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Jammu and Kashmir,JK,Samba,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),69.8,78.5
 Jammu and Kashmir,JK,Samba,67. Children under age 3 years breastfed within one hour of birth15 (%),61.6,41.3
 Jammu and Kashmir,JK,Samba,68. Children under age 6 months exclusively breastfed16 (%),47.3,69.1
 Jammu and Kashmir,JK,Samba,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,40.9
@@ -1756,10 +1756,10 @@ Jammu and Kashmir,JK,Samba,90. Blood sugar level - very high (>160 mg/dl)23 (%),
 Jammu and Kashmir,JK,Samba,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),11.2,
 Jammu and Kashmir,JK,Samba,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),11.6,
 Jammu and Kashmir,JK,Samba,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),4.0,
-Jammu and Kashmir,JK,Samba,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Jammu and Kashmir,JK,Samba,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),21.1,
 Jammu and Kashmir,JK,Samba,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),12.4,
 Jammu and Kashmir,JK,Samba,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),5.1,
-Jammu and Kashmir,JK,Samba,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Jammu and Kashmir,JK,Samba,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),21.5,
 Jammu and Kashmir,JK,Samba,98.Ever undergone a screening test for cervical cancer (%),0.9,
 Jammu and Kashmir,JK,Samba,99.Ever undergone a breast examination for breast cancer (%),0.2,
 Jammu and Kashmir,JK,Samba,100. Ever undergone an oral cavity examination for oral cancer (%),0.4,
@@ -1804,10 +1804,10 @@ Jammu and Kashmir,JK,Shupiyan,34. Mothers whose last birth was protected against
 Jammu and Kashmir,JK,Shupiyan,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),34.4,21.7
 Jammu and Kashmir,JK,Shupiyan,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),7.6,13.8
 Jammu and Kashmir,JK,Shupiyan,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),96.9,96.0
-Jammu and Kashmir,JK,Shupiyan,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Jammu and Kashmir,JK,Shupiyan,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),84.5,77.0
 Jammu and Kashmir,JK,Shupiyan,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),5792.0,3780.0
 Jammu and Kashmir,JK,Shupiyan,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,
-Jammu and Kashmir,JK,Shupiyan,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Jammu and Kashmir,JK,Shupiyan,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),83.0,
 Jammu and Kashmir,JK,Shupiyan,42. Institutional births (%),98.3,92.1
 Jammu and Kashmir,JK,Shupiyan,43. Institutional births in public facility (%),94.3,78.3
 Jammu and Kashmir,JK,Shupiyan,44. Home births that were conducted by skilled health personnel10 (%),0.4,0.9
@@ -1815,7 +1815,7 @@ Jammu and Kashmir,JK,Shupiyan,45. Births attended by skilled health personnel10 
 Jammu and Kashmir,JK,Shupiyan,46. Births delivered by caesarean section (%),31.7,42.3
 Jammu and Kashmir,JK,Shupiyan,47. Births in a private health facility that were delivered by caesarean section (%),,90.3
 Jammu and Kashmir,JK,Shupiyan,48. Births in a public health facility that were delivered by caesarean section (%),29.7,38.1
-Jammu and Kashmir,JK,Shupiyan,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Jammu and Kashmir,JK,Shupiyan,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),92.2,69.9
 Jammu and Kashmir,JK,Shupiyan,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),100.0,85.9
 Jammu and Kashmir,JK,Shupiyan,51. Children age 12-23 months who have received BCG (%),100.0,98.6
 Jammu and Kashmir,JK,Shupiyan,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),92.2,77.7
@@ -1832,7 +1832,7 @@ Jammu and Kashmir,JK,Shupiyan,62. Children with diarrhoea in the 2 weeks precedi
 Jammu and Kashmir,JK,Shupiyan,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,
 Jammu and Kashmir,JK,Shupiyan,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
 Jammu and Kashmir,JK,Shupiyan,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),3.8,6.7
-Jammu and Kashmir,JK,Shupiyan,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Jammu and Kashmir,JK,Shupiyan,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,77.9
 Jammu and Kashmir,JK,Shupiyan,67. Children under age 3 years breastfed within one hour of birth15 (%),42.9,44.2
 Jammu and Kashmir,JK,Shupiyan,68. Children under age 6 months exclusively breastfed16 (%),,55.8
 Jammu and Kashmir,JK,Shupiyan,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -1860,10 +1860,10 @@ Jammu and Kashmir,JK,Shupiyan,90. Blood sugar level - very high (>160 mg/dl)23 (
 Jammu and Kashmir,JK,Shupiyan,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),5.1,
 Jammu and Kashmir,JK,Shupiyan,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),11.5,
 Jammu and Kashmir,JK,Shupiyan,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),1.4,
-Jammu and Kashmir,JK,Shupiyan,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Jammu and Kashmir,JK,Shupiyan,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),15.1,
 Jammu and Kashmir,JK,Shupiyan,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),11.5,
 Jammu and Kashmir,JK,Shupiyan,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),1.1,
-Jammu and Kashmir,JK,Shupiyan,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Jammu and Kashmir,JK,Shupiyan,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),14.2,
 Jammu and Kashmir,JK,Shupiyan,98.Ever undergone a screening test for cervical cancer (%),0.4,
 Jammu and Kashmir,JK,Shupiyan,99.Ever undergone a breast examination for breast cancer (%),0.0,
 Jammu and Kashmir,JK,Shupiyan,100. Ever undergone an oral cavity examination for oral cancer (%),0.0,
@@ -1908,10 +1908,10 @@ Jammu and Kashmir,JK,Srinagar,34. Mothers whose last birth was protected against
 Jammu and Kashmir,JK,Srinagar,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),34.1,27.1
 Jammu and Kashmir,JK,Srinagar,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),24.7,8.5
 Jammu and Kashmir,JK,Srinagar,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),97.8,94.6
-Jammu and Kashmir,JK,Srinagar,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Jammu and Kashmir,JK,Srinagar,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),90.9,84.6
 Jammu and Kashmir,JK,Srinagar,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),4589.0,3794.0
 Jammu and Kashmir,JK,Srinagar,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,
-Jammu and Kashmir,JK,Srinagar,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Jammu and Kashmir,JK,Srinagar,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),88.8,
 Jammu and Kashmir,JK,Srinagar,42. Institutional births (%),99.2,99.2
 Jammu and Kashmir,JK,Srinagar,43. Institutional births in public facility (%),88.7,78.0
 Jammu and Kashmir,JK,Srinagar,44. Home births that were conducted by skilled health personnel10 (%),0.0,0.4
@@ -1919,7 +1919,7 @@ Jammu and Kashmir,JK,Srinagar,45. Births attended by skilled health personnel10 
 Jammu and Kashmir,JK,Srinagar,46. Births delivered by caesarean section (%),59.4,74.7
 Jammu and Kashmir,JK,Srinagar,47. Births in a private health facility that were delivered by caesarean section (%),91.3,94.6
 Jammu and Kashmir,JK,Srinagar,48. Births in a public health facility that were delivered by caesarean section (%),56.1,70.1
-Jammu and Kashmir,JK,Srinagar,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Jammu and Kashmir,JK,Srinagar,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),90.9,85.5
 Jammu and Kashmir,JK,Srinagar,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),100.0,91.1
 Jammu and Kashmir,JK,Srinagar,51. Children age 12-23 months who have received BCG (%),95.7,96.7
 Jammu and Kashmir,JK,Srinagar,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),90.9,90.5
@@ -1936,7 +1936,7 @@ Jammu and Kashmir,JK,Srinagar,62. Children with diarrhoea in the 2 weeks precedi
 Jammu and Kashmir,JK,Srinagar,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,
 Jammu and Kashmir,JK,Srinagar,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
 Jammu and Kashmir,JK,Srinagar,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),2.2,2.9
-Jammu and Kashmir,JK,Srinagar,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Jammu and Kashmir,JK,Srinagar,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,89.9
 Jammu and Kashmir,JK,Srinagar,67. Children under age 3 years breastfed within one hour of birth15 (%),69.2,32.2
 Jammu and Kashmir,JK,Srinagar,68. Children under age 6 months exclusively breastfed16 (%),73.3,
 Jammu and Kashmir,JK,Srinagar,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -1964,10 +1964,10 @@ Jammu and Kashmir,JK,Srinagar,90. Blood sugar level - very high (>160 mg/dl)23 (
 Jammu and Kashmir,JK,Srinagar,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),5.7,
 Jammu and Kashmir,JK,Srinagar,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),9.9,
 Jammu and Kashmir,JK,Srinagar,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),1.6,
-Jammu and Kashmir,JK,Srinagar,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Jammu and Kashmir,JK,Srinagar,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),20.1,
 Jammu and Kashmir,JK,Srinagar,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),10.4,
 Jammu and Kashmir,JK,Srinagar,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),1.6,
-Jammu and Kashmir,JK,Srinagar,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Jammu and Kashmir,JK,Srinagar,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),18.1,
 Jammu and Kashmir,JK,Srinagar,98.Ever undergone a screening test for cervical cancer (%),0.2,
 Jammu and Kashmir,JK,Srinagar,99.Ever undergone a breast examination for breast cancer (%),0.0,
 Jammu and Kashmir,JK,Srinagar,100. Ever undergone an oral cavity examination for oral cancer (%),0.0,
@@ -2012,10 +2012,10 @@ Jammu and Kashmir,JK,Udhampur,34. Mothers whose last birth was protected against
 Jammu and Kashmir,JK,Udhampur,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),19.4,50.6
 Jammu and Kashmir,JK,Udhampur,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),6.9,33.2
 Jammu and Kashmir,JK,Udhampur,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),97.3,89.9
-Jammu and Kashmir,JK,Udhampur,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Jammu and Kashmir,JK,Udhampur,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),71.2,72.0
 Jammu and Kashmir,JK,Udhampur,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),3412.0,3100.0
 Jammu and Kashmir,JK,Udhampur,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),0.0,1.5
-Jammu and Kashmir,JK,Udhampur,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Jammu and Kashmir,JK,Udhampur,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),69.1,
 Jammu and Kashmir,JK,Udhampur,42. Institutional births (%),87.2,82.7
 Jammu and Kashmir,JK,Udhampur,43. Institutional births in public facility (%),86.0,78.1
 Jammu and Kashmir,JK,Udhampur,44. Home births that were conducted by skilled health personnel10 (%),3.6,3.1
@@ -2023,7 +2023,7 @@ Jammu and Kashmir,JK,Udhampur,45. Births attended by skilled health personnel10 
 Jammu and Kashmir,JK,Udhampur,46. Births delivered by caesarean section (%),37.0,18.1
 Jammu and Kashmir,JK,Udhampur,47. Births in a private health facility that were delivered by caesarean section (%),,
 Jammu and Kashmir,JK,Udhampur,48. Births in a public health facility that were delivered by caesarean section (%),41.6,20.3
-Jammu and Kashmir,JK,Udhampur,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Jammu and Kashmir,JK,Udhampur,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),85.8,82.7
 Jammu and Kashmir,JK,Udhampur,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),97.7,84.3
 Jammu and Kashmir,JK,Udhampur,51. Children age 12-23 months who have received BCG (%),92.9,97.2
 Jammu and Kashmir,JK,Udhampur,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),85.8,97.2
@@ -2040,7 +2040,7 @@ Jammu and Kashmir,JK,Udhampur,62. Children with diarrhoea in the 2 weeks precedi
 Jammu and Kashmir,JK,Udhampur,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),44.3,
 Jammu and Kashmir,JK,Udhampur,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),59.9,
 Jammu and Kashmir,JK,Udhampur,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),4.5,1.4
-Jammu and Kashmir,JK,Udhampur,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Jammu and Kashmir,JK,Udhampur,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),56.4,
 Jammu and Kashmir,JK,Udhampur,67. Children under age 3 years breastfed within one hour of birth15 (%),48.6,39.8
 Jammu and Kashmir,JK,Udhampur,68. Children under age 6 months exclusively breastfed16 (%),47.4,64.0
 Jammu and Kashmir,JK,Udhampur,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -2068,10 +2068,10 @@ Jammu and Kashmir,JK,Udhampur,90. Blood sugar level - very high (>160 mg/dl)23 (
 Jammu and Kashmir,JK,Udhampur,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),8.8,
 Jammu and Kashmir,JK,Udhampur,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),12.9,
 Jammu and Kashmir,JK,Udhampur,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.4,
-Jammu and Kashmir,JK,Udhampur,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Jammu and Kashmir,JK,Udhampur,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),20.1,
 Jammu and Kashmir,JK,Udhampur,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),13.0,
 Jammu and Kashmir,JK,Udhampur,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),2.7,
-Jammu and Kashmir,JK,Udhampur,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Jammu and Kashmir,JK,Udhampur,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),18.3,
 Jammu and Kashmir,JK,Udhampur,98.Ever undergone a screening test for cervical cancer (%),0.0,
 Jammu and Kashmir,JK,Udhampur,99.Ever undergone a breast examination for breast cancer (%),0.0,
 Jammu and Kashmir,JK,Udhampur,100. Ever undergone an oral cavity examination for oral cancer (%),0.0,

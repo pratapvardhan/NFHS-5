@@ -36,10 +36,10 @@ Meghalaya,ML,East Khasi Hills,34. Mothers whose last birth was protected against
 Meghalaya,ML,East Khasi Hills,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),40.1,56.4
 Meghalaya,ML,East Khasi Hills,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),27.1,24.3
 Meghalaya,ML,East Khasi Hills,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),87.8,88.6
-Meghalaya,ML,East Khasi Hills,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Meghalaya,ML,East Khasi Hills,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),33.6,64.8
 Meghalaya,ML,East Khasi Hills,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),3258.0,2519.0
 Meghalaya,ML,East Khasi Hills,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),3.7,4.3
-Meghalaya,ML,East Khasi Hills,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Meghalaya,ML,East Khasi Hills,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),41.6,
 Meghalaya,ML,East Khasi Hills,42. Institutional births (%),63.4,66.8
 Meghalaya,ML,East Khasi Hills,43. Institutional births in public facility (%),48.4,41.3
 Meghalaya,ML,East Khasi Hills,44. Home births that were conducted by skilled health personnel10 (%),6.2,2.6
@@ -47,7 +47,7 @@ Meghalaya,ML,East Khasi Hills,45. Births attended by skilled health personnel10 
 Meghalaya,ML,East Khasi Hills,46. Births delivered by caesarean section (%),13.9,14.2
 Meghalaya,ML,East Khasi Hills,47. Births in a private health facility that were delivered by caesarean section (%),48.3,30.0
 Meghalaya,ML,East Khasi Hills,48. Births in a public health facility that were delivered by caesarean section (%),13.7,16.0
-Meghalaya,ML,East Khasi Hills,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Meghalaya,ML,East Khasi Hills,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),49.1,68.7
 Meghalaya,ML,East Khasi Hills,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),69.4,87.4
 Meghalaya,ML,East Khasi Hills,51. Children age 12-23 months who have received BCG (%),84.2,92.2
 Meghalaya,ML,East Khasi Hills,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),53.2,75.3
@@ -64,7 +64,7 @@ Meghalaya,ML,East Khasi Hills,62. Children with diarrhoea in the 2 weeks precedi
 Meghalaya,ML,East Khasi Hills,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),31.2,52.9
 Meghalaya,ML,East Khasi Hills,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),71.3,81.8
 Meghalaya,ML,East Khasi Hills,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),5.1,3.1
-Meghalaya,ML,East Khasi Hills,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Meghalaya,ML,East Khasi Hills,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),72.7,87.7
 Meghalaya,ML,East Khasi Hills,67. Children under age 3 years breastfed within one hour of birth15 (%),86.3,52.0
 Meghalaya,ML,East Khasi Hills,68. Children under age 6 months exclusively breastfed16 (%),25.1,34.5
 Meghalaya,ML,East Khasi Hills,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,60.1
@@ -92,10 +92,10 @@ Meghalaya,ML,East Khasi Hills,90. Blood sugar level - very high (>160 mg/dl)23 (
 Meghalaya,ML,East Khasi Hills,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),9.4,
 Meghalaya,ML,East Khasi Hills,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),11.2,
 Meghalaya,ML,East Khasi Hills,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),5.6,
-Meghalaya,ML,East Khasi Hills,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Meghalaya,ML,East Khasi Hills,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),24.5,
 Meghalaya,ML,East Khasi Hills,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),14.5,
 Meghalaya,ML,East Khasi Hills,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),4.3,
-Meghalaya,ML,East Khasi Hills,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Meghalaya,ML,East Khasi Hills,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),25.0,
 Meghalaya,ML,East Khasi Hills,98. Ever undergone a screening test for cervical cancer (%),1.3,
 Meghalaya,ML,East Khasi Hills,99. Ever undergone a breast examination for breast cancer (%),1.3,
 Meghalaya,ML,East Khasi Hills,100. Ever undergone an oral cavity examination for oral cancer (%),0.8,
@@ -140,10 +140,10 @@ Meghalaya,ML,Ribhoi,34. Mothers whose last birth was protected against neonatal 
 Meghalaya,ML,Ribhoi,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),48.8,33.5
 Meghalaya,ML,Ribhoi,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),22.4,11.8
 Meghalaya,ML,Ribhoi,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),97.5,97.2
-Meghalaya,ML,Ribhoi,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Meghalaya,ML,Ribhoi,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),39.5,45.0
 Meghalaya,ML,Ribhoi,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),3648.0,2206.0
 Meghalaya,ML,Ribhoi,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),3.0,1.2
-Meghalaya,ML,Ribhoi,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Meghalaya,ML,Ribhoi,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),39.3,
 Meghalaya,ML,Ribhoi,42. Institutional births (%),56.9,44.9
 Meghalaya,ML,Ribhoi,43. Institutional births in public facility (%),45.6,38.3
 Meghalaya,ML,Ribhoi,44. Home births that were conducted by skilled health personnel10 (%),8.4,2.2
@@ -151,7 +151,7 @@ Meghalaya,ML,Ribhoi,45. Births attended by skilled health personnel10 (%),65.8,4
 Meghalaya,ML,Ribhoi,46. Births delivered by caesarean section (%),8.7,5.8
 Meghalaya,ML,Ribhoi,47. Births in a private health facility that were delivered by caesarean section (%),36.6,43.5
 Meghalaya,ML,Ribhoi,48. Births in a public health facility that were delivered by caesarean section (%),10.0,7.7
-Meghalaya,ML,Ribhoi,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Meghalaya,ML,Ribhoi,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),74.8,55.7
 Meghalaya,ML,Ribhoi,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),86.7,80.5
 Meghalaya,ML,Ribhoi,51. Children age 12-23 months who have received BCG (%),94.0,84.4
 Meghalaya,ML,Ribhoi,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),77.1,63.8
@@ -168,7 +168,7 @@ Meghalaya,ML,Ribhoi,62. Children with diarrhoea in the 2 weeks preceding the sur
 Meghalaya,ML,Ribhoi,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),42.1,53.1
 Meghalaya,ML,Ribhoi,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),53.5,79.3
 Meghalaya,ML,Ribhoi,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),3.6,5.0
-Meghalaya,ML,Ribhoi,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Meghalaya,ML,Ribhoi,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),68.7,81.1
 Meghalaya,ML,Ribhoi,67. Children under age 3 years breastfed within one hour of birth15 (%),85.9,76.1
 Meghalaya,ML,Ribhoi,68. Children under age 6 months exclusively breastfed16 (%),36.8,34.1
 Meghalaya,ML,Ribhoi,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),63.5,61.4
@@ -196,10 +196,10 @@ Meghalaya,ML,Ribhoi,90. Blood sugar level - very high (>160 mg/dl)23 (%),2.7,
 Meghalaya,ML,Ribhoi,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),8.1,
 Meghalaya,ML,Ribhoi,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),7.4,
 Meghalaya,ML,Ribhoi,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),2.0,
-Meghalaya,ML,Ribhoi,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Meghalaya,ML,Ribhoi,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),13.5,
 Meghalaya,ML,Ribhoi,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),12.3,
 Meghalaya,ML,Ribhoi,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),2.9,
-Meghalaya,ML,Ribhoi,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Meghalaya,ML,Ribhoi,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),16.0,
 Meghalaya,ML,Ribhoi,98. Ever undergone a screening test for cervical cancer (%),0.6,
 Meghalaya,ML,Ribhoi,99. Ever undergone a breast examination for breast cancer (%),0.4,
 Meghalaya,ML,Ribhoi,100. Ever undergone an oral cavity examination for oral cancer (%),0.4,
@@ -244,10 +244,10 @@ Meghalaya,ML,South Garo Hills,34. Mothers whose last birth was protected against
 Meghalaya,ML,South Garo Hills,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),51.8,48.8
 Meghalaya,ML,South Garo Hills,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),14.6,21.7
 Meghalaya,ML,South Garo Hills,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),98.9,100.0
-Meghalaya,ML,South Garo Hills,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Meghalaya,ML,South Garo Hills,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),65.9,85.1
 Meghalaya,ML,South Garo Hills,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),2370.0,4290.0
 Meghalaya,ML,South Garo Hills,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),0.0,0.0
-Meghalaya,ML,South Garo Hills,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Meghalaya,ML,South Garo Hills,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),61.7,
 Meghalaya,ML,South Garo Hills,42. Institutional births (%),88.3,88.4
 Meghalaya,ML,South Garo Hills,43. Institutional births in public facility (%),88.3,82.3
 Meghalaya,ML,South Garo Hills,44. Home births that were conducted by skilled health personnel10 (%),3.9,0.5
@@ -255,7 +255,7 @@ Meghalaya,ML,South Garo Hills,45. Births attended by skilled health personnel10 
 Meghalaya,ML,South Garo Hills,46. Births delivered by caesarean section (%),4.7,8.1
 Meghalaya,ML,South Garo Hills,47. Births in a private health facility that were delivered by caesarean section (%),,
 Meghalaya,ML,South Garo Hills,48. Births in a public health facility that were delivered by caesarean section (%),5.3,8.0
-Meghalaya,ML,South Garo Hills,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Meghalaya,ML,South Garo Hills,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),86.8,83.0
 Meghalaya,ML,South Garo Hills,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),89.1,88.4
 Meghalaya,ML,South Garo Hills,51. Children age 12-23 months who have received BCG (%),100.0,91.0
 Meghalaya,ML,South Garo Hills,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),94.7,93.9
@@ -272,7 +272,7 @@ Meghalaya,ML,South Garo Hills,62. Children with diarrhoea in the 2 weeks precedi
 Meghalaya,ML,South Garo Hills,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,76.0
 Meghalaya,ML,South Garo Hills,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,64.7
 Meghalaya,ML,South Garo Hills,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),3.1,14.1
-Meghalaya,ML,South Garo Hills,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Meghalaya,ML,South Garo Hills,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),72.2,75.0
 Meghalaya,ML,South Garo Hills,67. Children under age 3 years breastfed within one hour of birth15 (%),59.8,38.3
 Meghalaya,ML,South Garo Hills,68. Children under age 6 months exclusively breastfed16 (%),,10.4
 Meghalaya,ML,South Garo Hills,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -300,10 +300,10 @@ Meghalaya,ML,South Garo Hills,90. Blood sugar level - very high (>160 mg/dl)23 (
 Meghalaya,ML,South Garo Hills,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),23.7,
 Meghalaya,ML,South Garo Hills,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),10.1,
 Meghalaya,ML,South Garo Hills,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),1.1,
-Meghalaya,ML,South Garo Hills,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Meghalaya,ML,South Garo Hills,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),15.8,
 Meghalaya,ML,South Garo Hills,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),16.6,
 Meghalaya,ML,South Garo Hills,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.3,
-Meghalaya,ML,South Garo Hills,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Meghalaya,ML,South Garo Hills,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),22.8,
 Meghalaya,ML,South Garo Hills,98. Ever undergone a screening test for cervical cancer (%),0.2,
 Meghalaya,ML,South Garo Hills,99. Ever undergone a breast examination for breast cancer (%),0.0,
 Meghalaya,ML,South Garo Hills,100. Ever undergone an oral cavity examination for oral cancer (%),0.0,
@@ -348,5 +348,5 @@ Meghalaya,ML,West Garo Hills,34. Mothers whose last birth was protected against 
 Meghalaya,ML,West Garo Hills,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),48.2,
 Meghalaya,ML,West Garo Hills,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),14.9,
 Meghalaya,ML,West Garo Hills,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),97.6,
-Meghalaya,ML,West Garo Hills,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Meghalaya,ML,West Garo Hills,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),70.9,
 Meghalaya,ML,West Garo Hills,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),3235.0,

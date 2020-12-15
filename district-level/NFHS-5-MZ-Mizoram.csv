@@ -36,10 +36,10 @@ Mizoram,MZ,Aizawl,34. Mothers whose last birth was protected against neonatal te
 Mizoram,MZ,Aizawl,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),58.5,59.8
 Mizoram,MZ,Aizawl,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),12.1,3.4
 Mizoram,MZ,Aizawl,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),93.1,97.0
-Mizoram,MZ,Aizawl,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Mizoram,MZ,Aizawl,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),73.4,75.5
 Mizoram,MZ,Aizawl,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),9812.0,5087.0
 Mizoram,MZ,Aizawl,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,
-Mizoram,MZ,Aizawl,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Mizoram,MZ,Aizawl,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),33.2,
 Mizoram,MZ,Aizawl,42. Institutional births (%),97.4,96.2
 Mizoram,MZ,Aizawl,43. Institutional births in public facility (%),76.3,67.5
 Mizoram,MZ,Aizawl,44. Home births that were conducted by skilled health personnel10 (%),0.3,1.4
@@ -47,7 +47,7 @@ Mizoram,MZ,Aizawl,45. Births attended by skilled health personnel10 (%),97.8,97.
 Mizoram,MZ,Aizawl,46. Births delivered by caesarean section (%),18.2,20.7
 Mizoram,MZ,Aizawl,47. Births in a private health facility that were delivered by caesarean section (%),34.6,30.5
 Mizoram,MZ,Aizawl,48. Births in a public health facility that were delivered by caesarean section (%),14.2,17.7
-Mizoram,MZ,Aizawl,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Mizoram,MZ,Aizawl,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),66.4,55.3
 Mizoram,MZ,Aizawl,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),76.3,74.1
 Mizoram,MZ,Aizawl,51. Children age 12-23 months who have received BCG (%),81.6,82.8
 Mizoram,MZ,Aizawl,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),68.7,66.3
@@ -64,7 +64,7 @@ Mizoram,MZ,Aizawl,62. Children with diarrhoea in the 2 weeks preceding the surve
 Mizoram,MZ,Aizawl,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,31.6
 Mizoram,MZ,Aizawl,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,49.1
 Mizoram,MZ,Aizawl,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.8,4.0
-Mizoram,MZ,Aizawl,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Mizoram,MZ,Aizawl,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),57.3,54.8
 Mizoram,MZ,Aizawl,67. Children under age 3 years breastfed within one hour of birth15 (%),58.5,68.0
 Mizoram,MZ,Aizawl,68. Children under age 6 months exclusively breastfed16 (%),,59.7
 Mizoram,MZ,Aizawl,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -92,10 +92,10 @@ Mizoram,MZ,Aizawl,90. Blood sugar level - very high (>160 mg/dl)23 (%),6.8,
 Mizoram,MZ,Aizawl,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),17.3,
 Mizoram,MZ,Aizawl,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),14.1,
 Mizoram,MZ,Aizawl,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),2.7,
-Mizoram,MZ,Aizawl,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Mizoram,MZ,Aizawl,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),23.4,
 Mizoram,MZ,Aizawl,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),19.8,
 Mizoram,MZ,Aizawl,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),6.8,
-Mizoram,MZ,Aizawl,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Mizoram,MZ,Aizawl,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),33.6,
 Mizoram,MZ,Aizawl,98. Ever undergone a screening test for cervical cancer (%),10.8,
 Mizoram,MZ,Aizawl,99. Ever undergone a breast examination for breast cancer (%),4.7,
 Mizoram,MZ,Aizawl,100. Ever undergone an oral cavity examination for oral cancer (%),1.6,
@@ -140,10 +140,10 @@ Mizoram,MZ,Champhai,34. Mothers whose last birth was protected against neonatal 
 Mizoram,MZ,Champhai,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),74.3,52.7
 Mizoram,MZ,Champhai,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),12.5,2.8
 Mizoram,MZ,Champhai,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),100.0,98.1
-Mizoram,MZ,Champhai,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Mizoram,MZ,Champhai,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),72.3,66.0
 Mizoram,MZ,Champhai,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),4336.0,3615.0
 Mizoram,MZ,Champhai,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,1.2
-Mizoram,MZ,Champhai,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Mizoram,MZ,Champhai,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),52.1,
 Mizoram,MZ,Champhai,42. Institutional births (%),96.7,81.1
 Mizoram,MZ,Champhai,43. Institutional births in public facility (%),91.5,74.9
 Mizoram,MZ,Champhai,44. Home births that were conducted by skilled health personnel10 (%),1.6,5.5
@@ -151,7 +151,7 @@ Mizoram,MZ,Champhai,45. Births attended by skilled health personnel10 (%),97.5,8
 Mizoram,MZ,Champhai,46. Births delivered by caesarean section (%),6.6,8.7
 Mizoram,MZ,Champhai,47. Births in a private health facility that were delivered by caesarean section (%),,41.6
 Mizoram,MZ,Champhai,48. Births in a public health facility that were delivered by caesarean section (%),5.8,8.2
-Mizoram,MZ,Champhai,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Mizoram,MZ,Champhai,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),85.3,49.1
 Mizoram,MZ,Champhai,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),87.0,64.2
 Mizoram,MZ,Champhai,51. Children age 12-23 months who have received BCG (%),97.6,72.6
 Mizoram,MZ,Champhai,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),87.7,56.9
@@ -168,7 +168,7 @@ Mizoram,MZ,Champhai,62. Children with diarrhoea in the 2 weeks preceding the sur
 Mizoram,MZ,Champhai,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,43.2
 Mizoram,MZ,Champhai,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,31.7
 Mizoram,MZ,Champhai,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.0,1.0
-Mizoram,MZ,Champhai,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Mizoram,MZ,Champhai,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,39.9
 Mizoram,MZ,Champhai,67. Children under age 3 years breastfed within one hour of birth15 (%),70.7,59.9
 Mizoram,MZ,Champhai,68. Children under age 6 months exclusively breastfed16 (%),,56.3
 Mizoram,MZ,Champhai,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,72.5
@@ -196,10 +196,10 @@ Mizoram,MZ,Champhai,90. Blood sugar level - very high (>160 mg/dl)23 (%),6.1,
 Mizoram,MZ,Champhai,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),13.9,
 Mizoram,MZ,Champhai,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),9.1,
 Mizoram,MZ,Champhai,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),4.5,
-Mizoram,MZ,Champhai,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Mizoram,MZ,Champhai,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),16.1,
 Mizoram,MZ,Champhai,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),13.9,
 Mizoram,MZ,Champhai,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.9,
-Mizoram,MZ,Champhai,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Mizoram,MZ,Champhai,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),19.6,
 Mizoram,MZ,Champhai,98. Ever undergone a screening test for cervical cancer (%),3.7,
 Mizoram,MZ,Champhai,99. Ever undergone a breast examination for breast cancer (%),0.6,
 Mizoram,MZ,Champhai,100. Ever undergone an oral cavity examination for oral cancer (%),0.2,
@@ -244,10 +244,10 @@ Mizoram,MZ,Kolasib,34. Mothers whose last birth was protected against neonatal t
 Mizoram,MZ,Kolasib,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),67.7,58.8
 Mizoram,MZ,Kolasib,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),13.3,2.2
 Mizoram,MZ,Kolasib,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),97.8,97.8
-Mizoram,MZ,Kolasib,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Mizoram,MZ,Kolasib,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),71.5,67.1
 Mizoram,MZ,Kolasib,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),4834.0,3024.0
 Mizoram,MZ,Kolasib,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),15.3,0.0
-Mizoram,MZ,Kolasib,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Mizoram,MZ,Kolasib,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),41.8,
 Mizoram,MZ,Kolasib,42. Institutional births (%),91.4,86.3
 Mizoram,MZ,Kolasib,43. Institutional births in public facility (%),82.9,78.3
 Mizoram,MZ,Kolasib,44. Home births that were conducted by skilled health personnel10 (%),2.7,2.0
@@ -255,7 +255,7 @@ Mizoram,MZ,Kolasib,45. Births attended by skilled health personnel10 (%),93.2,88
 Mizoram,MZ,Kolasib,46. Births delivered by caesarean section (%),8.4,9.6
 Mizoram,MZ,Kolasib,47. Births in a private health facility that were delivered by caesarean section (%),26.2,19.6
 Mizoram,MZ,Kolasib,48. Births in a public health facility that were delivered by caesarean section (%),7.5,10.2
-Mizoram,MZ,Kolasib,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Mizoram,MZ,Kolasib,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),80.4,51.3
 Mizoram,MZ,Kolasib,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),91.4,76.2
 Mizoram,MZ,Kolasib,51. Children age 12-23 months who have received BCG (%),88.1,64.1
 Mizoram,MZ,Kolasib,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),90.9,61.0
@@ -272,7 +272,7 @@ Mizoram,MZ,Kolasib,62. Children with diarrhoea in the 2 weeks preceding the surv
 Mizoram,MZ,Kolasib,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,10.5
 Mizoram,MZ,Kolasib,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,55.9
 Mizoram,MZ,Kolasib,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.9,1.3
-Mizoram,MZ,Kolasib,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Mizoram,MZ,Kolasib,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,61.5
 Mizoram,MZ,Kolasib,67. Children under age 3 years breastfed within one hour of birth15 (%),63.0,79.7
 Mizoram,MZ,Kolasib,68. Children under age 6 months exclusively breastfed16 (%),73.4,70.6
 Mizoram,MZ,Kolasib,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,79.6
@@ -300,10 +300,10 @@ Mizoram,MZ,Kolasib,90. Blood sugar level - very high (>160 mg/dl)23 (%),6.6,
 Mizoram,MZ,Kolasib,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),13.8,
 Mizoram,MZ,Kolasib,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),10.3,
 Mizoram,MZ,Kolasib,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),4.0,
-Mizoram,MZ,Kolasib,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Mizoram,MZ,Kolasib,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),16.5,
 Mizoram,MZ,Kolasib,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),16.9,
 Mizoram,MZ,Kolasib,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),5.7,
-Mizoram,MZ,Kolasib,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Mizoram,MZ,Kolasib,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),24.3,
 Mizoram,MZ,Kolasib,98. Ever undergone a screening test for cervical cancer (%),6.3,
 Mizoram,MZ,Kolasib,99. Ever undergone a breast examination for breast cancer (%),1.9,
 Mizoram,MZ,Kolasib,100. Ever undergone an oral cavity examination for oral cancer (%),0.7,
@@ -348,10 +348,10 @@ Mizoram,MZ,Lawngtlai,34. Mothers whose last birth was protected against neonatal
 Mizoram,MZ,Lawngtlai,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),50.7,42.8
 Mizoram,MZ,Lawngtlai,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),7.4,1.1
 Mizoram,MZ,Lawngtlai,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),93.8,92.2
-Mizoram,MZ,Lawngtlai,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Mizoram,MZ,Lawngtlai,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),46.2,39.6
 Mizoram,MZ,Lawngtlai,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),7318.0,3648.0
 Mizoram,MZ,Lawngtlai,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),0.7,0.0
-Mizoram,MZ,Lawngtlai,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Mizoram,MZ,Lawngtlai,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),28.4,
 Mizoram,MZ,Lawngtlai,42. Institutional births (%),53.7,45.9
 Mizoram,MZ,Lawngtlai,43. Institutional births in public facility (%),48.4,37.4
 Mizoram,MZ,Lawngtlai,44. Home births that were conducted by skilled health personnel10 (%),9.3,4.1
@@ -359,7 +359,7 @@ Mizoram,MZ,Lawngtlai,45. Births attended by skilled health personnel10 (%),59.9,
 Mizoram,MZ,Lawngtlai,46. Births delivered by caesarean section (%),3.9,3.2
 Mizoram,MZ,Lawngtlai,47. Births in a private health facility that were delivered by caesarean section (%),,17.9
 Mizoram,MZ,Lawngtlai,48. Births in a public health facility that were delivered by caesarean section (%),5.4,4.4
-Mizoram,MZ,Lawngtlai,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Mizoram,MZ,Lawngtlai,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),70.2,42.2
 Mizoram,MZ,Lawngtlai,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),91.7,71.8
 Mizoram,MZ,Lawngtlai,51. Children age 12-23 months who have received BCG (%),75.6,70.7
 Mizoram,MZ,Lawngtlai,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),75.3,53.4
@@ -404,10 +404,10 @@ Mizoram,MZ,Lawngtlai,90. Blood sugar level - very high (>160 mg/dl)23 (%),5.5,
 Mizoram,MZ,Lawngtlai,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),15.4,
 Mizoram,MZ,Lawngtlai,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),8.2,
 Mizoram,MZ,Lawngtlai,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.2,
-Mizoram,MZ,Lawngtlai,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Mizoram,MZ,Lawngtlai,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),13.0,
 Mizoram,MZ,Lawngtlai,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),12.9,
 Mizoram,MZ,Lawngtlai,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),5.4,
-Mizoram,MZ,Lawngtlai,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Mizoram,MZ,Lawngtlai,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),20.3,
 Mizoram,MZ,Lawngtlai,98. Ever undergone a screening test for cervical cancer (%),2.7,
 Mizoram,MZ,Lawngtlai,99. Ever undergone a breast examination for breast cancer (%),1.5,
 Mizoram,MZ,Lawngtlai,100. Ever undergone an oral cavity examination for oral cancer (%),0.5,
@@ -452,10 +452,10 @@ Mizoram,MZ,Lunglei,34. Mothers whose last birth was protected against neonatal t
 Mizoram,MZ,Lunglei,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),64.7,40.4
 Mizoram,MZ,Lunglei,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),9.7,2.4
 Mizoram,MZ,Lunglei,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),99.2,95.9
-Mizoram,MZ,Lunglei,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Mizoram,MZ,Lunglei,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),67.1,62.1
 Mizoram,MZ,Lunglei,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),5717.0,5159.0
 Mizoram,MZ,Lunglei,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),0.0,5.6
-Mizoram,MZ,Lunglei,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Mizoram,MZ,Lunglei,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),39.4,
 Mizoram,MZ,Lunglei,42. Institutional births (%),82.7,74.4
 Mizoram,MZ,Lunglei,43. Institutional births in public facility (%),69.4,62.6
 Mizoram,MZ,Lunglei,44. Home births that were conducted by skilled health personnel10 (%),3.9,3.1
@@ -463,7 +463,7 @@ Mizoram,MZ,Lunglei,45. Births attended by skilled health personnel10 (%),80.2,77
 Mizoram,MZ,Lunglei,46. Births delivered by caesarean section (%),5.4,12.1
 Mizoram,MZ,Lunglei,47. Births in a private health facility that were delivered by caesarean section (%),9.2,31.4
 Mizoram,MZ,Lunglei,48. Births in a public health facility that were delivered by caesarean section (%),6.0,13.4
-Mizoram,MZ,Lunglei,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Mizoram,MZ,Lunglei,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),73.8,46.4
 Mizoram,MZ,Lunglei,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),84.1,62.1
 Mizoram,MZ,Lunglei,51. Children age 12-23 months who have received BCG (%),79.3,69.2
 Mizoram,MZ,Lunglei,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),82.2,61.1
@@ -480,7 +480,7 @@ Mizoram,MZ,Lunglei,62. Children with diarrhoea in the 2 weeks preceding the surv
 Mizoram,MZ,Lunglei,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,27.6
 Mizoram,MZ,Lunglei,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,30.6
 Mizoram,MZ,Lunglei,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.8,1.1
-Mizoram,MZ,Lunglei,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Mizoram,MZ,Lunglei,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,50.4
 Mizoram,MZ,Lunglei,67. Children under age 3 years breastfed within one hour of birth15 (%),63.8,60.3
 Mizoram,MZ,Lunglei,68. Children under age 6 months exclusively breastfed16 (%),,66.0
 Mizoram,MZ,Lunglei,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,66.5
@@ -508,10 +508,10 @@ Mizoram,MZ,Lunglei,90. Blood sugar level - very high (>160 mg/dl)23 (%),6.0,
 Mizoram,MZ,Lunglei,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),17.1,
 Mizoram,MZ,Lunglei,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),7.7,
 Mizoram,MZ,Lunglei,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.6,
-Mizoram,MZ,Lunglei,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Mizoram,MZ,Lunglei,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),13.9,
 Mizoram,MZ,Lunglei,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),12.7,
 Mizoram,MZ,Lunglei,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),5.2,
-Mizoram,MZ,Lunglei,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Mizoram,MZ,Lunglei,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),20.0,
 Mizoram,MZ,Lunglei,98. Ever undergone a screening test for cervical cancer (%),2.2,
 Mizoram,MZ,Lunglei,99. Ever undergone a breast examination for breast cancer (%),0.4,
 Mizoram,MZ,Lunglei,100. Ever undergone an oral cavity examination for oral cancer (%),0.2,
@@ -556,10 +556,10 @@ Mizoram,MZ,Mamit,34. Mothers whose last birth was protected against neonatal tet
 Mizoram,MZ,Mamit,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),68.8,50.4
 Mizoram,MZ,Mamit,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),4.5,1.8
 Mizoram,MZ,Mamit,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),98.9,94.7
-Mizoram,MZ,Mamit,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Mizoram,MZ,Mamit,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),63.9,48.8
 Mizoram,MZ,Mamit,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),4150.0,2986.0
 Mizoram,MZ,Mamit,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),0.0,0.0
-Mizoram,MZ,Mamit,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Mizoram,MZ,Mamit,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),44.9,
 Mizoram,MZ,Mamit,42. Institutional births (%),75.0,58.0
 Mizoram,MZ,Mamit,43. Institutional births in public facility (%),71.8,52.9
 Mizoram,MZ,Mamit,44. Home births that were conducted by skilled health personnel10 (%),7.1,10.1
@@ -567,7 +567,7 @@ Mizoram,MZ,Mamit,45. Births attended by skilled health personnel10 (%),81.1,67.6
 Mizoram,MZ,Mamit,46. Births delivered by caesarean section (%),3.5,3.3
 Mizoram,MZ,Mamit,47. Births in a private health facility that were delivered by caesarean section (%),,
 Mizoram,MZ,Mamit,48. Births in a public health facility that were delivered by caesarean section (%),3.5,4.0
-Mizoram,MZ,Mamit,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Mizoram,MZ,Mamit,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),85.9,40.7
 Mizoram,MZ,Mamit,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),85.7,71.3
 Mizoram,MZ,Mamit,51. Children age 12-23 months who have received BCG (%),98.5,64.2
 Mizoram,MZ,Mamit,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),87.4,55.4
@@ -584,7 +584,7 @@ Mizoram,MZ,Mamit,62. Children with diarrhoea in the 2 weeks preceding the survey
 Mizoram,MZ,Mamit,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,18.2
 Mizoram,MZ,Mamit,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,31.1
 Mizoram,MZ,Mamit,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.0,0.8
-Mizoram,MZ,Mamit,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Mizoram,MZ,Mamit,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,45.6
 Mizoram,MZ,Mamit,67. Children under age 3 years breastfed within one hour of birth15 (%),56.8,85.5
 Mizoram,MZ,Mamit,68. Children under age 6 months exclusively breastfed16 (%),,
 Mizoram,MZ,Mamit,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
@@ -612,10 +612,10 @@ Mizoram,MZ,Mamit,90. Blood sugar level - very high (>160 mg/dl)23 (%),4.6,
 Mizoram,MZ,Mamit,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),13.4,
 Mizoram,MZ,Mamit,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),10.1,
 Mizoram,MZ,Mamit,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),2.4,
-Mizoram,MZ,Mamit,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Mizoram,MZ,Mamit,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),14.3,
 Mizoram,MZ,Mamit,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),16.5,
 Mizoram,MZ,Mamit,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.1,
-Mizoram,MZ,Mamit,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Mizoram,MZ,Mamit,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),21.0,
 Mizoram,MZ,Mamit,98. Ever undergone a screening test for cervical cancer (%),4.9,
 Mizoram,MZ,Mamit,99. Ever undergone a breast examination for breast cancer (%),2.4,
 Mizoram,MZ,Mamit,100. Ever undergone an oral cavity examination for oral cancer (%),0.8,
@@ -660,10 +660,10 @@ Mizoram,MZ,Saiha,34. Mothers whose last birth was protected against neonatal tet
 Mizoram,MZ,Saiha,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),51.4,53.9
 Mizoram,MZ,Saiha,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),10.0,3.7
 Mizoram,MZ,Saiha,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),96.9,96.8
-Mizoram,MZ,Saiha,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Mizoram,MZ,Saiha,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),59.6,52.4
 Mizoram,MZ,Saiha,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),7521.0,3179.0
 Mizoram,MZ,Saiha,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),8.5,0.9
-Mizoram,MZ,Saiha,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Mizoram,MZ,Saiha,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),22.8,
 Mizoram,MZ,Saiha,42. Institutional births (%),73.8,58.9
 Mizoram,MZ,Saiha,43. Institutional births in public facility (%),70.3,55.4
 Mizoram,MZ,Saiha,44. Home births that were conducted by skilled health personnel10 (%),10.0,11.4
@@ -671,7 +671,7 @@ Mizoram,MZ,Saiha,45. Births attended by skilled health personnel10 (%),80.5,70.2
 Mizoram,MZ,Saiha,46. Births delivered by caesarean section (%),9.5,3.4
 Mizoram,MZ,Saiha,47. Births in a private health facility that were delivered by caesarean section (%),,39.9
 Mizoram,MZ,Saiha,48. Births in a public health facility that were delivered by caesarean section (%),10.6,3.7
-Mizoram,MZ,Saiha,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Mizoram,MZ,Saiha,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),60.3,55.4
 Mizoram,MZ,Saiha,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),84.8,76.4
 Mizoram,MZ,Saiha,51. Children age 12-23 months who have received BCG (%),69.9,79.1
 Mizoram,MZ,Saiha,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),61.5,66.0
@@ -688,7 +688,7 @@ Mizoram,MZ,Saiha,62. Children with diarrhoea in the 2 weeks preceding the survey
 Mizoram,MZ,Saiha,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),48.2,35.6
 Mizoram,MZ,Saiha,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),30.9,54.9
 Mizoram,MZ,Saiha,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.6,0.9
-Mizoram,MZ,Saiha,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Mizoram,MZ,Saiha,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),39.6,53.0
 Mizoram,MZ,Saiha,67. Children under age 3 years breastfed within one hour of birth15 (%),46.4,87.4
 Mizoram,MZ,Saiha,68. Children under age 6 months exclusively breastfed16 (%),72.1,75.5
 Mizoram,MZ,Saiha,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,77.1
@@ -716,10 +716,10 @@ Mizoram,MZ,Saiha,90. Blood sugar level - very high (>160 mg/dl)23 (%),3.2,
 Mizoram,MZ,Saiha,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),9.3,
 Mizoram,MZ,Saiha,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),8.4,
 Mizoram,MZ,Saiha,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.1,
-Mizoram,MZ,Saiha,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Mizoram,MZ,Saiha,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),13.0,
 Mizoram,MZ,Saiha,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),16.2,
 Mizoram,MZ,Saiha,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),5.2,
-Mizoram,MZ,Saiha,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Mizoram,MZ,Saiha,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),22.9,
 Mizoram,MZ,Saiha,98. Ever undergone a screening test for cervical cancer (%),4.9,
 Mizoram,MZ,Saiha,99. Ever undergone a breast examination for breast cancer (%),1.8,
 Mizoram,MZ,Saiha,100. Ever undergone an oral cavity examination for oral cancer (%),0.7,
@@ -764,10 +764,10 @@ Mizoram,MZ,Serchhip,34. Mothers whose last birth was protected against neonatal 
 Mizoram,MZ,Serchhip,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),73.0,62.6
 Mizoram,MZ,Serchhip,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),12.0,3.0
 Mizoram,MZ,Serchhip,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),99.3,98.5
-Mizoram,MZ,Serchhip,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Mizoram,MZ,Serchhip,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),86.2,69.1
 Mizoram,MZ,Serchhip,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),6449.0,3025.0
 Mizoram,MZ,Serchhip,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,5.6
-Mizoram,MZ,Serchhip,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),,
+Mizoram,MZ,Serchhip,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),43.0,
 Mizoram,MZ,Serchhip,42. Institutional births (%),96.2,88.4
 Mizoram,MZ,Serchhip,43. Institutional births in public facility (%),90.7,79.9
 Mizoram,MZ,Serchhip,44. Home births that were conducted by skilled health personnel10 (%),0.6,5.8
@@ -775,7 +775,7 @@ Mizoram,MZ,Serchhip,45. Births attended by skilled health personnel10 (%),96.8,9
 Mizoram,MZ,Serchhip,46. Births delivered by caesarean section (%),13.9,12.2
 Mizoram,MZ,Serchhip,47. Births in a private health facility that were delivered by caesarean section (%),,38.9
 Mizoram,MZ,Serchhip,48. Births in a public health facility that were delivered by caesarean section (%),13.0,11.1
-Mizoram,MZ,Serchhip,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,
+Mizoram,MZ,Serchhip,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),84.7,61.6
 Mizoram,MZ,Serchhip,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),93.0,78.9
 Mizoram,MZ,Serchhip,51. Children age 12-23 months who have received BCG (%),89.8,82.0
 Mizoram,MZ,Serchhip,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),85.8,69.9
@@ -792,7 +792,7 @@ Mizoram,MZ,Serchhip,62. Children with diarrhoea in the 2 weeks preceding the sur
 Mizoram,MZ,Serchhip,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,15.3
 Mizoram,MZ,Serchhip,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,30.3
 Mizoram,MZ,Serchhip,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.3,1.9
-Mizoram,MZ,Serchhip,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
+Mizoram,MZ,Serchhip,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),43.6,36.8
 Mizoram,MZ,Serchhip,67. Children under age 3 years breastfed within one hour of birth15 (%),58.8,72.4
 Mizoram,MZ,Serchhip,68. Children under age 6 months exclusively breastfed16 (%),63.9,66.4
 Mizoram,MZ,Serchhip,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,78.3
@@ -820,10 +820,10 @@ Mizoram,MZ,Serchhip,90. Blood sugar level - very high (>160 mg/dl)23 (%),5.6,
 Mizoram,MZ,Serchhip,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),13.8,
 Mizoram,MZ,Serchhip,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),7.7,
 Mizoram,MZ,Serchhip,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),2.5,
-Mizoram,MZ,Serchhip,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Mizoram,MZ,Serchhip,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),11.6,
 Mizoram,MZ,Serchhip,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),12.5,
 Mizoram,MZ,Serchhip,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.1,
-Mizoram,MZ,Serchhip,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),,
+Mizoram,MZ,Serchhip,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),17.7,
 Mizoram,MZ,Serchhip,98. Ever undergone a screening test for cervical cancer (%),8.0,
 Mizoram,MZ,Serchhip,99. Ever undergone a breast examination for breast cancer (%),1.5,
 Mizoram,MZ,Serchhip,100. Ever undergone an oral cavity examination for oral cancer (%),0.8,
