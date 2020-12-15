@@ -5,6 +5,7 @@ Fact sheets for key indicators from http://rchiips.org/nfhs/
 ## Download
 
 - [NFHS-5-States.csv](NFHS-5-States.csv): 22 states level data for 131 indicators
+- [NFHS-5-Districts.csv](NFHS-5-Districts.csv): 341 districts from 21 states
 - District level files (state-wise)
   - [NFHS-5-AN-Andaman-and-Nicobar-Island.csv](./district-level/NFHS-5-AN-Andaman-and-Nicobar-Island.csv)
   - [NFHS-5-AP-Andhra-Pradesh.csv](./district-level/NFHS-5-AP-Andhra-Pradesh.csv)
@@ -32,8 +33,16 @@ Fact sheets for key indicators from http://rchiips.org/nfhs/
 - NFHS-5-states.csv
     - Manually add Meghalaya's 111-131 indicators.
 - KA, KL are showing old files on the site, pulled latest from direct URLs
+- Add 1 row for `Himachal Pradesh,HP,Kangra,104. Men age 15 years and above who consume alcohol (%),34.1,,,`
+- Get [MH-Thane](https://docs.google.com/spreadsheets/d/1U6dR6x-_8mVmhsub11h3kSZuY6Cm8aBlmjybKcE3rqk/edit?usp=sharing) from sheet.
 
 ### TODO (Need help)
+
+- Manually crowd check districts data with PDFs. Sample QA check.
+
+### Archive
+<details>
+  <summary>Bhanu K helped setup manual tagging for 29 files. Click to esxpand.</summary>
 
 You can manually convert one of the 29 pdf files and submit as PR/Issue. 
 
@@ -69,3 +78,4 @@ You can manually convert one of the 29 pdf files and submit as PR/Issue.
     - [ML/West Garo Hills.pdf](http://rchiips.org/NFHS/NFHS-5_FCTS/ML/West%20Garo%20Hills.pdf)
     - [HP/Sirmaur.pdf](http://rchiips.org/NFHS/NFHS-5_FCTS/HP/Sirmaur.pdf)
     - [HP/Solan.pdf](http://rchiips.org/NFHS/NFHS-5_FCTS/HP/Solan.pdf)
+</details>

@@ -2,3 +2,4 @@ raw
 .ipynb_checkpoints/
 *.ipynb
 todo.md
+*.sh

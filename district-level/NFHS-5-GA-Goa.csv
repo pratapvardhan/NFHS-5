@@ -1,209 +1,209 @@
-State,State-Code,District,Indicator,NFHS-5,NFHS-4
-Goa,GA,North Goa,1. Female population age 6 years and above who ever attended school (%),89.5,86.6
-Goa,GA,North Goa,2. Population below age 15 years (%),19.3,22.3
-Goa,GA,North Goa,"3. Sex ratio of the total population (females per 1,000 males)",1017.0,1030.0
-Goa,GA,North Goa,"4. Sex ratio at birth for children born in the last five years (females per 1,000 males)",849.0,963.0
-Goa,GA,North Goa,5. Children under age 5 years whose birth was registered with the civil authority (%),100.0,99.4
-Goa,GA,North Goa,6. Deaths in the last 3 years registered with the civil authority (%),100.0,
-Goa,GA,North Goa,7. Population living in households with electricity (%),100.0,99.7
-Goa,GA,North Goa,8. Population living in households with an improved drinking-water source1 (%),98.1,96.8
-Goa,GA,North Goa,9. Population living in households that use an improved sanitation facility2 (%),87.7,81.3
-Goa,GA,North Goa,10. Households using clean fuel for cooking3 (%),96.7,82.5
-Goa,GA,North Goa,11. Households using iodized salt (%),98.1,94.5
-Goa,GA,North Goa,12. Households with any usual member covered under a health insurance/financing scheme (%),64.8,21.9
-Goa,GA,North Goa,13. Children age 5 years who attended pre-primary school during the school year 2019-20 (%),17.6,
-Goa,GA,North Goa,14. Women who are literate4 (%),92.4,
-Goa,GA,North Goa,15. Women with 10 or more years of schooling (%),72.0,61.7
-Goa,GA,North Goa,16. Women age 20-24 years married before age 18 years (%),7.5,9.9
-Goa,GA,North Goa,17. Births in the 5 years preceding the survey that are third or higher order (%),1.5,1.9
-Goa,GA,North Goa,18. Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),2.7,2.1
-Goa,GA,North Goa,19. Women age 15-24 years who use hygienic methods of protection during their menstrual period5 (%),97.3,90.1
-Goa,GA,North Goa,20. Any method6 (%),63.1,20.9
-Goa,GA,North Goa,21. Any modern method6 (%),54.8,20.2
-Goa,GA,North Goa,22. Female sterilization (%),23.0,11.3
-Goa,GA,North Goa,23. Male sterilization (%),0.0,0.0
-Goa,GA,North Goa,24. IUD/PPIUD (%),2.3,0.8
-Goa,GA,North Goa,25. Pill (%),4.0,0.6
-Goa,GA,North Goa,26. Condom (%),23.1,7.2
-Goa,GA,North Goa,27. Injectables (%),0.0,0.2
-Goa,GA,North Goa,28. Total unmet need7 (%),9.2,18.4
-Goa,GA,North Goa,29. Unmet need for spacing7 (%),4.5,9.2
-Goa,GA,North Goa,30. Health worker ever talked to female non-users about family planning (%),33.2,48.9
-Goa,GA,North Goa,31. Current users ever told about side effects of current method8 (%),82.1,
-Goa,GA,North Goa,32. Mothers who had an antenatal check-up in the first trimester (%),74.6,92.6
-Goa,GA,North Goa,33. Mothers who had at least 4 antenatal care visits (%),91.3,93.9
-Goa,GA,North Goa,34. Mothers whose last birth was protected against neonatal tetanus9 (%),95.8,99.7
-Goa,GA,North Goa,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),84.8,88.6
-Goa,GA,North Goa,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),68.4,78.3
-Goa,GA,North Goa,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),100.0,96.5
-Goa,GA,North Goa,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),93.1,94.4
-Goa,GA,North Goa,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),3824.0,7017.0
-Goa,GA,North Goa,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,
-Goa,GA,North Goa,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),95.9,
-Goa,GA,North Goa,42. Institutional births (%),99.6,98.6
-Goa,GA,North Goa,43. Institutional births in public facility (%),58.6,59.3
-Goa,GA,North Goa,44. Home births that were conducted by skilled health personnel10 (%),0.0,1.4
-Goa,GA,North Goa,45. Births attended by skilled health personnel10 (%),98.6,99.0
-Goa,GA,North Goa,46. Births delivered by caesarean section (%),39.5,32.9
-Goa,GA,North Goa,47. Births in a private health facility that were delivered by caesarean section (%),46.7,49.0
-Goa,GA,North Goa,48. Births in a public health facility that were delivered by caesarean section (%),34.7,23.1
-Goa,GA,North Goa,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),78.6,87.3
-Goa,GA,North Goa,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),87.5,96.8
-Goa,GA,North Goa,51. Children age 12-23 months who have received BCG (%),97.1,100.0
-Goa,GA,North Goa,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),85.5,90.7
-Goa,GA,North Goa,53. Children age 12-23 months who have received 3 doses of penta or DPT vaccine (%),87.3,96.6
-Goa,GA,North Goa,54. Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),92.2,93.8
-Goa,GA,North Goa,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),20.3,
-Goa,GA,North Goa,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),5.3,
-Goa,GA,North Goa,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),90.2,83.0
-Goa,GA,North Goa,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),94.4,93.0
-Goa,GA,North Goa,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),93.8,75.3
-Goa,GA,North Goa,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),6.2,24.7
-Goa,GA,North Goa,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),3.6,5.5
-Goa,GA,North Goa,62. Children with diarrhoea in the 2 weeks preceding the survey who received oral rehydration salts (ORS) (%),,
-Goa,GA,North Goa,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,
-Goa,GA,North Goa,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
-Goa,GA,North Goa,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),1.5,1.4
-Goa,GA,North Goa,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),83.6,88.6
-Goa,GA,North Goa,67. Children under age 3 years breastfed within one hour of birth15 (%),61.1,82.8
-Goa,GA,North Goa,68. Children under age 6 months exclusively breastfed16 (%),,
-Goa,GA,North Goa,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
-Goa,GA,North Goa,"70. Breastfeeding children age 6-23 months receiving an adequate diet16, 17  (%)",26.9,8.5
-Goa,GA,North Goa,"71. Non-breastfeeding children age 6-23 months receiving an adequate diet16, 17 (%)",,
-Goa,GA,North Goa,"72. Total children age 6-23 months receiving an adequate diet16, 17  (%)",25.8,11.9
-Goa,GA,North Goa,73. Children under 5 years who are stunted (height-for-age)18 (%),24.2,21.4
-Goa,GA,North Goa,74. Children under 5 years who are wasted (weight-for-height)18 (%),17.7,17.5
-Goa,GA,North Goa,75. Children under 5 years who are severely wasted (weight-for-height)19 (%),7.3,7.2
-Goa,GA,North Goa,76. Children under 5 years who are underweight (weight-for-age)18 (%),25.8,23.8
-Goa,GA,North Goa,77. Children under 5 years who are overweight (weight-for-height)20 (%),2.7,3.9
-Goa,GA,North Goa,78. Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)21 (%),14.1,15.9
-Goa,GA,North Goa,79. Women who are overweight or obese (BMI ≥25.0 kg/m2)21 (%),37.2,34.6
-Goa,GA,North Goa,80. Women who have high risk waist-to-hip ratio (≥0.85) (%),52.3,
-Goa,GA,North Goa,81. Children age 6-59 months who are anaemic (<11.0 g/dl)22 (%),55.2,48.5
-Goa,GA,North Goa,82. Non-pregnant women age 15-49 years who are anaemic (<12.0 g/dl)22 (%),40.2,33.2
-Goa,GA,North Goa,83. Pregnant women age 15-49 years who are anaemic (<11.0 g/dl)22 (%),,
-Goa,GA,North Goa,84. All women age 15-49 years who are anaemic22 (%),40.0,33.0
-Goa,GA,North Goa,85. All women age 15-19 years who are anaemic22 (%),46.2,32.8
-Goa,GA,North Goa,86. Blood sugar level - high (141-160 mg/dl)23 (%),7.9,
-Goa,GA,North Goa,87. Blood sugar level - very high (>160 mg/dl)23 (%),11.0,
-Goa,GA,North Goa,88. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),20.6,
-Goa,GA,North Goa,89. Blood sugar level - high (141-160 mg/dl)23 (%),9.7,
-Goa,GA,North Goa,90. Blood sugar level - very high (>160 mg/dl)23 (%),13.1,
-Goa,GA,North Goa,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),24.9,
-Goa,GA,North Goa,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),11.0,
-Goa,GA,North Goa,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),4.1,
-Goa,GA,North Goa,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),27.3,
-Goa,GA,North Goa,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),15.8,
-Goa,GA,North Goa,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),5.6,
-Goa,GA,North Goa,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),28.3,
-Goa,GA,North Goa,98. Ever undergone a screening test for cervical cancer (%),1.4,
-Goa,GA,North Goa,99. Ever undergone a breast examination for breast cancer (%),1.9,
-Goa,GA,North Goa,100. Ever undergone an oral cavity examination for oral cancer (%),0.9,
-Goa,GA,North Goa,101. Women age 15 years and above who use any kind of tobacco (%),2.7,
-Goa,GA,North Goa,102. Men age 15 years and above who use any kind of tobacco (%),19.2,
-Goa,GA,North Goa,103. Women age 15 years and above who consume alcohol (%),4.4,
-Goa,GA,North Goa,104. Men age 15 years and above who consume alcohol (%),33.8,
-Goa,GA,South Goa,1. Female population age 6 years and above who ever attended school (%),88.2,82.8
-Goa,GA,South Goa,2. Population below age 15 years (%),18.9,24.4
-Goa,GA,South Goa,"3. Sex ratio of the total population (females per 1,000 males)",1040.0,1000.0
-Goa,GA,South Goa,"4. Sex ratio at birth for children born in the last five years (females per 1,000 males)",819.0,970.0
-Goa,GA,South Goa,5. Children under age 5 years whose birth was registered with the civil authority (%),100.0,98.4
-Goa,GA,South Goa,6. Deaths in the last 3 years registered with the civil authority (%),100.0,
-Goa,GA,South Goa,7. Population living in households with electricity (%),100.0,100.0
-Goa,GA,South Goa,8. Population living in households with an improved drinking-water source1 (%),99.0,96.6
-Goa,GA,South Goa,9. Population living in households that use an improved sanitation facility2 (%),88.2,75.1
-Goa,GA,South Goa,10. Households using clean fuel for cooking3 (%),96.2,86.4
-Goa,GA,South Goa,11. Households using iodized salt (%),96.9,97.4
-Goa,GA,South Goa,12. Households with any usual member covered under a health insurance/financing scheme (%),67.7,7.6
-Goa,GA,South Goa,13. Children age 5 years who attended pre-primary school during the school year 2019-20 (%),20.5,
-Goa,GA,South Goa,14. Women who are literate4 (%),93.8,
-Goa,GA,South Goa,15. Women with 10 or more years of schooling (%),70.9,53.0
-Goa,GA,South Goa,16. Women age 20-24 years married before age 18 years (%),3.9,9.6
-Goa,GA,South Goa,17. Births in the 5 years preceding the survey that are third or higher order (%),1.4,1.7
-Goa,GA,South Goa,18. Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),2.8,4.1
-Goa,GA,South Goa,19. Women age 15-24 years who use hygienic methods of protection during their menstrual period5 (%),96.2,88.1
-Goa,GA,South Goa,20. Any method6 (%),75.0,34.6
-Goa,GA,South Goa,21. Any modern method6 (%),67.8,31.7
-Goa,GA,South Goa,22. Female sterilization (%),40.0,23.7
-Goa,GA,South Goa,23. Male sterilization (%),0.0,0.0
-Goa,GA,South Goa,24. IUD/PPIUD (%),2.5,1.1
-Goa,GA,South Goa,25. Pill (%),1.0,0.0
-Goa,GA,South Goa,26. Condom (%),23.5,6.8
-Goa,GA,South Goa,27. Injectables (%),0.0,0.0
-Goa,GA,South Goa,28. Total unmet need7 (%),7.2,16.1
-Goa,GA,South Goa,29. Unmet need for spacing7 (%),3.3,6.8
-Goa,GA,South Goa,30. Health worker ever talked to female non-users about family planning (%),19.7,36.2
-Goa,GA,South Goa,31. Current users ever told about side effects of current method8 (%),89.4,66.8
-Goa,GA,South Goa,32. Mothers who had an antenatal check-up in the first trimester (%),62.7,71.9
-Goa,GA,South Goa,33. Mothers who had at least 4 antenatal care visits (%),96.0,81.5
-Goa,GA,South Goa,34. Mothers whose last birth was protected against neonatal tetanus9 (%),97.8,90.9
-Goa,GA,South Goa,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),92.2,35.3
-Goa,GA,South Goa,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),59.1,14.2
-Goa,GA,South Goa,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),99.5,95.9
-Goa,GA,South Goa,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),99.5,88.5
-Goa,GA,South Goa,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),3768.0,1841.0
-Goa,GA,South Goa,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,
-Goa,GA,South Goa,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),98.0,
-Goa,GA,South Goa,42. Institutional births (%),100.0,94.5
-Goa,GA,South Goa,43. Institutional births in public facility (%),52.0,56.7
-Goa,GA,South Goa,44. Home births that were conducted by skilled health personnel10 (%),0.0,2.3
-Goa,GA,South Goa,45. Births attended by skilled health personnel10 (%),100.0,95.4
-Goa,GA,South Goa,46. Births delivered by caesarean section (%),39.4,29.3
-Goa,GA,South Goa,47. Births in a private health facility that were delivered by caesarean section (%),54.9,54.7
-Goa,GA,South Goa,48. Births in a public health facility that were delivered by caesarean section (%),25.2,15.2
-Goa,GA,South Goa,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,89.5
-Goa,GA,South Goa,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),,95.0
-Goa,GA,South Goa,51. Children age 12-23 months who have received BCG (%),,100.0
-Goa,GA,South Goa,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),,95.0
-Goa,GA,South Goa,53. Children age 12-23 months who have received 3 doses of penta or DPT vaccine (%),,92.0
-Goa,GA,South Goa,54. Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),,98.9
-Goa,GA,South Goa,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),,
-Goa,GA,South Goa,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),,
-Goa,GA,South Goa,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),,87.2
-Goa,GA,South Goa,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),88.0,84.8
-Goa,GA,South Goa,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),,78.9
-Goa,GA,South Goa,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),,21.1
-Goa,GA,South Goa,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),2.5,1.3
-Goa,GA,South Goa,62. Children with diarrhoea in the 2 weeks preceding the survey who received oral rehydration salts (ORS) (%),,
-Goa,GA,South Goa,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,
-Goa,GA,South Goa,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
-Goa,GA,South Goa,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.0,1.4
-Goa,GA,South Goa,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,
-Goa,GA,South Goa,67. Children under age 3 years breastfed within one hour of birth15 (%),62.6,58.9
-Goa,GA,South Goa,68. Children under age 6 months exclusively breastfed16 (%),,
-Goa,GA,South Goa,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
-Goa,GA,South Goa,"70. Breastfeeding children age 6-23 months receiving an adequate diet16, 17  (%)",8.9,9.7
-Goa,GA,South Goa,"71. Non-breastfeeding children age 6-23 months receiving an adequate diet16, 17 (%)",,
-Goa,GA,South Goa,"72. Total children age 6-23 months receiving an adequate diet16, 17  (%)",13.4,8.5
-Goa,GA,South Goa,73. Children under 5 years who are stunted (height-for-age)18 (%),28.3,18.3
-Goa,GA,South Goa,74. Children under 5 years who are wasted (weight-for-height)18 (%),21.4,27.7
-Goa,GA,South Goa,75. Children under 5 years who are severely wasted (weight-for-height)19 (%),8.0,12.5
-Goa,GA,South Goa,76. Children under 5 years who are underweight (weight-for-age)18 (%),21.0,23.9
-Goa,GA,South Goa,77. Children under 5 years who are overweight (weight-for-height)20 (%),2.8,3.5
-Goa,GA,South Goa,78. Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)21 (%),13.5,12.9
-Goa,GA,South Goa,79. Women who are overweight or obese (BMI ≥25.0 kg/m2)21 (%),34.6,31.8
-Goa,GA,South Goa,80. Women who have high risk waist-to-hip ratio (≥0.85) (%),49.5,
-Goa,GA,South Goa,81. Children age 6-59 months who are anaemic (<11.0 g/dl)22 (%),50.0,48.1
-Goa,GA,South Goa,82. Non-pregnant women age 15-49 years who are anaemic (<12.0 g/dl)22 (%),37.3,28.6
-Goa,GA,South Goa,83. Pregnant women age 15-49 years who are anaemic (<11.0 g/dl)22 (%),,
-Goa,GA,South Goa,84. All women age 15-49 years who are anaemic22 (%),37.6,28.7
-Goa,GA,South Goa,85. All women age 15-19 years who are anaemic22 (%),42.5,27.6
-Goa,GA,South Goa,86. Blood sugar level - high (141-160 mg/dl)23 (%),9.4,
-Goa,GA,South Goa,87. Blood sugar level - very high (>160 mg/dl)23 (%),7.9,
-Goa,GA,South Goa,88. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),21.1,
-Goa,GA,South Goa,89. Blood sugar level - high (141-160 mg/dl)23 (%),11.1,
-Goa,GA,South Goa,90. Blood sugar level - very high (>160 mg/dl)23 (%),9.8,
-Goa,GA,South Goa,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),23.2,
-Goa,GA,South Goa,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),13.6,
-Goa,GA,South Goa,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.0,
-Goa,GA,South Goa,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),27.7,
-Goa,GA,South Goa,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),13.5,
-Goa,GA,South Goa,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.7,
-Goa,GA,South Goa,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),25.0,
-Goa,GA,South Goa,98. Ever undergone a screening test for cervical cancer (%),0.8,
-Goa,GA,South Goa,99. Ever undergone a breast examination for breast cancer (%),0.4,
-Goa,GA,South Goa,100. Ever undergone an oral cavity examination for oral cancer (%),0.1,
-Goa,GA,South Goa,101. Women age 15 years and above who use any kind of tobacco (%),2.5,
-Goa,GA,South Goa,102. Men age 15 years and above who use any kind of tobacco (%),16.9,
-Goa,GA,South Goa,103. Women age 15 years and above who consume alcohol (%),7.0,
-Goa,GA,South Goa,104. Men age 15 years and above who consume alcohol (%),41.1,
+State,State-Code,District,Indicator,NFHS-5,NFHS-4,NFHS-5-note,NFHS-4-note
+Goa,GA,North Goa,1. Female population age 6 years and above who ever attended school (%),89.5,86.6,,
+Goa,GA,North Goa,2. Population below age 15 years (%),19.3,22.3,,
+Goa,GA,North Goa,"3. Sex ratio of the total population (females per 1,000 males)",1017.0,1030.0,,
+Goa,GA,North Goa,"4. Sex ratio at birth for children born in the last five years (females per 1,000 males)",849.0,963.0,,
+Goa,GA,North Goa,5. Children under age 5 years whose birth was registered with the civil authority (%),100.0,99.4,,
+Goa,GA,North Goa,6. Deaths in the last 3 years registered with the civil authority (%),100.0,,,
+Goa,GA,North Goa,7. Population living in households with electricity (%),100.0,99.7,,
+Goa,GA,North Goa,8. Population living in households with an improved drinking-water source1 (%),98.1,96.8,,
+Goa,GA,North Goa,9. Population living in households that use an improved sanitation facility2 (%),87.7,81.3,,
+Goa,GA,North Goa,10. Households using clean fuel for cooking3 (%),96.7,82.5,,
+Goa,GA,North Goa,11. Households using iodized salt (%),98.1,94.5,,
+Goa,GA,North Goa,12. Households with any usual member covered under a health insurance/financing scheme (%),64.8,21.9,,
+Goa,GA,North Goa,13. Children age 5 years who attended pre-primary school during the school year 2019-20 (%),17.6,,Based on 25-49 unweighted cases,
+Goa,GA,North Goa,14. Women who are literate4 (%),92.4,,,
+Goa,GA,North Goa,15. Women with 10 or more years of schooling (%),72.0,61.7,,
+Goa,GA,North Goa,16. Women age 20-24 years married before age 18 years (%),7.5,9.9,,
+Goa,GA,North Goa,17. Births in the 5 years preceding the survey that are third or higher order (%),1.5,1.9,,
+Goa,GA,North Goa,18. Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),2.7,2.1,,
+Goa,GA,North Goa,19. Women age 15-24 years who use hygienic methods of protection during their menstrual period5 (%),97.3,90.1,,
+Goa,GA,North Goa,20. Any method6 (%),63.1,20.9,,
+Goa,GA,North Goa,21. Any modern method6 (%),54.8,20.2,,
+Goa,GA,North Goa,22. Female sterilization (%),23.0,11.3,,
+Goa,GA,North Goa,23. Male sterilization (%),0.0,0.0,,
+Goa,GA,North Goa,24. IUD/PPIUD (%),2.3,0.8,,
+Goa,GA,North Goa,25. Pill (%),4.0,0.6,,
+Goa,GA,North Goa,26. Condom (%),23.1,7.2,,
+Goa,GA,North Goa,27. Injectables (%),0.0,0.2,,
+Goa,GA,North Goa,28. Total unmet need7 (%),9.2,18.4,,
+Goa,GA,North Goa,29. Unmet need for spacing7 (%),4.5,9.2,,
+Goa,GA,North Goa,30. Health worker ever talked to female non-users about family planning (%),33.2,48.9,,
+Goa,GA,North Goa,31. Current users ever told about side effects of current method8 (%),82.1,,,Percentage not shown; based on fewer than 25 unweighted cases
+Goa,GA,North Goa,32. Mothers who had an antenatal check-up in the first trimester (%),74.6,92.6,,
+Goa,GA,North Goa,33. Mothers who had at least 4 antenatal care visits (%),91.3,93.9,,
+Goa,GA,North Goa,34. Mothers whose last birth was protected against neonatal tetanus9 (%),95.8,99.7,,
+Goa,GA,North Goa,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),84.8,88.6,,
+Goa,GA,North Goa,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),68.4,78.3,,
+Goa,GA,North Goa,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),100.0,96.5,,
+Goa,GA,North Goa,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),93.1,94.4,,
+Goa,GA,North Goa,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),3824.0,7017.0,,
+Goa,GA,North Goa,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Goa,GA,North Goa,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),95.9,,,
+Goa,GA,North Goa,42. Institutional births (%),99.6,98.6,,
+Goa,GA,North Goa,43. Institutional births in public facility (%),58.6,59.3,,
+Goa,GA,North Goa,44. Home births that were conducted by skilled health personnel10 (%),0.0,1.4,,
+Goa,GA,North Goa,45. Births attended by skilled health personnel10 (%),98.6,99.0,,
+Goa,GA,North Goa,46. Births delivered by caesarean section (%),39.5,32.9,,
+Goa,GA,North Goa,47. Births in a private health facility that were delivered by caesarean section (%),46.7,49.0,,
+Goa,GA,North Goa,48. Births in a public health facility that were delivered by caesarean section (%),34.7,23.1,,
+Goa,GA,North Goa,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),78.6,87.3,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Goa,GA,North Goa,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),87.5,96.8,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Goa,GA,North Goa,51. Children age 12-23 months who have received BCG (%),97.1,100.0,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Goa,GA,North Goa,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),85.5,90.7,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Goa,GA,North Goa,53. Children age 12-23 months who have received 3 doses of penta or DPT vaccine (%),87.3,96.6,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Goa,GA,North Goa,54. Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),92.2,93.8,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Goa,GA,North Goa,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),20.3,,Based on 25-49 unweighted cases,
+Goa,GA,North Goa,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),5.3,,Based on 25-49 unweighted cases,
+Goa,GA,North Goa,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),90.2,83.0,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Goa,GA,North Goa,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),94.4,93.0,,
+Goa,GA,North Goa,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),93.8,75.3,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Goa,GA,North Goa,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),6.2,24.7,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Goa,GA,North Goa,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),3.6,5.5,,
+Goa,GA,North Goa,62. Children with diarrhoea in the 2 weeks preceding the survey who received oral rehydration salts (ORS) (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Goa,GA,North Goa,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Goa,GA,North Goa,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Goa,GA,North Goa,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),1.5,1.4,,
+Goa,GA,North Goa,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),83.6,88.6,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Goa,GA,North Goa,67. Children under age 3 years breastfed within one hour of birth15 (%),61.1,82.8,,
+Goa,GA,North Goa,68. Children under age 6 months exclusively breastfed16 (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Goa,GA,North Goa,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Goa,GA,North Goa,"70. Breastfeeding children age 6-23 months receiving an adequate diet16, 17  (%)",26.9,8.5,,Based on 25-49 unweighted cases
+Goa,GA,North Goa,"71. Non-breastfeeding children age 6-23 months receiving an adequate diet16, 17 (%)",,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Goa,GA,North Goa,"72. Total children age 6-23 months receiving an adequate diet16, 17  (%)",25.8,11.9,,
+Goa,GA,North Goa,73. Children under 5 years who are stunted (height-for-age)18 (%),24.2,21.4,,
+Goa,GA,North Goa,74. Children under 5 years who are wasted (weight-for-height)18 (%),17.7,17.5,,
+Goa,GA,North Goa,75. Children under 5 years who are severely wasted (weight-for-height)19 (%),7.3,7.2,,
+Goa,GA,North Goa,76. Children under 5 years who are underweight (weight-for-age)18 (%),25.8,23.8,,
+Goa,GA,North Goa,77. Children under 5 years who are overweight (weight-for-height)20 (%),2.7,3.9,,
+Goa,GA,North Goa,78. Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)21 (%),14.1,15.9,,
+Goa,GA,North Goa,79. Women who are overweight or obese (BMI ≥25.0 kg/m2)21 (%),37.2,34.6,,
+Goa,GA,North Goa,80. Women who have high risk waist-to-hip ratio (≥0.85) (%),52.3,,,
+Goa,GA,North Goa,81. Children age 6-59 months who are anaemic (<11.0 g/dl)22 (%),55.2,48.5,,
+Goa,GA,North Goa,82. Non-pregnant women age 15-49 years who are anaemic (<12.0 g/dl)22 (%),40.2,33.2,,
+Goa,GA,North Goa,83. Pregnant women age 15-49 years who are anaemic (<11.0 g/dl)22 (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Goa,GA,North Goa,84. All women age 15-49 years who are anaemic22 (%),40.0,33.0,,
+Goa,GA,North Goa,85. All women age 15-19 years who are anaemic22 (%),46.2,32.8,,
+Goa,GA,North Goa,86. Blood sugar level - high (141-160 mg/dl)23 (%),7.9,,,
+Goa,GA,North Goa,87. Blood sugar level - very high (>160 mg/dl)23 (%),11.0,,,
+Goa,GA,North Goa,88. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),20.6,,,
+Goa,GA,North Goa,89. Blood sugar level - high (141-160 mg/dl)23 (%),9.7,,,
+Goa,GA,North Goa,90. Blood sugar level - very high (>160 mg/dl)23 (%),13.1,,,
+Goa,GA,North Goa,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),24.9,,,
+Goa,GA,North Goa,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),11.0,,,
+Goa,GA,North Goa,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),4.1,,,
+Goa,GA,North Goa,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),27.3,,,
+Goa,GA,North Goa,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),15.8,,,
+Goa,GA,North Goa,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),5.6,,,
+Goa,GA,North Goa,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),28.3,,,
+Goa,GA,North Goa,98. Ever undergone a screening test for cervical cancer (%),1.4,,,
+Goa,GA,North Goa,99. Ever undergone a breast examination for breast cancer (%),1.9,,,
+Goa,GA,North Goa,100. Ever undergone an oral cavity examination for oral cancer (%),0.9,,,
+Goa,GA,North Goa,101. Women age 15 years and above who use any kind of tobacco (%),2.7,,,
+Goa,GA,North Goa,102. Men age 15 years and above who use any kind of tobacco (%),19.2,,,
+Goa,GA,North Goa,103. Women age 15 years and above who consume alcohol (%),4.4,,,
+Goa,GA,North Goa,104. Men age 15 years and above who consume alcohol (%),33.8,,,
+Goa,GA,South Goa,1. Female population age 6 years and above who ever attended school (%),88.2,82.8,,
+Goa,GA,South Goa,2. Population below age 15 years (%),18.9,24.4,,
+Goa,GA,South Goa,"3. Sex ratio of the total population (females per 1,000 males)",1040.0,1000.0,,
+Goa,GA,South Goa,"4. Sex ratio at birth for children born in the last five years (females per 1,000 males)",819.0,970.0,,
+Goa,GA,South Goa,5. Children under age 5 years whose birth was registered with the civil authority (%),100.0,98.4,,
+Goa,GA,South Goa,6. Deaths in the last 3 years registered with the civil authority (%),100.0,,,
+Goa,GA,South Goa,7. Population living in households with electricity (%),100.0,100.0,,
+Goa,GA,South Goa,8. Population living in households with an improved drinking-water source1 (%),99.0,96.6,,
+Goa,GA,South Goa,9. Population living in households that use an improved sanitation facility2 (%),88.2,75.1,,
+Goa,GA,South Goa,10. Households using clean fuel for cooking3 (%),96.2,86.4,,
+Goa,GA,South Goa,11. Households using iodized salt (%),96.9,97.4,,
+Goa,GA,South Goa,12. Households with any usual member covered under a health insurance/financing scheme (%),67.7,7.6,,
+Goa,GA,South Goa,13. Children age 5 years who attended pre-primary school during the school year 2019-20 (%),20.5,,,
+Goa,GA,South Goa,14. Women who are literate4 (%),93.8,,,
+Goa,GA,South Goa,15. Women with 10 or more years of schooling (%),70.9,53.0,,
+Goa,GA,South Goa,16. Women age 20-24 years married before age 18 years (%),3.9,9.6,,
+Goa,GA,South Goa,17. Births in the 5 years preceding the survey that are third or higher order (%),1.4,1.7,,
+Goa,GA,South Goa,18. Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),2.8,4.1,,
+Goa,GA,South Goa,19. Women age 15-24 years who use hygienic methods of protection during their menstrual period5 (%),96.2,88.1,,
+Goa,GA,South Goa,20. Any method6 (%),75.0,34.6,,
+Goa,GA,South Goa,21. Any modern method6 (%),67.8,31.7,,
+Goa,GA,South Goa,22. Female sterilization (%),40.0,23.7,,
+Goa,GA,South Goa,23. Male sterilization (%),0.0,0.0,,
+Goa,GA,South Goa,24. IUD/PPIUD (%),2.5,1.1,,
+Goa,GA,South Goa,25. Pill (%),1.0,0.0,,
+Goa,GA,South Goa,26. Condom (%),23.5,6.8,,
+Goa,GA,South Goa,27. Injectables (%),0.0,0.0,,
+Goa,GA,South Goa,28. Total unmet need7 (%),7.2,16.1,,
+Goa,GA,South Goa,29. Unmet need for spacing7 (%),3.3,6.8,,
+Goa,GA,South Goa,30. Health worker ever talked to female non-users about family planning (%),19.7,36.2,,
+Goa,GA,South Goa,31. Current users ever told about side effects of current method8 (%),89.4,66.8,,Based on 25-49 unweighted cases
+Goa,GA,South Goa,32. Mothers who had an antenatal check-up in the first trimester (%),62.7,71.9,,
+Goa,GA,South Goa,33. Mothers who had at least 4 antenatal care visits (%),96.0,81.5,,
+Goa,GA,South Goa,34. Mothers whose last birth was protected against neonatal tetanus9 (%),97.8,90.9,,
+Goa,GA,South Goa,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),92.2,35.3,,
+Goa,GA,South Goa,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),59.1,14.2,,
+Goa,GA,South Goa,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),99.5,95.9,,
+Goa,GA,South Goa,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),99.5,88.5,,
+Goa,GA,South Goa,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),3768.0,1841.0,,
+Goa,GA,South Goa,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Goa,GA,South Goa,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),98.0,,,
+Goa,GA,South Goa,42. Institutional births (%),100.0,94.5,,
+Goa,GA,South Goa,43. Institutional births in public facility (%),52.0,56.7,,
+Goa,GA,South Goa,44. Home births that were conducted by skilled health personnel10 (%),0.0,2.3,,
+Goa,GA,South Goa,45. Births attended by skilled health personnel10 (%),100.0,95.4,,
+Goa,GA,South Goa,46. Births delivered by caesarean section (%),39.4,29.3,,
+Goa,GA,South Goa,47. Births in a private health facility that were delivered by caesarean section (%),54.9,54.7,,
+Goa,GA,South Goa,48. Births in a public health facility that were delivered by caesarean section (%),25.2,15.2,,
+Goa,GA,South Goa,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),,89.5,Percentage not shown; based on fewer than 25 unweighted cases,
+Goa,GA,South Goa,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),,95.0,Percentage not shown; based on fewer than 25 unweighted cases,Based on 25-49 unweighted cases
+Goa,GA,South Goa,51. Children age 12-23 months who have received BCG (%),,100.0,Percentage not shown; based on fewer than 25 unweighted cases,
+Goa,GA,South Goa,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),,95.0,Percentage not shown; based on fewer than 25 unweighted cases,
+Goa,GA,South Goa,53. Children age 12-23 months who have received 3 doses of penta or DPT vaccine (%),,92.0,Percentage not shown; based on fewer than 25 unweighted cases,
+Goa,GA,South Goa,54. Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),,98.9,Percentage not shown; based on fewer than 25 unweighted cases,
+Goa,GA,South Goa,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),,,Percentage not shown; based on fewer than 25 unweighted cases,
+Goa,GA,South Goa,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),,,Percentage not shown; based on fewer than 25 unweighted cases,
+Goa,GA,South Goa,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),,87.2,Percentage not shown; based on fewer than 25 unweighted cases,
+Goa,GA,South Goa,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),88.0,84.8,,
+Goa,GA,South Goa,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),,78.9,Percentage not shown; based on fewer than 25 unweighted cases,
+Goa,GA,South Goa,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),,21.1,Percentage not shown; based on fewer than 25 unweighted cases,
+Goa,GA,South Goa,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),2.5,1.3,,
+Goa,GA,South Goa,62. Children with diarrhoea in the 2 weeks preceding the survey who received oral rehydration salts (ORS) (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Goa,GA,South Goa,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Goa,GA,South Goa,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Goa,GA,South Goa,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.0,1.4,,
+Goa,GA,South Goa,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Goa,GA,South Goa,67. Children under age 3 years breastfed within one hour of birth15 (%),62.6,58.9,,
+Goa,GA,South Goa,68. Children under age 6 months exclusively breastfed16 (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Goa,GA,South Goa,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Goa,GA,South Goa,"70. Breastfeeding children age 6-23 months receiving an adequate diet16, 17  (%)",8.9,9.7,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Goa,GA,South Goa,"71. Non-breastfeeding children age 6-23 months receiving an adequate diet16, 17 (%)",,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Goa,GA,South Goa,"72. Total children age 6-23 months receiving an adequate diet16, 17  (%)",13.4,8.5,Based on 25-49 unweighted cases,
+Goa,GA,South Goa,73. Children under 5 years who are stunted (height-for-age)18 (%),28.3,18.3,,
+Goa,GA,South Goa,74. Children under 5 years who are wasted (weight-for-height)18 (%),21.4,27.7,,
+Goa,GA,South Goa,75. Children under 5 years who are severely wasted (weight-for-height)19 (%),8.0,12.5,,
+Goa,GA,South Goa,76. Children under 5 years who are underweight (weight-for-age)18 (%),21.0,23.9,,
+Goa,GA,South Goa,77. Children under 5 years who are overweight (weight-for-height)20 (%),2.8,3.5,,
+Goa,GA,South Goa,78. Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)21 (%),13.5,12.9,,
+Goa,GA,South Goa,79. Women who are overweight or obese (BMI ≥25.0 kg/m2)21 (%),34.6,31.8,,
+Goa,GA,South Goa,80. Women who have high risk waist-to-hip ratio (≥0.85) (%),49.5,,,
+Goa,GA,South Goa,81. Children age 6-59 months who are anaemic (<11.0 g/dl)22 (%),50.0,48.1,,
+Goa,GA,South Goa,82. Non-pregnant women age 15-49 years who are anaemic (<12.0 g/dl)22 (%),37.3,28.6,,
+Goa,GA,South Goa,83. Pregnant women age 15-49 years who are anaemic (<11.0 g/dl)22 (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Goa,GA,South Goa,84. All women age 15-49 years who are anaemic22 (%),37.6,28.7,,
+Goa,GA,South Goa,85. All women age 15-19 years who are anaemic22 (%),42.5,27.6,,
+Goa,GA,South Goa,86. Blood sugar level - high (141-160 mg/dl)23 (%),9.4,,,
+Goa,GA,South Goa,87. Blood sugar level - very high (>160 mg/dl)23 (%),7.9,,,
+Goa,GA,South Goa,88. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),21.1,,,
+Goa,GA,South Goa,89. Blood sugar level - high (141-160 mg/dl)23 (%),11.1,,,
+Goa,GA,South Goa,90. Blood sugar level - very high (>160 mg/dl)23 (%),9.8,,,
+Goa,GA,South Goa,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),23.2,,,
+Goa,GA,South Goa,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),13.6,,,
+Goa,GA,South Goa,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.0,,,
+Goa,GA,South Goa,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),27.7,,,
+Goa,GA,South Goa,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),13.5,,,
+Goa,GA,South Goa,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.7,,,
+Goa,GA,South Goa,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),25.0,,,
+Goa,GA,South Goa,98. Ever undergone a screening test for cervical cancer (%),0.8,,,
+Goa,GA,South Goa,99. Ever undergone a breast examination for breast cancer (%),0.4,,,
+Goa,GA,South Goa,100. Ever undergone an oral cavity examination for oral cancer (%),0.1,,,
+Goa,GA,South Goa,101. Women age 15 years and above who use any kind of tobacco (%),2.5,,,
+Goa,GA,South Goa,102. Men age 15 years and above who use any kind of tobacco (%),16.9,,,
+Goa,GA,South Goa,103. Women age 15 years and above who consume alcohol (%),7.0,,,
+Goa,GA,South Goa,104. Men age 15 years and above who consume alcohol (%),41.1,,,

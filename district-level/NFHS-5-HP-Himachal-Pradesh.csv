@@ -1,139 +1,1249 @@
-State,State-Code,District,Indicator,NFHS-5,NFHS-4
-Himachal Pradesh,HP,Sirmaur,32. Mothers who had an antenatal check-up in the first trimester (%),91.0,70.7
-Himachal Pradesh,HP,Sirmaur,33. Mothers who had at least 4 antenatal care visits (%),85.2,59.8
-Himachal Pradesh,HP,Sirmaur,34. Mothers whose last birth was protected against neonatal tetanus9 (%),98.8,90.6
-Himachal Pradesh,HP,Sirmaur,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),76.0,47.3
-Himachal Pradesh,HP,Sirmaur,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),54.5,28.4
-Himachal Pradesh,HP,Sirmaur,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),100.0,97.8
-Himachal Pradesh,HP,Sirmaur,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),88.7,63.6
-Himachal Pradesh,HP,Sirmaur,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),2586.0,2862.0
-Himachal Pradesh,HP,Sirmaur,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),0.0,0.0
-Himachal Pradesh,HP,Sirmaur,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),85.5,
-Himachal Pradesh,HP,Sirmaur,42. Institutional births (%),87.4,77.8
-Himachal Pradesh,HP,Sirmaur,43. Institutional births in public facility (%),70.1,65.5
-Himachal Pradesh,HP,Sirmaur,44. Home births that were conducted by skilled health personnel10 (%),0.5,0.3
-Himachal Pradesh,HP,Sirmaur,45. Births attended by skilled health personnel10 (%),88.2,76.6
-Himachal Pradesh,HP,Sirmaur,46. Births delivered by caesarean section (%),16.7,16.3
-Himachal Pradesh,HP,Sirmaur,47. Births in a private health facility that were delivered by caesarean section (%),56.5,49.4
-Himachal Pradesh,HP,Sirmaur,48. Births in a public health facility that were delivered by caesarean section (%),9.8,15.7
-Himachal Pradesh,HP,Sirmaur,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),93.9,70.6
-Himachal Pradesh,HP,Sirmaur,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),93.7,94.5
-Himachal Pradesh,HP,Sirmaur,51. Children age 12-23 months who have received BCG (%),100.0,90.8
-Himachal Pradesh,HP,Sirmaur,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),96.8,79.8
-Himachal Pradesh,HP,Sirmaur,53. Children age 12-23 months who have received 3 doses of penta or DPT vaccine (%),97.2,90.9
-Himachal Pradesh,HP,Sirmaur,54. Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),100.0,98.3
-Himachal Pradesh,HP,Sirmaur,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),40.0,
-Himachal Pradesh,HP,Sirmaur,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),92.2,
-Himachal Pradesh,HP,Sirmaur,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),97.2,63.0
-Himachal Pradesh,HP,Sirmaur,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),75.1,61.6
-Himachal Pradesh,HP,Sirmaur,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),100.0,89.9
-Himachal Pradesh,HP,Sirmaur,67. Children under age 3 years breastfed within one hour of birth15 (%),67.9,52.1
-Himachal Pradesh,HP,Sirmaur,68. Children under age 6 months exclusively breastfed16 (%),75.9,60.4
-Himachal Pradesh,HP,Sirmaur,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,33.4
-Himachal Pradesh,HP,Sirmaur,"70. Breastfeeding children age 6-23 months receiving an adequate diet16, 17  (%)",11.5,7.4
-Himachal Pradesh,HP,Sirmaur,"71. Non-breastfeeding children age 6-23 months receiving an adequate diet16, 17 (%)",,8.1
-Himachal Pradesh,HP,Sirmaur,"72. Total children age 6-23 months receiving an adequate diet16, 17  (%)",9.9,7.6
-Himachal Pradesh,HP,Sirmaur,73. Children under 5 years who are stunted (height-for-age)18 (%),28.6,23.5
-Himachal Pradesh,HP,Sirmaur,74. Children under 5 years who are wasted (weight-for-height)18 (%),18.5,19.5
-Himachal Pradesh,HP,Sirmaur,75. Children under 5 years who are severely wasted (weight-for-height)19 (%),9.1,7.1
-Himachal Pradesh,HP,Sirmaur,76. Children under 5 years who are underweight (weight-for-age)18 (%),24.2,25.3
-Himachal Pradesh,HP,Sirmaur,77. Children under 5 years who are overweight (weight-for-height)20 (%),6.6,2.6
-Himachal Pradesh,HP,Sirmaur,78. Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)21 (%),16.1,19.3
-Himachal Pradesh,HP,Sirmaur,79. Women who are overweight or obese (BMI ≥25.0 kg/m2)21 (%),23.2,25.2
-Himachal Pradesh,HP,Sirmaur,80. Women who have high risk waist-to-hip ratio (≥0.85) (%),61.5,
-Himachal Pradesh,HP,Sirmaur,81. Children age 6-59 months who are anaemic (<11.0 g/dl)22 (%),58.5,65.1
-Himachal Pradesh,HP,Sirmaur,82. Non-pregnant women age 15-49 years who are anaemic (<12.0 g/dl)22 (%),50.2,48.1
-Himachal Pradesh,HP,Sirmaur,83. Pregnant women age 15-49 years who are anaemic (<11.0 g/dl)22 (%),46.3,46.3
-Himachal Pradesh,HP,Sirmaur,84. All women age 15-49 years who are anaemic22 (%),50.1,48.0
-Himachal Pradesh,HP,Sirmaur,85. All women age 15-19 years who are anaemic22 (%),54.1,49.8
-Himachal Pradesh,HP,Sirmaur,86. Blood sugar level - high (141-160 mg/dl)23 (%),4.5,
-Himachal Pradesh,HP,Sirmaur,87. Blood sugar level - very high (>160 mg/dl)23 (%),4.1,
-Himachal Pradesh,HP,Sirmaur,88. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),10.1,
-Himachal Pradesh,HP,Sirmaur,89. Blood sugar level - high (141-160 mg/dl)23 (%),4.5,
-Himachal Pradesh,HP,Sirmaur,90. Blood sugar level - very high (>160 mg/dl)23 (%),4.4,
-Himachal Pradesh,HP,Sirmaur,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),9.9,
-Himachal Pradesh,HP,Sirmaur,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),10.9,
-Himachal Pradesh,HP,Sirmaur,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),4.5,
-Himachal Pradesh,HP,Sirmaur,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),19.1,
-Himachal Pradesh,HP,Sirmaur,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),14.5,
-Himachal Pradesh,HP,Sirmaur,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),4.2,
-Himachal Pradesh,HP,Sirmaur,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),20.8,
-Himachal Pradesh,HP,Sirmaur,98. Ever undergone a screening test for cervical cancer (%),0.0,
-Himachal Pradesh,HP,Sirmaur,99. Ever undergone a breast examination for breast cancer (%),0.0,
-Himachal Pradesh,HP,Sirmaur,100. Ever undergone an oral cavity examination for oral cancer (%),0.0,
-Himachal Pradesh,HP,Sirmaur,101. Women age 15 years and above who use any kind of tobacco (%),4.1,
-Himachal Pradesh,HP,Sirmaur,102. Men age 15 years and above who use any kind of tobacco (%),27.3,
-Himachal Pradesh,HP,Sirmaur,103. Women age 15 years and above who consume alcohol (%),0.3,
-Himachal Pradesh,HP,Sirmaur,104. Men age 15 years and above who consume alcohol (%),22.2,
-Himachal Pradesh,HP,Solan,32. Mothers who had an antenatal check-up in the first trimester (%),87.1,73.3
-Himachal Pradesh,HP,Solan,33. Mothers who had at least 4 antenatal care visits (%),88.2,77.6
-Himachal Pradesh,HP,Solan,34. Mothers whose last birth was protected against neonatal tetanus9 (%),95.2,81.5
-Himachal Pradesh,HP,Solan,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),74.6,48.1
-Himachal Pradesh,HP,Solan,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),51.2,18.1
-Himachal Pradesh,HP,Solan,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),98.6,94.8
-Himachal Pradesh,HP,Solan,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),85.9,73.8
-Himachal Pradesh,HP,Solan,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),5401.0,2313.0
-Himachal Pradesh,HP,Solan,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,0.0
-Himachal Pradesh,HP,Solan,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),88.7,
-Himachal Pradesh,HP,Solan,42. Institutional births (%),90.2,75.4
-Himachal Pradesh,HP,Solan,43. Institutional births in public facility (%),68.0,57.1
-Himachal Pradesh,HP,Solan,44. Home births that were conducted by skilled health personnel10 (%),2.1,4.4
-Himachal Pradesh,HP,Solan,45. Births attended by skilled health personnel10 (%),86.8,78.4
-Himachal Pradesh,HP,Solan,46. Births delivered by caesarean section (%),25.2,16.9
-Himachal Pradesh,HP,Solan,47. Births in a private health facility that were delivered by caesarean section (%),39.7,53.4
-Himachal Pradesh,HP,Solan,48. Births in a public health facility that were delivered by caesarean section (%),24.0,12.3
-Himachal Pradesh,HP,Solan,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),92.6,79.8
-Himachal Pradesh,HP,Solan,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),100.0,92.3
-Himachal Pradesh,HP,Solan,51. Children age 12-23 months who have received BCG (%),97.6,91.4
-Himachal Pradesh,HP,Solan,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),92.6,81.9
-Himachal Pradesh,HP,Solan,53. Children age 12-23 months who have received 3 doses of penta or DPT vaccine (%),95.0,87.5
-Himachal Pradesh,HP,Solan,54. Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),95.0,89.6
-Himachal Pradesh,HP,Solan,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),60.1,
-Himachal Pradesh,HP,Solan,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),95.0,
-Himachal Pradesh,HP,Solan,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),97.6,77.4
-Himachal Pradesh,HP,Solan,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),78.5,58.3
-Himachal Pradesh,HP,Solan,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),97.0,97.7
-Himachal Pradesh,HP,Solan,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),3.0,2.3
-Himachal Pradesh,HP,Solan,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),3.0,12.1
-Himachal Pradesh,HP,Solan,62. Children with diarrhoea in the 2 weeks preceding the survey who received oral rehydration salts (ORS) (%),,75.4
-Himachal Pradesh,HP,Solan,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,6.5
-Himachal Pradesh,HP,Solan,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,74.8
-Himachal Pradesh,HP,Solan,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),4.0,0.7
-Himachal Pradesh,HP,Solan,67. Children under age 3 years breastfed within one hour of birth15 (%),56.9,43.7
-Himachal Pradesh,HP,Solan,68. Children under age 6 months exclusively breastfed16 (%),,
-Himachal Pradesh,HP,Solan,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,
-Himachal Pradesh,HP,Solan,"70. Breastfeeding children age 6-23 months receiving an adequate diet16, 17  (%)",15.4,11.6
-Himachal Pradesh,HP,Solan,"71. Non-breastfeeding children age 6-23 months receiving an adequate diet16, 17 (%)",,
-Himachal Pradesh,HP,Solan,"72. Total children age 6-23 months receiving an adequate diet16, 17  (%)",19.0,8.6
-Himachal Pradesh,HP,Solan,73. Children under 5 years who are stunted (height-for-age)18 (%),32.3,27.6
-Himachal Pradesh,HP,Solan,74. Children under 5 years who are wasted (weight-for-height)18 (%),20.9,17.5
-Himachal Pradesh,HP,Solan,75. Children under 5 years who are severely wasted (weight-for-height)19 (%),5.6,2.9
-Himachal Pradesh,HP,Solan,76. Children under 5 years who are underweight (weight-for-age)18 (%),26.7,29.4
-Himachal Pradesh,HP,Solan,77. Children under 5 years who are overweight (weight-for-height)20 (%),5.7,1.9
-Himachal Pradesh,HP,Solan,78. Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)21 (%),11.9,15.5
-Himachal Pradesh,HP,Solan,79. Women who are overweight or obese (BMI ≥25.0 kg/m2)21 (%),29.7,32.7
-Himachal Pradesh,HP,Solan,80. Women who have high risk waist-to-hip ratio (≥0.85) (%),61.8,
-Himachal Pradesh,HP,Solan,81. Children age 6-59 months who are anaemic (<11.0 g/dl)22 (%),50.4,71.8
-Himachal Pradesh,HP,Solan,82. Non-pregnant women age 15-49 years who are anaemic (<12.0 g/dl)22 (%),48.4,67.7
-Himachal Pradesh,HP,Solan,83. Pregnant women age 15-49 years who are anaemic (<11.0 g/dl)22 (%),30.5,62.4
-Himachal Pradesh,HP,Solan,84. All women age 15-49 years who are anaemic22 (%),47.5,67.5
-Himachal Pradesh,HP,Solan,85. All women age 15-19 years who are anaemic22 (%),44.3,70.0
-Himachal Pradesh,HP,Solan,86. Blood sugar level - high (141-160 mg/dl)23 (%),5.1,
-Himachal Pradesh,HP,Solan,87. Blood sugar level - very high (>160 mg/dl)23 (%),4.3,
-Himachal Pradesh,HP,Solan,88. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),10.8,
-Himachal Pradesh,HP,Solan,89. Blood sugar level - high (141-160 mg/dl)23 (%),6.2,
-Himachal Pradesh,HP,Solan,90. Blood sugar level - very high (>160 mg/dl)23 (%),5.9,
-Himachal Pradesh,HP,Solan,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),13.4,
-Himachal Pradesh,HP,Solan,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),12.5,
-Himachal Pradesh,HP,Solan,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),5.4,
-Himachal Pradesh,HP,Solan,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),21.7,
-Himachal Pradesh,HP,Solan,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),14.0,
-Himachal Pradesh,HP,Solan,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),6.5,
-Himachal Pradesh,HP,Solan,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),22.3,
-Himachal Pradesh,HP,Solan,98. Ever undergone a screening test for cervical cancer (%),1.3,
-Himachal Pradesh,HP,Solan,99. Ever undergone a breast examination for breast cancer (%),0.7,
-Himachal Pradesh,HP,Solan,100. Ever undergone an oral cavity examination for oral cancer (%),0.3,
-Himachal Pradesh,HP,Solan,101. Women age 15 years and above who use any kind of tobacco (%),2.9,
-Himachal Pradesh,HP,Solan,102. Men age 15 years and above who use any kind of tobacco (%),29.0,
-Himachal Pradesh,HP,Solan,103. Women age 15 years and above who consume alcohol (%),0.5,
-Himachal Pradesh,HP,Solan,104. Men age 15 years and above who consume alcohol (%),27.4,
+State,State-Code,District,Indicator,NFHS-5,NFHS-4,NFHS-5-note,NFHS-4-note
+Himachal Pradesh,HP,Bilaspur,1. Female population age 6 years and above who ever attended school (%),81.3,78.6,,
+Himachal Pradesh,HP,Bilaspur,2. Population below age 15 years (%),22.1,25.8,,
+Himachal Pradesh,HP,Bilaspur,"3. Sex ratio of the total population (females per 1,000 males)",1096.0,1086.0,,
+Himachal Pradesh,HP,Bilaspur,"4. Sex ratio at birth for children born in the last five years (females per 1,000 males)",875.0,915.0,,
+Himachal Pradesh,HP,Bilaspur,5. Children under age 5 years whose birth was registered with the civil authority (%),96.9,95.5,,
+Himachal Pradesh,HP,Bilaspur,6. Deaths in the last 3 years registered with the civil authority (%),93.4,,,
+Himachal Pradesh,HP,Bilaspur,7. Population living in households with electricity (%),100.0,99.9,,
+Himachal Pradesh,HP,Bilaspur,8. Population living in households with an improved drinking-water source1 (%),92.9,81.2,,
+Himachal Pradesh,HP,Bilaspur,9. Population living in households that use an improved sanitation facility2 (%),80.8,71.9,,
+Himachal Pradesh,HP,Bilaspur,10. Households using clean fuel for cooking3 (%),35.8,19.1,,
+Himachal Pradesh,HP,Bilaspur,11. Households using iodized salt (%),98.7,99.6,,
+Himachal Pradesh,HP,Bilaspur,12. Households with any usual member covered under a health insurance/financing scheme (%),35.4,18.4,,
+Himachal Pradesh,HP,Bilaspur,13. Children age 5 years who attended pre-primary school during the school year 2019-20 (%),3.5,,,
+Himachal Pradesh,HP,Bilaspur,14. Women who are literate4 (%),91.2,,,
+Himachal Pradesh,HP,Bilaspur,15. Women with 10 or more years of schooling (%),64.2,60.5,,
+Himachal Pradesh,HP,Bilaspur,16. Women age 20-24 years married before age 18 years (%),10.0,13.6,,
+Himachal Pradesh,HP,Bilaspur,17. Births in the 5 years preceding the survey that are third or higher order (%),0.5,1.4,,
+Himachal Pradesh,HP,Bilaspur,18. Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),3.2,1.5,,
+Himachal Pradesh,HP,Bilaspur,19. Women age 15-24 years who use hygienic methods of protection during their menstrual period5 (%),94.4,89.4,,
+Himachal Pradesh,HP,Bilaspur,20. Any method6 (%),80.8,52.1,,
+Himachal Pradesh,HP,Bilaspur,21. Any modern method6 (%),70.3,50.2,,
+Himachal Pradesh,HP,Bilaspur,22. Female sterilization (%),53.1,39.7,,
+Himachal Pradesh,HP,Bilaspur,23. Male sterilization (%),2.5,1.0,,
+Himachal Pradesh,HP,Bilaspur,24. IUD/PPIUD (%),0.4,0.3,,
+Himachal Pradesh,HP,Bilaspur,25. Pill (%),1.5,1.7,,
+Himachal Pradesh,HP,Bilaspur,26. Condom (%),12.4,7.3,,
+Himachal Pradesh,HP,Bilaspur,27. Injectables (%),0.2,0.3,,
+Himachal Pradesh,HP,Bilaspur,28. Total unmet need7 (%),7.2,16.4,,
+Himachal Pradesh,HP,Bilaspur,29. Unmet need for spacing7 (%),2.4,3.5,,
+Himachal Pradesh,HP,Bilaspur,30. Health worker ever talked to female non-users about family planning (%),25.0,15.1,,
+Himachal Pradesh,HP,Bilaspur,31. Current users ever told about side effects of current method8 (%),49.8,35.5,,
+Himachal Pradesh,HP,Bilaspur,32. Mothers who had an antenatal check-up in the first trimester (%),76.4,71.8,,
+Himachal Pradesh,HP,Bilaspur,33. Mothers who had at least 4 antenatal care visits (%),81.4,58.8,,
+Himachal Pradesh,HP,Bilaspur,34. Mothers whose last birth was protected against neonatal tetanus9 (%),92.4,75.4,,
+Himachal Pradesh,HP,Bilaspur,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),72.4,55.4,,
+Himachal Pradesh,HP,Bilaspur,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),48.9,29.7,,
+Himachal Pradesh,HP,Bilaspur,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),99.3,93.0,,
+Himachal Pradesh,HP,Bilaspur,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),92.9,75.8,,
+Himachal Pradesh,HP,Bilaspur,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),3360.0,4743.0,,
+Himachal Pradesh,HP,Bilaspur,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,3.1,Percentage not shown; based on fewer than 25 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Bilaspur,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),90.0,,,
+Himachal Pradesh,HP,Bilaspur,42. Institutional births (%),91.7,82.9,,
+Himachal Pradesh,HP,Bilaspur,43. Institutional births in public facility (%),72.1,58.4,,
+Himachal Pradesh,HP,Bilaspur,44. Home births that were conducted by skilled health personnel10 (%),0.5,2.3,,
+Himachal Pradesh,HP,Bilaspur,45. Births attended by skilled health personnel10 (%),87.6,84.1,,
+Himachal Pradesh,HP,Bilaspur,46. Births delivered by caesarean section (%),19.2,15.7,,
+Himachal Pradesh,HP,Bilaspur,47. Births in a private health facility that were delivered by caesarean section (%),26.2,29.8,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Bilaspur,48. Births in a public health facility that were delivered by caesarean section (%),19.5,14.4,,
+Himachal Pradesh,HP,Bilaspur,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),100.0,58.3,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Bilaspur,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),100.0,72.0,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Bilaspur,51. Children age 12-23 months who have received BCG (%),100.0,92.7,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Bilaspur,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),100.0,71.0,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Bilaspur,53. Children age 12-23 months who have received 3 doses of penta or DPT vaccine (%),100.0,81.3,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Bilaspur,54. Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),100.0,86.1,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Bilaspur,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),57.9,,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Bilaspur,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),90.3,,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Bilaspur,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),100.0,55.5,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Bilaspur,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),75.4,74.8,,
+Himachal Pradesh,HP,Bilaspur,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),100.0,95.4,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Bilaspur,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,4.6,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Bilaspur,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),6.3,9.3,,
+Himachal Pradesh,HP,Bilaspur,62. Children with diarrhoea in the 2 weeks preceding the survey who received oral rehydration salts (ORS) (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Bilaspur,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Bilaspur,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Bilaspur,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.0,3.9,,
+Himachal Pradesh,HP,Bilaspur,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,84.8,Percentage not shown; based on fewer than 25 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Bilaspur,67. Children under age 3 years breastfed within one hour of birth15 (%),51.1,40.5,,
+Himachal Pradesh,HP,Bilaspur,68. Children under age 6 months exclusively breastfed16 (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Bilaspur,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Bilaspur,"70. Breastfeeding children age 6-23 months receiving an adequate diet16, 17  (%)",11.6,8.0,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Bilaspur,"71. Non-breastfeeding children age 6-23 months receiving an adequate diet16, 17 (%)",,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Bilaspur,"72. Total children age 6-23 months receiving an adequate diet16, 17  (%)",10.6,9.2,,
+Himachal Pradesh,HP,Bilaspur,73. Children under 5 years who are stunted (height-for-age)18 (%),40.1,27.2,,
+Himachal Pradesh,HP,Bilaspur,74. Children under 5 years who are wasted (weight-for-height)18 (%),12.0,13.1,,
+Himachal Pradesh,HP,Bilaspur,75. Children under 5 years who are severely wasted (weight-for-height)19 (%),2.8,4.5,,
+Himachal Pradesh,HP,Bilaspur,76. Children under 5 years who are underweight (weight-for-age)18 (%),38.8,23.4,,
+Himachal Pradesh,HP,Bilaspur,77. Children under 5 years who are overweight (weight-for-height)20 (%),5.0,1.6,,
+Himachal Pradesh,HP,Bilaspur,78. Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)21 (%),17.5,15.7,,
+Himachal Pradesh,HP,Bilaspur,79. Women who are overweight or obese (BMI ≥25.0 kg/m2)21 (%),29.1,28.4,,
+Himachal Pradesh,HP,Bilaspur,80. Women who have high risk waist-to-hip ratio (≥0.85) (%),53.2,,,
+Himachal Pradesh,HP,Bilaspur,81. Children age 6-59 months who are anaemic (<11.0 g/dl)22 (%),44.8,28.3,,
+Himachal Pradesh,HP,Bilaspur,82. Non-pregnant women age 15-49 years who are anaemic (<12.0 g/dl)22 (%),53.4,39.1,,
+Himachal Pradesh,HP,Bilaspur,83. Pregnant women age 15-49 years who are anaemic (<11.0 g/dl)22 (%),,38.1,Percentage not shown; based on fewer than 25 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Bilaspur,84. All women age 15-49 years who are anaemic22 (%),53.0,39.1,,
+Himachal Pradesh,HP,Bilaspur,85. All women age 15-19 years who are anaemic22 (%),55.5,33.0,,
+Himachal Pradesh,HP,Bilaspur,86. Blood sugar level - high (141-160 mg/dl)23 (%),9.3,,,
+Himachal Pradesh,HP,Bilaspur,87. Blood sugar level - very high (>160 mg/dl)23 (%),8.0,,,
+Himachal Pradesh,HP,Bilaspur,88. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),17.9,,,
+Himachal Pradesh,HP,Bilaspur,89. Blood sugar level - high (141-160 mg/dl)23 (%),9.8,,,
+Himachal Pradesh,HP,Bilaspur,90. Blood sugar level - very high (>160 mg/dl)23 (%),9.1,,,
+Himachal Pradesh,HP,Bilaspur,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),19.9,,,
+Himachal Pradesh,HP,Bilaspur,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),11.5,,,
+Himachal Pradesh,HP,Bilaspur,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),4.3,,,
+Himachal Pradesh,HP,Bilaspur,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),22.1,,,
+Himachal Pradesh,HP,Bilaspur,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),12.1,,,
+Himachal Pradesh,HP,Bilaspur,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),4.6,,,
+Himachal Pradesh,HP,Bilaspur,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),20.3,,,
+Himachal Pradesh,HP,Bilaspur,98. Ever undergone a screening test for cervical cancer (%),0.4,,,
+Himachal Pradesh,HP,Bilaspur,99. Ever undergone a breast examination for breast cancer (%),0.0,,,
+Himachal Pradesh,HP,Bilaspur,100. Ever undergone an oral cavity examination for oral cancer (%),0.2,,,
+Himachal Pradesh,HP,Bilaspur,101. Women age 15 years and above who use any kind of tobacco (%),1.8,,,
+Himachal Pradesh,HP,Bilaspur,102. Men age 15 years and above who use any kind of tobacco (%),33.3,,,
+Himachal Pradesh,HP,Bilaspur,103. Women age 15 years and above who consume alcohol (%),0.3,,,
+Himachal Pradesh,HP,Bilaspur,104. Men age 15 years and above who consume alcohol (%),26.2,,,
+Himachal Pradesh,HP,Chamba,1. Female population age 6 years and above who ever attended school (%),70.1,68.8,,
+Himachal Pradesh,HP,Chamba,2. Population below age 15 years (%),25.1,27.5,,
+Himachal Pradesh,HP,Chamba,"3. Sex ratio of the total population (females per 1,000 males)",1073.0,1128.0,,
+Himachal Pradesh,HP,Chamba,"4. Sex ratio at birth for children born in the last five years (females per 1,000 males)",1001.0,936.0,,
+Himachal Pradesh,HP,Chamba,5. Children under age 5 years whose birth was registered with the civil authority (%),96.7,93.8,,
+Himachal Pradesh,HP,Chamba,6. Deaths in the last 3 years registered with the civil authority (%),97.5,,,
+Himachal Pradesh,HP,Chamba,7. Population living in households with electricity (%),99.1,98.5,,
+Himachal Pradesh,HP,Chamba,8. Population living in households with an improved drinking-water source1 (%),85.5,90.0,,
+Himachal Pradesh,HP,Chamba,9. Population living in households that use an improved sanitation facility2 (%),86.5,77.5,,
+Himachal Pradesh,HP,Chamba,10. Households using clean fuel for cooking3 (%),35.0,25.4,,
+Himachal Pradesh,HP,Chamba,11. Households using iodized salt (%),99.1,98.7,,
+Himachal Pradesh,HP,Chamba,12. Households with any usual member covered under a health insurance/financing scheme (%),26.8,36.7,,
+Himachal Pradesh,HP,Chamba,13. Children age 5 years who attended pre-primary school during the school year 2019-20 (%),14.0,,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Chamba,14. Women who are literate4 (%),84.1,,,
+Himachal Pradesh,HP,Chamba,15. Women with 10 or more years of schooling (%),50.9,48.4,,
+Himachal Pradesh,HP,Chamba,16. Women age 20-24 years married before age 18 years (%),3.8,8.4,,
+Himachal Pradesh,HP,Chamba,17. Births in the 5 years preceding the survey that are third or higher order (%),1.9,2.8,,
+Himachal Pradesh,HP,Chamba,18. Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),2.0,0.6,,
+Himachal Pradesh,HP,Chamba,19. Women age 15-24 years who use hygienic methods of protection during their menstrual period5 (%),87.3,71.8,,
+Himachal Pradesh,HP,Chamba,20. Any method6 (%),81.8,51.6,,
+Himachal Pradesh,HP,Chamba,21. Any modern method6 (%),65.2,43.0,,
+Himachal Pradesh,HP,Chamba,22. Female sterilization (%),24.4,21.8,,
+Himachal Pradesh,HP,Chamba,23. Male sterilization (%),18.4,9.8,,
+Himachal Pradesh,HP,Chamba,24. IUD/PPIUD (%),0.2,0.4,,
+Himachal Pradesh,HP,Chamba,25. Pill (%),0.9,1.5,,
+Himachal Pradesh,HP,Chamba,26. Condom (%),19.3,9.5,,
+Himachal Pradesh,HP,Chamba,27. Injectables (%),0.0,0.0,,
+Himachal Pradesh,HP,Chamba,28. Total unmet need7 (%),6.2,16.1,,
+Himachal Pradesh,HP,Chamba,29. Unmet need for spacing7 (%),2.9,6.3,,
+Himachal Pradesh,HP,Chamba,30. Health worker ever talked to female non-users about family planning (%),31.8,12.8,,
+Himachal Pradesh,HP,Chamba,8,,,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Chamba,32. Mothers who had an antenatal check-up in the first trimester (%),75.1,57.2,,
+Himachal Pradesh,HP,Chamba,33. Mothers who had at least 4 antenatal care visits (%),62.7,47.5,,
+Himachal Pradesh,HP,Chamba,34. Mothers whose last birth was protected against neonatal tetanus9 (%),94.0,85.2,,
+Himachal Pradesh,HP,Chamba,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),65.4,38.9,,
+Himachal Pradesh,HP,Chamba,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),37.4,18.7,,
+Himachal Pradesh,HP,Chamba,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),98.7,90.2,,
+Himachal Pradesh,HP,Chamba,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),72.9,48.0,,
+Himachal Pradesh,HP,Chamba,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),4252.0,2778.0,,
+Himachal Pradesh,HP,Chamba,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),1.9,0.0,,
+Himachal Pradesh,HP,Chamba,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),70.8,,,
+Himachal Pradesh,HP,Chamba,42. Institutional births (%),72.0,56.9,,
+Himachal Pradesh,HP,Chamba,43. Institutional births in public facility (%),64.9,43.4,,
+Himachal Pradesh,HP,Chamba,44. Home births that were conducted by skilled health personnel10 (%),4.0,3.6,,
+Himachal Pradesh,HP,Chamba,45. Births attended by skilled health personnel10 (%),74.1,60.5,,
+Himachal Pradesh,HP,Chamba,46. Births delivered by caesarean section (%),10.5,10.4,,
+Himachal Pradesh,HP,Chamba,47. Births in a private health facility that were delivered by caesarean section (%),,51.0,Percentage not shown; based on fewer than 25 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Chamba,48. Births in a public health facility that were delivered by caesarean section (%),8.8,8.1,,
+Himachal Pradesh,HP,Chamba,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),100.0,64.6,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Chamba,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),100.0,77.5,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Chamba,51. Children age 12-23 months who have received BCG (%),100.0,93.5,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Chamba,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),100.0,77.9,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Chamba,53. Children age 12-23 months who have received 3 doses of penta or DPT vaccine (%),100.0,82.3,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Chamba,54. Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),100.0,84.8,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Chamba,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),52.9,,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Chamba,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),100.0,,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Chamba,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),100.0,70.7,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Chamba,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),77.8,52.1,,
+Himachal Pradesh,HP,Chamba,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),100.0,100.0,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Chamba,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,0.0,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Chamba,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),2.0,5.7,,
+Himachal Pradesh,HP,Chamba,62. Children with diarrhoea in the 2 weeks preceding the survey who received oral rehydration salts (ORS) (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Chamba,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Chamba,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Chamba,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),1.6,1.1,,
+Himachal Pradesh,HP,Chamba,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,82.8,Percentage not shown; based on fewer than 25 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Chamba,67. Children under age 3 years breastfed within one hour of birth15 (%),43.6,32.6,,
+Himachal Pradesh,HP,Chamba,68. Children under age 6 months exclusively breastfed16 (%),61.5,77.8,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Chamba,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Chamba,"70. Breastfeeding children age 6-23 months receiving an adequate diet16, 17  (%)",18.1,9.1,,
+Himachal Pradesh,HP,Chamba,"71. Non-breastfeeding children age 6-23 months receiving an adequate diet16, 17 (%)",,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Chamba,"72. Total children age 6-23 months receiving an adequate diet16, 17  (%)",19.9,7.6,,
+Himachal Pradesh,HP,Chamba,73. Children under 5 years who are stunted (height-for-age)18 (%),42.6,29.9,,
+Himachal Pradesh,HP,Chamba,74. Children under 5 years who are wasted (weight-for-height)18 (%),15.4,15.0,,
+Himachal Pradesh,HP,Chamba,75. Children under 5 years who are severely wasted (weight-for-height)19 (%),5.8,4.8,,
+Himachal Pradesh,HP,Chamba,76. Children under 5 years who are underweight (weight-for-age)18 (%),26.0,22.5,,
+Himachal Pradesh,HP,Chamba,77. Children under 5 years who are overweight (weight-for-height)20 (%),9.0,2.4,,
+Himachal Pradesh,HP,Chamba,78. Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)21 (%),14.6,19.1,,
+Himachal Pradesh,HP,Chamba,79. Women who are overweight or obese (BMI ≥25.0 kg/m2)21 (%),23.2,20.8,,
+Himachal Pradesh,HP,Chamba,80. Women who have high risk waist-to-hip ratio (≥0.85) (%),61.1,,,
+Himachal Pradesh,HP,Chamba,81. Children age 6-59 months who are anaemic (<11.0 g/dl)22 (%),46.5,66.3,,
+Himachal Pradesh,HP,Chamba,82. Non-pregnant women age 15-49 years who are anaemic (<12.0 g/dl)22 (%),43.9,50.6,,
+Himachal Pradesh,HP,Chamba,83. Pregnant women age 15-49 years who are anaemic (<11.0 g/dl)22 (%),38.3,65.8,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Chamba,84. All women age 15-49 years who are anaemic22 (%),43.7,51.2,,
+Himachal Pradesh,HP,Chamba,85. All women age 15-19 years who are anaemic22 (%),47.4,50.5,,
+Himachal Pradesh,HP,Chamba,86. Blood sugar level - high (141-160 mg/dl)23 (%),5.4,,,
+Himachal Pradesh,HP,Chamba,87. Blood sugar level - very high (>160 mg/dl)23 (%),4.4,,,
+Himachal Pradesh,HP,Chamba,88. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),10.6,,,
+Himachal Pradesh,HP,Chamba,89. Blood sugar level - high (141-160 mg/dl)23 (%),6.1,,,
+Himachal Pradesh,HP,Chamba,90. Blood sugar level - very high (>160 mg/dl)23 (%),5.0,,,
+Himachal Pradesh,HP,Chamba,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),11.5,,,
+Himachal Pradesh,HP,Chamba,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),11.9,,,
+Himachal Pradesh,HP,Chamba,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.5,,,
+Himachal Pradesh,HP,Chamba,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),17.8,,,
+Himachal Pradesh,HP,Chamba,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),19.3,,,
+Himachal Pradesh,HP,Chamba,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),2.8,,,
+Himachal Pradesh,HP,Chamba,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),23.2,,,
+Himachal Pradesh,HP,Chamba,98. Ever undergone a screening test for cervical cancer (%),0.2,,,
+Himachal Pradesh,HP,Chamba,99. Ever undergone a breast examination for breast cancer (%),0.0,,,
+Himachal Pradesh,HP,Chamba,100. Ever undergone an oral cavity examination for oral cancer (%),0.0,,,
+Himachal Pradesh,HP,Chamba,101. Women age 15 years and above who use any kind of tobacco (%),2.5,,,
+Himachal Pradesh,HP,Chamba,102. Men age 15 years and above who use any kind of tobacco (%),40.3,,,
+Himachal Pradesh,HP,Chamba,103. Women age 15 years and above who consume alcohol (%),0.6,,,
+Himachal Pradesh,HP,Chamba,104. Men age 15 years and above who consume alcohol (%),40.5,,,
+Himachal Pradesh,HP,Hamirpur,1. Female population age 6 years and above who ever attended school (%),86.7,84.8,,
+Himachal Pradesh,HP,Hamirpur,2. Population below age 15 years (%),20.3,24.6,,
+Himachal Pradesh,HP,Hamirpur,"3. Sex ratio of the total population (females per 1,000 males)",1182.0,1225.0,,
+Himachal Pradesh,HP,Hamirpur,"4. Sex ratio at birth for children born in the last five years (females per 1,000 males)",1073.0,954.0,,
+Himachal Pradesh,HP,Hamirpur,5. Children under age 5 years whose birth was registered with the civil authority (%),96.4,99.6,,
+Himachal Pradesh,HP,Hamirpur,6. Deaths in the last 3 years registered with the civil authority (%),96.9,,,
+Himachal Pradesh,HP,Hamirpur,7. Population living in households with electricity (%),99.7,99.7,,
+Himachal Pradesh,HP,Hamirpur,8. Population living in households with an improved drinking-water source1 (%),98.0,96.3,,
+Himachal Pradesh,HP,Hamirpur,9. Population living in households that use an improved sanitation facility2 (%),85.5,84.1,,
+Himachal Pradesh,HP,Hamirpur,10. Households using clean fuel for cooking3 (%),44.7,24.3,,
+Himachal Pradesh,HP,Hamirpur,11. Households using iodized salt (%),99.2,98.8,,
+Himachal Pradesh,HP,Hamirpur,12. Households with any usual member covered under a health insurance/financing scheme (%),32.0,12.8,,
+Himachal Pradesh,HP,Hamirpur,13. Children age 5 years who attended pre-primary school during the school year 2019-20 (%),3.5,,,
+Himachal Pradesh,HP,Hamirpur,14. Women who are literate4 (%),94.8,,,
+Himachal Pradesh,HP,Hamirpur,15. Women with 10 or more years of schooling (%),76.1,67.6,,
+Himachal Pradesh,HP,Hamirpur,16. Women age 20-24 years married before age 18 years (%),3.5,3.0,,
+Himachal Pradesh,HP,Hamirpur,17. Births in the 5 years preceding the survey that are third or higher order (%),0.6,0.9,,
+Himachal Pradesh,HP,Hamirpur,18. Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),2.8,1.6,,
+Himachal Pradesh,HP,Hamirpur,19. Women age 15-24 years who use hygienic methods of protection during their menstrual period5 (%),94.3,82.7,,
+Himachal Pradesh,HP,Hamirpur,20. Any method6 (%),57.7,44.0,,
+Himachal Pradesh,HP,Hamirpur,21. Any modern method6 (%),51.4,43.0,,
+Himachal Pradesh,HP,Hamirpur,22. Female sterilization (%),35.0,31.0,,
+Himachal Pradesh,HP,Hamirpur,23. Male sterilization (%),1.1,0.3,,
+Himachal Pradesh,HP,Hamirpur,24. IUD/PPIUD (%),1.3,0.5,,
+Himachal Pradesh,HP,Hamirpur,25. Pill (%),1.1,2.1,,
+Himachal Pradesh,HP,Hamirpur,26. Condom (%),12.4,9.1,,
+Himachal Pradesh,HP,Hamirpur,27. Injectables (%),0.0,0.0,,
+Himachal Pradesh,HP,Hamirpur,28. Total unmet need7 (%),12.6,20.0,,
+Himachal Pradesh,HP,Hamirpur,29. Unmet need for spacing7 (%),4.5,5.4,,
+Himachal Pradesh,HP,Hamirpur,30. Health worker ever talked to female non-users about family planning (%),17.3,18.9,,
+Himachal Pradesh,HP,Hamirpur,31. Current users ever told about side effects of current method8 (%),32.7,47.1,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Hamirpur,32. Mothers who had an antenatal check-up in the first trimester (%),67.5,70.1,,
+Himachal Pradesh,HP,Hamirpur,33. Mothers who had at least 4 antenatal care visits (%),59.4,73.6,,
+Himachal Pradesh,HP,Hamirpur,34. Mothers whose last birth was protected against neonatal tetanus9 (%),82.8,85.2,,
+Himachal Pradesh,HP,Hamirpur,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),69.9,53.8,,
+Himachal Pradesh,HP,Hamirpur,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),33.5,19.9,,
+Himachal Pradesh,HP,Hamirpur,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),97.8,96.7,,
+Himachal Pradesh,HP,Hamirpur,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),88.9,81.2,,
+Himachal Pradesh,HP,Hamirpur,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),4229.0,4155.0,,
+Himachal Pradesh,HP,Hamirpur,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Hamirpur,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),96.8,,,
+Himachal Pradesh,HP,Hamirpur,42. Institutional births (%),97.6,90.9,,
+Himachal Pradesh,HP,Hamirpur,43. Institutional births in public facility (%),75.1,76.5,,
+Himachal Pradesh,HP,Hamirpur,44. Home births that were conducted by skilled health personnel10 (%),0.0,3.7,,
+Himachal Pradesh,HP,Hamirpur,45. Births attended by skilled health personnel10 (%),92.4,91.5,,
+Himachal Pradesh,HP,Hamirpur,46. Births delivered by caesarean section (%),21.3,21.3,,
+Himachal Pradesh,HP,Hamirpur,47. Births in a private health facility that were delivered by caesarean section (%),42.7,54.1,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Hamirpur,48. Births in a public health facility that were delivered by caesarean section (%),15.5,17.7,,
+Himachal Pradesh,HP,Hamirpur,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),74.3,45.9,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Hamirpur,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),100.0,64.1,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Hamirpur,51. Children age 12-23 months who have received BCG (%),88.6,88.3,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Hamirpur,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),74.3,67.7,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Hamirpur,53. Children age 12-23 months who have received 3 doses of penta or DPT vaccine (%),83.0,74.2,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Hamirpur,54. Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),85.2,77.6,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Hamirpur,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),40.9,,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Hamirpur,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),77.1,,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Hamirpur,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),83.0,61.7,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Hamirpur,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),80.0,80.4,,
+Himachal Pradesh,HP,Hamirpur,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),97.0,100.0,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Hamirpur,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),3.0,0.0,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Hamirpur,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),12.4,6.2,,
+Himachal Pradesh,HP,Hamirpur,62. Children with diarrhoea in the 2 weeks preceding the survey who received oral rehydration salts (ORS) (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Hamirpur,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Hamirpur,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Hamirpur,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),1.1,2.6,,
+Himachal Pradesh,HP,Hamirpur,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,78.2,Percentage not shown; based on fewer than 25 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Hamirpur,67. Children under age 3 years breastfed within one hour of birth15 (%),38.1,40.1,,
+Himachal Pradesh,HP,Hamirpur,68. Children under age 6 months exclusively breastfed16 (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Hamirpur,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Hamirpur,"70. Breastfeeding children age 6-23 months receiving an adequate diet16, 17  (%)",31.7,17.0,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Hamirpur,"71. Non-breastfeeding children age 6-23 months receiving an adequate diet16, 17 (%)",,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Hamirpur,"72. Total children age 6-23 months receiving an adequate diet16, 17  (%)",31.8,18.9,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Hamirpur,73. Children under 5 years who are stunted (height-for-age)18 (%),27.3,29.3,,
+Himachal Pradesh,HP,Hamirpur,74. Children under 5 years who are wasted (weight-for-height)18 (%),14.9,12.6,,
+Himachal Pradesh,HP,Hamirpur,75. Children under 5 years who are severely wasted (weight-for-height)19 (%),4.9,5.0,,
+Himachal Pradesh,HP,Hamirpur,76. Children under 5 years who are underweight (weight-for-age)18 (%),23.6,19.4,,
+Himachal Pradesh,HP,Hamirpur,77. Children under 5 years who are overweight (weight-for-height)20 (%),0.8,3.3,,
+Himachal Pradesh,HP,Hamirpur,78. Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)21 (%),17.2,13.6,,
+Himachal Pradesh,HP,Hamirpur,79. Women who are overweight or obese (BMI ≥25.0 kg/m2)21 (%),37.1,30.9,,
+Himachal Pradesh,HP,Hamirpur,80. Women who have high risk waist-to-hip ratio (≥0.85) (%),59.6,,,
+Himachal Pradesh,HP,Hamirpur,81. Children age 6-59 months who are anaemic (<11.0 g/dl)22 (%),52.0,41.2,,
+Himachal Pradesh,HP,Hamirpur,82. Non-pregnant women age 15-49 years who are anaemic (<12.0 g/dl)22 (%),49.4,35.6,,
+Himachal Pradesh,HP,Hamirpur,83. Pregnant women age 15-49 years who are anaemic (<11.0 g/dl)22 (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Hamirpur,84. All women age 15-49 years who are anaemic22 (%),49.5,35.8,,
+Himachal Pradesh,HP,Hamirpur,85. All women age 15-19 years who are anaemic22 (%),48.2,29.0,,
+Himachal Pradesh,HP,Hamirpur,86. Blood sugar level - high (141-160 mg/dl)23 (%),7.5,,,
+Himachal Pradesh,HP,Hamirpur,87. Blood sugar level - very high (>160 mg/dl)23 (%),10.6,,,
+Himachal Pradesh,HP,Hamirpur,88. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),19.2,,,
+Himachal Pradesh,HP,Hamirpur,89. Blood sugar level - high (141-160 mg/dl)23 (%),8.0,,,
+Himachal Pradesh,HP,Hamirpur,90. Blood sugar level - very high (>160 mg/dl)23 (%),10.8,,,
+Himachal Pradesh,HP,Hamirpur,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),21.2,,,
+Himachal Pradesh,HP,Hamirpur,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),13.7,,,
+Himachal Pradesh,HP,Hamirpur,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),6.8,,,
+Himachal Pradesh,HP,Hamirpur,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),28.1,,,
+Himachal Pradesh,HP,Hamirpur,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),22.6,,,
+Himachal Pradesh,HP,Hamirpur,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),7.1,,,
+Himachal Pradesh,HP,Hamirpur,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),35.2,,,
+Himachal Pradesh,HP,Hamirpur,98. Ever undergone a screening test for cervical cancer (%),1.0,,,
+Himachal Pradesh,HP,Hamirpur,99. Ever undergone a breast examination for breast cancer (%),0.4,,,
+Himachal Pradesh,HP,Hamirpur,100. Ever undergone an oral cavity examination for oral cancer (%),0.2,,,
+Himachal Pradesh,HP,Hamirpur,101. Women age 15 years and above who use any kind of tobacco (%),0.7,,,
+Himachal Pradesh,HP,Hamirpur,102. Men age 15 years and above who use any kind of tobacco (%),33.0,,,
+Himachal Pradesh,HP,Hamirpur,103. Women age 15 years and above who consume alcohol (%),0.3,,,
+Himachal Pradesh,HP,Hamirpur,104. Men age 15 years and above who consume alcohol (%),29.2,,,
+Himachal Pradesh,HP,Kangra,1. Female population age 6 years and above who ever attended school (%),84.1,83.4,,
+Himachal Pradesh,HP,Kangra,2. Population below age 15 years (%),21.1,23.8,,
+Himachal Pradesh,HP,Kangra,"3. Sex ratio of the total population (females per 1,000 males)",1051.0,1107.0,,
+Himachal Pradesh,HP,Kangra,"4. Sex ratio at birth for children born in the last five years (females per 1,000 males)",795.0,781.0,,
+Himachal Pradesh,HP,Kangra,5. Children under age 5 years whose birth was registered with the civil authority (%),98.1,97.1,,
+Himachal Pradesh,HP,Kangra,6. Deaths in the last 3 years registered with the civil authority (%),90.8,,,
+Himachal Pradesh,HP,Kangra,7. Population living in households with electricity (%),99.7,100.0,,
+Himachal Pradesh,HP,Kangra,8. Population living in households with an improved drinking-water source1 (%),98.6,97.6,,
+Himachal Pradesh,HP,Kangra,9. Population living in households that use an improved sanitation facility2 (%),73.3,68.0,,
+Himachal Pradesh,HP,Kangra,10. Households using clean fuel for cooking3 (%),49.1,34.9,,
+Himachal Pradesh,HP,Kangra,11. Households using iodized salt (%),98.7,99.9,,
+Himachal Pradesh,HP,Kangra,12. Households with any usual member covered under a health insurance/financing scheme (%),36.4,25.6,,
+Himachal Pradesh,HP,Kangra,13. Children age 5 years who attended pre-primary school during the school year 2019-20 (%),1.2,,,
+Himachal Pradesh,HP,Kangra,14. Women who are literate4 (%),94.4,,,
+Himachal Pradesh,HP,Kangra,15. Women with 10 or more years of schooling (%),69.9,65.8,,
+Himachal Pradesh,HP,Kangra,16. Women age 20-24 years married before age 18 years (%),1.5,,,
+Himachal Pradesh,HP,Kangra,17. Births in the 5 years preceding the survey that are third or higher order (%),1.0,1.8,,
+Himachal Pradesh,HP,Kangra,18. Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),0.8,0.0,,
+Himachal Pradesh,HP,Kangra,19. Women age 15-24 years who use hygienic methods of protection during their menstrual period5 (%),89.0,83.7,,
+Himachal Pradesh,HP,Kangra,20. Any method6 (%),59.1,47.9,,
+Himachal Pradesh,HP,Kangra,21. Any modern method6 (%),52.0,41.3,,
+Himachal Pradesh,HP,Kangra,22. Female sterilization (%),32.6,24.4,,
+Himachal Pradesh,HP,Kangra,23. Male sterilization (%),0.5,0.8,,
+Himachal Pradesh,HP,Kangra,24. IUD/PPIUD (%),1.3,0.8,,
+Himachal Pradesh,HP,Kangra,25. Pill (%),1.1,0.9,,
+Himachal Pradesh,HP,Kangra,26. Condom (%),16.4,14.5,,
+Himachal Pradesh,HP,Kangra,27. Injectables (%),0.0,0.0,,
+Himachal Pradesh,HP,Kangra,28. Total unmet need7 (%),11.8,18.8,,
+Himachal Pradesh,HP,Kangra,29. Unmet need for spacing7 (%),3.6,4.8,,
+Himachal Pradesh,HP,Kangra,30. Health worker ever talked to female non-users about family planning (%),15.8,17.2,,
+Himachal Pradesh,HP,Kangra,31. Current users ever told about side effects of current method8 (%),52.2,48.1,,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Kangra,32. Mothers who had an antenatal check-up in the first trimester (%),51.5,74.5,,
+Himachal Pradesh,HP,Kangra,33. Mothers who had at least 4 antenatal care visits (%),56.3,81.9,,
+Himachal Pradesh,HP,Kangra,34. Mothers whose last birth was protected against neonatal tetanus9 (%),78.8,93.9,,
+Himachal Pradesh,HP,Kangra,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),63.4,57.8,,
+Himachal Pradesh,HP,Kangra,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),38.5,23.9,,
+Himachal Pradesh,HP,Kangra,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),96.4,97.0,,
+Himachal Pradesh,HP,Kangra,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),88.7,83.3,,
+Himachal Pradesh,HP,Kangra,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),2087.0,2432.0,,
+Himachal Pradesh,HP,Kangra,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Kangra,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),85.9,,,
+Himachal Pradesh,HP,Kangra,42. Institutional births (%),90.2,,,
+Himachal Pradesh,HP,Kangra,43. Institutional births in public facility (%),75.0,68.7,,
+Himachal Pradesh,HP,Kangra,44. Home births that were conducted by skilled health personnel10 (%),2.0,4.5,,
+Himachal Pradesh,HP,Kangra,45. Births attended by skilled health personnel10 (%),87.5,90.9,,
+Himachal Pradesh,HP,Kangra,46. Births delivered by caesarean section (%),28.2,21.5,,
+Himachal Pradesh,HP,Kangra,47. Births in a private health facility that were delivered by caesarean section (%),75.9,37.1,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Kangra,48. Births in a public health facility that were delivered by caesarean section (%),22.3,21.0,,
+Himachal Pradesh,HP,Kangra,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or,83.9,68.6,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Kangra,50. Cmhoiltdhreern's  argecea 1ll2- 2(%3 m) onths fully vaccinated based on information from vaccination card only12 (%) 11,92.0,83.7,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Kangra,51. Children age 12-23 months who have received BCG (%),97.4,95.2,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Kangra,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),83.9,85.9,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Kangra,53. Children age 12-23 months who have received 3 doses of penta or DPT vaccine (%),97.4,85.2,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Kangra,54. Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),95.2,81.0,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Kangra,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),28.7,,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Kangra,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),86.1,,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Kangra,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),97.4,75.6,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Kangra,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),79.0,65.4,,
+Himachal Pradesh,HP,Kangra,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),95.5,100.0,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Kangra,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),2.4,0.0,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Kangra,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),5.0,,,
+Himachal Pradesh,HP,Kangra,62. Children with diarrhoea in the 2 weeks preceding the survey who received oral rehydration salts (ORS) (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Kangra,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Kangra,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Kangra,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.4,0.6,,
+Himachal Pradesh,HP,Kangra,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),72.4,,Based on 25-49 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Kangra,67. Children under age 3 years breastfed within one hour of birth15 (%),43.3,45.5,,
+Himachal Pradesh,HP,Kangra,68. Children under age 6 months exclusively breastfed16 (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Kangra,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Kangra,"70. Breastfeeding children age 6-23 months receiving an adequate diet16, 17  (%)",15.5,8.3,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Kangra,"71. Non-breastfeeding children age 6-23 months receiving an adequate diet16, 17 (%)",,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Kangra,"72. Total children age 6-23 months receiving an adequate diet16, 17  (%)",18.6,10.5,,
+Himachal Pradesh,HP,Kangra,73. Children under 5 years who are stunted (height-for-age)18 (%),28.0,25.6,,
+Himachal Pradesh,HP,Kangra,74. Children under 5 years who are wasted (weight-for-height)18 (%),19.4,11.3,,
+Himachal Pradesh,HP,Kangra,75. Children under 5 years who are severely wasted (weight-for-height)19 (%),7.7,2.4,,
+Himachal Pradesh,HP,Kangra,76. Children under 5 years who are underweight (weight-for-age)18 (%),32.0,23.3,,
+Himachal Pradesh,HP,Kangra,77. Children under 5 years who are overweight (weight-for-height)20 (%),2.3,1.0,,
+Himachal Pradesh,HP,Kangra,78. Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)21 (%),15.2,18.8,,
+Himachal Pradesh,HP,Kangra,79. Women who are overweight or obese (BMI ≥25.0 kg/m2)21 (%),31.0,28.2,,
+Himachal Pradesh,HP,Kangra,80. Women who have high risk waist-to-hip ratio (≥0.85) (%),60.9,,,
+Himachal Pradesh,HP,Kangra,81. Children age 6-59 months who are anaemic (<11.0 g/dl)22 (%),55.3,47.3,,
+Himachal Pradesh,HP,Kangra,82. Non-pregnant women age 15-49 years who are anaemic (<12.0 g/dl)22 (%),63.7,60.2,,
+Himachal Pradesh,HP,Kangra,83. Pregnant women age 15-49 years who are anaemic (<11.0 g/dl)22 (%),,46.9,Percentage not shown; based on fewer than 25 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Kangra,84. All women age 15-49 years who are anaemic22 (%),63.4,59.7,,
+Himachal Pradesh,HP,Kangra,85. All women age 15-19 years who are anaemic22 (%),57.7,56.9,,
+Himachal Pradesh,HP,Kangra,86. Blood sugar level - high (141-160 mg/dl)23 (%),7.4,,,
+Himachal Pradesh,HP,Kangra,87. Blood sugar level - very high (>160 mg/dl)23 (%),7.9,,,
+Himachal Pradesh,HP,Kangra,88. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),16.4,,,
+Himachal Pradesh,HP,Kangra,89. Blood sugar level - high (141-160 mg/dl)23 (%),6.0,,,
+Himachal Pradesh,HP,Kangra,90. Blood sugar level - very high (>160 mg/dl)23 (%),8.4,,,
+Himachal Pradesh,HP,Kangra,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),15.7,,,
+Himachal Pradesh,HP,Kangra,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),13.4,,,
+Himachal Pradesh,HP,Kangra,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),6.8,,,
+Himachal Pradesh,HP,Kangra,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),24.9,,,
+Himachal Pradesh,HP,Kangra,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),17.5,,,
+Himachal Pradesh,HP,Kangra,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),5.1,,,
+Himachal Pradesh,HP,Kangra,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),26.6,,,
+Himachal Pradesh,HP,Kangra,98. Ever undergone a screening test for cervical cancer (%),0.2,,,
+Himachal Pradesh,HP,Kangra,99. Ever undergone a breast examination for breast cancer (%),0.2,,,
+Himachal Pradesh,HP,Kangra,100. Ever undergone an oral cavity examination for oral cancer (%),0.0,,,
+Himachal Pradesh,HP,Kangra,101. Women age 15 years and above who use any kind of tobacco (%),1.2,,,
+Himachal Pradesh,HP,Kangra,102. Men age 15 years and above who use any kind of tobacco (%),32.9,,,
+Himachal Pradesh,HP,Kangra,103. Women age 15 years and above who consume alcohol (%),1.1,,,
+Himachal Pradesh,HP,Kangra,104. Men age 15 years and above who consume alcohol (%),34.1,,,
+Himachal Pradesh,HP,Kinnaur,1. Female population age 6 years and above who ever attended school (%),73.8,71.2,,
+Himachal Pradesh,HP,Kinnaur,2. Population below age 15 years (%),19.1,21.6,,
+Himachal Pradesh,HP,Kinnaur,"3. Sex ratio of the total population (females per 1,000 males)",967.0,1048.0,,
+Himachal Pradesh,HP,Kinnaur,"4. Sex ratio at birth for children born in the last five years (females per 1,000 males)",691.0,807.0,,
+Himachal Pradesh,HP,Kinnaur,5. Children under age 5 years whose birth was registered with the civil authority (%),96.7,95.4,,
+Himachal Pradesh,HP,Kinnaur,6. Deaths in the last 3 years registered with the civil authority (%),96.8,,,
+Himachal Pradesh,HP,Kinnaur,7. Population living in households with electricity (%),99.6,99.4,,
+Himachal Pradesh,HP,Kinnaur,8. Population living in households with an improved drinking-water source1 (%),96.9,92.9,,
+Himachal Pradesh,HP,Kinnaur,9. Population living in households that use an improved sanitation facility2 (%),80.1,69.2,,
+Himachal Pradesh,HP,Kinnaur,10. Households using clean fuel for cooking3 (%),70.4,66.7,,
+Himachal Pradesh,HP,Kinnaur,11. Households using iodized salt (%),99.5,99.7,,
+Himachal Pradesh,HP,Kinnaur,12. Households with any usual member covered under a health insurance/financing scheme (%),35.9,26.2,,
+Himachal Pradesh,HP,Kinnaur,13. Children age 5 years who attended pre-primary school during the school year 2019-20 (%),8.6,,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Kinnaur,14. Women who are literate4 (%),89.1,,,
+Himachal Pradesh,HP,Kinnaur,15. Women with 10 or more years of schooling (%),56.1,57.6,,
+Himachal Pradesh,HP,Kinnaur,16. Women age 20-24 years married before age 18 years (%),27.9,22.5,,
+Himachal Pradesh,HP,Kinnaur,17. Births in the 5 years preceding the survey that are third or higher order (%),2.5,1.0,,
+Himachal Pradesh,HP,Kinnaur,18. Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),9.3,6.3,,
+Himachal Pradesh,HP,Kinnaur,19. Women age 15-24 years who use hygienic methods of protection during their menstrual period5 (%),95.9,94.9,,
+Himachal Pradesh,HP,Kinnaur,20. Any method6 (%),83.4,68.6,,
+Himachal Pradesh,HP,Kinnaur,21. Any modern method6 (%),76.7,57.7,,
+Himachal Pradesh,HP,Kinnaur,22. Female sterilization (%),26.7,21.2,,
+Himachal Pradesh,HP,Kinnaur,23. Male sterilization (%),14.4,15.5,,
+Himachal Pradesh,HP,Kinnaur,24. IUD/PPIUD (%),8.8,5.2,,
+Himachal Pradesh,HP,Kinnaur,25. Pill (%),4.8,2.4,,
+Himachal Pradesh,HP,Kinnaur,26. Condom (%),21.0,13.4,,
+Himachal Pradesh,HP,Kinnaur,27. Injectables (%),0.4,0.0,,
+Himachal Pradesh,HP,Kinnaur,28. Total unmet need7 (%),4.1,11.8,,
+Himachal Pradesh,HP,Kinnaur,29. Unmet need for spacing7 (%),1.8,4.7,,
+Himachal Pradesh,HP,Kinnaur,30. Health worker ever talked to female non-users about family planning (%),19.3,22.4,,
+Himachal Pradesh,HP,Kinnaur,31. Current users ever told about side effects of current method8 (%),67.7,43.3,,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Kinnaur,32. Mothers who had an antenatal check-up in the first trimester (%),77.8,82.2,,
+Himachal Pradesh,HP,Kinnaur,33. Mothers who had at least 4 antenatal care visits (%),75.3,67.3,,
+Himachal Pradesh,HP,Kinnaur,34. Mothers whose last birth was protected against neonatal tetanus9 (%),91.3,90.7,,
+Himachal Pradesh,HP,Kinnaur,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),68.7,49.8,,
+Himachal Pradesh,HP,Kinnaur,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),45.2,23.0,,
+Himachal Pradesh,HP,Kinnaur,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),97.5,98.1,,
+Himachal Pradesh,HP,Kinnaur,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),83.4,77.6,,
+Himachal Pradesh,HP,Kinnaur,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),3884.0,5033.0,,
+Himachal Pradesh,HP,Kinnaur,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,3.2,Percentage not shown; based on fewer than 25 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Kinnaur,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),85.6,,,
+Himachal Pradesh,HP,Kinnaur,42. Institutional births (%),82.7,79.9,,
+Himachal Pradesh,HP,Kinnaur,43. Institutional births in public facility (%),76.4,65.8,,
+Himachal Pradesh,HP,Kinnaur,44. Home births that were conducted by skilled health personnel10 (%),1.8,2.8,,
+Himachal Pradesh,HP,Kinnaur,45. Births attended by skilled health personnel10 (%),84.1,82.7,,
+Himachal Pradesh,HP,Kinnaur,46. Births delivered by caesarean section (%),18.6,20.2,,
+Himachal Pradesh,HP,Kinnaur,47. Births in a private health facility that were delivered by caesarean section (%),,52.3,Percentage not shown; based on fewer than 25 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Kinnaur,48. Births in a public health facility that were delivered by caesarean section (%),19.6,19.4,,
+Himachal Pradesh,HP,Kinnaur,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),91.7,82.0,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Kinnaur,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),91.7,,Based on 25-49 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Kinnaur,51. Children age 12-23 months who have received BCG (%),97.7,100.0,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Kinnaur,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),94.1,82.0,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Kinnaur,53. Children age 12-23 months who have received 3 doses of penta or DPT vaccine (%),94.1,96.3,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Kinnaur,54. Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),96.4,100.0,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Kinnaur,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),37.1,,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Kinnaur,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),94.1,,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Kinnaur,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),94.1,80.9,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Kinnaur,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),82.4,61.1,,
+Himachal Pradesh,HP,Kinnaur,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),100.0,100.0,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Kinnaur,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,0.0,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Kinnaur,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),7.4,8.3,,
+Himachal Pradesh,HP,Kinnaur,62. Children with diarrhoea in the 2 weeks preceding the survey who received oral rehydration salts (ORS) (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Kinnaur,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Kinnaur,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Kinnaur,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.8,3.5,,
+Himachal Pradesh,HP,Kinnaur,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Kinnaur,67. Children under age 3 years breastfed within one hour of birth15 (%),59.5,62.1,,
+Himachal Pradesh,HP,Kinnaur,68. Children under age 6 months exclusively breastfed16 (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Kinnaur,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Kinnaur,"70. Breastfeeding children age 6-23 months receiving an adequate diet16, 17  (%)",4.3,11.7,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Kinnaur,"71. Non-breastfeeding children age 6-23 months receiving an adequate diet16, 17 (%)",,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Kinnaur,"72. Total children age 6-23 months receiving an adequate diet16, 17  (%)",6.8,10.7,,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Kinnaur,73. Children under 5 years who are stunted (height-for-age)18 (%),32.2,18.4,,
+Himachal Pradesh,HP,Kinnaur,74. Children under 5 years who are wasted (weight-for-height)18 (%),11.3,12.4,,
+Himachal Pradesh,HP,Kinnaur,75. Children under 5 years who are severely wasted (weight-for-height)19 (%),4.3,5.4,,
+Himachal Pradesh,HP,Kinnaur,76. Children under 5 years who are underweight (weight-for-age)18 (%),18.9,15.9,,
+Himachal Pradesh,HP,Kinnaur,77. Children under 5 years who are overweight (weight-for-height)20 (%),9.0,2.4,,
+Himachal Pradesh,HP,Kinnaur,78. Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)21 (%),9.9,13.2,,
+Himachal Pradesh,HP,Kinnaur,79. Women who are overweight or obese (BMI ≥25.0 kg/m2)21 (%),26.4,27.6,,
+Himachal Pradesh,HP,Kinnaur,80. Women who have high risk waist-to-hip ratio (≥0.85) (%),59.5,,,
+Himachal Pradesh,HP,Kinnaur,81. Children age 6-59 months who are anaemic (<11.0 g/dl)22 (%),75.6,83.1,,
+Himachal Pradesh,HP,Kinnaur,82. Non-pregnant women age 15-49 years who are anaemic (<12.0 g/dl)22 (%),52.2,81.0,,
+Himachal Pradesh,HP,Kinnaur,83. Pregnant women age 15-49 years who are anaemic (<11.0 g/dl)22 (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Kinnaur,84. All women age 15-49 years who are anaemic22 (%),51.7,80.8,,
+Himachal Pradesh,HP,Kinnaur,85. All women age 15-19 years who are anaemic22 (%),52.4,81.0,,
+Himachal Pradesh,HP,Kinnaur,86. Blood sugar level - high (141-160 mg/dl)23 (%),3.5,,,
+Himachal Pradesh,HP,Kinnaur,87. Blood sugar level - very high (>160 mg/dl)23 (%),3.3,,,
+Himachal Pradesh,HP,Kinnaur,88. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),7.9,,,
+Himachal Pradesh,HP,Kinnaur,89. Blood sugar level - high (141-160 mg/dl)23 (%),4.0,,,
+Himachal Pradesh,HP,Kinnaur,90. Blood sugar level - very high (>160 mg/dl)23 (%),2.3,,,
+Himachal Pradesh,HP,Kinnaur,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),7.3,,,
+Himachal Pradesh,HP,Kinnaur,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),11.3,,,
+Himachal Pradesh,HP,Kinnaur,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.8,,,
+Himachal Pradesh,HP,Kinnaur,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),18.5,,,
+Himachal Pradesh,HP,Kinnaur,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),15.1,,,
+Himachal Pradesh,HP,Kinnaur,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),5.6,,,
+Himachal Pradesh,HP,Kinnaur,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),22.8,,,
+Himachal Pradesh,HP,Kinnaur,98. Ever undergone a screening test for cervical cancer (%),0.8,,,
+Himachal Pradesh,HP,Kinnaur,99. Ever undergone a breast examination for breast cancer (%),0.2,,,
+Himachal Pradesh,HP,Kinnaur,100. Ever undergone an oral cavity examination for oral cancer (%),0.0,,,
+Himachal Pradesh,HP,Kinnaur,101. Women age 15 years and above who use any kind of tobacco (%),2.0,,,
+Himachal Pradesh,HP,Kinnaur,102. Men age 15 years and above who use any kind of tobacco (%),44.1,,,
+Himachal Pradesh,HP,Kinnaur,103. Women age 15 years and above who consume alcohol (%),0.9,,,
+Himachal Pradesh,HP,Kinnaur,104. Men age 15 years and above who consume alcohol (%),50.6,,,
+Himachal Pradesh,HP,Kullu,1. Female population age 6 years and above who ever attended school (%),77.4,74.2,,
+Himachal Pradesh,HP,Kullu,2. Population below age 15 years (%),21.8,23.3,,
+Himachal Pradesh,HP,Kullu,"3. Sex ratio of the total population (females per 1,000 males)",1008.0,1015.0,,
+Himachal Pradesh,HP,Kullu,"4. Sex ratio at birth for children born in the last five years (females per 1,000 males)",1017.0,1009.0,,
+Himachal Pradesh,HP,Kullu,5. Children under age 5 years whose birth was registered with the civil authority (%),96.1,93.9,,
+Himachal Pradesh,HP,Kullu,6. Deaths in the last 3 years registered with the civil authority (%),88.5,,,
+Himachal Pradesh,HP,Kullu,7. Population living in households with electricity (%),99.2,99.5,,
+Himachal Pradesh,HP,Kullu,8. Population living in households with an improved drinking-water source1 (%),94.3,94.8,,
+Himachal Pradesh,HP,Kullu,9. Population living in households that use an improved sanitation facility2 (%),81.2,68.5,,
+Himachal Pradesh,HP,Kullu,10. Households using clean fuel for cooking3 (%),65.0,37.8,,
+Himachal Pradesh,HP,Kullu,11. Households using iodized salt (%),99.8,98.9,,
+Himachal Pradesh,HP,Kullu,12. Households with any usual member covered under a health insurance/financing scheme (%),26.8,19.8,,
+Himachal Pradesh,HP,Kullu,13. Children age 5 years who attended pre-primary school during the school year 2019-20 (%),7.8,,,
+Himachal Pradesh,HP,Kullu,14. Women who are literate4 (%),87.4,,,
+Himachal Pradesh,HP,Kullu,15. Women with 10 or more years of schooling (%),54.4,46.4,,
+Himachal Pradesh,HP,Kullu,16. Women age 20-24 years married before age 18 years (%),8.7,17.8,,
+Himachal Pradesh,HP,Kullu,17. Births in the 5 years preceding the survey that are third or higher order (%),0.9,0.4,,
+Himachal Pradesh,HP,Kullu,18. Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),4.7,8.0,,
+Himachal Pradesh,HP,Kullu,19. Women age 15-24 years who use hygienic methods of protection during their menstrual period5 (%),85.7,87.7,,
+Himachal Pradesh,HP,Kullu,20. Any method6 (%),78.3,63.4,,
+Himachal Pradesh,HP,Kullu,21. Any modern method6 (%),67.5,58.3,,
+Himachal Pradesh,HP,Kullu,22. Female sterilization (%),32.6,29.0,,
+Himachal Pradesh,HP,Kullu,23. Male sterilization (%),9.7,12.5,,
+Himachal Pradesh,HP,Kullu,24. IUD/PPIUD (%),0.9,1.0,,
+Himachal Pradesh,HP,Kullu,25. Pill (%),2.8,0.9,,
+Himachal Pradesh,HP,Kullu,26. Condom (%),20.9,14.8,,
+Himachal Pradesh,HP,Kullu,27. Injectables (%),0.3,0.2,,
+Himachal Pradesh,HP,Kullu,28. Total unmet need7 (%),5.0,15.4,,
+Himachal Pradesh,HP,Kullu,29. Unmet need for spacing7 (%),1.4,5.2,,
+Himachal Pradesh,HP,Kullu,30. Health worker ever talked to female non-users about family planning (%),16.8,13.2,,
+Himachal Pradesh,HP,Kullu,31. Current users ever told about side effects of current method8 (%),69.7,32.7,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Kullu,32. Mothers who had an antenatal check-up in the first trimester (%),62.1,82.1,,
+Himachal Pradesh,HP,Kullu,33. Mothers who had at least 4 antenatal care visits (%),60.0,71.3,,
+Himachal Pradesh,HP,Kullu,34. Mothers whose last birth was protected against neonatal tetanus9 (%),91.8,85.2,,
+Himachal Pradesh,HP,Kullu,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),61.9,56.3,,
+Himachal Pradesh,HP,Kullu,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),43.4,24.4,,
+Himachal Pradesh,HP,Kullu,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),99.3,94.6,,
+Himachal Pradesh,HP,Kullu,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),84.6,71.8,,
+Himachal Pradesh,HP,Kullu,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),2919.0,2927.0,,
+Himachal Pradesh,HP,Kullu,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),0.0,4.9,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Kullu,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),86.6,,,
+Himachal Pradesh,HP,Kullu,42. Institutional births (%),87.0,70.5,,
+Himachal Pradesh,HP,Kullu,43. Institutional births in public facility (%),66.8,62.7,,
+Himachal Pradesh,HP,Kullu,44. Home births that were conducted by skilled health personnel10 (%),2.5,3.9,,
+Himachal Pradesh,HP,Kullu,45. Births attended by skilled health personnel10 (%),88.1,73.5,,
+Himachal Pradesh,HP,Kullu,46. Births delivered by caesarean section (%),13.6,10.7,,
+Himachal Pradesh,HP,Kullu,47. Births in a private health facility that were delivered by caesarean section (%),35.1,59.0,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Kullu,48. Births in a public health facility that were delivered by caesarean section (%),9.8,9.8,,
+Himachal Pradesh,HP,Kullu,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),80.2,65.7,,
+Himachal Pradesh,HP,Kullu,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),95.0,87.8,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Kullu,51. Children age 12-23 months who have received BCG (%),93.8,96.0,,
+Himachal Pradesh,HP,Kullu,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),82.5,80.4,,
+Himachal Pradesh,HP,Kullu,53. Children age 12-23 months who have received 3 doses of penta or DPT vaccine (%),91.5,85.8,,
+Himachal Pradesh,HP,Kullu,54. Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),91.5,92.4,,
+Himachal Pradesh,HP,Kullu,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),53.3,,,
+Himachal Pradesh,HP,Kullu,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),87.4,,,
+Himachal Pradesh,HP,Kullu,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),91.5,70.0,,
+Himachal Pradesh,HP,Kullu,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),85.2,61.9,,
+Himachal Pradesh,HP,Kullu,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),92.9,96.3,,
+Himachal Pradesh,HP,Kullu,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),2.8,3.7,,
+Himachal Pradesh,HP,Kullu,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),8.5,3.5,,
+Himachal Pradesh,HP,Kullu,62. Children with diarrhoea in the 2 weeks preceding the survey who received oral rehydration salts (ORS) (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Kullu,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Kullu,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Kullu,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.5,2.5,,
+Himachal Pradesh,HP,Kullu,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,71.7,Percentage not shown; based on fewer than 25 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Kullu,67. Children under age 3 years breastfed within one hour of birth15 (%),50.7,49.7,,
+Himachal Pradesh,HP,Kullu,68. Children under age 6 months exclusively breastfed16 (%),69.9,,Based on 25-49 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Kullu,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Kullu,"70. Breastfeeding children age 6-23 months receiving an adequate diet16, 17  (%)",26.7,0.6,,
+Himachal Pradesh,HP,Kullu,"71. Non-breastfeeding children age 6-23 months receiving an adequate diet16, 17 (%)",,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Kullu,"72. Total children age 6-23 months receiving an adequate diet16, 17  (%)",28.7,0.9,,
+Himachal Pradesh,HP,Kullu,73. Children under 5 years who are stunted (height-for-age)18 (%),35.9,19.0,,
+Himachal Pradesh,HP,Kullu,74. Children under 5 years who are wasted (weight-for-height)18 (%),16.1,11.3,,
+Himachal Pradesh,HP,Kullu,75. Children under 5 years who are severely wasted (weight-for-height)19 (%),5.8,5.4,,
+Himachal Pradesh,HP,Kullu,76. Children under 5 years who are underweight (weight-for-age)18 (%),25.6,11.0,,
+Himachal Pradesh,HP,Kullu,77. Children under 5 years who are overweight (weight-for-height)20 (%),11.2,2.5,,
+Himachal Pradesh,HP,Kullu,78. Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)21 (%),11.0,13.4,,
+Himachal Pradesh,HP,Kullu,79. Women who are overweight or obese (BMI ≥25.0 kg/m2)21 (%),29.8,26.7,,
+Himachal Pradesh,HP,Kullu,80. Women who have high risk waist-to-hip ratio (≥0.85) (%),65.2,,,
+Himachal Pradesh,HP,Kullu,81. Children age 6-59 months who are anaemic (<11.0 g/dl)22 (%),75.3,54.9,,
+Himachal Pradesh,HP,Kullu,82. Non-pregnant women age 15-49 years who are anaemic (<12.0 g/dl)22 (%),53.7,60.0,,
+Himachal Pradesh,HP,Kullu,83. Pregnant women age 15-49 years who are anaemic (<11.0 g/dl)22 (%),23.1,44.7,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Kullu,84. All women age 15-49 years who are anaemic22 (%),52.8,59.5,,
+Himachal Pradesh,HP,Kullu,85. All women age 15-19 years who are anaemic22 (%),55.5,62.0,,
+Himachal Pradesh,HP,Kullu,86. Blood sugar level - high (141-160 mg/dl)23 (%),3.9,,,
+Himachal Pradesh,HP,Kullu,87. Blood sugar level - very high (>160 mg/dl)23 (%),4.3,,,
+Himachal Pradesh,HP,Kullu,88. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),9.4,,,
+Himachal Pradesh,HP,Kullu,89. Blood sugar level - high (141-160 mg/dl)23 (%),4.7,,,
+Himachal Pradesh,HP,Kullu,90. Blood sugar level - very high (>160 mg/dl)23 (%),3.6,,,
+Himachal Pradesh,HP,Kullu,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),9.1,,,
+Himachal Pradesh,HP,Kullu,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),10.3,,,
+Himachal Pradesh,HP,Kullu,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),2.9,,,
+Himachal Pradesh,HP,Kullu,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),17.4,,,
+Himachal Pradesh,HP,Kullu,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),15.1,,,
+Himachal Pradesh,HP,Kullu,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.6,,,
+Himachal Pradesh,HP,Kullu,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),20.6,,,
+Himachal Pradesh,HP,Kullu,98. Ever undergone a screening test for cervical cancer (%),0.7,,,
+Himachal Pradesh,HP,Kullu,99. Ever undergone a breast examination for breast cancer (%),0.6,,,
+Himachal Pradesh,HP,Kullu,100. Ever undergone an oral cavity examination for oral cancer (%),1.4,,,
+Himachal Pradesh,HP,Kullu,101. Women age 15 years and above who use any kind of tobacco (%),1.4,,,
+Himachal Pradesh,HP,Kullu,102. Men age 15 years and above who use any kind of tobacco (%),33.6,,,
+Himachal Pradesh,HP,Kullu,103. Women age 15 years and above who consume alcohol (%),1.0,,,
+Himachal Pradesh,HP,Kullu,104. Men age 15 years and above who consume alcohol (%),33.7,,,
+Himachal Pradesh,HP,Lahul and Spiti,1. Female population age 6 years and above who ever attended school (%),65.6,65.7,,
+Himachal Pradesh,HP,Lahul and Spiti,2. Population below age 15 years (%),17.8,19.0,,
+Himachal Pradesh,HP,Lahul and Spiti,"3. Sex ratio of the total population (females per 1,000 males)",1077.0,994.0,,
+Himachal Pradesh,HP,Lahul and Spiti,"4. Sex ratio at birth for children born in the last five years (females per 1,000 males)",1182.0,787.0,,
+Himachal Pradesh,HP,Lahul and Spiti,5. Children under age 5 years whose birth was registered with the civil authority (%),98.9,95.1,,
+Himachal Pradesh,HP,Lahul and Spiti,6. Deaths in the last 3 years registered with the civil authority (%),92.3,,,
+Himachal Pradesh,HP,Lahul and Spiti,7. Population living in households with electricity (%),99.8,98.2,,
+Himachal Pradesh,HP,Lahul and Spiti,8. Population living in households with an improved drinking-water source1 (%),89.2,97.2,,
+Himachal Pradesh,HP,Lahul and Spiti,9. Population living in households that use an improved sanitation facility2 (%),61.7,54.7,,
+Himachal Pradesh,HP,Lahul and Spiti,10. Households using clean fuel for cooking3 (%),71.7,59.9,,
+Himachal Pradesh,HP,Lahul and Spiti,11. Households using iodized salt (%),99.2,99.7,,
+Himachal Pradesh,HP,Lahul and Spiti,12. Households with any usual member covered under a health insurance/financing scheme (%),31.2,21.3,,
+Himachal Pradesh,HP,Lahul and Spiti,13. Children age 5 years who attended pre-primary school during the school year 2019-20 (%),9.6,,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Lahul and Spiti,14. Women who are literate4 (%),86.2,,,
+Himachal Pradesh,HP,Lahul and Spiti,15. Women with 10 or more years of schooling (%),55.9,51.9,,
+Himachal Pradesh,HP,Lahul and Spiti,16. Women age 20-24 years married before age 18 years (%),11.2,13.8,,
+Himachal Pradesh,HP,Lahul and Spiti,17. Births in the 5 years preceding the survey that are third or higher order (%),1.5,1.4,,
+Himachal Pradesh,HP,Lahul and Spiti,18. Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),3.1,7.5,,
+Himachal Pradesh,HP,Lahul and Spiti,19. Women age 15-24 years who use hygienic methods of protection during their menstrual period5 (%),90.9,84.6,,
+Himachal Pradesh,HP,Lahul and Spiti,20. Any method6 (%),78.5,62.0,,
+Himachal Pradesh,HP,Lahul and Spiti,21. Any modern method6 (%),66.3,58.7,,
+Himachal Pradesh,HP,Lahul and Spiti,22. Female sterilization (%),27.5,28.6,,
+Himachal Pradesh,HP,Lahul and Spiti,23. Male sterilization (%),13.3,15.6,,
+Himachal Pradesh,HP,Lahul and Spiti,24. IUD/PPIUD (%),4.4,4.3,,
+Himachal Pradesh,HP,Lahul and Spiti,25. Pill (%),1.6,2.5,,
+Himachal Pradesh,HP,Lahul and Spiti,26. Condom (%),18.1,7.6,,
+Himachal Pradesh,HP,Lahul and Spiti,27. Injectables (%),0.9,0.0,,
+Himachal Pradesh,HP,Lahul and Spiti,28. Total unmet need7 (%),5.7,12.9,,
+Himachal Pradesh,HP,Lahul and Spiti,29. Unmet need for spacing7 (%),1.4,3.7,,
+Himachal Pradesh,HP,Lahul and Spiti,30. Health worker ever talked to female non-users about family planning (%),16.4,16.9,,
+Himachal Pradesh,HP,Lahul and Spiti,31. Current users ever told about side effects of current method8 (%),46.4,35.9,,
+Himachal Pradesh,HP,Lahul and Spiti,32. Mothers who had an antenatal check-up in the first trimester (%),62.4,71.4,,
+Himachal Pradesh,HP,Lahul and Spiti,33. Mothers who had at least 4 antenatal care visits (%),65.6,61.5,,
+Himachal Pradesh,HP,Lahul and Spiti,34. Mothers whose last birth was protected against neonatal tetanus9 (%),95.4,90.7,,
+Himachal Pradesh,HP,Lahul and Spiti,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),72.7,46.0,,
+Himachal Pradesh,HP,Lahul and Spiti,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),48.0,12.2,,
+Himachal Pradesh,HP,Lahul and Spiti,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),99.4,97.6,,
+Himachal Pradesh,HP,Lahul and Spiti,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),81.1,62.6,,
+Himachal Pradesh,HP,Lahul and Spiti,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),3533.0,4472.0,,
+Himachal Pradesh,HP,Lahul and Spiti,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,0.0,Percentage not shown; based on fewer than 25 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Lahul and Spiti,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),81.0,,,
+Himachal Pradesh,HP,Lahul and Spiti,42. Institutional births (%),86.4,73.3,,
+Himachal Pradesh,HP,Lahul and Spiti,43. Institutional births in public facility (%),75.9,59.9,,
+Himachal Pradesh,HP,Lahul and Spiti,44. Home births that were conducted by skilled health personnel10 (%),2.3,3.3,,
+Himachal Pradesh,HP,Lahul and Spiti,45. Births attended by skilled health personnel10 (%),86.7,76.6,,
+Himachal Pradesh,HP,Lahul and Spiti,46. Births delivered by caesarean section (%),17.7,14.1,,
+Himachal Pradesh,HP,Lahul and Spiti,47. Births in a private health facility that were delivered by caesarean section (%),,54.3,Percentage not shown; based on fewer than 25 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Lahul and Spiti,48. Births in a public health facility that were delivered by caesarean section (%),16.4,11.3,,
+Himachal Pradesh,HP,Lahul and Spiti,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),77.9,58.9,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Lahul and Spiti,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),100.0,,Based on 25-49 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Lahul and Spiti,51. Children age 12-23 months who have received BCG (%),97.5,91.7,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Lahul and Spiti,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),79.8,64.9,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Lahul and Spiti,53. Children age 12-23 months who have received 3 doses of penta or DPT vaccine (%),92.7,76.3,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Lahul and Spiti,54. Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),92.9,91.7,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Lahul and Spiti,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),26.7,,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Lahul and Spiti,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),85.9,,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Lahul and Spiti,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),92.7,43.6,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Lahul and Spiti,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),74.5,51.6,,
+Himachal Pradesh,HP,Lahul and Spiti,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),95.5,97.1,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Lahul and Spiti,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),4.5,0.0,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Lahul and Spiti,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),6.5,3.4,,
+Himachal Pradesh,HP,Lahul and Spiti,62. Children with diarrhoea in the 2 weeks preceding the survey who received oral rehydration salts (ORS) (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Lahul and Spiti,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Lahul and Spiti,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Lahul and Spiti,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),1.3,0.7,,
+Himachal Pradesh,HP,Lahul and Spiti,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Lahul and Spiti,67. Children under age 3 years breastfed within one hour of birth15 (%),57.1,42.7,,
+Himachal Pradesh,HP,Lahul and Spiti,68. Children under age 6 months exclusively breastfed16 (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Lahul and Spiti,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Lahul and Spiti,"70. Breastfeeding children age 6-23 months receiving an adequate diet16, 17  (%)",21.7,11.6,,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Lahul and Spiti,"71. Non-breastfeeding children age 6-23 months receiving an adequate diet16, 17 (%)",,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Lahul and Spiti,"72. Total children age 6-23 months receiving an adequate diet16, 17  (%)",19.7,9.8,,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Lahul and Spiti,73. Children under 5 years who are stunted (height-for-age)18 (%),28.5,23.0,,
+Himachal Pradesh,HP,Lahul and Spiti,74. Children under 5 years who are wasted (weight-for-height)18 (%),16.3,20.8,,
+Himachal Pradesh,HP,Lahul and Spiti,75. Children under 5 years who are severely wasted (weight-for-height)19 (%),10.3,7.3,,
+Himachal Pradesh,HP,Lahul and Spiti,76. Children under 5 years who are underweight (weight-for-age)18 (%),18.4,16.1,,
+Himachal Pradesh,HP,Lahul and Spiti,77. Children under 5 years who are overweight (weight-for-height)20 (%),7.4,5.0,,
+Himachal Pradesh,HP,Lahul and Spiti,78. Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)21 (%),9.9,9.6,,
+Himachal Pradesh,HP,Lahul and Spiti,79. Women who are overweight or obese (BMI ≥25.0 kg/m2)21 (%),26.9,23.4,,
+Himachal Pradesh,HP,Lahul and Spiti,80. Women who have high risk waist-to-hip ratio (≥0.85) (%),61.9,,,
+Himachal Pradesh,HP,Lahul and Spiti,81. Children age 6-59 months who are anaemic (<11.0 g/dl)22 (%),91.0,94.7,,
+Himachal Pradesh,HP,Lahul and Spiti,82. Non-pregnant women age 15-49 years who are anaemic (<12.0 g/dl)22 (%),82.3,83.5,,
+Himachal Pradesh,HP,Lahul and Spiti,83. Pregnant women age 15-49 years who are anaemic (<11.0 g/dl)22 (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Lahul and Spiti,84. All women age 15-49 years who are anaemic22 (%),82.1,83.2,,
+Himachal Pradesh,HP,Lahul and Spiti,85. All women age 15-19 years who are anaemic22 (%),85.8,81.6,,
+Himachal Pradesh,HP,Lahul and Spiti,86. Blood sugar level - high (141-160 mg/dl)23 (%),4.1,,,
+Himachal Pradesh,HP,Lahul and Spiti,87. Blood sugar level - very high (>160 mg/dl)23 (%),2.3,,,
+Himachal Pradesh,HP,Lahul and Spiti,88. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),6.7,,,
+Himachal Pradesh,HP,Lahul and Spiti,89. Blood sugar level - high (141-160 mg/dl)23 (%),4.3,,,
+Himachal Pradesh,HP,Lahul and Spiti,90. Blood sugar level - very high (>160 mg/dl)23 (%),2.8,,,
+Himachal Pradesh,HP,Lahul and Spiti,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),8.5,,,
+Himachal Pradesh,HP,Lahul and Spiti,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),8.7,,,
+Himachal Pradesh,HP,Lahul and Spiti,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),3.6,,,
+Himachal Pradesh,HP,Lahul and Spiti,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),15.0,,,
+Himachal Pradesh,HP,Lahul and Spiti,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),11.6,,,
+Himachal Pradesh,HP,Lahul and Spiti,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),5.6,,,
+Himachal Pradesh,HP,Lahul and Spiti,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),19.2,,,
+Himachal Pradesh,HP,Lahul and Spiti,98. Ever undergone a screening test for cervical cancer (%),1.2,,,
+Himachal Pradesh,HP,Lahul and Spiti,99. Ever undergone a breast examination for breast cancer (%),0.2,,,
+Himachal Pradesh,HP,Lahul and Spiti,100. Ever undergone an oral cavity examination for oral cancer (%),0.4,,,
+Himachal Pradesh,HP,Lahul and Spiti,101. Women age 15 years and above who use any kind of tobacco (%),1.7,,,
+Himachal Pradesh,HP,Lahul and Spiti,102. Men age 15 years and above who use any kind of tobacco (%),33.5,,,
+Himachal Pradesh,HP,Lahul and Spiti,103. Women age 15 years and above who consume alcohol (%),1.8,,,
+Himachal Pradesh,HP,Lahul and Spiti,104. Men age 15 years and above who consume alcohol (%),47.9,,,
+Himachal Pradesh,HP,Mandi,1. Female population age 6 years and above who ever attended school (%),79.2,75.4,,
+Himachal Pradesh,HP,Mandi,2. Population below age 15 years (%),22.3,25.0,,
+Himachal Pradesh,HP,Mandi,"3. Sex ratio of the total population (females per 1,000 males)",1159.0,1167.0,,
+Himachal Pradesh,HP,Mandi,"4. Sex ratio at birth for children born in the last five years (females per 1,000 males)",840.0,921.0,,
+Himachal Pradesh,HP,Mandi,5. Children under age 5 years whose birth was registered with the civil authority (%),99.3,93.5,,
+Himachal Pradesh,HP,Mandi,6. Deaths in the last 3 years registered with the civil authority (%),95.6,,,
+Himachal Pradesh,HP,Mandi,7. Population living in households with electricity (%),99.5,99.7,,
+Himachal Pradesh,HP,Mandi,8. Population living in households with an improved drinking-water source1 (%),96.5,96.0,,
+Himachal Pradesh,HP,Mandi,9. Population living in households that use an improved sanitation facility2 (%),87.0,73.6,,
+Himachal Pradesh,HP,Mandi,10. Households using clean fuel for cooking3 (%),38.6,23.8,,
+Himachal Pradesh,HP,Mandi,11. Households using iodized salt (%),98.9,99.0,,
+Himachal Pradesh,HP,Mandi,12. Households with any usual member covered under a health insurance/financing scheme (%),41.3,37.2,,
+Himachal Pradesh,HP,Mandi,13. Children age 5 years who attended pre-primary school during the school year 2019-20 (%),2.6,,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Mandi,14. Women who are literate4 (%),94.0,,,
+Himachal Pradesh,HP,Mandi,15. Women with 10 or more years of schooling (%),71.8,63.9,,
+Himachal Pradesh,HP,Mandi,16. Women age 20-24 years married before age 18 years (%),6.3,14.3,,
+Himachal Pradesh,HP,Mandi,17. Births in the 5 years preceding the survey that are third or higher order (%),0.8,1.6,,
+Himachal Pradesh,HP,Mandi,18. Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),6.3,5.6,,
+Himachal Pradesh,HP,Mandi,19. Women age 15-24 years who use hygienic methods of protection during their menstrual period5 (%),92.4,84.8,,
+Himachal Pradesh,HP,Mandi,20. Any method6 (%),81.4,65.6,,
+Himachal Pradesh,HP,Mandi,21. Any modern method6 (%),71.3,62.8,,
+Himachal Pradesh,HP,Mandi,22. Female sterilization (%),50.5,51.9,,
+Himachal Pradesh,HP,Mandi,23. Male sterilization (%),1.4,1.0,,
+Himachal Pradesh,HP,Mandi,24. IUD/PPIUD (%),0.6,0.4,,
+Himachal Pradesh,HP,Mandi,25. Pill (%),1.1,1.4,,
+Himachal Pradesh,HP,Mandi,26. Condom (%),17.6,7.9,,
+Himachal Pradesh,HP,Mandi,27. Injectables (%),0.1,0.0,,
+Himachal Pradesh,HP,Mandi,28. Total unmet need7 (%),7.1,16.1,,
+Himachal Pradesh,HP,Mandi,29. Unmet need for spacing7 (%),2.8,7.2,,
+Himachal Pradesh,HP,Mandi,30. Health worker ever talked to female non-users about family planning (%),14.2,17.5,,
+Himachal Pradesh,HP,Mandi,31. Current users ever told about side effects of current method8 (%),44.8,33.9,,
+Himachal Pradesh,HP,Mandi,32. Mothers who had an antenatal check-up in the first trimester (%),81.2,61.1,,
+Himachal Pradesh,HP,Mandi,33. Mothers who had at least 4 antenatal care visits (%),70.3,56.1,,
+Himachal Pradesh,HP,Mandi,34. Mothers whose last birth was protected against neonatal tetanus9 (%),95.5,87.5,,
+Himachal Pradesh,HP,Mandi,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),68.4,34.2,,
+Himachal Pradesh,HP,Mandi,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),39.9,15.8,,
+Himachal Pradesh,HP,Mandi,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),100.0,94.1,,
+Himachal Pradesh,HP,Mandi,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),84.2,56.3,,
+Himachal Pradesh,HP,Mandi,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),2859.0,3443.0,,
+Himachal Pradesh,HP,Mandi,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,0.0,Percentage not shown; based on fewer than 25 unweighted cases,
+Himachal Pradesh,HP,Mandi,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),83.2,,,
+Himachal Pradesh,HP,Mandi,42. Institutional births (%),86.6,64.3,,
+Himachal Pradesh,HP,Mandi,43. Institutional births in public facility (%),77.4,53.0,,
+Himachal Pradesh,HP,Mandi,44. Home births that were conducted by skilled health personnel10 (%),1.4,2.8,,
+Himachal Pradesh,HP,Mandi,45. Births attended by skilled health personnel10 (%),86.4,67.3,,
+Himachal Pradesh,HP,Mandi,46. Births delivered by caesarean section (%),16.0,10.0,,
+Himachal Pradesh,HP,Mandi,47. Births in a private health facility that were delivered by caesarean section (%),,37.7,Percentage not shown; based on fewer than 25 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Mandi,48. Births in a public health facility that were delivered by caesarean section (%),14.8,10.7,,
+Himachal Pradesh,HP,Mandi,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),94.1,78.8,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Mandi,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),98.0,96.6,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Mandi,51. Children age 12-23 months who have received BCG (%),100.0,98.5,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Mandi,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),94.1,88.3,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Mandi,53. Children age 12-23 months who have received 3 doses of penta or DPT vaccine (%),100.0,87.4,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Mandi,54. Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),100.0,94.4,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Mandi,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),56.6,,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Mandi,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),95.9,,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Mandi,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),100.0,81.7,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Mandi,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),71.9,69.0,,
+Himachal Pradesh,HP,Mandi,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),100.0,96.7,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Mandi,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,3.3,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Mandi,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),2.6,5.9,,
+Himachal Pradesh,HP,Mandi,62. Children with diarrhoea in the 2 weeks preceding the survey who received oral rehydration salts (ORS) (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Mandi,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Mandi,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Mandi,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.4,2.6,,
+Himachal Pradesh,HP,Mandi,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,76.4,Percentage not shown; based on fewer than 25 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Mandi,67. Children under age 3 years breastfed within one hour of birth15 (%),45.5,35.4,,
+Himachal Pradesh,HP,Mandi,68. Children under age 6 months exclusively breastfed16 (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Mandi,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Mandi,"70. Breastfeeding children age 6-23 months receiving an adequate diet16, 17  (%)",23.2,15.8,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Mandi,"71. Non-breastfeeding children age 6-23 months receiving an adequate diet16, 17 (%)",,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Mandi,"72. Total children age 6-23 months receiving an adequate diet16, 17  (%)",24.4,13.9,,
+Himachal Pradesh,HP,Mandi,73. Children under 5 years who are stunted (height-for-age)18 (%),31.3,26.3,,
+Himachal Pradesh,HP,Mandi,74. Children under 5 years who are wasted (weight-for-height)18 (%),19.9,13.1,,
+Himachal Pradesh,HP,Mandi,75. Children under 5 years who are severely wasted (weight-for-height)19 (%),8.0,4.5,,
+Himachal Pradesh,HP,Mandi,76. Children under 5 years who are underweight (weight-for-age)18 (%),21.3,16.2,,
+Himachal Pradesh,HP,Mandi,77. Children under 5 years who are overweight (weight-for-height)20 (%),7.0,2.4,,
+Himachal Pradesh,HP,Mandi,78. Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)21 (%),12.8,15.2,,
+Himachal Pradesh,HP,Mandi,79. Women who are overweight or obese (BMI ≥25.0 kg/m2)21 (%),31.6,24.0,,
+Himachal Pradesh,HP,Mandi,80. Women who have high risk waist-to-hip ratio (≥0.85) (%),67.5,,,
+Himachal Pradesh,HP,Mandi,81. Children age 6-59 months who are anaemic (<11.0 g/dl)22 (%),52.2,37.8,,
+Himachal Pradesh,HP,Mandi,82. Non-pregnant women age 15-49 years who are anaemic (<12.0 g/dl)22 (%),49.0,39.7,,
+Himachal Pradesh,HP,Mandi,83. Pregnant women age 15-49 years who are anaemic (<11.0 g/dl)22 (%),43.5,42.2,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Mandi,84. All women age 15-49 years who are anaemic22 (%),48.9,39.8,,
+Himachal Pradesh,HP,Mandi,85. All women age 15-19 years who are anaemic22 (%),49.9,46.5,,
+Himachal Pradesh,HP,Mandi,86. Blood sugar level - high (141-160 mg/dl)23 (%),6.9,,,
+Himachal Pradesh,HP,Mandi,87. Blood sugar level - very high (>160 mg/dl)23 (%),5.4,,,
+Himachal Pradesh,HP,Mandi,88. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),13.2,,,
+Himachal Pradesh,HP,Mandi,89. Blood sugar level - high (141-160 mg/dl)23 (%),8.1,,,
+Himachal Pradesh,HP,Mandi,90. Blood sugar level - very high (>160 mg/dl)23 (%),5.8,,,
+Himachal Pradesh,HP,Mandi,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),15.3,,,
+Himachal Pradesh,HP,Mandi,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),10.8,,,
+Himachal Pradesh,HP,Mandi,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),4.2,,,
+Himachal Pradesh,HP,Mandi,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),20.8,,,
+Himachal Pradesh,HP,Mandi,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),15.7,,,
+Himachal Pradesh,HP,Mandi,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),4.7,,,
+Himachal Pradesh,HP,Mandi,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),23.8,,,
+Himachal Pradesh,HP,Mandi,98. Ever undergone a screening test for cervical cancer (%),0.5,,,
+Himachal Pradesh,HP,Mandi,99. Ever undergone a breast examination for breast cancer (%),0.4,,,
+Himachal Pradesh,HP,Mandi,100. Ever undergone an oral cavity examination for oral cancer (%),0.2,,,
+Himachal Pradesh,HP,Mandi,101. Women age 15 years and above who use any kind of tobacco (%),1.4,,,
+Himachal Pradesh,HP,Mandi,102. Men age 15 years and above who use any kind of tobacco (%),31.7,,,
+Himachal Pradesh,HP,Mandi,103. Women age 15 years and above who consume alcohol (%),0.6,,,
+Himachal Pradesh,HP,Mandi,104. Men age 15 years and above who consume alcohol (%),35.0,,,
+Himachal Pradesh,HP,Shimla,1. Female population age 6 years and above who ever attended school (%),81.6,77.9,,
+Himachal Pradesh,HP,Shimla,2. Population below age 15 years (%),19.0,21.8,,
+Himachal Pradesh,HP,Shimla,"3. Sex ratio of the total population (females per 1,000 males)",956.0,997.0,,
+Himachal Pradesh,HP,Shimla,"4. Sex ratio at birth for children born in the last five years (females per 1,000 males)",808.0,1233.0,,
+Himachal Pradesh,HP,Shimla,5. Children under age 5 years whose birth was registered with the civil authority (%),99.1,94.9,,
+Himachal Pradesh,HP,Shimla,6. Deaths in the last 3 years registered with the civil authority (%),96.3,,,
+Himachal Pradesh,HP,Shimla,7. Population living in households with electricity (%),100.0,99.5,,
+Himachal Pradesh,HP,Shimla,8. Population living in households with an improved drinking-water source1 (%),97.3,97.8,,
+Himachal Pradesh,HP,Shimla,9. Population living in households that use an improved sanitation facility2 (%),87.3,74.0,,
+Himachal Pradesh,HP,Shimla,10. Households using clean fuel for cooking3 (%),78.0,67.2,,
+Himachal Pradesh,HP,Shimla,11. Households using iodized salt (%),99.9,98.9,,
+Himachal Pradesh,HP,Shimla,12. Households with any usual member covered under a health insurance/financing scheme (%),37.1,28.7,,
+Himachal Pradesh,HP,Shimla,13. Children age 5 years who attended pre-primary school during the school year 2019-20 (%),9.0,,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Shimla,14. Women who are literate4 (%),93.4,,,
+Himachal Pradesh,HP,Shimla,15. Women with 10 or more years of schooling (%),69.7,63.5,,
+Himachal Pradesh,HP,Shimla,16. Women age 20-24 years married before age 18 years (%),6.1,8.9,,
+Himachal Pradesh,HP,Shimla,17. Births in the 5 years preceding the survey that are third or higher order (%),0.9,2.2,,
+Himachal Pradesh,HP,Shimla,18. Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),6.1,1.9,,
+Himachal Pradesh,HP,Shimla,19. Women age 15-24 years who use hygienic methods of protection during their menstrual period5 (%),93.4,95.0,,
+Himachal Pradesh,HP,Shimla,20. Any method6 (%),89.1,73.3,,
+Himachal Pradesh,HP,Shimla,21. Any modern method6 (%),76.0,64.6,,
+Himachal Pradesh,HP,Shimla,22. Female sterilization (%),36.8,38.7,,
+Himachal Pradesh,HP,Shimla,23. Male sterilization (%),4.1,1.9,,
+Himachal Pradesh,HP,Shimla,24. IUD/PPIUD (%),1.3,1.2,,
+Himachal Pradesh,HP,Shimla,25. Pill (%),1.8,2.5,,
+Himachal Pradesh,HP,Shimla,26. Condom (%),31.2,20.2,,
+Himachal Pradesh,HP,Shimla,27. Injectables (%),0.4,0.2,,
+Himachal Pradesh,HP,Shimla,28. Total unmet need7 (%),3.8,8.9,,
+Himachal Pradesh,HP,Shimla,29. Unmet need for spacing7 (%),1.3,1.9,,
+Himachal Pradesh,HP,Shimla,30. Health worker ever talked to female non-users about family planning (%),29.1,13.2,,
+Himachal Pradesh,HP,Shimla,31. Current users ever told about side effects of current method8 (%),76.9,43.4,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Shimla,32. Mothers who had an antenatal check-up in the first trimester (%),83.1,78.2,,
+Himachal Pradesh,HP,Shimla,33. Mothers who had at least 4 antenatal care visits (%),85.3,78.9,,
+Himachal Pradesh,HP,Shimla,34. Mothers whose last birth was protected against neonatal tetanus9 (%),95.5,85.4,,
+Himachal Pradesh,HP,Shimla,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),77.2,54.3,,
+Himachal Pradesh,HP,Shimla,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),53.3,21.2,,
+Himachal Pradesh,HP,Shimla,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),100.0,96.2,,
+Himachal Pradesh,HP,Shimla,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),91.6,74.5,,
+Himachal Pradesh,HP,Shimla,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),6658.0,4036.0,,
+Himachal Pradesh,HP,Shimla,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,2.6,Percentage not shown; based on fewer than 25 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Shimla,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),91.2,,,
+Himachal Pradesh,HP,Shimla,42. Institutional births (%),92.2,77.3,,
+Himachal Pradesh,HP,Shimla,43. Institutional births in public facility (%),81.9,69.1,,
+Himachal Pradesh,HP,Shimla,44. Home births that were conducted by skilled health personnel10 (%),0.7,1.1,,
+Himachal Pradesh,HP,Shimla,45. Births attended by skilled health personnel10 (%),91.3,78.8,,
+Himachal Pradesh,HP,Shimla,46. Births delivered by caesarean section (%),12.9,16.4,,
+Himachal Pradesh,HP,Shimla,47. Births in a private health facility that were delivered by caesarean section (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Shimla,48. Births in a public health facility that were delivered by caesarean section (%),13.9,18.1,,
+Himachal Pradesh,HP,Shimla,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),96.5,87.3,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Shimla,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),98.2,88.8,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Shimla,51. Children age 12-23 months who have received BCG (%),100.0,100.0,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Shimla,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),98.3,89.6,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Shimla,53. Children age 12-23 months who have received 3 doses of penta or DPT vaccine (%),98.3,91.8,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Shimla,54. Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),96.5,97.8,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Shimla,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),28.1,,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Shimla,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),81.2,,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Shimla,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),98.3,89.5,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Shimla,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),73.9,52.5,,
+Himachal Pradesh,HP,Shimla,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),97.1,100.0,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Shimla,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),2.9,0.0,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Shimla,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),1.6,3.6,,
+Himachal Pradesh,HP,Shimla,62. Children with diarrhoea in the 2 weeks preceding the survey who received oral rehydration salts (ORS) (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Shimla,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Shimla,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Shimla,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),3.8,1.1,,
+Himachal Pradesh,HP,Shimla,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),,61.8,Percentage not shown; based on fewer than 25 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Shimla,67. Children under age 3 years breastfed within one hour of birth15 (%),39.7,46.5,,
+Himachal Pradesh,HP,Shimla,68. Children under age 6 months exclusively breastfed16 (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Shimla,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Shimla,"70. Breastfeeding children age 6-23 months receiving an adequate diet16, 17  (%)",21.0,16.3,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Shimla,"71. Non-breastfeeding children age 6-23 months receiving an adequate diet16, 17 (%)",,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Shimla,"72. Total children age 6-23 months receiving an adequate diet16, 17  (%)",18.3,13.7,,
+Himachal Pradesh,HP,Shimla,73. Children under 5 years who are stunted (height-for-age)18 (%),27.1,30.3,,
+Himachal Pradesh,HP,Shimla,74. Children under 5 years who are wasted (weight-for-height)18 (%),15.5,15.0,,
+Himachal Pradesh,HP,Shimla,75. Children under 5 years who are severely wasted (weight-for-height)19 (%),7.8,2.2,,
+Himachal Pradesh,HP,Shimla,76. Children under 5 years who are underweight (weight-for-age)18 (%),14.9,24.8,,
+Himachal Pradesh,HP,Shimla,77. Children under 5 years who are overweight (weight-for-height)20 (%),8.1,1.7,,
+Himachal Pradesh,HP,Shimla,78. Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)21 (%),9.9,14.1,,
+Himachal Pradesh,HP,Shimla,79. Women who are overweight or obese (BMI ≥25.0 kg/m2)21 (%),28.4,33.2,,
+Himachal Pradesh,HP,Shimla,80. Women who have high risk waist-to-hip ratio (≥0.85) (%),63.3,,,
+Himachal Pradesh,HP,Shimla,81. Children age 6-59 months who are anaemic (<11.0 g/dl)22 (%),59.1,70.0,,
+Himachal Pradesh,HP,Shimla,82. Non-pregnant women age 15-49 years who are anaemic (<12.0 g/dl)22 (%),46.7,69.1,,
+Himachal Pradesh,HP,Shimla,83. Pregnant women age 15-49 years who are anaemic (<11.0 g/dl)22 (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Shimla,84. All women age 15-49 years who are anaemic22 (%),46.5,68.7,,
+Himachal Pradesh,HP,Shimla,85. All women age 15-19 years who are anaemic22 (%),51.9,71.7,,
+Himachal Pradesh,HP,Shimla,86. Blood sugar level - high (141-160 mg/dl)23 (%),4.8,,,
+Himachal Pradesh,HP,Shimla,87. Blood sugar level - very high (>160 mg/dl)23 (%),4.3,,,
+Himachal Pradesh,HP,Shimla,88. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),10.4,,,
+Himachal Pradesh,HP,Shimla,89. Blood sugar level - high (141-160 mg/dl)23 (%),7.7,,,
+Himachal Pradesh,HP,Shimla,90. Blood sugar level - very high (>160 mg/dl)23 (%),4.7,,,
+Himachal Pradesh,HP,Shimla,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),14.1,,,
+Himachal Pradesh,HP,Shimla,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),10.7,,,
+Himachal Pradesh,HP,Shimla,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),4.0,,,
+Himachal Pradesh,HP,Shimla,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),19.9,,,
+Himachal Pradesh,HP,Shimla,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),16.3,,,
+Himachal Pradesh,HP,Shimla,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),4.8,,,
+Himachal Pradesh,HP,Shimla,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),23.5,,,
+Himachal Pradesh,HP,Shimla,98. Ever undergone a screening test for cervical cancer (%),3.5,,,
+Himachal Pradesh,HP,Shimla,99. Ever undergone a breast examination for breast cancer (%),1.1,,,
+Himachal Pradesh,HP,Shimla,100. Ever undergone an oral cavity examination for oral cancer (%),0.0,,,
+Himachal Pradesh,HP,Shimla,101. Women age 15 years and above who use any kind of tobacco (%),1.5,,,
+Himachal Pradesh,HP,Shimla,102. Men age 15 years and above who use any kind of tobacco (%),31.7,,,
+Himachal Pradesh,HP,Shimla,103. Women age 15 years and above who consume alcohol (%),0.5,,,
+Himachal Pradesh,HP,Shimla,104. Men age 15 years and above who consume alcohol (%),34.4,,,
+Himachal Pradesh,HP,Sirmaur,1. Female population age 6 years and above who ever attended school (%),75.7,73.5,,
+Himachal Pradesh,HP,Sirmaur,2. Population below age 15 years (%),25.5,25.9,,
+Himachal Pradesh,HP,Sirmaur,"3. Sex ratio of the total population (females per 1,000 males)",923.0,1015.0,,
+Himachal Pradesh,HP,Sirmaur,"4. Sex ratio at birth for children born in the last five years (females per 1,000 males)",925.0,828.0,,
+Himachal Pradesh,HP,Sirmaur,5. Children under age 5 years whose birth was registered with the civil authority (%),97.5,94.9,,
+Himachal Pradesh,HP,Sirmaur,6. Deaths in the last 3 years registered with the civil authority (%),95.7,,,
+Himachal Pradesh,HP,Sirmaur,7. Population living in households with electricity (%),99.2,99.2,,
+Himachal Pradesh,HP,Sirmaur,8. Population living in households with an improved drinking-water source1 (%),95.7,90.8,,
+Himachal Pradesh,HP,Sirmaur,9. Population living in households that use an improved sanitation facility2 (%),84.3,70.4,,
+Himachal Pradesh,HP,Sirmaur,10. Households using clean fuel for cooking3 (%),46.8,38.2,,
+Himachal Pradesh,HP,Sirmaur,11. Households using iodized salt (%),98.5,98.9,,
+Himachal Pradesh,HP,Sirmaur,12. Households with any usual member covered under a health insurance/financing scheme (%),26.2,22.6,,
+Himachal Pradesh,HP,Sirmaur,13. Children age 5 years who attended pre-primary school during the school year 2019-20 (%),1.8,,,
+Himachal Pradesh,HP,Sirmaur,14. Women who are literate4 (%),84.9,,,
+Himachal Pradesh,HP,Sirmaur,15. Women with 10 or more years of schooling (%),55.6,48.6,,
+Himachal Pradesh,HP,Sirmaur,16. Women age 20-24 years married before age 18 years (%),5.0,7.6,,
+Himachal Pradesh,HP,Sirmaur,17. Births in the 5 years preceding the survey that are third or higher order (%),2.4,4.0,,
+Himachal Pradesh,HP,Sirmaur,18. Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),1.8,3.9,,
+Himachal Pradesh,HP,Sirmaur,19. Women age 15-24 years who use hygienic methods of protection during their menstrual period5 (%),92.9,79.1,,
+Himachal Pradesh,HP,Sirmaur,20. Any method6 (%),86.9,60.5,,
+Himachal Pradesh,HP,Sirmaur,21. Any modern method6 (%),74.5,56.8,,
+Himachal Pradesh,HP,Sirmaur,22. Female sterilization (%),44.2,39.9,,
+Himachal Pradesh,HP,Sirmaur,23. Male sterilization (%),1.4,0.6,,
+Himachal Pradesh,HP,Sirmaur,24. IUD/PPIUD (%),1.3,1.1,,
+Himachal Pradesh,HP,Sirmaur,25. Pill (%),1.9,2.0,,
+Himachal Pradesh,HP,Sirmaur,26. Condom (%),25.8,12.6,,
+Himachal Pradesh,HP,Sirmaur,27. Injectables (%),0.0,0.0,,
+Himachal Pradesh,HP,Sirmaur,28. Total unmet need7 (%),3.1,13.6,,
+Himachal Pradesh,HP,Sirmaur,29. Unmet need for spacing7 (%),1.6,4.1,,
+Himachal Pradesh,HP,Sirmaur,30. Health worker ever talked to female non-users about family planning (%),24.9,14.3,,
+Himachal Pradesh,HP,Sirmaur,31. Current users ever told about side effects of current method8 (%),76.5,31.5,,
+Himachal Pradesh,HP,Sirmaur,32. Mothers who had an antenatal check-up in the first trimester (%),91.0,70.7,,
+Himachal Pradesh,HP,Sirmaur,33. Mothers who had at least 4 antenatal care visits (%),85.2,59.8,,
+Himachal Pradesh,HP,Sirmaur,34. Mothers whose last birth was protected against neonatal tetanus9 (%),98.8,90.6,,
+Himachal Pradesh,HP,Sirmaur,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),76.0,47.3,,
+Himachal Pradesh,HP,Sirmaur,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),54.5,28.4,,
+Himachal Pradesh,HP,Sirmaur,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),100.0,97.8,,
+Himachal Pradesh,HP,Sirmaur,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),88.7,63.6,,
+Himachal Pradesh,HP,Sirmaur,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),2586.0,2862.0,,
+Himachal Pradesh,HP,Sirmaur,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),0.0,0.0,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Sirmaur,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),85.5,,,
+Himachal Pradesh,HP,Sirmaur,42. Institutional births (%),87.4,77.8,,
+Himachal Pradesh,HP,Sirmaur,43. Institutional births in public facility (%),70.1,65.5,,
+Himachal Pradesh,HP,Sirmaur,44. Home births that were conducted by skilled health personnel10 (%),0.5,0.3,,
+Himachal Pradesh,HP,Sirmaur,45. Births attended by skilled health personnel10 (%),88.2,76.6,,
+Himachal Pradesh,HP,Sirmaur,46. Births delivered by caesarean section (%),16.7,16.3,,
+Himachal Pradesh,HP,Sirmaur,47. Births in a private health facility that were delivered by caesarean section (%),56.5,49.4,,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Sirmaur,48. Births in a public health facility that were delivered by caesarean section (%),9.8,15.7,,
+Himachal Pradesh,HP,Sirmaur,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),93.9,70.6,,
+Himachal Pradesh,HP,Sirmaur,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),93.7,94.5,,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Sirmaur,51. Children age 12-23 months who have received BCG (%),100.0,90.8,,
+Himachal Pradesh,HP,Sirmaur,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),96.8,79.8,,
+Himachal Pradesh,HP,Sirmaur,53. Children age 12-23 months who have received 3 doses of penta or DPT vaccine (%),97.2,90.9,,
+Himachal Pradesh,HP,Sirmaur,54. Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),100.0,98.3,,
+Himachal Pradesh,HP,Sirmaur,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),40.0,,,
+Himachal Pradesh,HP,Sirmaur,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),92.2,,,
+Himachal Pradesh,HP,Sirmaur,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),97.2,63.0,,
+Himachal Pradesh,HP,Sirmaur,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),75.1,61.6,,
+Himachal Pradesh,HP,Sirmaur,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),100.0,89.9,,
+Himachal Pradesh,HP,Sirmaur,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,6.7,,
+Himachal Pradesh,HP,Sirmaur,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),3.3,5.2,,
+Himachal Pradesh,HP,Sirmaur,62. Children with diarrhoea in the 2 weeks preceding the survey who received oral rehydration salts (ORS) (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Sirmaur,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Sirmaur,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Sirmaur,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),2.8,0.6,,
+Himachal Pradesh,HP,Sirmaur,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),78.7,,Based on 25-49 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Sirmaur,67. Children under age 3 years breastfed within one hour of birth15 (%),67.9,52.1,,
+Himachal Pradesh,HP,Sirmaur,68. Children under age 6 months exclusively breastfed16 (%),75.9,60.4,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Sirmaur,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,33.4,Percentage not shown; based on fewer than 25 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Sirmaur,"70. Breastfeeding children age 6-23 months receiving an adequate diet16, 17  (%)",11.5,7.4,,
+Himachal Pradesh,HP,Sirmaur,"71. Non-breastfeeding children age 6-23 months receiving an adequate diet16, 17 (%)",,8.1,Percentage not shown; based on fewer than 25 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Sirmaur,"72. Total children age 6-23 months receiving an adequate diet16, 17  (%)",9.9,7.6,,
+Himachal Pradesh,HP,Sirmaur,73. Children under 5 years who are stunted (height-for-age)18 (%),28.6,23.5,,
+Himachal Pradesh,HP,Sirmaur,74. Children under 5 years who are wasted (weight-for-height)18 (%),18.5,19.5,,
+Himachal Pradesh,HP,Sirmaur,75. Children under 5 years who are severely wasted (weight-for-height)19 (%),9.1,7.1,,
+Himachal Pradesh,HP,Sirmaur,76. Children under 5 years who are underweight (weight-for-age)18 (%),24.2,25.3,,
+Himachal Pradesh,HP,Sirmaur,77. Children under 5 years who are overweight (weight-for-height)20 (%),6.6,2.6,,
+Himachal Pradesh,HP,Sirmaur,78. Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)21 (%),16.1,19.3,,
+Himachal Pradesh,HP,Sirmaur,79. Women who are overweight or obese (BMI ≥25.0 kg/m2)21 (%),23.2,25.2,,
+Himachal Pradesh,HP,Sirmaur,80. Women who have high risk waist-to-hip ratio (≥0.85) (%),61.5,,,
+Himachal Pradesh,HP,Sirmaur,81. Children age 6-59 months who are anaemic (<11.0 g/dl)22 (%),58.5,65.1,,
+Himachal Pradesh,HP,Sirmaur,82. Non-pregnant women age 15-49 years who are anaemic (<12.0 g/dl)22 (%),50.2,48.1,,
+Himachal Pradesh,HP,Sirmaur,83. Pregnant women age 15-49 years who are anaemic (<11.0 g/dl)22 (%),46.3,46.3,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Sirmaur,84. All women age 15-49 years who are anaemic22 (%),50.1,48.0,,
+Himachal Pradesh,HP,Sirmaur,85. All women age 15-19 years who are anaemic22 (%),54.1,49.8,,
+Himachal Pradesh,HP,Sirmaur,86. Blood sugar level - high (141-160 mg/dl)23 (%),4.5,,,
+Himachal Pradesh,HP,Sirmaur,87. Blood sugar level - very high (>160 mg/dl)23 (%),4.1,,,
+Himachal Pradesh,HP,Sirmaur,88. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),10.1,,,
+Himachal Pradesh,HP,Sirmaur,89. Blood sugar level - high (141-160 mg/dl)23 (%),4.5,,,
+Himachal Pradesh,HP,Sirmaur,90. Blood sugar level - very high (>160 mg/dl)23 (%),4.4,,,
+Himachal Pradesh,HP,Sirmaur,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),9.9,,,
+Himachal Pradesh,HP,Sirmaur,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),10.9,,,
+Himachal Pradesh,HP,Sirmaur,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),4.5,,,
+Himachal Pradesh,HP,Sirmaur,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),19.1,,,
+Himachal Pradesh,HP,Sirmaur,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),14.5,,,
+Himachal Pradesh,HP,Sirmaur,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),4.2,,,
+Himachal Pradesh,HP,Sirmaur,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),20.8,,,
+Himachal Pradesh,HP,Sirmaur,98. Ever undergone a screening test for cervical cancer (%),0.0,,,
+Himachal Pradesh,HP,Sirmaur,99. Ever undergone a breast examination for breast cancer (%),0.0,,,
+Himachal Pradesh,HP,Sirmaur,100. Ever undergone an oral cavity examination for oral cancer (%),0.0,,,
+Himachal Pradesh,HP,Sirmaur,101. Women age 15 years and above who use any kind of tobacco (%),4.1,,,
+Himachal Pradesh,HP,Sirmaur,102. Men age 15 years and above who use any kind of tobacco (%),27.3,,,
+Himachal Pradesh,HP,Sirmaur,103. Women age 15 years and above who consume alcohol (%),0.3,,,
+Himachal Pradesh,HP,Sirmaur,104. Men age 15 years and above who consume alcohol (%),22.2,,,
+Himachal Pradesh,HP,Solan,1. Female population age 6 years and above who ever attended school (%),82.4,80.9,,
+Himachal Pradesh,HP,Solan,2. Population below age 15 years (%),22.3,25.7,,
+Himachal Pradesh,HP,Solan,"3. Sex ratio of the total population (females per 1,000 males)",947.0,931.0,,
+Himachal Pradesh,HP,Solan,"4. Sex ratio at birth for children born in the last five years (females per 1,000 males)",882.0,1115.0,,
+Himachal Pradesh,HP,Solan,5. Children under age 5 years whose birth was registered with the civil authority (%),99.5,95.7,,
+Himachal Pradesh,HP,Solan,6. Deaths in the last 3 years registered with the civil authority (%),96.3,,,
+Himachal Pradesh,HP,Solan,7. Population living in households with electricity (%),99.2,98.8,,
+Himachal Pradesh,HP,Solan,8. Population living in households with an improved drinking-water source1 (%),96.5,94.0,,
+Himachal Pradesh,HP,Solan,9. Population living in households that use an improved sanitation facility2 (%),81.8,71.0,,
+Himachal Pradesh,HP,Solan,10. Households using clean fuel for cooking3 (%),62.5,48.4,,
+Himachal Pradesh,HP,Solan,11. Households using iodized salt (%),99.1,99.1,,
+Himachal Pradesh,HP,Solan,12. Households with any usual member covered under a health insurance/financing scheme (%),41.9,29.3,,
+Himachal Pradesh,HP,Solan,13. Children age 5 years who attended pre-primary school during the school year 2019-20 (%),7.5,,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Solan,14. Women who are literate4 (%),91.0,,,
+Himachal Pradesh,HP,Solan,15. Women with 10 or more years of schooling (%),62.3,53.4,,
+Himachal Pradesh,HP,Solan,16. Women age 20-24 years married before age 18 years (%),13.3,11.6,,
+Himachal Pradesh,HP,Solan,17. Births in the 5 years preceding the survey that are third or higher order (%),3.3,2.0,,
+Himachal Pradesh,HP,Solan,18. Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),5.8,2.7,,
+Himachal Pradesh,HP,Solan,19. Women age 15-24 years who use hygienic methods of protection during their menstrual period5 (%),94.4,91.5,,
+Himachal Pradesh,HP,Solan,20. Any method6 (%),84.6,72.4,,
+Himachal Pradesh,HP,Solan,21. Any modern method6 (%),65.5,67.7,,
+Himachal Pradesh,HP,Solan,22. Female sterilization (%),41.7,50.2,,
+Himachal Pradesh,HP,Solan,23. Male sterilization (%),1.7,0.9,,
+Himachal Pradesh,HP,Solan,24. IUD/PPIUD (%),0.6,1.8,,
+Himachal Pradesh,HP,Solan,25. Pill (%),0.9,1.5,,
+Himachal Pradesh,HP,Solan,26. Condom (%),19.0,13.2,,
+Himachal Pradesh,HP,Solan,27. Injectables (%),0.0,0.0,,
+Himachal Pradesh,HP,Solan,28. Total unmet need7 (%),2.9,9.9,,
+Himachal Pradesh,HP,Solan,29. Unmet need for spacing7 (%),1.8,3.5,,
+Himachal Pradesh,HP,Solan,30. Health worker ever talked to female non-users about family planning (%),21.8,12.9,,
+Himachal Pradesh,HP,Solan,31. Current users ever told about side effects of current method8 (%),71.6,42.2,,
+Himachal Pradesh,HP,Solan,32. Mothers who had an antenatal check-up in the first trimester (%),87.1,73.3,,
+Himachal Pradesh,HP,Solan,33. Mothers who had at least 4 antenatal care visits (%),88.2,77.6,,
+Himachal Pradesh,HP,Solan,34. Mothers whose last birth was protected against neonatal tetanus9 (%),95.2,81.5,,
+Himachal Pradesh,HP,Solan,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),74.6,48.1,,
+Himachal Pradesh,HP,Solan,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),51.2,18.1,,
+Himachal Pradesh,HP,Solan,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),98.6,94.8,,
+Himachal Pradesh,HP,Solan,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),85.9,73.8,,
+Himachal Pradesh,HP,Solan,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),5401.0,2313.0,,
+Himachal Pradesh,HP,Solan,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,0.0,Percentage not shown; based on fewer than 25 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Solan,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),88.7,,,
+Himachal Pradesh,HP,Solan,42. Institutional births (%),90.2,75.4,,
+Himachal Pradesh,HP,Solan,43. Institutional births in public facility (%),68.0,57.1,,
+Himachal Pradesh,HP,Solan,44. Home births that were conducted by skilled health personnel10 (%),2.1,4.4,,
+Himachal Pradesh,HP,Solan,45. Births attended by skilled health personnel10 (%),86.8,78.4,,
+Himachal Pradesh,HP,Solan,46. Births delivered by caesarean section (%),25.2,16.9,,
+Himachal Pradesh,HP,Solan,47. Births in a private health facility that were delivered by caesarean section (%),39.7,53.4,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Solan,48. Births in a public health facility that were delivered by caesarean section (%),24.0,12.3,,
+Himachal Pradesh,HP,Solan,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),92.6,79.8,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Solan,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),100.0,92.3,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Solan,51. Children age 12-23 months who have received BCG (%),97.6,91.4,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Solan,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),92.6,81.9,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Solan,53. Children age 12-23 months who have received 3 doses of penta or DPT vaccine (%),95.0,87.5,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Solan,54. Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),95.0,89.6,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Solan,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),60.1,,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Solan,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),95.0,,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Solan,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),97.6,77.4,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Solan,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),78.5,58.3,,
+Himachal Pradesh,HP,Solan,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),97.0,97.7,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Solan,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),3.0,2.3,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Solan,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),3.0,12.1,,
+Himachal Pradesh,HP,Solan,62. Children with diarrhoea in the 2 weeks preceding the survey who received oral rehydration salts (ORS) (%),,75.4,Percentage not shown; based on fewer than 25 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Solan,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,6.5,Percentage not shown; based on fewer than 25 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Solan,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,74.8,Percentage not shown; based on fewer than 25 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Solan,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),4.0,0.7,,
+Himachal Pradesh,HP,Solan,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),79.1,83.2,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Solan,67. Children under age 3 years breastfed within one hour of birth15 (%),56.9,43.7,,
+Himachal Pradesh,HP,Solan,68. Children under age 6 months exclusively breastfed16 (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Solan,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Solan,"70. Breastfeeding children age 6-23 months receiving an adequate diet16, 17  (%)",15.4,11.6,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Solan,"71. Non-breastfeeding children age 6-23 months receiving an adequate diet16, 17 (%)",,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Solan,"72. Total children age 6-23 months receiving an adequate diet16, 17  (%)",19.0,8.6,,
+Himachal Pradesh,HP,Solan,73. Children under 5 years who are stunted (height-for-age)18 (%),32.3,27.6,,
+Himachal Pradesh,HP,Solan,74. Children under 5 years who are wasted (weight-for-height)18 (%),20.9,17.5,,
+Himachal Pradesh,HP,Solan,75. Children under 5 years who are severely wasted (weight-for-height)19 (%),5.6,2.9,,
+Himachal Pradesh,HP,Solan,76. Children under 5 years who are underweight (weight-for-age)18 (%),26.7,29.4,,
+Himachal Pradesh,HP,Solan,77. Children under 5 years who are overweight (weight-for-height)20 (%),5.7,1.9,,
+Himachal Pradesh,HP,Solan,78. Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)21 (%),11.9,15.5,,
+Himachal Pradesh,HP,Solan,79. Women who are overweight or obese (BMI ≥25.0 kg/m2)21 (%),29.7,32.7,,
+Himachal Pradesh,HP,Solan,80. Women who have high risk waist-to-hip ratio (≥0.85) (%),61.8,,,
+Himachal Pradesh,HP,Solan,81. Children age 6-59 months who are anaemic (<11.0 g/dl)22 (%),50.4,71.8,,
+Himachal Pradesh,HP,Solan,82. Non-pregnant women age 15-49 years who are anaemic (<12.0 g/dl)22 (%),48.4,67.7,,
+Himachal Pradesh,HP,Solan,83. Pregnant women age 15-49 years who are anaemic (<11.0 g/dl)22 (%),30.5,62.4,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Solan,84. All women age 15-49 years who are anaemic22 (%),47.5,67.5,,
+Himachal Pradesh,HP,Solan,85. All women age 15-19 years who are anaemic22 (%),44.3,70.0,,
+Himachal Pradesh,HP,Solan,86. Blood sugar level - high (141-160 mg/dl)23 (%),5.1,,,
+Himachal Pradesh,HP,Solan,87. Blood sugar level - very high (>160 mg/dl)23 (%),4.3,,,
+Himachal Pradesh,HP,Solan,88. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),10.8,,,
+Himachal Pradesh,HP,Solan,89. Blood sugar level - high (141-160 mg/dl)23 (%),6.2,,,
+Himachal Pradesh,HP,Solan,90. Blood sugar level - very high (>160 mg/dl)23 (%),5.9,,,
+Himachal Pradesh,HP,Solan,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),13.4,,,
+Himachal Pradesh,HP,Solan,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),12.5,,,
+Himachal Pradesh,HP,Solan,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),5.4,,,
+Himachal Pradesh,HP,Solan,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),21.7,,,
+Himachal Pradesh,HP,Solan,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),14.0,,,
+Himachal Pradesh,HP,Solan,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),6.5,,,
+Himachal Pradesh,HP,Solan,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),22.3,,,
+Himachal Pradesh,HP,Solan,98. Ever undergone a screening test for cervical cancer (%),1.3,,,
+Himachal Pradesh,HP,Solan,99. Ever undergone a breast examination for breast cancer (%),0.7,,,
+Himachal Pradesh,HP,Solan,100. Ever undergone an oral cavity examination for oral cancer (%),0.3,,,
+Himachal Pradesh,HP,Solan,101. Women age 15 years and above who use any kind of tobacco (%),2.9,,,
+Himachal Pradesh,HP,Solan,102. Men age 15 years and above who use any kind of tobacco (%),29.0,,,
+Himachal Pradesh,HP,Solan,103. Women age 15 years and above who consume alcohol (%),0.5,,,
+Himachal Pradesh,HP,Solan,104. Men age 15 years and above who consume alcohol (%),27.4,,,
+Himachal Pradesh,HP,Una,1. Female population age 6 years and above who ever attended school (%),86.1,86.1,,
+Himachal Pradesh,HP,Una,2. Population below age 15 years (%),21.8,25.7,,
+Himachal Pradesh,HP,Una,"3. Sex ratio of the total population (females per 1,000 males)",1026.0,1097.0,,
+Himachal Pradesh,HP,Una,"4. Sex ratio at birth for children born in the last five years (females per 1,000 males)",873.0,884.0,,
+Himachal Pradesh,HP,Una,5. Children under age 5 years whose birth was registered with the civil authority (%),95.5,94.3,,
+Himachal Pradesh,HP,Una,6. Deaths in the last 3 years registered with the civil authority (%),92.9,,,
+Himachal Pradesh,HP,Una,7. Population living in households with electricity (%),98.5,99.7,,
+Himachal Pradesh,HP,Una,8. Population living in households with an improved drinking-water source1 (%),98.8,98.9,,
+Himachal Pradesh,HP,Una,9. Population living in households that use an improved sanitation facility2 (%),81.4,71.0,,
+Himachal Pradesh,HP,Una,10. Households using clean fuel for cooking3 (%),46.2,32.2,,
+Himachal Pradesh,HP,Una,11. Households using iodized salt (%),98.6,98.3,,
+Himachal Pradesh,HP,Una,12. Households with any usual member covered under a health insurance/financing scheme (%),22.6,10.7,,
+Himachal Pradesh,HP,Una,13. Children age 5 years who attended pre-primary school during the school year 2019-20 (%),4.4,,,
+Himachal Pradesh,HP,Una,14. Women who are literate4 (%),92.5,,,
+Himachal Pradesh,HP,Una,15. Women with 10 or more years of schooling (%),66.8,57.8,,
+Himachal Pradesh,HP,Una,16. Women age 20-24 years married before age 18 years (%),1.6,4.0,,
+Himachal Pradesh,HP,Una,17. Births in the 5 years preceding the survey that are third or higher order (%),0.0,0.7,,
+Himachal Pradesh,HP,Una,18. Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),2.1,1.3,,
+Himachal Pradesh,HP,Una,19. Women age 15-24 years who use hygienic methods of protection during their menstrual period5 (%),93.7,77.1,,
+Himachal Pradesh,HP,Una,20. Any method6 (%),53.3,33.9,,
+Himachal Pradesh,HP,Una,21. Any modern method6 (%),45.9,32.6,,
+Himachal Pradesh,HP,Una,22. Female sterilization (%),26.3,15.6,,
+Himachal Pradesh,HP,Una,23. Male sterilization (%),0.2,0.4,,
+Himachal Pradesh,HP,Una,24. IUD/PPIUD (%),2.4,0.6,,
+Himachal Pradesh,HP,Una,25. Pill (%),2.3,1.7,,
+Himachal Pradesh,HP,Una,26. Condom (%),14.6,14.2,,
+Himachal Pradesh,HP,Una,27. Injectables (%),0.0,0.2,,
+Himachal Pradesh,HP,Una,28. Total unmet need7 (%),15.8,20.6,,
+Himachal Pradesh,HP,Una,29. Unmet need for spacing7 (%),5.0,5.3,,
+Himachal Pradesh,HP,Una,30. Health worker ever talked to female non-users about family planning (%),14.8,17.3,,
+Himachal Pradesh,HP,Una,31. Current users ever told about side effects of current method8 (%),71.4,47.2,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Una,32. Mothers who had an antenatal check-up in the first trimester (%),70.7,68.0,,
+Himachal Pradesh,HP,Una,33. Mothers who had at least 4 antenatal care visits (%),71.7,72.3,,
+Himachal Pradesh,HP,Una,34. Mothers whose last birth was protected against neonatal tetanus9 (%),86.7,77.5,,
+Himachal Pradesh,HP,Una,35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),46.5,52.1,,
+Himachal Pradesh,HP,Una,36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),36.0,36.4,,
+Himachal Pradesh,HP,Una,37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),99.4,96.3,,
+Himachal Pradesh,HP,Una,38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),84.9,68.4,,
+Himachal Pradesh,HP,Una,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),4903.0,4418.0,,
+Himachal Pradesh,HP,Una,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,0.0,Percentage not shown; based on fewer than 25 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Una,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),87.1,,,
+Himachal Pradesh,HP,Una,42. Institutional births (%),89.7,80.6,,
+Himachal Pradesh,HP,Una,43. Institutional births in public facility (%),52.2,61.0,,
+Himachal Pradesh,HP,Una,44. Home births that were conducted by skilled health personnel10 (%),2.5,6.8,,
+Himachal Pradesh,HP,Una,45. Births attended by skilled health personnel10 (%),89.9,85.5,,
+Himachal Pradesh,HP,Una,46. Births delivered by caesarean section (%),39.1,27.1,,
+Himachal Pradesh,HP,Una,47. Births in a private health facility that were delivered by caesarean section (%),58.1,51.8,,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Una,48. Births in a public health facility that were delivered by caesarean section (%),33.2,27.8,,
+Himachal Pradesh,HP,Una,49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%),75.3,59.1,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Una,50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%),93.8,79.4,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Una,51. Children age 12-23 months who have received BCG (%),100.0,94.1,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Una,52. Children age 12-23 months who have received 3 doses of polio vaccine13 (%),77.6,83.9,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Una,53. Children age 12-23 months who have received 3 doses of penta or DPT vaccine (%),88.2,79.4,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Una,54. Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),90.5,75.5,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Una,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),37.0,,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Una,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),72.2,,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Una,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),88.0,73.1,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Una,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),79.1,72.9,,
+Himachal Pradesh,HP,Una,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),96.6,98.6,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Una,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),3.4,1.4,Based on 25-49 unweighted cases,
+Himachal Pradesh,HP,Una,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),9.2,8.4,,
+Himachal Pradesh,HP,Una,62. Children with diarrhoea in the 2 weeks preceding the survey who received oral rehydration salts (ORS) (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Una,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Una,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Una,65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.4,2.0,,
+Himachal Pradesh,HP,Una,66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%),85.2,81.1,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
+Himachal Pradesh,HP,Una,67. Children under age 3 years breastfed within one hour of birth15 (%),16.4,22.4,,
+Himachal Pradesh,HP,Una,68. Children under age 6 months exclusively breastfed16 (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Una,69. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Una,"70. Breastfeeding children age 6-23 months receiving an adequate diet16, 17  (%)",9.1,12.1,,
+Himachal Pradesh,HP,Una,"71. Non-breastfeeding children age 6-23 months receiving an adequate diet16, 17 (%)",,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Una,"72. Total children age 6-23 months receiving an adequate diet16, 17  (%)",8.8,12.6,,
+Himachal Pradesh,HP,Una,73. Children under 5 years who are stunted (height-for-age)18 (%),24.7,22.6,,
+Himachal Pradesh,HP,Una,74. Children under 5 years who are wasted (weight-for-height)18 (%),13.1,10.7,,
+Himachal Pradesh,HP,Una,75. Children under 5 years who are severely wasted (weight-for-height)19 (%),5.9,3.5,,
+Himachal Pradesh,HP,Una,76. Children under 5 years who are underweight (weight-for-age)18 (%),25.8,14.6,,
+Himachal Pradesh,HP,Una,77. Children under 5 years who are overweight (weight-for-height)20 (%),2.8,0.8,,
+Himachal Pradesh,HP,Una,78. Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)21 (%),16.3,14.7,,
+Himachal Pradesh,HP,Una,79. Women who are overweight or obese (BMI ≥25.0 kg/m2)21 (%),41.2,37.5,,
+Himachal Pradesh,HP,Una,80. Women who have high risk waist-to-hip ratio (≥0.85) (%),58.2,,,
+Himachal Pradesh,HP,Una,81. Children age 6-59 months who are anaemic (<11.0 g/dl)22 (%),58.7,56.6,,
+Himachal Pradesh,HP,Una,82. Non-pregnant women age 15-49 years who are anaemic (<12.0 g/dl)22 (%),60.8,46.6,,
+Himachal Pradesh,HP,Una,83. Pregnant women age 15-49 years who are anaemic (<11.0 g/dl)22 (%),60.4,,Based on 25-49 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
+Himachal Pradesh,HP,Una,84. All women age 15-49 years who are anaemic22 (%),60.8,46.9,,
+Himachal Pradesh,HP,Una,85. All women age 15-19 years who are anaemic22 (%),63.0,43.4,,
+Himachal Pradesh,HP,Una,86. Blood sugar level - high (141-160 mg/dl)23 (%),8.3,,,
+Himachal Pradesh,HP,Una,87. Blood sugar level - very high (>160 mg/dl)23 (%),10.3,,,
+Himachal Pradesh,HP,Una,88. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),20.1,,,
+Himachal Pradesh,HP,Una,89. Blood sugar level - high (141-160 mg/dl)23 (%),8.1,,,
+Himachal Pradesh,HP,Una,90. Blood sugar level - very high (>160 mg/dl)23 (%),11.2,,,
+Himachal Pradesh,HP,Una,91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),20.4,,,
+Himachal Pradesh,HP,Una,92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),11.7,,,
+Himachal Pradesh,HP,Una,93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),6.4,,,
+Himachal Pradesh,HP,Una,94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),27.1,,,
+Himachal Pradesh,HP,Una,95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),18.4,,,
+Himachal Pradesh,HP,Una,96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),5.2,,,
+Himachal Pradesh,HP,Una,97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),27.2,,,
+Himachal Pradesh,HP,Una,98. Ever undergone a screening test for cervical cancer (%),0.5,,,
+Himachal Pradesh,HP,Una,99. Ever undergone a breast examination for breast cancer (%),0.9,,,
+Himachal Pradesh,HP,Una,100. Ever undergone an oral cavity examination for oral cancer (%),1.7,,,
+Himachal Pradesh,HP,Una,101. Women age 15 years and above who use any kind of tobacco (%),0.8,,,
+Himachal Pradesh,HP,Una,102. Men age 15 years and above who use any kind of tobacco (%),31.0,,,
+Himachal Pradesh,HP,Una,103. Women age 15 years and above who consume alcohol (%),0.2,,,
+Himachal Pradesh,HP,Una,104. Men age 15 years and above who consume alcohol (%),23.9,,,
