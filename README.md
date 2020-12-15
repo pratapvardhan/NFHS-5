@@ -34,34 +34,37 @@ Fact sheets for key indicators from http://rchiips.org/nfhs/
 - KA, KL are showing old files on the site, pulled latest from direct URLs
 
 ### TODO (Need help)
-- KL-Kasaragod file is missing
+
+You can manually convert one of the 29 pdf files and submit as PR/Issue.
+
+- [KL/Kasaragod.pdf](http://rchiips.org/NFHS/NFHS-5_FCTS/KL/Kasaragod.pdf) file is missing
 - Manually fix 29 files. See [status.csv](status.csv).
-  - HP-Bilaspur : 0
-  - HP-Chamba : 0
-  - HP-Hamirpur : 0
-  - HP-Kangra : 0
-  - HP-Kinnaur : 0
-  - HP-Kullu : 0
-  - HP-Lahul and Spiti : 0
-  - HP-Mandi : 0
-  - HP-Shimla : 0
-  - HP-Una : 0
-  - MH-Palghar : 0
-  - MH-Thane : 0
-  - ML-East Garo Hills : 0
-  - ML-East Jaintia Hills : 0
-  - ML-North Garo Hills : 0
-  - ML-South West Garo Hills : 0
-  - ML-South West Khasi Hills : 0
-  - ML-West Jaintia Hills : 0
-  - ML-West Khasi Hills : 0
-  - TR-Gomati : 0
-  - TR-Khowai : 0
-  - TR-North Tripura : 0
-  - TR-Sepahijala : 0
-  - TR-South Tripura : 0
-  - TR-Unakoti : 0
-  - TR-West Tripura : 0
-  - ML-West Garo Hills : 39
-  - HP-Sirmaur : 66
-  - HP-Solan : 72
+    - [HP/Bilaspur.pdf](http://rchiips.org/NFHS/NFHS-5_FCTS/HP/Bilaspur.pdf)
+    - [HP/Chamba.pdf](http://rchiips.org/NFHS/NFHS-5_FCTS/HP/Chamba.pdf)
+    - [HP/Hamirpur.pdf](http://rchiips.org/NFHS/NFHS-5_FCTS/HP/Hamirpur.pdf)
+    - [HP/Kangra.pdf](http://rchiips.org/NFHS/NFHS-5_FCTS/HP/Kangra.pdf)
+    - [HP/Kinnaur.pdf](http://rchiips.org/NFHS/NFHS-5_FCTS/HP/Kinnaur.pdf)
+    - [HP/Kullu.pdf](http://rchiips.org/NFHS/NFHS-5_FCTS/HP/Kullu.pdf)
+    - [HP/Lahul and Spiti.pdf](http://rchiips.org/NFHS/NFHS-5_FCTS/HP/Lahul%20and%20Spiti.pdf)
+    - [HP/Mandi.pdf](http://rchiips.org/NFHS/NFHS-5_FCTS/HP/Mandi.pdf)
+    - [HP/Shimla.pdf](http://rchiips.org/NFHS/NFHS-5_FCTS/HP/Shimla.pdf)
+    - [HP/Una.pdf](http://rchiips.org/NFHS/NFHS-5_FCTS/HP/Una.pdf)
+    - [MH/Palghar.pdf](http://rchiips.org/NFHS/NFHS-5_FCTS/MH/Palghar.pdf)
+    - [MH/Thane.pdf](http://rchiips.org/NFHS/NFHS-5_FCTS/MH/Thane.pdf)
+    - [ML/East Garo Hills.pdf](http://rchiips.org/NFHS/NFHS-5_FCTS/ML/East%20Garo%20Hills.pdf)
+    - [ML/East Jaintia Hills.pdf](http://rchiips.org/NFHS/NFHS-5_FCTS/ML/East%20Jaintia%20Hills.pdf)
+    - [ML/North Garo Hills.pdf](http://rchiips.org/NFHS/NFHS-5_FCTS/ML/North%20Garo%20Hills.pdf)
+    - [ML/South West Garo Hills.pdf](http://rchiips.org/NFHS/NFHS-5_FCTS/ML/South%20West%20Garo%20Hills.pdf)
+    - [ML/South West Khasi Hills.pdf](http://rchiips.org/NFHS/NFHS-5_FCTS/ML/South%20West%20Khasi%20Hills.pdf)
+    - [ML/West Jaintia Hills.pdf](http://rchiips.org/NFHS/NFHS-5_FCTS/ML/West%20Jaintia%20Hills.pdf)
+    - [ML/West Khasi Hills.pdf](http://rchiips.org/NFHS/NFHS-5_FCTS/ML/West%20Khasi%20Hills.pdf)
+    - [TR/Gomati.pdf](http://rchiips.org/NFHS/NFHS-5_FCTS/TR/Gomati.pdf)
+    - [TR/Khowai.pdf](http://rchiips.org/NFHS/NFHS-5_FCTS/TR/Khowai.pdf)
+    - [TR/North Tripura.pdf](http://rchiips.org/NFHS/NFHS-5_FCTS/TR/North%20Tripura.pdf)
+    - [TR/Sepahijala.pdf](http://rchiips.org/NFHS/NFHS-5_FCTS/TR/Sepahijala.pdf)
+    - [TR/South Tripura.pdf](http://rchiips.org/NFHS/NFHS-5_FCTS/TR/South%20Tripura.pdf)
+    - [TR/Unakoti.pdf](http://rchiips.org/NFHS/NFHS-5_FCTS/TR/Unakoti.pdf)
+    - [TR/West Tripura.pdf](http://rchiips.org/NFHS/NFHS-5_FCTS/TR/West%20Tripura.pdf)
+    - [ML/West Garo Hills.pdf](http://rchiips.org/NFHS/NFHS-5_FCTS/ML/West%20Garo%20Hills.pdf)
+    - [HP/Sirmaur.pdf](http://rchiips.org/NFHS/NFHS-5_FCTS/HP/Sirmaur.pdf)
+    - [HP/Solan.pdf](http://rchiips.org/NFHS/NFHS-5_FCTS/HP/Solan.pdf)
