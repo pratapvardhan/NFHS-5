@@ -3,3 +3,4 @@ raw
 *.ipynb
 todo.md
 *.sh
+*qa.xlsx
