@@ -54,7 +54,9 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
     - Manually add Meghalaya's 111-131 indicators.
 - KA, KL are showing old files on the site, pulled latest from direct URLs
 - Add 1 row for `Himachal Pradesh,HP,Kangra,104. Men age 15 years and above who consume alcohol (%),34.1,,,`
+- Edit 1 row for `Himachal Pradesh,HP,Chamba,31. Current users ever told about side effects of current method8 (%),71.7,,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases`
 - Get [MH-Thane](https://docs.google.com/spreadsheets/d/1U6dR6x-_8mVmhsub11h3kSZuY6Cm8aBlmjybKcE3rqk/edit?usp=sharing) from sheet.
+- GJ-Mahisagar and MH-Wardha has wrong questions order from 11 to 32. TODO rename.
 
 ### TODO (Need help)
 
