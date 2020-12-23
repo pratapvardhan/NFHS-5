@@ -52,12 +52,13 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 ### Issues
 - NFHS-5-states.csv
     - DONE: Manually add Meghalaya's 111-131 indicators.
-- DONE: KA, KL are showing old files on the site, pulled latest from direct URLs
 - DONE: Add 1 row for `Himachal Pradesh,HP,Kangra,104. Men age 15 years and above who consume alcohol (%),34.1,,,`
 - DONE: Edit 1 row for `Himachal Pradesh,HP,Chamba,31. Current users ever told about side effects of current method8 (%),71.7,,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases`
-- DONE: Get [MH-Thane](https://docs.google.com/spreadsheets/d/1U6dR6x-_8mVmhsub11h3kSZuY6Cm8aBlmjybKcE3rqk/edit?usp=sharing) from sheet.
 - DONE: GJ-Mahisagar and MH-Wardha has wrong questions order from 11 to 32.
 - DONE: Few districts have extra spaces in questions. Standardize names.
+- Old
+  - DONE: KA, KL are showing old files on the site, pulled latest from direct URLs
+  - DONE: Get [MH-Thane](https://docs.google.com/spreadsheets/d/1U6dR6x-_8mVmhsub11h3kSZuY6Cm8aBlmjybKcE3rqk/edit?usp=sharing) from sheet.
 
 ### TODO (Need help)
 
@@ -65,7 +66,7 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ### Archive
 <details>
-  <summary>Bhanu K helped setup manual tagging for 29 files. Click to esxpand.</summary>
+  <summary>Bhanu K helped setup manual tagging for 29 files. Click to expand.</summary>
 
 You can manually convert one of the 29 pdf files and submit as PR/Issue. 
 

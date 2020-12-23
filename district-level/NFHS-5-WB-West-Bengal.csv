@@ -56,7 +56,7 @@ West Bengal,WB,Bankura,54. Children age 12-23 months who have received the first
 West Bengal,WB,Bankura,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),32.5,,Based on 25-49 unweighted cases,
 West Bengal,WB,Bankura,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),6.4,,Based on 25-49 unweighted cases,
 West Bengal,WB,Bankura,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),74.6,92.1,Based on 25-49 unweighted cases,
-West Bengal,WB,Bankura,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),69.7,81.0,,
+West Bengal,WB,Bankura,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),73.4,86.9,,
 West Bengal,WB,Bankura,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),100.0,100.0,Based on 25-49 unweighted cases,
 West Bengal,WB,Bankura,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,0.0,Based on 25-49 unweighted cases,
 West Bengal,WB,Bankura,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),12.7,5.1,,
@@ -160,7 +160,7 @@ West Bengal,WB,Birbhum,54. Children age 12-23 months who have received the first
 West Bengal,WB,Birbhum,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),43.3,,,
 West Bengal,WB,Birbhum,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),0.0,,,
 West Bengal,WB,Birbhum,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),96.8,92.9,,
-West Bengal,WB,Birbhum,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),57.3,71.1,,
+West Bengal,WB,Birbhum,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),58.4,78.0,,
 West Bengal,WB,Birbhum,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),96.9,100.0,,
 West Bengal,WB,Birbhum,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,0.0,,
 West Bengal,WB,Birbhum,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),9.5,5.6,,
@@ -264,7 +264,7 @@ West Bengal,WB,Dakshin Dinajpur,54. Children age 12-23 months who have received 
 West Bengal,WB,Dakshin Dinajpur,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),44.7,,,
 West Bengal,WB,Dakshin Dinajpur,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),0.0,,,
 West Bengal,WB,Dakshin Dinajpur,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),92.6,86.8,,
-West Bengal,WB,Dakshin Dinajpur,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),67.2,79.0,,
+West Bengal,WB,Dakshin Dinajpur,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),67.2,86.5,,
 West Bengal,WB,Dakshin Dinajpur,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),100.0,98.2,,
 West Bengal,WB,Dakshin Dinajpur,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,0.0,,
 West Bengal,WB,Dakshin Dinajpur,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),2.7,8.4,,
@@ -368,7 +368,7 @@ West Bengal,WB,Darjeeling,54. Children age 12-23 months who have received the fi
 West Bengal,WB,Darjeeling,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),57.6,,,
 West Bengal,WB,Darjeeling,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),5.4,,,
 West Bengal,WB,Darjeeling,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),94.7,87.4,,Based on 25-49 unweighted cases
-West Bengal,WB,Darjeeling,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),76.2,53.9,,
+West Bengal,WB,Darjeeling,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),76.2,55.5,,
 West Bengal,WB,Darjeeling,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),92.0,91.1,,Based on 25-49 unweighted cases
 West Bengal,WB,Darjeeling,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),3.7,9.0,,Based on 25-49 unweighted cases
 West Bengal,WB,Darjeeling,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),6.6,4.4,,
@@ -472,7 +472,7 @@ West Bengal,WB,Haora,54. Children age 12-23 months who have received the first d
 West Bengal,WB,Haora,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),28.3,,Based on 25-49 unweighted cases,
 West Bengal,WB,Haora,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),3.9,,Based on 25-49 unweighted cases,
 West Bengal,WB,Haora,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),80.2,79.3,Based on 25-49 unweighted cases,
-West Bengal,WB,Haora,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),70.1,70.8,,
+West Bengal,WB,Haora,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),70.1,72.1,,
 West Bengal,WB,Haora,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),87.4,86.5,Based on 25-49 unweighted cases,
 West Bengal,WB,Haora,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),12.6,13.5,Based on 25-49 unweighted cases,
 West Bengal,WB,Haora,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),6.6,4.5,,
@@ -576,7 +576,7 @@ West Bengal,WB,Hugli,54. Children age 12-23 months who have received the first d
 West Bengal,WB,Hugli,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),43.4,,Based on 25-49 unweighted cases,
 West Bengal,WB,Hugli,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),2.2,,Based on 25-49 unweighted cases,
 West Bengal,WB,Hugli,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),93.3,85.1,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
-West Bengal,WB,Hugli,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),73.3,70.6,,
+West Bengal,WB,Hugli,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),75.0,78.3,,
 West Bengal,WB,Hugli,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),97.8,98.5,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 West Bengal,WB,Hugli,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),2.2,1.5,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 West Bengal,WB,Hugli,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),11.2,7.4,,
@@ -680,7 +680,7 @@ West Bengal,WB,Jalpaiguri,54. Children age 12-23 months who have received the fi
 West Bengal,WB,Jalpaiguri,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),53.6,,,
 West Bengal,WB,Jalpaiguri,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),0.0,,,
 West Bengal,WB,Jalpaiguri,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),94.8,93.0,,
-West Bengal,WB,Jalpaiguri,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),65.5,73.0,,
+West Bengal,WB,Jalpaiguri,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),65.5,79.0,,
 West Bengal,WB,Jalpaiguri,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),100.0,98.1,,
 West Bengal,WB,Jalpaiguri,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,1.9,,
 West Bengal,WB,Jalpaiguri,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),4.3,10.3,,
@@ -784,7 +784,7 @@ West Bengal,WB,Koch Bihar,54. Children age 12-23 months who have received the fi
 West Bengal,WB,Koch Bihar,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),50.0,,,
 West Bengal,WB,Koch Bihar,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),0.0,,,
 West Bengal,WB,Koch Bihar,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),91.1,85.0,,Based on 25-49 unweighted cases
-West Bengal,WB,Koch Bihar,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),61.4,75.7,,
+West Bengal,WB,Koch Bihar,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),61.4,83.9,,
 West Bengal,WB,Koch Bihar,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),100.0,93.8,,Based on 25-49 unweighted cases
 West Bengal,WB,Koch Bihar,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,4.1,,Based on 25-49 unweighted cases
 West Bengal,WB,Koch Bihar,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),4.5,5.3,,
@@ -888,7 +888,7 @@ West Bengal,WB,Kolkata,54. Children age 12-23 months who have received the first
 West Bengal,WB,Kolkata,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),41.4,,Based on 25-49 unweighted cases,
 West Bengal,WB,Kolkata,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),2.8,,Based on 25-49 unweighted cases,
 West Bengal,WB,Kolkata,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),86.7,81.4,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
-West Bengal,WB,Kolkata,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),58.0,63.7,,
+West Bengal,WB,Kolkata,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),58.0,71.1,,
 West Bengal,WB,Kolkata,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),83.5,86.7,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 West Bengal,WB,Kolkata,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),13.2,13.3,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 West Bengal,WB,Kolkata,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),5.6,6.1,,
@@ -992,7 +992,7 @@ West Bengal,WB,Maldah,54. Children age 12-23 months who have received the first 
 West Bengal,WB,Maldah,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),45.7,,,
 West Bengal,WB,Maldah,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),0.0,,,
 West Bengal,WB,Maldah,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),92.2,78.3,,
-West Bengal,WB,Maldah,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),55.7,55.9,,
+West Bengal,WB,Maldah,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),57.7,69.4,,
 West Bengal,WB,Maldah,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),100.0,98.8,,
 West Bengal,WB,Maldah,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,1.2,,
 West Bengal,WB,Maldah,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),5.5,5.6,,
@@ -1096,7 +1096,7 @@ West Bengal,WB,Murshidabad,54. Children age 12-23 months who have received the f
 West Bengal,WB,Murshidabad,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),30.9,,,
 West Bengal,WB,Murshidabad,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),1.4,,,
 West Bengal,WB,Murshidabad,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),94.2,83.2,,
-West Bengal,WB,Murshidabad,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),67.7,67.0,,
+West Bengal,WB,Murshidabad,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),67.7,74.3,,
 West Bengal,WB,Murshidabad,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),100.0,100.0,,
 West Bengal,WB,Murshidabad,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,0.0,,
 West Bengal,WB,Murshidabad,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),7.8,7.0,,
@@ -1200,7 +1200,7 @@ West Bengal,WB,Nadia,54. Children age 12-23 months who have received the first d
 West Bengal,WB,Nadia,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),35.7,,Based on 25-49 unweighted cases,
 West Bengal,WB,Nadia,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),0.0,,Based on 25-49 unweighted cases,
 West Bengal,WB,Nadia,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),92.2,91.7,Based on 25-49 unweighted cases,
-West Bengal,WB,Nadia,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),74.0,76.2,,
+West Bengal,WB,Nadia,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),74.0,78.9,,
 West Bengal,WB,Nadia,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),100.0,98.4,Based on 25-49 unweighted cases,
 West Bengal,WB,Nadia,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,1.6,Based on 25-49 unweighted cases,
 West Bengal,WB,Nadia,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),5.9,3.6,,
@@ -1304,7 +1304,7 @@ West Bengal,WB,North Twenty Four Parganas,54. Children age 12-23 months who have
 West Bengal,WB,North Twenty Four Parganas,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),61.6,,Based on 25-49 unweighted cases,
 West Bengal,WB,North Twenty Four Parganas,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),2.2,,Based on 25-49 unweighted cases,
 West Bengal,WB,North Twenty Four Parganas,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),97.7,90.9,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
-West Bengal,WB,North Twenty Four Parganas,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),78.1,56.5,,
+West Bengal,WB,North Twenty Four Parganas,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),78.1,64.0,,
 West Bengal,WB,North Twenty Four Parganas,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),90.7,96.0,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 West Bengal,WB,North Twenty Four Parganas,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),9.3,4.0,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 West Bengal,WB,North Twenty Four Parganas,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),2.0,5.5,,
@@ -1408,7 +1408,7 @@ West Bengal,WB,Paschim Barddhaman,54. Children age 12-23 months who have receive
 West Bengal,WB,Paschim Barddhaman,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),48.6,,,
 West Bengal,WB,Paschim Barddhaman,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),0.0,,,
 West Bengal,WB,Paschim Barddhaman,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),90.3,,,
-West Bengal,WB,Paschim Barddhaman,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),59.9,,,
+West Bengal,WB,Paschim Barddhaman,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),60.6,,,
 West Bengal,WB,Paschim Barddhaman,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),97.6,,,
 West Bengal,WB,Paschim Barddhaman,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),2.4,,,
 West Bengal,WB,Paschim Barddhaman,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),8.8,,,
@@ -1512,7 +1512,7 @@ West Bengal,WB,Paschim Medinipur,54. Children age 12-23 months who have received
 West Bengal,WB,Paschim Medinipur,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),40.6,,,
 West Bengal,WB,Paschim Medinipur,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),0.0,,,
 West Bengal,WB,Paschim Medinipur,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),89.0,82.3,,
-West Bengal,WB,Paschim Medinipur,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),76.7,73.4,,
+West Bengal,WB,Paschim Medinipur,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),78.3,81.9,,
 West Bengal,WB,Paschim Medinipur,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),93.3,98.0,,
 West Bengal,WB,Paschim Medinipur,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,2.0,,
 West Bengal,WB,Paschim Medinipur,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),6.3,5.3,,
@@ -1616,7 +1616,7 @@ West Bengal,WB,Purba Barddhaman,54. Children age 12-23 months who have received 
 West Bengal,WB,Purba Barddhaman,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),54.8,,,
 West Bengal,WB,Purba Barddhaman,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),0.0,,,
 West Bengal,WB,Purba Barddhaman,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),96.3,,,
-West Bengal,WB,Purba Barddhaman,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),61.7,,,
+West Bengal,WB,Purba Barddhaman,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),65.2,,,
 West Bengal,WB,Purba Barddhaman,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),95.0,,,
 West Bengal,WB,Purba Barddhaman,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),5.0,,,
 West Bengal,WB,Purba Barddhaman,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),3.3,,,
@@ -1720,7 +1720,7 @@ West Bengal,WB,Purba Medinipur,54. Children age 12-23 months who have received t
 West Bengal,WB,Purba Medinipur,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),52.5,,,
 West Bengal,WB,Purba Medinipur,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),9.5,,,
 West Bengal,WB,Purba Medinipur,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),90.0,95.1,,Based on 25-49 unweighted cases
-West Bengal,WB,Purba Medinipur,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),82.8,71.3,,
+West Bengal,WB,Purba Medinipur,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),83.7,82.1,,
 West Bengal,WB,Purba Medinipur,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),98.0,94.9,,Based on 25-49 unweighted cases
 West Bengal,WB,Purba Medinipur,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,5.1,,Based on 25-49 unweighted cases
 West Bengal,WB,Purba Medinipur,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),8.9,7.5,,
@@ -1824,7 +1824,7 @@ West Bengal,WB,Puruliya,54. Children age 12-23 months who have received the firs
 West Bengal,WB,Puruliya,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),52.0,,,
 West Bengal,WB,Puruliya,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),3.3,,,
 West Bengal,WB,Puruliya,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),93.1,92.2,,
-West Bengal,WB,Puruliya,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),64.3,77.1,,
+West Bengal,WB,Puruliya,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),68.0,80.2,,
 West Bengal,WB,Puruliya,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),90.9,100.0,,
 West Bengal,WB,Puruliya,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),2.2,0.0,,
 West Bengal,WB,Puruliya,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),9.0,6.3,,
@@ -1928,7 +1928,7 @@ West Bengal,WB,South Twenty Four Parganas,54. Children age 12-23 months who have
 West Bengal,WB,South Twenty Four Parganas,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),37.4,,,
 West Bengal,WB,South Twenty Four Parganas,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),1.7,,,
 West Bengal,WB,South Twenty Four Parganas,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),95.0,91.7,,
-West Bengal,WB,South Twenty Four Parganas,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),58.0,76.6,,
+West Bengal,WB,South Twenty Four Parganas,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),58.8,80.2,,
 West Bengal,WB,South Twenty Four Parganas,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),100.0,96.0,,
 West Bengal,WB,South Twenty Four Parganas,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,4.0,,
 West Bengal,WB,South Twenty Four Parganas,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),4.5,5.9,,
@@ -2032,7 +2032,7 @@ West Bengal,WB,Uttar Dinajpur,54. Children age 12-23 months who have received th
 West Bengal,WB,Uttar Dinajpur,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),51.9,,,
 West Bengal,WB,Uttar Dinajpur,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),0.0,,,
 West Bengal,WB,Uttar Dinajpur,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),91.3,71.1,,
-West Bengal,WB,Uttar Dinajpur,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),66.4,49.1,,
+West Bengal,WB,Uttar Dinajpur,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),67.4,56.5,,
 West Bengal,WB,Uttar Dinajpur,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),97.2,91.5,,
 West Bengal,WB,Uttar Dinajpur,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),2.9,6.0,,
 West Bengal,WB,Uttar Dinajpur,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),7.9,7.9,,

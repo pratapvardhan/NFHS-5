@@ -56,7 +56,7 @@ Himachal Pradesh,HP,Bilaspur,54. Children age 12-23 months who have received the
 Himachal Pradesh,HP,Bilaspur,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),57.9,,Based on 25-49 unweighted cases,
 Himachal Pradesh,HP,Bilaspur,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),90.3,,Based on 25-49 unweighted cases,
 Himachal Pradesh,HP,Bilaspur,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),100.0,55.5,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
-Himachal Pradesh,HP,Bilaspur,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),75.4,74.8,,
+Himachal Pradesh,HP,Bilaspur,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),75.4,81.5,,
 Himachal Pradesh,HP,Bilaspur,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),100.0,95.4,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Himachal Pradesh,HP,Bilaspur,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,4.6,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Himachal Pradesh,HP,Bilaspur,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),6.3,9.3,,
@@ -160,7 +160,7 @@ Himachal Pradesh,HP,Chamba,54. Children age 12-23 months who have received the f
 Himachal Pradesh,HP,Chamba,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),52.9,,Based on 25-49 unweighted cases,
 Himachal Pradesh,HP,Chamba,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),100.0,,Based on 25-49 unweighted cases,
 Himachal Pradesh,HP,Chamba,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),100.0,70.7,Based on 25-49 unweighted cases,
-Himachal Pradesh,HP,Chamba,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),77.8,52.1,,
+Himachal Pradesh,HP,Chamba,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),77.8,60.2,,
 Himachal Pradesh,HP,Chamba,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),100.0,100.0,Based on 25-49 unweighted cases,
 Himachal Pradesh,HP,Chamba,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,0.0,Based on 25-49 unweighted cases,
 Himachal Pradesh,HP,Chamba,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),2.0,5.7,,
@@ -264,7 +264,7 @@ Himachal Pradesh,HP,Hamirpur,54. Children age 12-23 months who have received the
 Himachal Pradesh,HP,Hamirpur,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),40.9,,Based on 25-49 unweighted cases,
 Himachal Pradesh,HP,Hamirpur,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),77.1,,Based on 25-49 unweighted cases,
 Himachal Pradesh,HP,Hamirpur,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),83.0,61.7,Based on 25-49 unweighted cases,
-Himachal Pradesh,HP,Hamirpur,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),80.0,80.4,,
+Himachal Pradesh,HP,Hamirpur,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),80.0,87.8,,
 Himachal Pradesh,HP,Hamirpur,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),97.0,100.0,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Himachal Pradesh,HP,Hamirpur,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),3.0,0.0,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Himachal Pradesh,HP,Hamirpur,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),12.4,6.2,,
@@ -352,7 +352,7 @@ Himachal Pradesh,HP,Kangra,38. Mothers who received postnatal care from a doctor
 Himachal Pradesh,HP,Kangra,39. Average out-of-pocket expenditure per delivery in a public health facility (Rs.),2087.0,2432.0,,
 Himachal Pradesh,HP,Kangra,40. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
 Himachal Pradesh,HP,Kangra,41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%),85.9,,,
-Himachal Pradesh,HP,Kangra,42. Institutional births (%),90.2,,,
+Himachal Pradesh,HP,Kangra,42. Institutional births (%),90.2,87.8,,
 Himachal Pradesh,HP,Kangra,43. Institutional births in public facility (%),75.0,68.7,,
 Himachal Pradesh,HP,Kangra,44. Home births that were conducted by skilled health personnel10 (%),2.0,4.5,,
 Himachal Pradesh,HP,Kangra,45. Births attended by skilled health personnel10 (%),87.5,90.9,,
@@ -368,10 +368,10 @@ Himachal Pradesh,HP,Kangra,54. Children age 12-23 months who have received the f
 Himachal Pradesh,HP,Kangra,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),28.7,,Based on 25-49 unweighted cases,
 Himachal Pradesh,HP,Kangra,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),86.1,,Based on 25-49 unweighted cases,
 Himachal Pradesh,HP,Kangra,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),97.4,75.6,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
-Himachal Pradesh,HP,Kangra,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),79.0,65.4,,
+Himachal Pradesh,HP,Kangra,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),79.0,77.4,,
 Himachal Pradesh,HP,Kangra,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),95.5,100.0,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Himachal Pradesh,HP,Kangra,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),2.4,0.0,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
-Himachal Pradesh,HP,Kangra,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),5.0,,,
+Himachal Pradesh,HP,Kangra,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),5.0,7.1,,
 Himachal Pradesh,HP,Kangra,62. Children with diarrhoea in the 2 weeks preceding the survey who received oral rehydration salts (ORS) (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
 Himachal Pradesh,HP,Kangra,63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
 Himachal Pradesh,HP,Kangra,64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%),,,Percentage not shown; based on fewer than 25 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
@@ -472,7 +472,7 @@ Himachal Pradesh,HP,Kinnaur,54. Children age 12-23 months who have received the 
 Himachal Pradesh,HP,Kinnaur,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),37.1,,Based on 25-49 unweighted cases,
 Himachal Pradesh,HP,Kinnaur,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),94.1,,Based on 25-49 unweighted cases,
 Himachal Pradesh,HP,Kinnaur,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),94.1,80.9,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
-Himachal Pradesh,HP,Kinnaur,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),82.4,61.1,,
+Himachal Pradesh,HP,Kinnaur,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),82.4,62.7,,
 Himachal Pradesh,HP,Kinnaur,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),100.0,100.0,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Himachal Pradesh,HP,Kinnaur,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,0.0,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Himachal Pradesh,HP,Kinnaur,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),7.4,8.3,,
@@ -576,7 +576,7 @@ Himachal Pradesh,HP,Kullu,54. Children age 12-23 months who have received the fi
 Himachal Pradesh,HP,Kullu,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),53.3,,,
 Himachal Pradesh,HP,Kullu,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),87.4,,,
 Himachal Pradesh,HP,Kullu,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),91.5,70.0,,
-Himachal Pradesh,HP,Kullu,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),85.2,61.9,,
+Himachal Pradesh,HP,Kullu,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),85.2,68.7,,
 Himachal Pradesh,HP,Kullu,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),92.9,96.3,,
 Himachal Pradesh,HP,Kullu,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),2.8,3.7,,
 Himachal Pradesh,HP,Kullu,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),8.5,3.5,,
@@ -680,7 +680,7 @@ Himachal Pradesh,HP,Lahul and Spiti,54. Children age 12-23 months who have recei
 Himachal Pradesh,HP,Lahul and Spiti,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),26.7,,Based on 25-49 unweighted cases,
 Himachal Pradesh,HP,Lahul and Spiti,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),85.9,,Based on 25-49 unweighted cases,
 Himachal Pradesh,HP,Lahul and Spiti,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),92.7,43.6,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
-Himachal Pradesh,HP,Lahul and Spiti,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),74.5,51.6,,
+Himachal Pradesh,HP,Lahul and Spiti,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),74.5,62.1,,
 Himachal Pradesh,HP,Lahul and Spiti,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),95.5,97.1,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Himachal Pradesh,HP,Lahul and Spiti,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),4.5,0.0,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Himachal Pradesh,HP,Lahul and Spiti,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),6.5,3.4,,
@@ -784,7 +784,7 @@ Himachal Pradesh,HP,Mandi,54. Children age 12-23 months who have received the fi
 Himachal Pradesh,HP,Mandi,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),56.6,,Based on 25-49 unweighted cases,
 Himachal Pradesh,HP,Mandi,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),95.9,,Based on 25-49 unweighted cases,
 Himachal Pradesh,HP,Mandi,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),100.0,81.7,Based on 25-49 unweighted cases,
-Himachal Pradesh,HP,Mandi,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),71.9,69.0,,
+Himachal Pradesh,HP,Mandi,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),72.8,74.6,,
 Himachal Pradesh,HP,Mandi,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),100.0,96.7,Based on 25-49 unweighted cases,
 Himachal Pradesh,HP,Mandi,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,3.3,Based on 25-49 unweighted cases,
 Himachal Pradesh,HP,Mandi,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),2.6,5.9,,
@@ -888,7 +888,7 @@ Himachal Pradesh,HP,Shimla,54. Children age 12-23 months who have received the f
 Himachal Pradesh,HP,Shimla,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),28.1,,Based on 25-49 unweighted cases,
 Himachal Pradesh,HP,Shimla,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),81.2,,Based on 25-49 unweighted cases,
 Himachal Pradesh,HP,Shimla,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),98.3,89.5,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
-Himachal Pradesh,HP,Shimla,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),73.9,52.5,,
+Himachal Pradesh,HP,Shimla,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),73.9,63.3,,
 Himachal Pradesh,HP,Shimla,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),97.1,100.0,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Himachal Pradesh,HP,Shimla,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),2.9,0.0,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Himachal Pradesh,HP,Shimla,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),1.6,3.6,,
@@ -992,7 +992,7 @@ Himachal Pradesh,HP,Sirmaur,54. Children age 12-23 months who have received the 
 Himachal Pradesh,HP,Sirmaur,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),40.0,,,
 Himachal Pradesh,HP,Sirmaur,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),92.2,,,
 Himachal Pradesh,HP,Sirmaur,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),97.2,63.0,,
-Himachal Pradesh,HP,Sirmaur,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),75.1,61.6,,
+Himachal Pradesh,HP,Sirmaur,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),75.1,68.7,,
 Himachal Pradesh,HP,Sirmaur,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),100.0,89.9,,
 Himachal Pradesh,HP,Sirmaur,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,6.7,,
 Himachal Pradesh,HP,Sirmaur,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),3.3,5.2,,
@@ -1096,7 +1096,7 @@ Himachal Pradesh,HP,Solan,54. Children age 12-23 months who have received the fi
 Himachal Pradesh,HP,Solan,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),60.1,,Based on 25-49 unweighted cases,
 Himachal Pradesh,HP,Solan,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),95.0,,Based on 25-49 unweighted cases,
 Himachal Pradesh,HP,Solan,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),97.6,77.4,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
-Himachal Pradesh,HP,Solan,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),78.5,58.3,,
+Himachal Pradesh,HP,Solan,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),78.5,63.6,,
 Himachal Pradesh,HP,Solan,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),97.0,97.7,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Himachal Pradesh,HP,Solan,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),3.0,2.3,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Himachal Pradesh,HP,Solan,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),3.0,12.1,,
@@ -1200,7 +1200,7 @@ Himachal Pradesh,HP,Una,54. Children age 12-23 months who have received the firs
 Himachal Pradesh,HP,Una,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),37.0,,Based on 25-49 unweighted cases,
 Himachal Pradesh,HP,Una,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),72.2,,Based on 25-49 unweighted cases,
 Himachal Pradesh,HP,Una,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),88.0,73.1,Based on 25-49 unweighted cases,
-Himachal Pradesh,HP,Una,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),79.1,72.9,,
+Himachal Pradesh,HP,Una,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),79.1,75.7,,
 Himachal Pradesh,HP,Una,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),96.6,98.6,Based on 25-49 unweighted cases,
 Himachal Pradesh,HP,Una,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),3.4,1.4,Based on 25-49 unweighted cases,
 Himachal Pradesh,HP,Una,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),9.2,8.4,,

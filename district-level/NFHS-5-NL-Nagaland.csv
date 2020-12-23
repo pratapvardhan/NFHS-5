@@ -56,7 +56,7 @@ Nagaland,NL,Dimapur,54. Children age 12-23 months who have received the first do
 Nagaland,NL,Dimapur,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),13.1,,Based on 25-49 unweighted cases,
 Nagaland,NL,Dimapur,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),7.2,,Based on 25-49 unweighted cases,
 Nagaland,NL,Dimapur,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),71.1,43.5,Based on 25-49 unweighted cases,
-Nagaland,NL,Dimapur,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),49.4,36.7,,
+Nagaland,NL,Dimapur,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),49.4,42.6,,
 Nagaland,NL,Dimapur,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),85.5,72.3,Based on 25-49 unweighted cases,
 Nagaland,NL,Dimapur,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),14.5,26.6,Based on 25-49 unweighted cases,
 Nagaland,NL,Dimapur,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),2.2,8.8,,
@@ -160,7 +160,7 @@ Nagaland,NL,Kiphire,54. Children age 12-23 months who have received the first do
 Nagaland,NL,Kiphire,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),21.4,,,
 Nagaland,NL,Kiphire,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),9.8,,,
 Nagaland,NL,Kiphire,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),49.3,38.9,,
-Nagaland,NL,Kiphire,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),41.8,21.7,,
+Nagaland,NL,Kiphire,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),42.3,21.7,,
 Nagaland,NL,Kiphire,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),91.3,100.0,,
 Nagaland,NL,Kiphire,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),2.1,0.0,,
 Nagaland,NL,Kiphire,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),7.9,8.3,,
@@ -264,7 +264,7 @@ Nagaland,NL,Kohima,54. Children age 12-23 months who have received the first dos
 Nagaland,NL,Kohima,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),20.9,,Based on 25-49 unweighted cases,
 Nagaland,NL,Kohima,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),17.8,,Based on 25-49 unweighted cases,
 Nagaland,NL,Kohima,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),88.7,71.1,Based on 25-49 unweighted cases,
-Nagaland,NL,Kohima,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),73.5,37.7,,
+Nagaland,NL,Kohima,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),76.8,39.0,,
 Nagaland,NL,Kohima,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),89.2,92.4,Based on 25-49 unweighted cases,
 Nagaland,NL,Kohima,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,7.6,Based on 25-49 unweighted cases,
 Nagaland,NL,Kohima,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),0.5,5.8,,
@@ -368,7 +368,7 @@ Nagaland,NL,Longleng,54. Children age 12-23 months who have received the first d
 Nagaland,NL,Longleng,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),16.5,,,
 Nagaland,NL,Longleng,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),5.5,,,
 Nagaland,NL,Longleng,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),58.2,25.1,,
-Nagaland,NL,Longleng,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),46.4,12.8,,
+Nagaland,NL,Longleng,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),46.8,14.1,,
 Nagaland,NL,Longleng,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),97.3,99.3,,
 Nagaland,NL,Longleng,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),2.7,0.0,,
 Nagaland,NL,Longleng,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),6.1,2.4,,
@@ -472,7 +472,7 @@ Nagaland,NL,Mokokchung,54. Children age 12-23 months who have received the first
 Nagaland,NL,Mokokchung,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),36.6,,Based on 25-49 unweighted cases,
 Nagaland,NL,Mokokchung,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),9.3,,Based on 25-49 unweighted cases,
 Nagaland,NL,Mokokchung,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),96.0,66.8,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
-Nagaland,NL,Mokokchung,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),47.3,58.3,,
+Nagaland,NL,Mokokchung,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),51.3,61.3,,
 Nagaland,NL,Mokokchung,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),100.0,94.5,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Nagaland,NL,Mokokchung,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,5.5,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Nagaland,NL,Mokokchung,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),2.4,3.7,,
@@ -576,7 +576,7 @@ Nagaland,NL,Mon,54. Children age 12-23 months who have received the first dose o
 Nagaland,NL,Mon,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),30.6,,,
 Nagaland,NL,Mon,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),2.8,,,
 Nagaland,NL,Mon,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),70.9,29.3,,
-Nagaland,NL,Mon,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),46.2,14.2,,
+Nagaland,NL,Mon,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),46.9,14.9,,
 Nagaland,NL,Mon,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),97.0,98.5,,
 Nagaland,NL,Mon,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,0.0,,
 Nagaland,NL,Mon,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),4.7,1.5,,
@@ -680,7 +680,7 @@ Nagaland,NL,Peren,54. Children age 12-23 months who have received the first dose
 Nagaland,NL,Peren,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),12.5,,,
 Nagaland,NL,Peren,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),0.4,,,
 Nagaland,NL,Peren,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),65.1,54.7,,
-Nagaland,NL,Peren,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),42.5,33.6,,
+Nagaland,NL,Peren,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),44.2,40.3,,
 Nagaland,NL,Peren,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),94.7,99.2,,
 Nagaland,NL,Peren,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,0.8,,
 Nagaland,NL,Peren,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),3.4,8.6,,
@@ -784,7 +784,7 @@ Nagaland,NL,Phek,54. Children age 12-23 months who have received the first dose 
 Nagaland,NL,Phek,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),26.4,,,
 Nagaland,NL,Phek,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),2.1,,,
 Nagaland,NL,Phek,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),57.3,46.4,,
-Nagaland,NL,Phek,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),41.5,19.1,,
+Nagaland,NL,Phek,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),42.2,21.7,,
 Nagaland,NL,Phek,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),100.0,98.2,,
 Nagaland,NL,Phek,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,1.8,,
 Nagaland,NL,Phek,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),1.9,2.5,,
@@ -888,7 +888,7 @@ Nagaland,NL,Tuensang,54. Children age 12-23 months who have received the first d
 Nagaland,NL,Tuensang,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),9.8,,,
 Nagaland,NL,Tuensang,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),1.9,,,
 Nagaland,NL,Tuensang,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),49.1,53.9,,
-Nagaland,NL,Tuensang,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),26.1,22.4,,
+Nagaland,NL,Tuensang,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),27.5,27.4,,
 Nagaland,NL,Tuensang,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),94.6,100.0,,
 Nagaland,NL,Tuensang,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),2.1,0.0,,
 Nagaland,NL,Tuensang,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),5.5,5.3,,
@@ -992,7 +992,7 @@ Nagaland,NL,Wokha,54. Children age 12-23 months who have received the first dose
 Nagaland,NL,Wokha,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),30.1,,Based on 25-49 unweighted cases,
 Nagaland,NL,Wokha,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),9.8,,Based on 25-49 unweighted cases,
 Nagaland,NL,Wokha,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),55.1,36.5,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
-Nagaland,NL,Wokha,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),43.2,29.0,,
+Nagaland,NL,Wokha,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),44.9,32.4,,
 Nagaland,NL,Wokha,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),88.0,84.3,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Nagaland,NL,Wokha,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),12.0,12.5,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Nagaland,NL,Wokha,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),3.6,5.5,,
@@ -1096,7 +1096,7 @@ Nagaland,NL,Zunheboto,54. Children age 12-23 months who have received the first 
 Nagaland,NL,Zunheboto,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),28.9,,Based on 25-49 unweighted cases,
 Nagaland,NL,Zunheboto,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),11.1,,Based on 25-49 unweighted cases,
 Nagaland,NL,Zunheboto,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),72.3,32.0,Based on 25-49 unweighted cases,
-Nagaland,NL,Zunheboto,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),32.3,20.0,,
+Nagaland,NL,Zunheboto,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),33.5,17.2,,
 Nagaland,NL,Zunheboto,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),98.5,97.7,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Nagaland,NL,Zunheboto,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),1.5,2.3,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Nagaland,NL,Zunheboto,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),1.8,1.5,,

@@ -56,7 +56,7 @@ Kerala,KL,Alappuzha,54. Children age 12-23 months who have received the first do
 Kerala,KL,Alappuzha,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),22.2,,Based on 25-49 unweighted cases,
 Kerala,KL,Alappuzha,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),8.7,,Based on 25-49 unweighted cases,
 Kerala,KL,Alappuzha,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),76.8,,Based on 25-49 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
-Kerala,KL,Alappuzha,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),92.1,86.4,,
+Kerala,KL,Alappuzha,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),93.6,89.4,,
 Kerala,KL,Alappuzha,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),100.0,,Based on 25-49 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
 Kerala,KL,Alappuzha,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,,Based on 25-49 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
 Kerala,KL,Alappuzha,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),4.5,3.8,,
@@ -160,7 +160,7 @@ Kerala,KL,Ernakulam,54. Children age 12-23 months who have received the first do
 Kerala,KL,Ernakulam,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),15.1,,Based on 25-49 unweighted cases,
 Kerala,KL,Ernakulam,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),8.9,,Based on 25-49 unweighted cases,
 Kerala,KL,Ernakulam,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),91.4,87.5,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
-Kerala,KL,Ernakulam,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),88.2,73.6,,
+Kerala,KL,Ernakulam,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),88.2,75.9,,
 Kerala,KL,Ernakulam,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),93.4,50.9,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Kerala,KL,Ernakulam,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),6.7,49.1,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Kerala,KL,Ernakulam,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),1.8,3.1,,
@@ -264,7 +264,7 @@ Kerala,KL,Idukki,54. Children age 12-23 months who have received the first dose 
 Kerala,KL,Idukki,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),13.4,,Based on 25-49 unweighted cases,
 Kerala,KL,Idukki,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),0.0,,Based on 25-49 unweighted cases,
 Kerala,KL,Idukki,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),89.6,,Based on 25-49 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
-Kerala,KL,Idukki,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),81.3,91.7,,
+Kerala,KL,Idukki,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),81.3,95.3,,
 Kerala,KL,Idukki,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),93.3,,Based on 25-49 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
 Kerala,KL,Idukki,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),6.7,,Based on 25-49 unweighted cases,Percentage not shown; based on fewer than 25 unweighted cases
 Kerala,KL,Idukki,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),3.3,2.8,,
@@ -368,7 +368,7 @@ Kerala,KL,Kannur,54. Children age 12-23 months who have received the first dose 
 Kerala,KL,Kannur,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),9.8,,,
 Kerala,KL,Kannur,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),3.9,,,
 Kerala,KL,Kannur,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),87.5,80.6,,Based on 25-49 unweighted cases
-Kerala,KL,Kannur,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),80.2,66.3,,
+Kerala,KL,Kannur,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),80.2,72.0,,
 Kerala,KL,Kannur,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),91.6,82.3,,Based on 25-49 unweighted cases
 Kerala,KL,Kannur,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),8.4,17.7,,Based on 25-49 unweighted cases
 Kerala,KL,Kannur,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),0.7,3.6,,
@@ -472,7 +472,7 @@ Kerala,KL,Kasaragod,54. Children age 12-23 months who have received the first do
 Kerala,KL,Kasaragod,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),9.3,,,
 Kerala,KL,Kasaragod,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),24.7,,,
 Kerala,KL,Kasaragod,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),95.3,90.0,,Based on 25-49 unweighted cases
-Kerala,KL,Kasaragod,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),83.4,64.3,,
+Kerala,KL,Kasaragod,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),83.4,68.5,,
 Kerala,KL,Kasaragod,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),88.3,80.7,,Based on 25-49 unweighted cases
 Kerala,KL,Kasaragod,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),11.7,19.3,,Based on 25-49 unweighted cases
 Kerala,KL,Kasaragod,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),1.9,6.7,,
@@ -576,7 +576,7 @@ Kerala,KL,Kollam,54. Children age 12-23 months who have received the first dose 
 Kerala,KL,Kollam,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),29.9,,Based on 25-49 unweighted cases,
 Kerala,KL,Kollam,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),11.1,,Based on 25-49 unweighted cases,
 Kerala,KL,Kollam,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),82.1,85.0,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
-Kerala,KL,Kollam,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),93.9,92.1,,
+Kerala,KL,Kollam,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),93.9,95.0,,
 Kerala,KL,Kollam,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),90.5,82.8,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Kerala,KL,Kollam,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),9.5,17.2,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Kerala,KL,Kollam,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),5.5,2.9,,
@@ -680,7 +680,7 @@ Kerala,KL,Kottayam,54. Children age 12-23 months who have received the first dos
 Kerala,KL,Kottayam,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),,,Percentage not shown; based on fewer than 25 unweighted cases,
 Kerala,KL,Kottayam,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),,,Percentage not shown; based on fewer than 25 unweighted cases,
 Kerala,KL,Kottayam,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),,100.0,Percentage not shown; based on fewer than 25 unweighted cases,Based on 25-49 unweighted cases
-Kerala,KL,Kottayam,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),91.2,78.4,,
+Kerala,KL,Kottayam,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),91.2,80.2,,
 Kerala,KL,Kottayam,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),,68.2,Percentage not shown; based on fewer than 25 unweighted cases,Based on 25-49 unweighted cases
 Kerala,KL,Kottayam,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),,31.8,Percentage not shown; based on fewer than 25 unweighted cases,Based on 25-49 unweighted cases
 Kerala,KL,Kottayam,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),10.2,0.6,,
@@ -784,7 +784,7 @@ Kerala,KL,Kozhikode,54. Children age 12-23 months who have received the first do
 Kerala,KL,Kozhikode,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),12.9,,Based on 25-49 unweighted cases,
 Kerala,KL,Kozhikode,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),16.5,,Based on 25-49 unweighted cases,
 Kerala,KL,Kozhikode,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),89.4,84.9,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
-Kerala,KL,Kozhikode,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),80.9,61.6,,
+Kerala,KL,Kozhikode,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),80.9,66.0,,
 Kerala,KL,Kozhikode,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),81.2,82.9,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Kerala,KL,Kozhikode,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),18.8,17.1,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Kerala,KL,Kozhikode,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),2.3,2.7,,
@@ -888,7 +888,7 @@ Kerala,KL,Malappuram,54. Children age 12-23 months who have received the first d
 Kerala,KL,Malappuram,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),18.4,,,
 Kerala,KL,Malappuram,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),3.5,,,
 Kerala,KL,Malappuram,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),82.0,77.1,,
-Kerala,KL,Malappuram,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),73.4,65.8,,
+Kerala,KL,Malappuram,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),74.2,75.6,,
 Kerala,KL,Malappuram,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),79.6,79.9,,Based on 25-49 unweighted cases
 Kerala,KL,Malappuram,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),20.4,20.1,,Based on 25-49 unweighted cases
 Kerala,KL,Malappuram,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),5.5,3.2,,
@@ -992,7 +992,7 @@ Kerala,KL,Palakkad,54. Children age 12-23 months who have received the first dos
 Kerala,KL,Palakkad,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),11.5,,Based on 25-49 unweighted cases,
 Kerala,KL,Palakkad,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),11.0,,Based on 25-49 unweighted cases,
 Kerala,KL,Palakkad,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),62.4,79.3,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
-Kerala,KL,Palakkad,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),77.6,69.9,,
+Kerala,KL,Palakkad,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),77.6,71.3,,
 Kerala,KL,Palakkad,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),94.1,88.6,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Kerala,KL,Palakkad,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),5.9,11.4,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Kerala,KL,Palakkad,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),2.7,6.8,,
@@ -1096,7 +1096,7 @@ Kerala,KL,Pathanamthitta,54. Children age 12-23 months who have received the fir
 Kerala,KL,Pathanamthitta,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),,,Percentage not shown; based on fewer than 25 unweighted cases,
 Kerala,KL,Pathanamthitta,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),,,Percentage not shown; based on fewer than 25 unweighted cases,
 Kerala,KL,Pathanamthitta,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),,77.5,Percentage not shown; based on fewer than 25 unweighted cases,Based on 25-49 unweighted cases
-Kerala,KL,Pathanamthitta,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),90.9,83.0,Based on 25-49 unweighted cases,
+Kerala,KL,Pathanamthitta,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),90.9,85.4,Based on 25-49 unweighted cases,
 Kerala,KL,Pathanamthitta,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),,71.5,Percentage not shown; based on fewer than 25 unweighted cases,Based on 25-49 unweighted cases
 Kerala,KL,Pathanamthitta,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),,28.5,Percentage not shown; based on fewer than 25 unweighted cases,Based on 25-49 unweighted cases
 Kerala,KL,Pathanamthitta,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),4.7,4.0,,
@@ -1200,7 +1200,7 @@ Kerala,KL,Thiruvananthapuram,54. Children age 12-23 months who have received the
 Kerala,KL,Thiruvananthapuram,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),15.1,,Based on 25-49 unweighted cases,
 Kerala,KL,Thiruvananthapuram,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),11.5,,Based on 25-49 unweighted cases,
 Kerala,KL,Thiruvananthapuram,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),81.0,80.2,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
-Kerala,KL,Thiruvananthapuram,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),91.8,89.3,,
+Kerala,KL,Thiruvananthapuram,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),91.8,91.6,,
 Kerala,KL,Thiruvananthapuram,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),81.7,55.9,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Kerala,KL,Thiruvananthapuram,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),14.3,44.1,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Kerala,KL,Thiruvananthapuram,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),6.4,2.3,,
@@ -1304,7 +1304,7 @@ Kerala,KL,Thrissur,54. Children age 12-23 months who have received the first dos
 Kerala,KL,Thrissur,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),,,Percentage not shown; based on fewer than 25 unweighted cases,
 Kerala,KL,Thrissur,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),,,Percentage not shown; based on fewer than 25 unweighted cases,
 Kerala,KL,Thrissur,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),,79.1,Percentage not shown; based on fewer than 25 unweighted cases,Based on 25-49 unweighted cases
-Kerala,KL,Thrissur,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),87.7,73.3,,
+Kerala,KL,Thrissur,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),87.7,72.4,,
 Kerala,KL,Thrissur,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),,85.4,Percentage not shown; based on fewer than 25 unweighted cases,Based on 25-49 unweighted cases
 Kerala,KL,Thrissur,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),,14.6,Percentage not shown; based on fewer than 25 unweighted cases,Based on 25-49 unweighted cases
 Kerala,KL,Thrissur,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),8.2,0.8,,
@@ -1408,7 +1408,7 @@ Kerala,KL,Wayanad,54. Children age 12-23 months who have received the first dose
 Kerala,KL,Wayanad,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),25.6,,Based on 25-49 unweighted cases,
 Kerala,KL,Wayanad,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),0.0,,Based on 25-49 unweighted cases,
 Kerala,KL,Wayanad,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),81.9,71.3,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
-Kerala,KL,Wayanad,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),78.1,68.5,,
+Kerala,KL,Wayanad,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),78.1,76.6,,
 Kerala,KL,Wayanad,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),93.2,87.4,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Kerala,KL,Wayanad,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),6.8,12.6,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Kerala,KL,Wayanad,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),1.4,4.0,,

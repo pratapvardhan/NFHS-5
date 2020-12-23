@@ -56,7 +56,7 @@ Andhra Pradesh,AP,Anantapur,54. Children age 12-23 months who have received the 
 Andhra Pradesh,AP,Anantapur,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),17.8,,Based on 25-49 unweighted cases,
 Andhra Pradesh,AP,Anantapur,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),75.0,,Based on 25-49 unweighted cases,
 Andhra Pradesh,AP,Anantapur,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),87.7,79.5,Based on 25-49 unweighted cases,
-Andhra Pradesh,AP,Anantapur,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),74.4,57.4,,
+Andhra Pradesh,AP,Anantapur,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),75.7,68.8,,
 Andhra Pradesh,AP,Anantapur,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),91.8,94.2,Based on 25-49 unweighted cases,
 Andhra Pradesh,AP,Anantapur,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),8.2,5.8,Based on 25-49 unweighted cases,
 Andhra Pradesh,AP,Anantapur,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),2.5,4.4,,
@@ -160,7 +160,7 @@ Andhra Pradesh,AP,Chittoor,54. Children age 12-23 months who have received the f
 Andhra Pradesh,AP,Chittoor,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),26.8,,Based on 25-49 unweighted cases,
 Andhra Pradesh,AP,Chittoor,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),75.0,,Based on 25-49 unweighted cases,
 Andhra Pradesh,AP,Chittoor,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),86.2,65.0,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
-Andhra Pradesh,AP,Chittoor,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),76.9,75.2,,
+Andhra Pradesh,AP,Chittoor,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),76.9,82.6,,
 Andhra Pradesh,AP,Chittoor,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),100.0,91.3,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Andhra Pradesh,AP,Chittoor,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,8.7,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Andhra Pradesh,AP,Chittoor,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),4.8,2.8,,
@@ -264,7 +264,7 @@ Andhra Pradesh,AP,East Godavari,54. Children age 12-23 months who have received 
 Andhra Pradesh,AP,East Godavari,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),32.5,,Based on 25-49 unweighted cases,
 Andhra Pradesh,AP,East Godavari,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),77.8,,Based on 25-49 unweighted cases,
 Andhra Pradesh,AP,East Godavari,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),86.7,59.1,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
-Andhra Pradesh,AP,East Godavari,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),81.4,80.4,,
+Andhra Pradesh,AP,East Godavari,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),81.4,87.3,,
 Andhra Pradesh,AP,East Godavari,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),85.3,79.6,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Andhra Pradesh,AP,East Godavari,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),7.5,20.4,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Andhra Pradesh,AP,East Godavari,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),13.3,12.3,,
@@ -368,7 +368,7 @@ Andhra Pradesh,AP,Guntur,54. Children age 12-23 months who have received the fir
 Andhra Pradesh,AP,Guntur,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),39.6,,Based on 25-49 unweighted cases,
 Andhra Pradesh,AP,Guntur,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),87.8,,Based on 25-49 unweighted cases,
 Andhra Pradesh,AP,Guntur,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),97.6,68.9,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
-Andhra Pradesh,AP,Guntur,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),80.2,84.9,,
+Andhra Pradesh,AP,Guntur,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),80.2,89.5,,
 Andhra Pradesh,AP,Guntur,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),97.4,90.7,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Andhra Pradesh,AP,Guntur,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),2.6,9.3,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Andhra Pradesh,AP,Guntur,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),10.0,9.7,,
@@ -472,7 +472,7 @@ Andhra Pradesh,AP,Krishna,54. Children age 12-23 months who have received the fi
 Andhra Pradesh,AP,Krishna,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),33.8,,Based on 25-49 unweighted cases,
 Andhra Pradesh,AP,Krishna,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),62.1,,Based on 25-49 unweighted cases,
 Andhra Pradesh,AP,Krishna,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),93.9,80.8,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
-Andhra Pradesh,AP,Krishna,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),81.0,54.9,,
+Andhra Pradesh,AP,Krishna,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),81.0,61.5,,
 Andhra Pradesh,AP,Krishna,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),100.0,97.2,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Andhra Pradesh,AP,Krishna,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,2.8,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Andhra Pradesh,AP,Krishna,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),7.8,5.9,,
@@ -576,7 +576,7 @@ Andhra Pradesh,AP,Kurnool,54. Children age 12-23 months who have received the fi
 Andhra Pradesh,AP,Kurnool,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),22.3,,,
 Andhra Pradesh,AP,Kurnool,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),69.1,,,
 Andhra Pradesh,AP,Kurnool,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),76.6,73.7,,
-Andhra Pradesh,AP,Kurnool,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),79.1,70.7,,
+Andhra Pradesh,AP,Kurnool,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),79.1,78.3,,
 Andhra Pradesh,AP,Kurnool,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),100.0,94.8,,
 Andhra Pradesh,AP,Kurnool,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,5.3,,
 Andhra Pradesh,AP,Kurnool,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),4.5,2.5,,
@@ -680,7 +680,7 @@ Andhra Pradesh,AP,Prakasam,54. Children age 12-23 months who have received the f
 Andhra Pradesh,AP,Prakasam,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),28.0,,Based on 25-49 unweighted cases,
 Andhra Pradesh,AP,Prakasam,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),63.1,,Based on 25-49 unweighted cases,
 Andhra Pradesh,AP,Prakasam,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),61.9,57.6,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
-Andhra Pradesh,AP,Prakasam,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),79.9,71.4,,
+Andhra Pradesh,AP,Prakasam,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),79.9,78.5,,
 Andhra Pradesh,AP,Prakasam,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),,100.0,Percentage not shown; based on fewer than 25 unweighted cases,Based on 25-49 unweighted cases
 Andhra Pradesh,AP,Prakasam,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),,0.0,Percentage not shown; based on fewer than 25 unweighted cases,Based on 25-49 unweighted cases
 Andhra Pradesh,AP,Prakasam,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),7.9,11.3,,
@@ -784,7 +784,7 @@ Andhra Pradesh,AP,Sri Potti Sriramulu Nellore,54. Children age 12-23 months who 
 Andhra Pradesh,AP,Sri Potti Sriramulu Nellore,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),18.7,,,
 Andhra Pradesh,AP,Sri Potti Sriramulu Nellore,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),70.9,,,
 Andhra Pradesh,AP,Sri Potti Sriramulu Nellore,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),77.2,54.9,,Based on 25-49 unweighted cases
-Andhra Pradesh,AP,Sri Potti Sriramulu Nellore,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),77.0,62.9,,
+Andhra Pradesh,AP,Sri Potti Sriramulu Nellore,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),77.0,71.7,,
 Andhra Pradesh,AP,Sri Potti Sriramulu Nellore,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),91.3,86.2,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Andhra Pradesh,AP,Sri Potti Sriramulu Nellore,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),8.8,13.9,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Andhra Pradesh,AP,Sri Potti Sriramulu Nellore,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),8.9,1.2,,
@@ -888,7 +888,7 @@ Andhra Pradesh,AP,Srikakulam,54. Children age 12-23 months who have received the
 Andhra Pradesh,AP,Srikakulam,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),34.9,,Based on 25-49 unweighted cases,
 Andhra Pradesh,AP,Srikakulam,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),74.8,,Based on 25-49 unweighted cases,
 Andhra Pradesh,AP,Srikakulam,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),89.7,66.1,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
-Andhra Pradesh,AP,Srikakulam,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),68.2,89.7,,
+Andhra Pradesh,AP,Srikakulam,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),69.6,93.5,,
 Andhra Pradesh,AP,Srikakulam,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),97.0,100.0,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Andhra Pradesh,AP,Srikakulam,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),3.0,0.0,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Andhra Pradesh,AP,Srikakulam,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),11.9,5.9,,
@@ -992,7 +992,7 @@ Andhra Pradesh,AP,Visakhapatnam,54. Children age 12-23 months who have received 
 Andhra Pradesh,AP,Visakhapatnam,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),45.1,,Based on 25-49 unweighted cases,
 Andhra Pradesh,AP,Visakhapatnam,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),72.9,,Based on 25-49 unweighted cases,
 Andhra Pradesh,AP,Visakhapatnam,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),79.6,76.5,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
-Andhra Pradesh,AP,Visakhapatnam,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),91.3,63.1,,
+Andhra Pradesh,AP,Visakhapatnam,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),91.3,74.1,,
 Andhra Pradesh,AP,Visakhapatnam,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),83.8,92.3,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Andhra Pradesh,AP,Visakhapatnam,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),9.7,7.7,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Andhra Pradesh,AP,Visakhapatnam,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),8.1,8.8,,
@@ -1096,7 +1096,7 @@ Andhra Pradesh,AP,Vizianagaram,54. Children age 12-23 months who have received t
 Andhra Pradesh,AP,Vizianagaram,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),35.0,,Based on 25-49 unweighted cases,
 Andhra Pradesh,AP,Vizianagaram,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),77.3,,Based on 25-49 unweighted cases,
 Andhra Pradesh,AP,Vizianagaram,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),83.6,56.7,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
-Andhra Pradesh,AP,Vizianagaram,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),85.9,78.5,,
+Andhra Pradesh,AP,Vizianagaram,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),85.9,81.3,,
 Andhra Pradesh,AP,Vizianagaram,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),100.0,94.3,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Andhra Pradesh,AP,Vizianagaram,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,5.7,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Andhra Pradesh,AP,Vizianagaram,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),7.5,7.2,,
@@ -1200,7 +1200,7 @@ Andhra Pradesh,AP,West Godavari,54. Children age 12-23 months who have received 
 Andhra Pradesh,AP,West Godavari,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),26.3,,Based on 25-49 unweighted cases,
 Andhra Pradesh,AP,West Godavari,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),77.7,,Based on 25-49 unweighted cases,
 Andhra Pradesh,AP,West Godavari,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),89.0,68.6,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
-Andhra Pradesh,AP,West Godavari,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),72.7,73.9,,
+Andhra Pradesh,AP,West Godavari,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),73.9,80.5,,
 Andhra Pradesh,AP,West Godavari,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),100.0,85.2,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Andhra Pradesh,AP,West Godavari,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,14.8,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Andhra Pradesh,AP,West Godavari,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),2.7,6.6,,
@@ -1304,7 +1304,7 @@ Andhra Pradesh,AP,Y.S.R.,54. Children age 12-23 months who have received the fir
 Andhra Pradesh,AP,Y.S.R.,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),26.4,,,
 Andhra Pradesh,AP,Y.S.R.,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),87.5,,,
 Andhra Pradesh,AP,Y.S.R.,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),89.0,77.4,,
-Andhra Pradesh,AP,Y.S.R.,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),90.1,81.7,,
+Andhra Pradesh,AP,Y.S.R.,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),90.1,82.5,,
 Andhra Pradesh,AP,Y.S.R.,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),98.3,89.4,,
 Andhra Pradesh,AP,Y.S.R.,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),1.7,10.6,,
 Andhra Pradesh,AP,Y.S.R.,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),5.9,6.4,,

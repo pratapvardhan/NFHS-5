@@ -56,7 +56,7 @@ Sikkim,SK,East District,54. Children age 12-23 months who have received the firs
 Sikkim,SK,East District,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),,,Percentage not shown; based on fewer than 25 unweighted cases,
 Sikkim,SK,East District,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),,,Percentage not shown; based on fewer than 25 unweighted cases,
 Sikkim,SK,East District,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),,79.8,Percentage not shown; based on fewer than 25 unweighted cases,
-Sikkim,SK,East District,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),88.4,83.9,,
+Sikkim,SK,East District,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),91.2,88.5,,
 Sikkim,SK,East District,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),,89.7,Percentage not shown; based on fewer than 25 unweighted cases,
 Sikkim,SK,East District,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),,10.3,Percentage not shown; based on fewer than 25 unweighted cases,
 Sikkim,SK,East District,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),6.5,2.7,,
@@ -160,7 +160,7 @@ Sikkim,SK,North District,54. Children age 12-23 months who have received the fir
 Sikkim,SK,North District,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),31.1,,Based on 25-49 unweighted cases,
 Sikkim,SK,North District,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),0.0,,Based on 25-49 unweighted cases,
 Sikkim,SK,North District,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),95.3,89.9,Based on 25-49 unweighted cases,
-Sikkim,SK,North District,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),89.3,93.1,,
+Sikkim,SK,North District,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),90.1,95.2,,
 Sikkim,SK,North District,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),100.0,96.3,Based on 25-49 unweighted cases,
 Sikkim,SK,North District,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,3.7,Based on 25-49 unweighted cases,
 Sikkim,SK,North District,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),7.2,2.4,,
@@ -264,7 +264,7 @@ Sikkim,SK,South District,54. Children age 12-23 months who have received the fir
 Sikkim,SK,South District,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),33.1,,Based on 25-49 unweighted cases,
 Sikkim,SK,South District,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),0.0,,Based on 25-49 unweighted cases,
 Sikkim,SK,South District,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),83.8,90.0,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
-Sikkim,SK,South District,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),87.3,86.4,,
+Sikkim,SK,South District,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),88.4,83.5,,
 Sikkim,SK,South District,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),,100.0,Percentage not shown; based on fewer than 25 unweighted cases,Based on 25-49 unweighted cases
 Sikkim,SK,South District,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),,0.0,Percentage not shown; based on fewer than 25 unweighted cases,Based on 25-49 unweighted cases
 Sikkim,SK,South District,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),4.5,0.0,,
@@ -368,7 +368,7 @@ Sikkim,SK,West District,54. Children age 12-23 months who have received the firs
 Sikkim,SK,West District,55. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),59.2,,Based on 25-49 unweighted cases,
 Sikkim,SK,West District,56. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%),0.0,,Based on 25-49 unweighted cases,
 Sikkim,SK,West District,57. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%),95.3,85.6,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
-Sikkim,SK,West District,58. Children age 9-59 months who received a vitamin A dose in the last 6 months (%),72.2,80.5,,
+Sikkim,SK,West District,58. Children age 9-35 months who received a vitamin A dose in the last 6 months (%),72.2,83.1,,
 Sikkim,SK,West District,59. Children age 12-23 months who received most of their vaccinations in a public health facility (%),100.0,97.2,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Sikkim,SK,West District,60. Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,2.9,Based on 25-49 unweighted cases,Based on 25-49 unweighted cases
 Sikkim,SK,West District,61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%),3.3,1.2,,
