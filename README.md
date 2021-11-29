@@ -8,8 +8,8 @@ Quality checks have been minimally done. Please recheck with source before doing
 
 ### Download
 
-- [NFHS-5-States.csv](NFHS-5-States.csv): 22 states level data for 131 indicators
-- [NFHS-5-Districts.csv](NFHS-5-Districts.csv): 341 districts from 21 states
+- 👉 [NFHS-5-States.csv](NFHS-5-States.csv): Data for 131 indicators for 28 States and 8 Union territories.
+- 👉 [NFHS-5-Districts.csv](NFHS-5-Districts.csv): 341 districts from 21 states
 - District level files (state-wise)
   - [NFHS-5-AN-Andaman-and-Nicobar-Island.csv](./district-level/NFHS-5-AN-Andaman-and-Nicobar-Island.csv)
   - [NFHS-5-AP-Andhra-Pradesh.csv](./district-level/NFHS-5-AP-Andhra-Pradesh.csv)
